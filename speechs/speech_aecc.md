@@ -1,4 +1,4 @@
-# 🎯 Speech de captación cara a cara · AECC (Asociación Española Contra el Cáncer)
+# 🎯 Speech de captación AECC
 
 ## 🚦 Parada (5-10 segundos)
 
