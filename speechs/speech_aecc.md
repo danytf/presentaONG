@@ -3,7 +3,7 @@
 
 ## 🚦 Parada *(5-10 seg)*
 
-> Hola, ¿me puedes dedicar un momento? Quiero contarte la historia de Raquel. Creo que explica mucho mejor que yo por qué estoy hoy aquí.
+> Hola, ¿me puedes dedicar un momento? Quiero contarte la historia de Raquel. Creo que ella explica mucho mejor que yo por qué estoy hoy aquí.
 
 *(Acotación: contacto visual, sonrisa, energía tranquila. No prometas "dos minutos": abre con la persona, no con el reloj.)*
 
@@ -15,17 +15,17 @@ Raquel es fisioterapeuta. Pasaba el día al lado de una camilla, cuidando a otra
 
 Le diagnosticaron un cáncer. Pasó por un trasplante de médula ósea. Y tras un largo proceso consiguió superarlo.
 
-Pero cuando terminó el tratamiento, descubrió que lo más difícil no había terminado. Había sobrevivido, pero aún necesitaba recuperar muchas cosas. Ella misma cuenta que se encontró con un gran vacío que no sabía cómo llenar. 
+Pero cuando terminó el tratamiento, se dio cuenta de que lo más difícil todavía no había terminado. Había sobrevivido, pero aún necesitaba recuperar muchas cosas. Ella misma dice que sintió un vacío enorme. Que no sabía cómo llenarlo.
 
-Y ese vacío no era solo el suyo. Era también el de miles de personas que llegarían después.
+Y entonces entendió que ese vacío no era solo suyo. Que detrás vendrían muchas más personas sintiendo exactamente lo mismo.
 
-**Por personas como Raquel estoy hoy aquí. Busco el apoyo de quienes quieran hacer posible todo esto. Pero antes, déjame enseñarte por qué esa ayuda es tan necesaria.**
+**Por personas como Raquel estoy hoy aquí. Estoy aquí buscando personas que quieran hacerlo posible. Pero antes, déjame enseñarte por qué esa ayuda es tan necesaria.**
 
 Y para entenderlo, basta con un solo dato.
 
 (Pausa.)
 
-En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.** Muchas veces pensamos que el cáncer es algo que les pasa a otros. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
+En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.** Muchas veces creemos que el cáncer es algo que les pasa a otros. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
 
 > 🔄 **RESPIRO 1 — el más importante de los cuatro.**
 > *(Pregunta y cállate. Aguanta el silencio aunque tarde en contestar.)*
@@ -34,11 +34,11 @@ En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a 
 > 
 > *La mayoría de las personas responderán que sí. A partir de ese momento, deja de hablar del cáncer en abstracto y habla de la persona que acaba de mencionar. Escucha con atención, recoge su respuesta y adapta el resto del discurso a esa experiencia.*
 
-Y aquí viene lo que casi nadie sabe hasta que lo necesita.
+Y aquí viene la parte que casi nadie conoce... hasta que le toca vivirla.
 
-Porque un diagnóstico no es solo el tumor. De repente tienes que enfrentarte a muchas cosas a la vez. Estás de baja y no sabes qué ayudas puedes pedir. Te preocupa el dinero. Tienes miedo. Y muchas veces no sabes con quién hablar.
+Porque un diagnóstico no es solo el tumor. De repente te encuentra con muchas cosas a la vez. Estás de baja y no sabes qué ayudas puedes pedir. Te preocupa el dinero. Tienes miedo. Y muchas veces no sabes con quién hablar.
 
-La sanidad pública trata la enfermedad. Pero hay muchas necesidades que van más allá del tratamiento médico. Ahí es donde entra la Asociación.
+La sanidad pública trata la enfermedad. Pero la enfermedad no termina cuando sales de la consulta. Ahí es donde entra la Asociación.
 
 ¿Y qué significa eso?
 
@@ -58,7 +58,7 @@ Es un techo. **Hay 44 pisos y residencias por toda España**. Si tienes que desp
 
 (Pausa.)
 
-Eso fue lo que encontró Raquel cuando más lo necesitaba. Y para eso trabaja la Asociación cada día: para que cualquier persona que pase por lo mismo encuentre ese mismo apoyo.
+Eso fue lo que Raquel encontró cuando más falta le hacía. Y para eso trabaja la Asociación cada día: para que cualquier persona que pase por lo mismo encuentre ese mismo apoyo.
 
 > 🔄 **RESPIRO 2 — la pregunta cuya respuesta convence sola.**
 > 
@@ -68,20 +68,20 @@ Eso fue lo que encontró Raquel cuando más lo necesitaba. Y para eso trabaja la
 
 Raquel descubrió que, cuando todo parece tambalearse, no tienes por qué afrontarlo solo.
 
-Porque a veces el apoyo que más ayuda no llega de un médico ni de un tratamiento. Llega de alguien que ya ha pasado por lo mismo. Hay conversaciones que solo puede tener quien ya ha recorrido ese camino.
+Porque a veces lo que más ayuda no llega de un médico ni de un tratamiento. Llega de alguien que ya ha pasado por lo mismo. Hay conversaciones que solo puede tener quien ya ha recorrido ese camino.
 
 Y ese acompañamiento llega cada año a **más de 177.000 personas en más de 1.800 puntos de atención repartidos por las 52 provincias.**
 (Pausa.)
 
 Pero acompañar a quien ya tenía cáncer era solo una parte. Quedaba la otra: conseguir que quienes llegaran después encontraran más respuestas de las que ella tuvo.
 
-Y Raquel decidió hacer algo extraordinario. Empezar a llenar ese vacío ella misma.
+Y Raquel decidió hacer algo extraordinario. Intentar que otras personas no se encontraran con ese mismo vacío.
 
 Hoy, a través de una Cátedra impulsada por la Asociación, investiga cómo integrar la fisioterapia en el tratamiento de pacientes con cáncer.
 
 (Pausa.)
 
-**Pasó de necesitar respuestas a trabajar para que los próximos pacientes las tengan.**
+**Pasó de buscar respuestas a trabajar para encontrarlas para los demás.**
 
 Porque esa es la otra gran misión de la Asociación: impulsar la investigación. Y todo eso solo es posible porque hay personas que deciden apoyarlo.
 
@@ -95,7 +95,7 @@ Y déjame darte un dato que demuestra por qué la investigación cambia vidas.
 
 (Baja el ritmo. Este bloque se explica, no se recita.)
 
-Detrás de cada punto que aumenta la supervivencia hay miles de personas vivas hoy porque alguien investigó años antes.
+Cada punto que aumenta la supervivencia significa miles de personas que hoy siguen vivas porque alguien investigó hace años.
 
 El cáncer de mama supera hoy el **85 % de supervivencia a cinco años.** El de páncreas, en cambio, apenas alcanza entre el **7 y el 10 %.**
 
@@ -107,19 +107,19 @@ Ahora mismo hay **792 proyectos de investigación en marcha.** Detrás de ellos 
 
 Y hay algo importante, porque sé que es una duda habitual.
 
-Los proyectos de investigación se seleccionan mediante comités científicos independientes, siguiendo criterios científicos. La financiación procede principalmente de la sociedad, lo que permite impulsar esa investigación sin depender de intereses comerciales.
+Los proyectos de investigación se seleccionan mediante comités científicos independientes, valorando únicamente la calidad de los proyectos. La financiación procede principalmente de la sociedad, lo que permite impulsar esa investigación sin depender de intereses comerciales.
 
 ¿Y quién hace posible todo esto?
 
 (Pausa.)
 
-Principalmente personas normales. Personas como tú y como yo, que un día decidieron que esta lucha también era suya.
+Principalmente personas corrientes. Personas como tú y como yo, que un día decidieron que esta lucha también era suya.
 
-Raquel representa hoy las dos caras de esta historia.
+Raquel resume perfectamente todo lo que hace la Asociación.
 
-Primero fue la persona que necesitó ayuda.
+Primero encontró apoyo cuando lo necesitó.
 
-Hoy trabaja para que los próximos pacientes encuentren más respuestas de las que ella tuvo.
+Hoy trabaja para que quienes lleguen después tengan más oportunidades que ella.
 
 (Pausa.)
 
@@ -141,7 +141,7 @@ Hace posible que, cuando alguien escuche mañana la palabra **«cáncer»**, enc
 
 Lo que hace posible todo esto son personas corrientes que un día decidieron implicarse.
 
-Con una pequeña aportación, ayudas a que alguien encuentre apoyo cuando más lo necesita y a que la investigación siga avanzando para que cada vez haya más historias con un final diferente.
+Haciéndote socio, ayudas a que alguien encuentre apoyo cuando más lo necesita y a que la investigación siga avanzando para que cada vez haya más historias con un final diferente.
 
 Cuando Raquel necesitó ayuda, esa ayuda ya existía. Había un teléfono al otro lado. Había profesionales para acompañarla. Y hoy puede investigar porque, durante años, miles de personas decidieron sostener esa red con una pequeña aportación.
 
