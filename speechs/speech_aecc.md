@@ -83,7 +83,7 @@ Hoy, a través de una Cátedra impulsada por la Asociación, investiga cómo int
 
 Pasó de necesitar respuestas a trabajar para que los próximos pacientes las tengan.
 
-Porque esa es la otra gran misión de la Asociación: impulsar la investigación.
+Porque esa es la otra gran misión de la Asociación: impulsar la investigación. Y todo eso solo es posible porque hay personas que deciden apoyarlo.
 
 > 🔄 **RESPIRO 3 — saca las objeciones antes de que se enquisten.**
 > 
