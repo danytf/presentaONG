@@ -64,7 +64,7 @@ Eso fue lo que encontró Raquel cuando más lo necesitaba. Y para eso trabaja la
 > 
 > *(La respuesta es casi siempre «no». No la corrijas ni la remates: asiéntela. «Es normal. Casi nadie lo sabe hasta que le toca.» Ese «no» acaba de demostrar tu argumento mejor que cualquier frase tuya.)*
 
-Raquel conoció muy bien esa parte. La de descubrir que, cuando todo se tambalea, alguien sigue ahí para sostenerte.
+Raquel descubrió que, cuando sientes que todo se tambalea, no tienes por qué afrontarlo solo.
 
 Y a veces «todo lo demás» es simplemente otra persona que ya ha pasado por lo mismo. Inma Serrano tuvo cáncer de mama. Hoy da la cara en una campaña hecha por pacientes, para acompañar a las mujeres que empiezan justo donde ella empezó. Porque hay conversaciones que solo puede tener quien ya ha pasado por ahí.
 
