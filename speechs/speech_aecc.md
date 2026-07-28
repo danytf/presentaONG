@@ -80,33 +80,31 @@ No una.
 
 Muchas.
 
-Encontró un teléfono gratuito, abierto las 24 horas del día, los 365 días del año.
+Encontró un teléfono gratuito.
 
 *(Pausa.)*
 
-**El 900 100 036.**
+**Infocáncer. El 900 100 036.**
 
 *(Pausa.)*
+
+El único servicio de atención al cáncer en Europa que está abierto las 24 horas, todos los días del año.
 
 Un teléfono al que llamar cuando ya no sabes a quién llamar.
 
-Solo el año pasado atendió más de **240.000 llamadas**.
+Y no fue la única: solo el año pasado atendieron más de **240.000 llamadas**.
 
-Encontró apoyo psicológico.
+Encontró apoyo psicológico, gratuito y sin lista de espera.
 
-Porque no solo hay que tratar el cáncer.
+Porque no solo hay que tratar el cáncer. También hay que cuidar a quien lo está viviendo.
 
-También hay que cuidar a quien lo está viviendo.
+Como ella, casi **59.000 personas** lo recibieron el año pasado.
 
-Solo el año pasado, casi **59.000 personas** recibieron atención psicológica gratuita.
+Encontró a alguien que le ayudó con todo lo que no sale en una analítica: el trabajo, las ayudas, la economía familiar, los trámites... esas preocupaciones que siguen ahí mientras intentas curarte.
 
-También encontró a alguien que le ayudó con todo lo que no sale en una analítica: el trabajo, las ayudas, la economía familiar, los trámites... esas preocupaciones que siguen ahí mientras intentas curarte.
+Y encontró algo tan sencillo como un lugar donde quedarse: **44 pisos y residencias** por toda España para alojarse gratis con su familia si había que tratarse lejos de casa.
 
-Y encontró algo tan sencillo como un lugar donde quedarse.
-
-Si tienes que desplazarte para recibir tratamiento, la Asociación dispone de **44 pisos y residencias** repartidos por toda España, donde puedes alojarte gratuitamente junto a tu familia.
-
-Para que lo único de lo que tengas que preocuparte sea de recuperarte.
+Para que lo único de lo que tuviera que preocuparse fuera de recuperarse.
 
 *(Pausa.)*
 
