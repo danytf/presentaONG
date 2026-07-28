@@ -52,7 +52,10 @@ const EMOJI = /[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}\u{FE0F}\u{2190}-\u{21FF}\u{
 
 function inline(s) {
   s = esc(s);
-  s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  // La negrita puede llevar una cursiva dentro (**texto *asi* texto**), asi que
+  // hay que admitir asteriscos sueltos, pero nunca el ** que cierra. Con
+  // [^*]+ la negrita no casaba y los asteriscos salian crudos en la pagina.
+  s = s.replace(/\*\*((?:[^*]|\*(?!\*))+)\*\*/g, '<strong>$1</strong>');
   s = s.replace(/(^|[^*])\*([^*\n]+)\*/g, '$1<em>$2</em>');
   s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
   return s;
@@ -90,6 +93,13 @@ function bloques(lines, ctx) {
 
     if (!l.trim()) { i++; continue; }
 
+    // comentarios HTML: son marcas internas del .md (p. ej. DISCURSO-INICIO),
+    // no texto del guion. No deben acabar impresos en la pagina.
+    if (/^\s*<!--/.test(l)) {
+      while (i < lines.length && !/-->/.test(lines[i])) i++;
+      i++; continue;
+    }
+
     // encabezados
     if (esTitulo(l)) {
       const m = l.match(/^(#{1,6}) (.*)$/);
@@ -115,7 +125,11 @@ function bloques(lines, ctx) {
         i++;
       }
       const crudo = buf.join('\n');
-      const clase = /🔄/.test(crudo) ? 'respiro' : /⚠️|⚠/.test(crudo) ? 'aviso' : 'dicho';
+      // Un respiro ABRE con 🔄; los avisos abren con ⚠️. Se mira solo el
+      // arranque del bloque: muchos respiros llevan ⚠️ dentro (y el aviso de
+      // cabecera menciona el 🔄), asi que buscar el simbolo en todo el texto
+      // clasificaba mal los dos casos.
+      const clase = /^\s*🔄/.test(crudo) ? 'respiro' : /⚠️|⚠/.test(crudo) ? 'aviso' : 'dicho';
       out.push(`<blockquote class="${clase}">${bloques(buf, ctx)}</blockquote>`);
       continue;
     }

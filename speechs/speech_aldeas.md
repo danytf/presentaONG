@@ -1,6 +1,8 @@
 # Speech de captación cara a cara · Aldeas Infantiles SOS
-### Público genérico · ~5 minutos hablados · Guion con acotaciones
+### Público genérico · Conversación guiada, no monólogo · ~5 min de discurso + 2-3 min de respuestas
 *Datos verificados julio 2026 (Memoria Socios 2025). Hilo conductor: Yaritsa (testimonio real).*
+
+> ⚠️ **Esto no se recita.** Lleva 4 puntos de respiro marcados con 🔄 donde tienes que **parar, preguntar y escuchar**. Lee la sección «Puntos de respiro» antes de salir a calle: sin ella los respiros se convierten en preguntas retóricas, que es peor que no preguntar.
 
 ---
 
@@ -15,6 +17,8 @@ Y casi nadie sabe que ocurre.
 ## 🗣️ Discurso
 
 <!--DISCURSO-INICIO-->
+Te lo digo de entrada, para que no haya sorpresas: vengo a buscar socios para Aldeas. Pero antes de pedirte nada, déjame contarte por qué.
+
 Te presento a Yaritsa.
 Hoy tiene 24 años.
 Ha terminado un ciclo formativo, una carrera universitaria y el B1 de inglés.
@@ -31,6 +35,14 @@ A algunos, cuando la situación en casa se rompe del todo, los acoge el sistema 
 Crecen. Van al colegio. Hacen amigos. Una vida lo más normal posible.
 
 Y entonces llega su cumpleaños número 18.
+
+> 🔄 **RESPIRO 1 — el mejor anclaje del proyecto: todo el mundo ha cumplido 18 años.**
+>
+> **«¿Y tú dónde vivías cuando cumpliste 18?»**
+>
+> *(Deja que conteste. Casi todos dicen «en casa de mis padres» — y acaban de construir tu argumento con sus propias palabras.)*
+
+*(Acotación: las dos frases siguientes son **adaptables**. Si ya te ha contado dónde vivía, no se las recites: úsalas con lo que él mismo acaba de decir. «Claro. Como casi todos.»)*
 
 Para ti o para mí, cumplir 18 fue casi una celebración.
 Seguramente seguimos viviendo en casa. Si necesitábamos ayuda, la teníamos.
@@ -54,8 +66,13 @@ Son de las pocas organizaciones que siguen ahí después de los 18.
 Lo que hace Aldeas, en el fondo, es acompañar a estos niños en cada etapa de su vida: desde el primer día hasta la plena emancipación. El ciclo entero.
 Y para entender de dónde sale Yaritsa, hay que ver esas etapas.
 
-Y aquí hay algo que suele sorprender.
-Mucha gente piensa "Aldeas, los orfanatos". Y no.
+> 🔄 **RESPIRO 2 — convierte un muñeco de paja en su propia respuesta.**
+>
+> **«Cuando te digo Aldeas Infantiles, ¿qué te viene a la cabeza?»**
+>
+> *(Pregunta abierta y sin trampa. Casi todo el mundo dice «orfanatos», «casas de acogida» o «niños huérfanos». No lo corrijas con cara de "te equivocas": el dato que viene ahora le va a sorprender de verdad, y eso solo funciona si la suposición la ha puesto él.)*
+
+Y aquí está lo que casi nadie sabe.
 El grueso de su trabajo ni siquiera es acoger niños: es evitar que las familias lleguen a romperse.
 De los casi 21.000 niños y jóvenes que atendieron en España el año pasado, más de 18.000 estaban en programas de prevención.
 Centros de día, apoyo a familias, antes de que nadie tenga que separarse de nadie.
@@ -66,7 +83,15 @@ Una de esas familias, en Madrid, llegó buscando apoyo psicológico para su hijo
 Cuando esa separación ya no puede evitarse, empieza otra historia.
 Ahí están las 8 Aldeas de España.
 Casas normales, con cinco o seis niños y educadores estables.
-Y una regla de oro: los hermanos nunca se separan. Para muchos de estos niños es el único vínculo familiar que les queda. Separarlos sería quitarles lo último que tienen.
+Y una regla de oro: los hermanos nunca se separan.
+
+> 🔄 **RESPIRO 3 — el más emocional. Úsalo solo si la conversación va bien.**
+>
+> **«¿Tú tienes hermanos?»**
+>
+> *(Si dice que sí: «Imagínate que el mismo día que os separan de vuestros padres, os separan también el uno del otro.» Deja que aterrice antes de seguir. Si dice que no, no fuerces: sigue con la frase escrita.)*
+
+Para muchos de estos niños es el único vínculo familiar que les queda. Separarlos sería quitarles lo último que tienen.
 
 Por ahí pasó Alexandra, que llegó a la Aldea de Cuenca con 14 años.
 Lo cuenta así: "siempre hay una luz en la oscuridad; esa luz para mí fue la gente que encontré en mi nuevo camino".
@@ -93,6 +118,12 @@ Ella lo dijo mucho mejor que yo:
 Esa maleta no se llenó sola.
 La fueron llenando personas que decidieron ayudar muchos años antes de conocer su historia.
 Y hoy tú puedes hacer exactamente lo mismo por el siguiente chico o chica.
+
+> 🔄 **RESPIRO 4 — toma la temperatura antes de pedir.**
+>
+> **«¿Cómo lo ves?»**
+>
+> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después. Si duda, no cierres: pregunta qué le frena. Si aún no ha soltado ninguna objeción en toda la conversación, este es el momento en que sale.)*
 <!--DISCURSO-FIN-->
 
 ---
@@ -124,6 +155,55 @@ Como ocurrió con Yaritsa.
 
 ---
 
+## 🔄 Puntos de respiro — qué hacer con cada respuesta
+
+**La regla que gobierna los cuatro:** pregunta, cierra la boca y aguanta el silencio. Quien ha hablado durante la conversación firma más que quien solo ha escuchado — no por táctica, sino porque se ha implicado.
+
+### RESPIRO 1 · «¿Y tú dónde vivías cuando cumpliste 18?»
+
+El mejor anclaje de todo el proyecto: **no hay nadie a quien no le haya pasado**. Aldeas no tiene que explicar el problema en abstracto, solo tiene que ponerlo al lado del recuerdo propio de la persona.
+
+| Si contesta… | Haz esto |
+|---|---|
+| **«En casa de mis padres»** *(la inmensa mayoría)* | **«Claro. Como casi todos.»** Y ahí sueltas el contraste: a estos chavales, ese mismo día, se les acaba. No recites las dos frases del guion — ya te lo ha dicho él. |
+| **«Ya me había independizado»** | El dato importante no es la dirección, es la red. Pregunta: **«¿Y tenías a quién llamar si algo salía mal?»** Casi siempre dirá que sí. Ese sí es el argumento. |
+| **«Me fui de casa» / «fue complicado»** | ⚠️ Baja el ritmo. Puede estar contándote algo serio. **Escucha antes de seguir.** Si ha vivido algo parecido, no le expliques el problema: ya lo conoce mejor que tú. Pregúntale qué le habría hecho falta a él. |
+| **«No me acuerdo» / evasiva** | No insistas. **«Bueno, la mayoría seguíamos en casa.»** Y sigues con el guion tal cual. |
+
+### RESPIRO 2 · «Cuando te digo Aldeas Infantiles, ¿qué te viene a la cabeza?»
+
+Sirve para que **la suposición equivocada la ponga la persona**, no tú. El guion antes decía "mucha gente piensa que son orfanatos" — un muñeco de paja. Ahora es lo que él acaba de decir, y por eso el dato de prevención sorprende de verdad.
+
+- **«Orfanatos» / «niños huérfanos» / «casas de acogida»** *(lo normal)* → No pongas cara de corregirle. **«Es lo que piensa casi todo el mundo.»** Y das el dato: de casi 21.000 atendidos, más de 18.000 estaban en prevención.
+- **«Pues no lo sé»** → Mejor todavía, no hay que deshacer nada. **«Te lo cuento, porque suele sorprender.»**
+- **«Prevención, apoyo a familias»** *(sabe del tema)* → Reconócelo: **«Vas mucho mejor informado que la media.»** Y acorta este bloque: no le expliques lo que ya sabe, ve al punto ciego de los 18.
+- **«Los apadrinamientos, ¿no?»** → Es común. Aclara sin enredarte: se puede colaborar como socio, padrino o donante; tú vienes a hablarle de hacerse socio.
+
+### RESPIRO 3 · «¿Tú tienes hermanos?»
+
+El más emocional del guion. **Úsalo solo si la conversación va bien** — si la persona está fría o con prisa, sáltatelo y sigue con la frase escrita.
+
+- **«Sí»** → **«Imagínate que el mismo día que os separan de vuestros padres, os separan también el uno del otro.»** Silencio. Que aterrice. Es la imagen más potente del speech.
+- **«No, soy hijo único»** → No fuerces. Sigue: **«Para muchos de estos niños su hermano es lo único que les queda.»**
+- **Menciona a sus hijos** *(«tengo dos y se pelean todo el día»)* → Regalo. **«Pues imagínate separarlos.»**
+
+### RESPIRO 4 · «¿Cómo lo ves?»
+
+Termómetro, no petición. Si la persona no ha soltado ninguna objeción todavía, **aquí es donde sale**.
+
+- **Asiente / «me parece muy necesario»** → cierre tal cual está escrito.
+- **«Es que ahora mismo…»** → no cierres. **«¿Qué es lo que más te frena?»** Resuelve eso y luego cierra.
+- **«¿Y esto no debería hacerlo el Estado?»** → está en objeciones: en parte lo hace, y Aldeas también recibe fondos públicos; el hueco es que el sistema los suelta a los 18 y ahí no llega. **No ataques al Estado.**
+- **Silencio** → aguántalo. Que hable primero.
+
+### Situaciones que se van a dar y no están en los cuatro respiros
+
+- **«Yo crecí en el sistema» / «estuve en acogida»** → ⚠️ **Para el guion.** Tienes delante a alguien que sabe de esto infinitamente más que tú. Escucha. No le expliques su propia vida ni uses su historia para cerrar. Si quiere colaborar, lo dirá solo.
+- **«Soy familia de acogida» / «adoptamos»** → Reconócelo de verdad, no como táctica. Y ajusta: esta persona ya conoce el sistema, así que ve directo al punto ciego de los 18, que es lo que probablemente le va a doler y le va a mover.
+- **«¿Puedo apadrinar a un niño concreto?»** → Se puede colaborar como socio, padrino o donante. **No prometas un niño concreto ni cartas si no conoces la modalidad exacta**: dilo y remítele a la web. Prometer de más aquí se paga caro.
+
+---
+
 ## 📌 Notas para el captador
 
 - **Criterio de cifras.** Cifra exacta solo en datos estables: 40,9% / 24,5%, 75 años, 8 Aldeas, 12 €. "Más de…" en lo que crece: más de 2,7 millones, más de 18.000 en prevención, más de mil jóvenes, más de 307.000 socios. Redondeos hablables: "casi 21.000", "casi 60 millones" (no recites la cifra exacta de euros).
@@ -135,3 +215,8 @@ Como ocurrió con Yaritsa.
 - **Protagonistas reales.** Yaritsa y Alexandra son personas reales del fichero. Ojo: el propio fichero incluye además un caso ilustrativo llamado **"Sara"**, que NO es real ("imagina a una niña, Sara…"). Si alguna vez lo usas, dilo como lo que es. Aquí se ha optado por Yaritsa/Alexandra precisamente porque dan más credibilidad cara a cara.
 - **Vigencia.** Datos verificados en julio de 2026, sobre la Memoria Socios 2025. Las cifras anuales (atendidos, socios, ingresos) se actualizan con cada nueva memoria; si ha pasado tiempo, avísalo de pasada.
 - **Sin presión ni urgencia falsa.** La cuota se puede parar cuando se quiera; dilo si lo preguntan.
+- **Declaración de intenciones inicial (v2):** el arranque *"vengo a buscar socios para Aldeas. Pero antes de pedirte nada, déjame contarte por qué"* quita el filo al momento en que aparece la cuota. No lo elimines para ganar segundos.
+- **El Respiro 1 es el diferencial de esta ONG.** Ninguna otra del proyecto tiene un anclaje tan universal: todo el mundo ha cumplido 18 años y casi todo el mundo lo pasó en casa de sus padres. El problema deja de ser abstracto en el momento en que la persona describe su propio cumpleaños.
+- **Dos frases del guion pasan a ser adaptables.** *"Seguramente seguimos viviendo en casa. Si necesitábamos ayuda, la teníamos."* Solo se recitan si la persona no ha contestado al Respiro 1. Si ha contestado, se sustituyen por sus propias palabras — decirle lo que acaba de decirte suena a que no le escuchabas.
+- **El Respiro 3 (hermanos) es opcional por diseño.** Es el más emocional y también el que peor sienta si la conversación está fría o la persona tiene prisa. Sáltatelo sin culpa: el guion sigue funcionando entero sin él.
+- ⚠️ **Marcadores `<!--DISCURSO-INICIO/FIN-->`:** los bloques de respiro quedan dentro. Si algún script extrae el discurso entre esos marcadores, hay que filtrar las líneas que empiezan por `>` para obtener solo el texto hablado.
