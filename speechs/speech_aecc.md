@@ -50,13 +50,11 @@ Muchas veces pensamos que es algo que les pasa a otros.
 
 Pero la realidad es que, antes o después, acaba formando parte de la vida de casi todas las familias.
 
----
-
-## 🔄 RESPIRO 1 — El más importante de los cuatro
-
-**«¿Has vivido el cáncer de cerca alguna vez?»**
-
-> Escucha de verdad. Si responde, profundiza unos segundos: «¿Quién fue?», «¿Cómo está ahora?». Desde este momento deja de hablar del cáncer en general y habla, siempre que puedas, de la experiencia que acaba de compartir contigo.
+> 🔄 **RESPIRO 1 — El más importante de los cuatro.**
+>
+> **«¿Has vivido el cáncer de cerca alguna vez?»**
+>
+> *(Escucha de verdad. Si responde, profundiza unos segundos: «¿Quién fue?», «¿Cómo está ahora?». Desde este momento deja de hablar del cáncer en general y habla, siempre que puedas, de la experiencia que acaba de compartir contigo.)*
 
 Cuando pasa algo así, descubres que el tratamiento médico es solo una parte del camino.
 
@@ -106,15 +104,11 @@ Y para eso trabaja la Asociación cada día.
 
 Para que nadie tenga que enfrentarse al cáncer sin apoyo.
 
----
-
-## 🔄 RESPIRO 2 — La pregunta cuya respuesta convence sola
-
-**«¿Tú sabías que la Asociación hacía todo esto?»**
-
-> La respuesta suele ser «no». Simplemente asiente.
-
-*"Es normal... casi nadie lo sabe hasta que le toca."*
+> 🔄 **RESPIRO 2 — La pregunta cuya respuesta convence sola.**
+>
+> **«¿Tú sabías que la Asociación hacía todo esto?»**
+>
+> *(La respuesta suele ser «no». Simplemente asiente: "Es normal... casi nadie lo sabe hasta que le toca.")*
 
 Con el paso de los meses, Raquel fue recuperando poco a poco su vida.
 
@@ -170,13 +164,11 @@ Y buena parte de esa investigación se financia gracias a la sociedad.
 
 Gracias a personas que decidieron implicarse.
 
----
-
-## 🔄 RESPIRO 3 — Saca las objeciones antes de que aparezcan al final
-
-**«Oye, antes de seguir... ¿te está surgiendo alguna duda?»**
-
-> Resuelve cualquier pregunta con naturalidad. Si no hay dudas, continúa.
+> 🔄 **RESPIRO 3 — Saca las objeciones antes de que aparezcan al final.**
+>
+> **«Oye, antes de seguir... ¿te está surgiendo alguna duda?»**
+>
+> *(Resuelve cualquier pregunta con naturalidad. Si no hay dudas, continúa.)*
 
 Al final, la historia de Raquel resume muy bien lo que hace la Asociación.
 
@@ -208,13 +200,11 @@ Un profesional que le acompañe.
 
 Y una investigación que siga abriendo caminos.
 
----
-
-## 🔄 RESPIRO 4 — Toma la temperatura antes de pedir
-
-**«¿Cómo lo ves?»**
-
-> Escucha. Si hay dudas, resuélvelas antes de hacer la petición.
+> 🔄 **RESPIRO 4 — Toma la temperatura antes de pedir.**
+>
+> **«¿Cómo lo ves?»**
+>
+> *(Escucha. Si hay dudas, resuélvelas antes de hacer la petición.)*
 
 ---
 
