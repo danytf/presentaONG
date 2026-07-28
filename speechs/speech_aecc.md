@@ -1,12 +1,5 @@
 # 🎯 Speech de captación cara a cara · AECC (Asociación Española Contra el Cáncer)
 
-**Público:** genérico (persona que ya se ha parado a escuchar) · **Formato:** conversación guiada, no monólogo
-**Duración:** ~5-6 min de discurso (854 palabras) + 2-3 min de respuestas de la otra persona · **Hilo conductor:** Raquel Pérez-Aguilar (voz secundaria: Inma Serrano)
-**Datos:** fichero del proyecto, verificados julio 2026 (Memoria AECC 2025 · SEOM 2026)
-
-> ⚠️ **Esto no se recita.** Lleva 4 puntos de respiro marcados con 🔄 donde tienes que **parar, preguntar y escuchar**. Lo que la persona conteste ahí cambia cómo sigues.
-
----
 
 ## 🚦 Parada *(5-10 seg)*
 
