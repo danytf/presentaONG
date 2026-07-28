@@ -1,0 +1,88 @@
+# 🩸 Fundación Josep Carreras — Speech de captación F2F (5 min) · VERSIÓN DEFINITIVA v3
+
+*Datos verificados julio 2026 · Fuentes: Memoria de Actividades 2024 FJC, REDMO Memoria de Impacto 2025 y BOE.*
+
+---
+
+## 🚦 Parada (5-10 seg)
+
+"¿Tienes cinco minutos? Te quiero contar la historia de Marta. Es un caso ficticio, pero todo lo que le ocurre es exactamente el proceso real que viven miles de personas con leucemia y otras enfermedades de la sangre."
+
+---
+
+## 🗣️ Discurso
+
+A Marta le diagnostican leucemia.
+
+El médico le explica que, para ella, la mejor opción es un trasplante de médula ósea. Lo primero que hacen es comprobar si algún familiar es compatible. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no encuentran un donante dentro de su propia familia.
+
+Marta tampoco.
+
+A partir de ese momento, su vida pasa a depender de alguien a quien nunca ha visto. Porque la probabilidad de que dos personas sin parentesco sean compatibles es de aproximadamente 1 entre 3.500.
+
+Aquí entra en juego el REDMO, el Registro Español de Donantes de Médula Ósea.
+
+Fue creado en 1991 y está gestionado por la Fundación Josep Carreras por encargo del Ministerio de Sanidad.
+
+Ese nombre no es casualidad. Hay una historia detrás, y te la cuento al final.
+
+Busca entre más de medio millón de donantes activos en España y está conectado con la red internacional de registros para localizar una persona compatible en cualquier parte del mundo.
+
+Y hay algo que suele sorprender.
+
+Que sea un servicio oficial no significa que lo financie el Estado en solitario. La Fundación también pone recursos propios para que este sistema nunca deje de funcionar.
+
+Para Marta, ese donante no era un número en un registro. Era la posibilidad de seguir viviendo.
+
+Cuando aparece un donante compatible empieza una carrera contrarreloj.
+
+La mediana de espera es de 26 días y más de 8 de cada 10 pacientes consigue encontrar un donante compatible. Desde que existe el REDMO ya se han hecho posibles más de 15.000 trasplantes, y esa cifra sigue creciendo cada año.
+
+Pero encontrar un donante no significa que el camino haya terminado.
+
+Muchas familias tienen que desplazarse cientos de kilómetros para recibir el tratamiento y permanecer semanas o incluso meses lejos de casa. Para que esa situación no suponga también un problema económico, la Fundación dispone de pisos y hoteles solidarios que cada año acogen a más de un centenar de familias, evitando gastos que pueden llegar a casi 20.000 euros por estancia.
+
+Y a veces esa ayuda llega de personas que nunca conocerán al paciente al que están cambiando la vida.
+
+Uno de esos pisos, junto al Hospital Clínic de Barcelona, existe gracias al legado de una socia llamada Concepción, que decidió donar su vivienda a la Fundación. Desde entonces ha acogido a más de 150 pacientes y sus familias.
+
+Encontrar un donante salva vidas hoy. Descubrir nuevos tratamientos puede salvar las de mañana.
+
+El Instituto Josep Carreras es **el centro más grande de Europa dedicado en exclusiva a la leucemia** y otras enfermedades de la sangre. Reúne a cientos de profesionales y decenas de grupos de investigación, y allí se desarrollan nuevos tratamientos que ya están llegando a pacientes a través de ensayos clínicos.
+
+Todo esto tampoco sería posible sin la colaboración internacional. La Fundación forma parte de una red de fundaciones Josep Carreras que impulsan la investigación y el apoyo a los pacientes en distintos países.
+
+Y todo esto existe gracias a más de 150.000 personas que han decidido hacerse socias de la Fundación.
+
+Te decía que el nombre de la Fundación no era casualidad. Esta es la razón.
+
+En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió superar la enfermedad y, un año después, creó esta Fundación con un objetivo muy sencillo de explicar, pero enorme de conseguir: que algún día la leucemia sea una enfermedad curable para todos y que ningún paciente tenga que enfrentarse a ella en soledad.
+
+Hoy, cada vez que alguien como Marta encuentra un donante, recibe apoyo durante el tratamiento o puede beneficiarse de un nuevo avance científico, ese objetivo deja de ser un sueño y se convierte en una realidad para otra familia.
+
+---
+
+## 🤝 Cierre
+
+"Hoy tú también puedes formar parte de esa historia. Con la cuota mensual que tú elijas ayudas a que la próxima persona que reciba un diagnóstico como el de Marta tenga más posibilidades de encontrar a alguien compatible, a impulsar nuevos tratamientos y a que ninguna familia recorra ese camino sola. ¿Te animas a hacerte socio?"
+
+---
+
+## 🙋 Objeciones habituales (una línea cada una)
+
+- **"¿Esto no lo paga ya el Estado?"** → El Ministerio encarga la gestión, pero no la financia entera: en el último convenio publicado en el BOE, aportó 100.000 euros y la Fundación otros 100.000. Mitad y mitad.
+- **"¿Y si algún día lo necesito yo?"** → Nadie puede garantizarlo, pero hoy más de 8 de cada 10 pacientes encuentran donante, y cada socio ayuda a mejorar ese dato.
+- **"Ya soy donante de órganos, ¿no es lo mismo?"** → No: la médula tiene su propio registro, el REDMO, y puedes ser donante de ambas cosas.
+- **"¿Cómo sé que el dinero se usa bien?"** → Cuentas auditadas cada año: alrededor de un 38% va a búsqueda de donante y trasplante, un 35% a investigación, y solo un 10% a administración y captación *(Memoria 2024)*.
+
+---
+
+## 📌 Notas para el captador
+
+- **Criterio de cifras:** exactas solo en datos estables (1987/1988, 1 entre 3.500, casi 20.000€ por estancia). Redondeadas con "más de" en las que crecen con el tiempo (donantes, trasplantes, socios, familias acogidas).
+- **Cifras del convenio (100.000€ + 100.000€):** ya no están en el cuerpo del discurso, solo en la objeción "¿esto no lo paga el Estado?". Es donde más persuaden; si preguntan por la financiación, ahí está la munición exacta.
+- **Frase clave del puente final:** mantener siempre el "para otra familia" — es lo que hace honesta la frase "se convierte en una realidad".
+- **Bucle narrativo de Josep Carreras:** se abre al presentar el REDMO ("ese nombre no es casualidad... te lo cuento al final") y se cierra justo antes de contar su historia ("esta es la razón"). Si se recorta el discurso, apertura y cierre van juntos — nunca uno sin el otro.
+- **Anclajes emocionales (no saltárselos al memorizar):** "Para Marta, ese donante no era un número en un registro" (recupera la historia tras el bloque técnico) y "personas que nunca conocerán al paciente" (prepara el legado de Concepción).
+- **Cierre sin importe fijo:** la ficha FJC no fija una cuota mínima mensual; se invita con "la cuota que tú elijas".
+- ⚠️ Datos base 2024-2025, verificados contra el fichero del proyecto a julio de 2026. Revisar vigencia si se usa más adelante.
