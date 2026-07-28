@@ -20,7 +20,9 @@ Le diagnosticaron un cáncer.
 
 Y, de un día para otro, su vida dio un vuelco.
 
-Porque cuando alguien escucha esa palabra no aparece solo una enfermedad.
+Porque cuando alguien escucha esa palabra, no recibe solo un diagnóstico.
+
+Recibe un montón de preguntas para las que nadie te prepara.
 
 Aparece el miedo.
 
@@ -62,7 +64,11 @@ Porque el hospital trata la enfermedad.
 
 Pero la persona necesita muchas más cosas.
 
-Y fue entonces cuando Raquel encontró la Asociación.
+Y ahí Raquel descubrió algo que no esperaba.
+
+Que no tenía por qué pasar por todo aquello sola.
+
+Fue entonces cuando encontró la Asociación.
 
 Ahí empezó a encontrar respuestas.
 
@@ -78,13 +84,15 @@ Encontró un teléfono gratuito, abierto las 24 horas del día, los 365 días de
 
 *(Pausa.)*
 
-Un teléfono al que llamar cuando las dudas aparecen y no sabes con quién hablar.
+Un teléfono al que llamar cuando no sabes qué hacer.
 
 Solo el año pasado atendió más de **240.000 llamadas**.
 
 Encontró apoyo psicológico.
 
-Porque tratar el cáncer también significa cuidar cómo está una persona por dentro.
+Porque no solo hay que tratar el cáncer.
+
+También hay que cuidar a la persona.
 
 Solo el año pasado, casi **59.000 personas** recibieron atención psicológica gratuita.
 
@@ -218,25 +226,29 @@ Porque personas normales decidieron ayudar a otras personas a las que nunca cono
 
 Gracias a esa decisión, cuando Raquel recibió aquel diagnóstico ya había alguien al otro lado del teléfono.
 
-Ya había un psicólogo para acompañarla.
+Había un psicólogo para acompañarla.
 
-Ya había profesionales que podían orientarla.
+Había profesionales que podían orientarla.
 
-Y ya había investigadores trabajando para que tuviera más oportunidades.
+Y había investigadores trabajando para que tuviera más oportunidades.
 
 Nada de eso apareció el día que ella enfermó.
 
-Llevaba años construyéndose gracias a miles de socios.
+Llevaba años construyéndose gracias a miles de personas que un día decidieron hacerse socias.
 
 Todos esperamos no necesitar nunca esa ayuda.
 
-Pero, si algún día nos toca a nosotros o a alguien que queremos, todos deseamos que esa red siga ahí.
+Pero si algún día nos toca a nosotros, o a alguien que queremos, todos deseamos que esa red siga ahí.
 
-Hoy tú puedes ayudar a que también esté para la próxima persona que reciba esa noticia.
+(Pausa.)
 
-No hace falta hacer algo extraordinario.
+**Y la única forma de que siga ahí... es que hoy otras personas decidan continuar sosteniéndola.**
 
-Solo formar parte de esa red.
+(Pausa.)
+
+**Hoy puedes ser una de ellas.**
+
+(Pausa.)
 
 **¿Te animas a hacerte socio de la Asociación?**
 
