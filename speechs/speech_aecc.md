@@ -3,7 +3,7 @@
 
 ## 🚦 Parada *(5-10 seg)*
 
-> Hola, ¿me puedes dedicar un momento? Me gustaría contarte la historia de Raquel. Creo que explica mucho mejor que yo por qué estoy hoy aquí.
+> Hola, ¿me puedes dedicar un momento? Quiero contarte la historia de Raquel. Creo que explica mucho mejor que yo por qué estoy hoy aquí.
 
 *(Acotación: contacto visual, sonrisa, energía tranquila. No prometas "dos minutos": abre con la persona, no con el reloj.)*
 
@@ -19,9 +19,11 @@ Pero cuando terminó el tratamiento, descubrió que lo más difícil no había t
 
 Y ese vacío no era solo el suyo. Era el de miles de personas que llegaban detrás.
 
-Por eso estoy hoy aquí, buscando personas que quieran hacer posible todo esto. Pero antes, déjame enseñarte todo lo que hace posible esa ayuda.
+Por eso estoy hoy aquí, buscando personas que quieran hacer posible todo esto. Pero antes, déjame enseñarte por qué esa ayuda es tan necesaria.
 
-Porque en España, 1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida. No es una enfermedad de otros. Es una probabilidad real para cualquier familia. Para la tuya. Para la mía.
+Y para entenderlo, basta con un dato.
+
+En España, 1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida. Es fácil pensar que el cáncer les pasa a otras personas. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
 
 > 🔄 **RESPIRO 1 — el más importante de los cuatro.**
 > *(Pregunta y cállate. Aguanta el silencio aunque tarde en contestar.)*
