@@ -64,21 +64,20 @@ Eso fue lo que encontró Raquel cuando más lo necesitaba. Y para eso trabaja la
 > 
 > *(La respuesta es casi siempre «no». No la corrijas ni la remates: asiéntela. «Es normal. Casi nadie lo sabe hasta que le toca.» Ese «no» acaba de demostrar tu argumento mejor que cualquier frase tuya.)*
 
-Raquel descubrió que, cuando sientes que todo se tambalea, no tienes por qué afrontarlo solo.
+Raquel descubrió que, cuando todo parece tambalearse, no tienes por qué afrontarlo solo.
 
-Y a veces «todo lo demás» es simplemente otra persona que ya ha pasado por lo mismo. Inma Serrano tuvo cáncer de mama. Hoy da la cara en una campaña hecha por pacientes, para acompañar a las mujeres que empiezan justo donde ella empezó. Porque hay conversaciones que solo puede tener quien ya ha pasado por ahí.
+Porque a veces el apoyo que más ayuda no llega de un médico ni de un tratamiento. Llega de alguien que ya ha pasado por lo mismo. Hay conversaciones que solo puede tener quien ya ha recorrido ese camino.
 
-Y eso, multiplicado miles de veces, es más de 177.000 personas atendidas en más de 1.800 puntos, en las 52 provincias.
+Y ese acompañamiento llega cada año a más de 177.000 personas en más de 1.800 puntos de atención repartidos por las 52 provincias.
+(Pausa.)
 
-Todo eso es lo que Raquel encontró cuando lo necesitó. El acompañamiento.
+Pero acompañar a quien ya tenía cáncer era solo una parte. Quedaba la otra: conseguir que quienes llegaran después encontraran más respuestas de las que ella tuvo.
 
-Pero acompañar a quien ya tenía cáncer era solo una parte. Quedaba lo otro: conseguir que algún día esas respuestas existieran.
+Y Raquel decidió hacer algo extraordinario. Empezar a llenar ese vacío ella misma.
 
-Y Raquel decidió hacer algo extraordinario: empezar a llenar ese vacío ella misma.
+Hoy, a través de una Cátedra impulsada por la Asociación, investiga cómo integrar la fisioterapia en el tratamiento de pacientes con cáncer. Pasó de necesitar respuestas a trabajar para que los próximos pacientes las tengan.
 
-Hoy, con una Cátedra de la Asociación, investiga cómo integrar la fisioterapia en el tratamiento de pacientes como fue ella. Pasó de recibir cuidados a crear los que no existían.
-
-Porque esa es la otra pata: la investigación.
+Porque esa es la otra gran misión de la Asociación: impulsar la investigación.
 
 > 🔄 **RESPIRO 3 — saca las objeciones antes de que se enquisten.**
 > 
