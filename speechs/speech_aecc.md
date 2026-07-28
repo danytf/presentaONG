@@ -28,15 +28,15 @@ Aparece el miedo.
 
 La incertidumbre.
 
-Las dudas.
+Y cientos de preguntas
 
-"¿Qué va a pasar conmigo?"
+*"¿Qué va a pasar conmigo?"*
 
-"¿Qué va a pasar con mi familia?"
+*"¿Qué va a pasar con mi familia?"*
 
-"¿Voy a poder seguir trabajando?"
+*"¿Voy a poder seguir trabajando?"*
 
-"¿Cómo voy a afrontar todo esto?"
+*"¿Cómo voy a afrontar todo esto?"*
 
 *(Pausa.)*
 
@@ -50,7 +50,7 @@ En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a 
 
 Muchas veces pensamos que es algo que les pasa a otros.
 
-Pero la realidad es que, antes o después, acaba formando parte de la vida de casi todas las familias.
+Pero la realidad es que termina formando parte de la vida de casi todas las familias.
 
 > 🔄 **RESPIRO 1 — El más importante de los cuatro.**
 >
@@ -84,7 +84,7 @@ Encontró un teléfono gratuito, abierto las 24 horas del día, los 365 días de
 
 *(Pausa.)*
 
-Un teléfono al que llamar cuando no sabes qué hacer.
+Un teléfono al que llamar cuando ya no sabes a quién llamar.
 
 Solo el año pasado atendió más de **240.000 llamadas**.
 
@@ -92,7 +92,7 @@ Encontró apoyo psicológico.
 
 Porque no solo hay que tratar el cáncer.
 
-También hay que cuidar a la persona.
+También hay que cuidar a quien lo está viviendo.
 
 Solo el año pasado, casi **59.000 personas** recibieron atención psicológica gratuita.
 
@@ -142,7 +142,7 @@ Y déjame darte un dato que demuestra por qué investigar cambia vidas.
 
 *(Baja el ritmo. Este bloque se explica, no se recita.)*
 
-Cada punto que aumenta la supervivencia tiene nombre y apellidos.
+Cada punto que aumenta la supervivencia son miles de personas que hoy siguen aquí porque alguien investigó hace años.
 
 Son miles de personas que hoy siguen vivas porque alguien decidió investigar hace años.
 
@@ -184,11 +184,11 @@ El día que recibió aquel diagnóstico, esa red ya estaba allí.
 
 Había alguien que respondió al teléfono.
 
-Había un profesional que la acompañó.
+Había alguien que la escuchó.
 
-Había apoyo para afrontar todo lo que el cáncer trae consigo.
+Había alguien que la acompañó.
 
-Y había investigadores trabajando para que tuviera más opciones de las que existían unos años antes.
+Había investigadores trabajando para darle más oportunidades.
 
 Nada de eso apareció de un día para otro.
 
@@ -226,11 +226,11 @@ Porque personas normales decidieron ayudar a otras personas a las que nunca cono
 
 Gracias a esa decisión, cuando Raquel recibió aquel diagnóstico ya había alguien al otro lado del teléfono.
 
-Había un psicólogo para acompañarla.
+Ya había un psicólogo para acompañarla.
 
-Había profesionales que podían orientarla.
+Ya había profesionales que podían orientarla.
 
-Y había investigadores trabajando para que tuviera más oportunidades.
+Y ya había investigadores trabajando para que tuviera más oportunidades.
 
 Nada de eso apareció el día que ella enfermó.
 
@@ -242,7 +242,7 @@ Pero si algún día nos toca a nosotros, o a alguien que queremos, todos deseamo
 
 (Pausa.)
 
-**Y la única forma de que siga ahí... es que hoy otras personas decidan continuar sosteniéndola.**
+**Y esa red solo puede seguir existiendo si hoy otras personas deciden continuar sosteniéndola.**
 
 (Pausa.)
 
