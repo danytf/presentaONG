@@ -3,7 +3,7 @@
 
 ## 🚦 Parada *(5-10 seg)*
 
-> ¿Me puedes dedicar un momento? Me gustaría contarte la historia de una persona real. Se llama Raquel, y su vida resume por qué estoy hoy aquí.
+> Hola, ¿me puedes dedicar un momento? Me gustaría contarte la historia de una persona real. Se llama Raquel. Y su historia explica mucho mejor que yo por qué estoy hoy aquí.
 
 *(Acotación: contacto visual, sonrisa, energía tranquila. No prometas "dos minutos": abre con la persona, no con el reloj.)*
 
@@ -11,13 +11,13 @@
 
 ## 🗣️ Discurso *(~5 min)*
 
-Te lo digo de entrada, para que no haya sorpresas: vengo a buscar socios para la Asociación. Pero antes de pedirte nada, déjame contarte por qué.
+Te lo digo de entrada, para que no haya sorpresas: estamos buscando socios para la Asociación. Pero antes de pedirte nada, déjame contarte por qué.
 
 Te voy a hablar de Raquel.
 
-Raquel Pérez-Aguilar es fisioterapeuta. Se pasaba el día al lado de la camilla, cuidando a otros. Hasta que un día fue ella quien acabó tumbada en una.
+Raquel es fisioterapeuta. Se pasaba el día al lado de la camilla, cuidando a otros. Hasta que un día fue ella quien acabó tumbada en una.
 
-Le diagnosticaron un cáncer. Pasó por un trasplante de médula ósea. Y lo superó.
+Le diagnosticaron un cáncer. Pasó por un trasplante de médula ósea y por suerte lo superó.
 
 Pero cuando terminó el tratamiento, descubrió que lo más difícil no había terminado. Ella lo cuenta así: «Me encontré con un vacío. No había estudios ni respuestas para los pacientes.»
 
