@@ -28,13 +28,13 @@ La incertidumbre.
 
 Las dudas.
 
-*"¿Qué va a pasar conmigo?"*
+"¿Qué va a pasar conmigo?"
 
-*"¿Qué va a pasar con mi familia?"*
+"¿Qué va a pasar con mi familia?"
 
-*"¿Voy a poder seguir trabajando?"*
+"¿Voy a poder seguir trabajando?"
 
-*"¿Cómo voy a afrontar todo esto?"*
+"¿Cómo voy a afrontar todo esto?"
 
 *(Pausa.)*
 
