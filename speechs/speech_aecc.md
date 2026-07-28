@@ -3,7 +3,7 @@
 
 ## 🚦 Parada *(5-10 seg)*
 
-> Hola, ¿me puedes dedicar un momento? Me gustaría contarte la historia de una persona real. Se llama Raquel. Y su historia explica mucho mejor que yo por qué estoy hoy aquí.
+> Hola, ¿me puedes dedicar un momento? Me gustaría contarte la historia de Raquel. Creo que explica mucho mejor que yo por qué estoy hoy aquí.
 
 *(Acotación: contacto visual, sonrisa, energía tranquila. No prometas "dos minutos": abre con la persona, no con el reloj.)*
 
@@ -11,19 +11,15 @@
 
 ## 🗣️ Discurso *(~5 min)*
 
-Te lo digo de entrada, para que no haya sorpresas: estamos buscando socios para la Asociación. Pero antes de pedirte nada, déjame contarte por qué.
+Raquel es fisioterapeuta. Pasaba el día al lado de una camilla, cuidando a otras personas. Hasta que un día fue ella quien acabó tumbada en una.
 
-Te voy a hablar de Raquel.
+Le diagnosticaron un cáncer. Pasó por un trasplante de médula ósea. Y tras un largo proceso consiguió superarlo.
 
-Raquel es fisioterapeuta. Se pasaba el día al lado de la camilla, cuidando a otros. Hasta que un día fue ella quien acabó tumbada en una.
+Pero cuando terminó el tratamiento, descubrió que lo más difícil no había terminado. Había sobrevivido, pero aún necesitaba recuperar muchas cosas. Ella misma lo resume con una frase muy sencilla: «Me encontré con un gran vacío que no sabía cómo llenar».
 
-Le diagnosticaron un cáncer. Pasó por un trasplante de médula ósea y por suerte lo superó.
+Y ese vacío no era solo el suyo. Era el de miles de personas que llegaban detrás.
 
-Pero cuando terminó el tratamiento, descubrió que lo más difícil no había terminado. Ella lo cuenta así: «Me encontré con un vacío. No había estudios ni respuestas para los pacientes.»
-
-Porque ese vacío no era solo el suyo. Era el de miles de personas que llegaban detrás.
-
-De ese vacío te quiero hablar.
+Por eso estoy hoy aquí, buscando personas que quieran hacer posible todo esto. Pero antes, déjame enseñarte todo lo que hace posible esa ayuda.
 
 Porque en España, 1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida. No es una enfermedad de otros. Es una probabilidad real para cualquier familia. Para la tuya. Para la mía.
 
