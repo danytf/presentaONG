@@ -22,9 +22,13 @@ const SRC = path.join(ROOT, 'speechs');
 
 /**
  * ocultar: etiquetas de seccion (las de NAV) que NO se publican en el .html.
- * El contenido sigue estando en el .md, que es la fuente. Ocultar 'Respiros'
- * quita ademas las llamadas 🔄 intercaladas en el Discurso y el aviso de
- * cabecera que las explica. Para extenderlo a otra ONG, anadirle el array.
+ * El contenido sigue estando en el .md, que es la fuente.
+ *
+ * Afecta solo a secciones de primer nivel (##). Ocultar 'Respiros' quita la
+ * seccion de consulta del final, pero NO las llamadas 🔄 intercaladas en el
+ * Discurso: esas son parte del guion y se quedan.
+ *
+ * Para extenderlo a otra ONG, anadirle el mismo array.
  */
 const ONGS = {
   aecc:     { nombre: 'AECC',                  completo: 'Asociación Española Contra el Cáncer', band: '#0d2f18', accent: '#149133', logo: 'aecc.png',     pres: 'Formación AECC.html', ocultar: ['Objeciones', 'Respiros', 'Notas'] },
@@ -136,14 +140,6 @@ function bloques(lines, ctx) {
       // cabecera menciona el 🔄), asi que buscar el simbolo en todo el texto
       // clasificaba mal los dos casos.
       const clase = /^\s*🔄/.test(crudo) ? 'respiro' : /⚠️|⚠/.test(crudo) ? 'aviso' : 'dicho';
-      // Los respiros no viven solo en su seccion final: van intercalados
-      // dentro del Discurso. Al ocultarlos hay que quitar tambien esas
-      // llamadas y el aviso de cabecera que las explica, o quedaria una
-      // referencia a una seccion que ya no se publica.
-      if (ctx.sinRespiros && (clase === 'respiro' || (clase === 'aviso' && /respiro/i.test(crudo)))) {
-        continue;
-      }
-
       out.push(`<blockquote class="${clase}">${bloques(buf, ctx)}</blockquote>`);
       continue;
     }
@@ -291,7 +287,7 @@ function construir(slugName) {
   i++;
 
   const ocultar = ong.ocultar || [];
-  const ctx = { sinRespiros: ocultar.includes('Respiros') };
+  const ctx = {};
 
   const metaLines = [];
   while (i < lines.length && !/^##? /.test(lines[i]) && !/^---+\s*$/.test(lines[i].trim())) {
