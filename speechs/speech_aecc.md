@@ -21,7 +21,7 @@ Y ese vacío no era solo el suyo, sino el de miles de personas que llegarían de
 
 **Por personas como Raquel estoy hoy aquí. Busco el apoyo de quienes quieran hacer posible todo esto. Pero antes, déjame enseñarte por qué esa ayuda es tan necesaria.**
 
-Y para entenderlo... basta con un dato.
+Y basta un solo dato para entenderlo.
 
 En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.** Muchas veces pensamos que el cáncer es algo que les pasa a otros. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
 
@@ -40,7 +40,7 @@ La sanidad pública trata la enfermedad. Pero hay muchas necesidades que van má
 
 ¿Y qué significa eso?
 
-Es un teléfono completamente gratuito, abierto las 24 horas del día, los 365 días del año.
+Es un teléfono gratuito, abierto las 24 horas del día, los 365 días del año.
 
 (Pausa.)
 
@@ -54,7 +54,9 @@ Es un psicólogo que te atiende gratuitamente y sin lista de espera. Solo el añ
 
 Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que desplazarte a otra provincia para recibir tratamiento, puedes alojarte junto a tu familia, de forma gratuita. Para que lo único de lo que tengas que preocuparte sea de recuperarte.
 
-Eso fue exactamente lo que encontró Raquel cuando más lo necesitaba.
+(Pausa.)
+
+Eso fue lo que encontró Raquel cuando más lo necesitaba.
 
 > 🔄 **RESPIRO 2 — la pregunta cuya respuesta convence sola.**
 > 
