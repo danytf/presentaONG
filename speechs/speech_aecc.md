@@ -11,28 +11,43 @@
 
 ## 🗣️ Discurso *(~5 min)*
 
-Raquel es fisioterapeuta. Pasaba el día al lado de una camilla, cuidando a otras personas. Hasta que un día fue ella quien acabó tumbada en una.
+Raquel es fisioterapeuta.
 
-Le diagnosticaron un cáncer. Pasó por un trasplante de médula ósea. Y tras un largo proceso consiguió superarlo.
+Pasaba el día al lado de una camilla, ayudando a otras personas a recuperarse.
 
-Pero cuando terminó el tratamiento, se dio cuenta de que lo más difícil todavía no había terminado. Había sobrevivido, pero aún necesitaba recuperar muchas cosas. Ella misma dice que sintió un vacío enorme. Que no sabía cómo llenarlo.
+Hasta que un día fue ella quien acabó tumbada en una.
 
-Y entonces entendió que ese vacío no era solo suyo. Que detrás vendrían muchas más personas sintiendo exactamente lo mismo.
+Le diagnosticaron un cáncer.
 
-**Por personas como Raquel estoy hoy aquí. Estoy aquí buscando personas que quieran hacerlo posible. Pero antes, déjame enseñarte por qué esa ayuda es tan necesaria.**
+Y, de repente, todo cambió.
 
-Y para entenderlo, basta con un solo dato.
+Porque cuando alguien escucha esa palabra no aparece solo una enfermedad.
+
+Aparece el miedo.
+
+La incertidumbre.
+
+Las dudas.
+
+¿Qué va a pasar conmigo?
+
+¿Qué va a pasar con mi familia?
+
+¿Voy a poder seguir trabajando?
+
+¿Cómo voy a afrontar todo esto?
 
 (Pausa.)
 
+Y lo más inquietante es que cualquiera de nosotros podría verse algún día en esa situación.
+
 En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.** Muchas veces creemos que el cáncer es algo que les pasa a otros. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
 
-> 🔄 **RESPIRO 1 — el más importante de los cuatro.**
-> *(Pregunta y cállate. Aguanta el silencio aunque tarde en contestar.)*
-> 
-> **«¿Tú has tenido cerca a alguien que haya pasado por esto?»**
-> 
-> *La mayoría de las personas responderán que sí. A partir de ese momento, deja de hablar del cáncer en abstracto y habla de la persona que acaba de mencionar. Escucha con atención, recoge su respuesta y adapta el resto del discurso a esa experiencia.*
+> 🔄 RESPIRO 1 — el más importante de los cuatro.
+
+>«¿Has vivido el cáncer de cerca alguna vez?»
+
+>(Escucha de verdad. Si responde, profundiza unos segundos: «¿Quién fue?», «¿Cómo está ahora?». A partir de aquí deja de hablar del cáncer en general y habla, siempre que puedas, de la experiencia que acaba de compartir contigo.)*
 
 Y aquí viene la parte que casi nadie conoce... hasta que le toca vivirla.
 
