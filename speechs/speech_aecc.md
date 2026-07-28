@@ -218,7 +218,7 @@ Y una investigación que siga abriendo caminos.
 
 ---
 
-# 🤝 Cierre
+## 🤝 Cierre
 
 > Baja el ritmo. Mira a la persona. Haz una pausa antes de empezar.
 

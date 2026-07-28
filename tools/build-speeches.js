@@ -31,7 +31,7 @@ const SRC = path.join(ROOT, 'speechs');
  * Para extenderlo a otra ONG, anadirle el mismo array.
  */
 const ONGS = {
-  aecc:     { nombre: 'AECC',                  completo: 'Asociación Española Contra el Cáncer', band: '#0d2f18', accent: '#149133', logo: 'aecc.png',     pres: 'Formación AECC.html', ocultar: ['Objeciones', 'Respiros', 'Notas'] },
+  aecc:     { nombre: 'AECC',                  completo: 'Asociación Española Contra el Cáncer', band: '#0d2f18', accent: '#149133', logo: 'aecc.png',     pres: 'Formación AECC.html' },
   aldeas:   { nombre: 'Aldeas Infantiles SOS', completo: 'Aldeas Infantiles SOS',                band: '#0a1e2e', accent: '#222D6B', logo: 'aldeas.png',   pres: 'Formación Aldeas Infantiles.html' },
   cruzroja: { nombre: 'Cruz Roja',             completo: 'Cruz Roja Española',                   band: '#011E41', accent: '#CC0A16', logo: 'cruzroja.png', pres: 'Formación Cruz Roja.html' },
   fec:      { nombre: 'FEC',                   completo: 'Fundación Española del Corazón',       band: '#1c0a12', accent: '#990033', logo: 'fec.png',      pres: 'Formación FEC.html' },
@@ -78,6 +78,11 @@ function slug(text) {
 }
 
 function etiqueta(titulo) {
+  // "RESPIRO 2 — ..." -> "Respiro 2". Sin esto, si los respiros son secciones
+  // de primer nivel, los cuatro salen con la misma etiqueta en el navegador.
+  const numerado = titulo.match(/respiro\s*(\d+)/i);
+  if (numerado) return `Respiro ${numerado[1]}`;
+
   for (const [re, label] of NAV) if (re.test(titulo)) return label;
   const limpio = titulo.replace(EMOJI, '').replace(/[(—-].*$/, '').trim();
   return limpio.length > 24 ? limpio.slice(0, 22).trim() + '…' : limpio;
@@ -309,6 +314,13 @@ function construir(slugName) {
       usados.add(id);
       actual = { titulo, id, label: etiqueta(titulo), interna: INTERNA.test(titulo), lines: [] };
     } else if (actual) {
+      // Un "# Titulo" suelto despues del encabezado del documento casi seguro
+      // que queria ser "## Titulo": si no, no es una seccion, no sale en el
+      // navegador y se traga dentro de la anterior sin que se note.
+      if (/^# /.test(lines[i])) {
+        avisos.push(`${slugName}: "${lines[i].trim().slice(0, 50)}" usa # en vez de ##, ` +
+                    `asi que no es una seccion y queda dentro de "${actual.titulo.slice(0, 30)}"`);
+      }
       actual.lines.push(lines[i]);
     } else if (lines[i].trim() && !/^---+\s*$/.test(lines[i].trim())) {
       avisos.push(`${slugName}: linea fuera de seccion -> ${lines[i].slice(0, 60)}`);
@@ -325,6 +337,20 @@ function construir(slugName) {
   for (const nombre of ocultar) {
     if (!secciones.some((s) => s.label === nombre)) {
       avisos.push(`${slugName}: se pidio ocultar "${nombre}" pero no hay ninguna seccion asi`);
+    }
+  }
+
+  // Red de seguridad: si reestructuran el .md, una regla de "ocultar" escrita
+  // para la estructura anterior puede llevarse por delante medio guion sin que
+  // nadie se entere. Paso una vez: los respiros pasaron a ser secciones ## y
+  // "ocultar: Respiros" borro con ellos el grueso del discurso.
+  if (omitidas.length) {
+    const pesa = (ss) => ss.reduce((n, s) => n + s.lines.join('\n').length, 0);
+    const fuera = pesa(omitidas);
+    const porcentaje = Math.round((fuera / (fuera + pesa(visibles))) * 100);
+    if (porcentaje >= 50) {
+      avisos.push(`${slugName}: se esta ocultando el ${porcentaje}% del texto ` +
+                  `(${omitidas.map((s) => s.label).join(', ')}). Revisa que sea lo que quieres.`);
     }
   }
 
