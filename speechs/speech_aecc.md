@@ -17,11 +17,13 @@ Le diagnosticaron un cáncer. Pasó por un trasplante de médula ósea. Y tras u
 
 Pero cuando terminó el tratamiento, descubrió que lo más difícil no había terminado. Había sobrevivido, pero aún necesitaba recuperar muchas cosas. Ella misma cuenta que se encontró con un gran vacío que no sabía cómo llenar. 
 
-Y ese vacío no era solo el suyo, sino el de miles de personas que llegarían después.
+Y ese vacío no era solo el suyo. Era también el de miles de personas que llegarían después.
 
 **Por personas como Raquel estoy hoy aquí. Busco el apoyo de quienes quieran hacer posible todo esto. Pero antes, déjame enseñarte por qué esa ayuda es tan necesaria.**
 
 Y para entenderlo, basta con un solo dato.
+
+(Pausa.)
 
 En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.** Muchas veces pensamos que el cáncer es algo que les pasa a otros. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
 
@@ -75,7 +77,11 @@ Pero acompañar a quien ya tenía cáncer era solo una parte. Quedaba la otra: c
 
 Y Raquel decidió hacer algo extraordinario. Empezar a llenar ese vacío ella misma.
 
-Hoy, a través de una Cátedra impulsada por la Asociación, investiga cómo integrar la fisioterapia en el tratamiento de pacientes con cáncer. Pasó de necesitar respuestas a trabajar para que los próximos pacientes las tengan.
+Hoy, a través de una Cátedra impulsada por la Asociación, investiga cómo integrar la fisioterapia en el tratamiento de pacientes con cáncer.
+
+(Pausa.)
+
+Pasó de necesitar respuestas a trabajar para que los próximos pacientes las tengan.
 
 Porque esa es la otra gran misión de la Asociación: impulsar la investigación.
 
@@ -83,7 +89,7 @@ Porque esa es la otra gran misión de la Asociación: impulsar la investigación
 > 
 > **«Oye, antes de seguir: ¿te está surgiendo alguna duda?»**
 > 
-> *(Aquí es donde suele salir el «¿y esto adónde va?». Mejor que salga ahora, contigo aún hablando, que en silencio mientras cierras. Si pregunta por el dinero, respóndele con el 59/25/16 y sigue. Si no pregunta nada, no insistas: enlaza y continúa.)*
+> *(Aquí es donde suele salir el «¿y esto adónde va?». Mejor que salga ahora, contigo aún hablando, que en silencio mientras cierras. Si pregunta por el dinero, respóndele con como se reparten los fondos y sigue. Si no pregunta nada, no insistas: enlaza y continúa.)*
 
 Y déjame darte un solo dato, porque demuestra algo muy importante.
 
