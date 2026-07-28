@@ -15,22 +15,22 @@ Raquel es fisioterapeuta. Pasaba el día al lado de una camilla, cuidando a otra
 
 Le diagnosticaron un cáncer. Pasó por un trasplante de médula ósea. Y tras un largo proceso consiguió superarlo.
 
-Pero cuando terminó el tratamiento, descubrió que lo más difícil no había terminado. Había sobrevivido, pero aún necesitaba recuperar muchas cosas. Ella misma lo resume con una frase muy sencilla: «Me encontré con un gran vacío que no sabía cómo llenar».
+Pero cuando terminó el tratamiento, descubrió que lo más difícil no había terminado. Había sobrevivido, pero aún necesitaba recuperar muchas cosas. Ella misma cuenta que se encontró con un gran vacío que no sabía cómo llenar. 
 
 Y ese vacío no era solo el suyo. Era el de miles de personas que llegaban detrás.
 
-Por eso estoy hoy aquí, buscando personas que quieran hacer posible todo esto. Pero antes, déjame enseñarte por qué esa ayuda es tan necesaria.
+**Por personas como Raquel estoy hoy aquí. Busco el apoyo de quienes quieran hacer posible todo esto. Pero antes, déjame enseñarte por qué esa ayuda es tan necesaria.**
 
 Y para entenderlo, basta con un dato.
 
-En España, 1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida. Es fácil pensar que el cáncer les pasa a otras personas. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
+En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.** A veces pensamos que el cáncer es algo que les ocurre a otros. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
 
 > 🔄 **RESPIRO 1 — el más importante de los cuatro.**
 > *(Pregunta y cállate. Aguanta el silencio aunque tarde en contestar.)*
 > 
 > **«¿Tú has tenido cerca a alguien que haya pasado por esto?»**
 > 
-> *(Casi todo el mundo dice que sí. A partir de aquí ya no hablas de cáncer en abstracto: hablas de la persona que acaba de nombrar. Ver ramificaciones al final.)*
+> *La mayoría de las personas responderán que sí. A partir de ese momento, deja de hablar del cáncer en abstracto y habla de la persona que acaba de mencionar. Escucha con atención, recoge su respuesta y adapta el resto del discurso a esa experiencia.*
 
 Y aquí viene lo que casi nadie sabe hasta que lo necesita.
 
