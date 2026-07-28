@@ -56,7 +56,7 @@ Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que desplaza
 
 (Pausa.)
 
-Eso fue lo que encontró Raquel cuando más lo necesitaba. Y es por lo que la Asociación trabaja cada día para cualquier persona que pase por lo mismo.
+Eso fue lo que encontró Raquel cuando más lo necesitaba. Y para eso trabaja la Asociación cada día: para que cualquier persona que pase por lo mismo encuentre ese mismo apoyo.
 
 > 🔄 **RESPIRO 2 — la pregunta cuya respuesta convence sola.**
 > 
