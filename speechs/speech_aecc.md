@@ -17,13 +17,13 @@ Le diagnosticaron un cáncer. Pasó por un trasplante de médula ósea. Y tras u
 
 Pero cuando terminó el tratamiento, descubrió que lo más difícil no había terminado. Había sobrevivido, pero aún necesitaba recuperar muchas cosas. Ella misma cuenta que se encontró con un gran vacío que no sabía cómo llenar. 
 
-Y ese vacío no era solo el suyo. Era el de miles de personas que llegaban detrás.
+Y ese vacío no era solo el suyo, sino el de miles de personas que llegarían después.
 
 **Por personas como Raquel estoy hoy aquí. Busco el apoyo de quienes quieran hacer posible todo esto. Pero antes, déjame enseñarte por qué esa ayuda es tan necesaria.**
 
-Y para entenderlo, basta con un dato.
+Y para entenderlo... basta con un dato.
 
-En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.** A veces pensamos que el cáncer es algo que les ocurre a otros. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
+En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.** Muchas veces pensamos que el cáncer es algo que les pasa a otros. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
 
 > 🔄 **RESPIRO 1 — el más importante de los cuatro.**
 > *(Pregunta y cállate. Aguanta el silencio aunque tarde en contestar.)*
@@ -40,7 +40,7 @@ La sanidad pública trata la enfermedad. Pero hay muchas necesidades que van má
 
 ¿Y qué significa eso?
 
-Es un teléfono gratuito, abierto las 24 horas del día, los 365 días del año.
+Es un teléfono completamente gratuito, abierto las 24 horas del día, los 365 días del año.
 
 (Pausa.)
 
@@ -52,7 +52,9 @@ El año pasado atendió más de 240.000 llamadas. Muchas de ellas, de personas q
 
 Es un psicólogo que te atiende gratuitamente y sin lista de espera. Solo el año pasado, casi 59.000 personas recibieron ese apoyo.
 
-Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que desplazarte a otra provincia para recibir tratamiento, puedes alojarte gratuitamente junto a tu familia. Para que lo único de lo que tengas que preocuparte sea de recuperarte.
+Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que desplazarte a otra provincia para recibir tratamiento, puedes alojarte junto a tu familia, de forma gratuita. Para que lo único de lo que tengas que preocuparte sea de recuperarte.
+
+Eso fue exactamente lo que encontró Raquel cuando más lo necesitaba.
 
 > 🔄 **RESPIRO 2 — la pregunta cuya respuesta convence sola.**
 > 
