@@ -186,14 +186,6 @@ Al final, la historia de Raquel resume muy bien lo que hace la Asociación.
 
 El día que recibió aquel diagnóstico, esa red ya estaba allí.
 
-Había alguien que respondió al teléfono.
-
-Había alguien que la escuchó.
-
-Había alguien que la acompañó.
-
-Había investigadores trabajando para darle más oportunidades.
-
 Nada de eso apareció de un día para otro.
 
 Existía porque, mucho antes, miles de personas habían decidido hacerse socias.
