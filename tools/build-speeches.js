@@ -20,8 +20,14 @@ const SRC = path.join(ROOT, 'speechs');
 
 /* ------------------------------------------------------------------ datos */
 
+/**
+ * ocultar: etiquetas de seccion (las de NAV) que NO se publican en el .html.
+ * El contenido sigue estando en el .md, que es la fuente. Ocultar 'Respiros'
+ * quita ademas las llamadas 🔄 intercaladas en el Discurso y el aviso de
+ * cabecera que las explica. Para extenderlo a otra ONG, anadirle el array.
+ */
 const ONGS = {
-  aecc:     { nombre: 'AECC',                  completo: 'Asociación Española Contra el Cáncer', band: '#0d2f18', accent: '#149133', logo: 'aecc.png',     pres: 'Formación AECC.html' },
+  aecc:     { nombre: 'AECC',                  completo: 'Asociación Española Contra el Cáncer', band: '#0d2f18', accent: '#149133', logo: 'aecc.png',     pres: 'Formación AECC.html', ocultar: ['Objeciones', 'Respiros', 'Notas'] },
   aldeas:   { nombre: 'Aldeas Infantiles SOS', completo: 'Aldeas Infantiles SOS',                band: '#0a1e2e', accent: '#222D6B', logo: 'aldeas.png',   pres: 'Formación Aldeas Infantiles.html' },
   cruzroja: { nombre: 'Cruz Roja',             completo: 'Cruz Roja Española',                   band: '#011E41', accent: '#CC0A16', logo: 'cruzroja.png', pres: 'Formación Cruz Roja.html' },
   fec:      { nombre: 'FEC',                   completo: 'Fundación Española del Corazón',       band: '#1c0a12', accent: '#990033', logo: 'fec.png',      pres: 'Formación FEC.html' },
@@ -130,6 +136,14 @@ function bloques(lines, ctx) {
       // cabecera menciona el 🔄), asi que buscar el simbolo en todo el texto
       // clasificaba mal los dos casos.
       const clase = /^\s*🔄/.test(crudo) ? 'respiro' : /⚠️|⚠/.test(crudo) ? 'aviso' : 'dicho';
+      // Los respiros no viven solo en su seccion final: van intercalados
+      // dentro del Discurso. Al ocultarlos hay que quitar tambien esas
+      // llamadas y el aviso de cabecera que las explica, o quedaria una
+      // referencia a una seccion que ya no se publica.
+      if (ctx.sinRespiros && (clase === 'respiro' || (clase === 'aviso' && /respiro/i.test(crudo)))) {
+        continue;
+      }
+
       out.push(`<blockquote class="${clase}">${bloques(buf, ctx)}</blockquote>`);
       continue;
     }
@@ -276,11 +290,14 @@ function construir(slugName) {
   const h1 = (lines[i] || '').replace(/^# /, '').trim();
   i++;
 
+  const ocultar = ong.ocultar || [];
+  const ctx = { sinRespiros: ocultar.includes('Respiros') };
+
   const metaLines = [];
   while (i < lines.length && !/^##? /.test(lines[i]) && !/^---+\s*$/.test(lines[i].trim())) {
     metaLines.push(lines[i]); i++;
   }
-  const meta = bloques(metaLines, {});
+  const meta = bloques(metaLines, ctx);
 
   // Secciones por ##
   const secciones = [];
@@ -302,13 +319,26 @@ function construir(slugName) {
     }
   }
   if (actual) secciones.push(actual);
-  for (const s of secciones) s.html = bloques(s.lines, {});
 
-  const html = pagina({ ong, titulo: h1, meta, secciones, slugName });
+  // Secciones que no se publican: no se generan en el .html, solo quedan en
+  // el .md. No es un plegado por CSS a proposito: asi el texto tampoco
+  // aparece en el codigo fuente de la pagina.
+  const omitidas = secciones.filter((s) => ocultar.includes(s.label));
+  const visibles = secciones.filter((s) => !ocultar.includes(s.label));
+
+  for (const nombre of ocultar) {
+    if (!secciones.some((s) => s.label === nombre)) {
+      avisos.push(`${slugName}: se pidio ocultar "${nombre}" pero no hay ninguna seccion asi`);
+    }
+  }
+
+  for (const s of visibles) s.html = bloques(s.lines, ctx);
+
+  const html = pagina({ ong, titulo: h1, meta, secciones: visibles, slugName });
   const dest = path.join(SRC, `speech_${slugName}.html`);
   fs.writeFileSync(dest, html, 'utf8');
 
-  return { dest, secciones, bytes: Buffer.byteLength(html) };
+  return { dest, secciones: visibles, omitidas, bytes: Buffer.byteLength(html) };
 }
 
 let total = 0;
@@ -318,7 +348,8 @@ for (const slugName of Object.keys(ONGS)) {
     `OK  speech_${slugName}.html`.padEnd(30) +
     `${String(Math.round(r.bytes / 1024)).padStart(4)} KB  ` +
     `${r.secciones.length} secciones: ` +
-    r.secciones.map((s) => s.label + (s.interna ? '*' : '')).join(' · ')
+    r.secciones.map((s) => s.label + (s.interna ? '*' : '')).join(' · ') +
+    (r.omitidas.length ? `   [sin publicar: ${r.omitidas.map((s) => s.label).join(', ')}]` : '')
   );
   total += r.bytes;
 }
