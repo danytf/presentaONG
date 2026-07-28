@@ -42,7 +42,7 @@ La sanidad pública trata la enfermedad. Pero hay muchas necesidades que van má
 
 ¿Y qué significa eso?
 
-Es un teléfono gratuito, abierto las 24 horas del día, los 365 días del año.
+**Es un teléfono gratuito, abierto las 24 horas del día, los 365 días del año.**
 
 (Pausa.)
 
@@ -50,11 +50,11 @@ El 900 100 036.
 
 (Pausa.)
 
-El año pasado atendió más de 240.000 llamadas. Muchas de ellas, de personas que sentían que ya no tenían a nadie más al otro lado.
+El año pasado atendió **más de 240.000 llamadas.** Muchas de ellas, de personas que sentían que ya no tenían a nadie más al otro lado.
 
-Es un psicólogo que te atiende gratuitamente y sin lista de espera. Solo el año pasado, casi 59.000 personas recibieron ese apoyo.
+Es un psicólogo que te atiende gratuitamente y sin lista de espera. Solo el año pasado, **casi 59.000 personas** recibieron ese apoyo.
 
-Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que desplazarte a otra provincia para recibir tratamiento, puedes alojarte junto a tu familia, de forma gratuita. Para que lo único de lo que tengas que preocuparte sea de recuperarte.
+Es un techo. **Hay 44 pisos y residencias por toda España**. Si tienes que desplazarte a otra provincia para recibir tratamiento, puedes alojarte junto a tu familia, de forma gratuita. Para que lo único de lo que tengas que preocuparte sea de recuperarte.
 
 (Pausa.)
 
@@ -70,7 +70,7 @@ Raquel descubrió que, cuando todo parece tambalearse, no tienes por qué afront
 
 Porque a veces el apoyo que más ayuda no llega de un médico ni de un tratamiento. Llega de alguien que ya ha pasado por lo mismo. Hay conversaciones que solo puede tener quien ya ha recorrido ese camino.
 
-Y ese acompañamiento llega cada año a más de 177.000 personas en más de 1.800 puntos de atención repartidos por las 52 provincias.
+Y ese acompañamiento llega cada año a **más de 177.000 personas en más de 1.800 puntos de atención repartidos por las 52 provincias.**
 (Pausa.)
 
 Pero acompañar a quien ya tenía cáncer era solo una parte. Quedaba la otra: conseguir que quienes llegaran después encontraran más respuestas de las que ella tuvo.
@@ -81,7 +81,7 @@ Hoy, a través de una Cátedra impulsada por la Asociación, investiga cómo int
 
 (Pausa.)
 
-Pasó de necesitar respuestas a trabajar para que los próximos pacientes las tengan.
+**Pasó de necesitar respuestas a trabajar para que los próximos pacientes las tengan.**
 
 Porque esa es la otra gran misión de la Asociación: impulsar la investigación. Y todo eso solo es posible porque hay personas que deciden apoyarlo.
 
@@ -89,33 +89,43 @@ Porque esa es la otra gran misión de la Asociación: impulsar la investigación
 > 
 > **«Oye, antes de seguir: ¿te está surgiendo alguna duda?»**
 > 
-> *(Aquí es donde suele salir el «¿y esto adónde va?». Mejor que salga ahora, contigo aún hablando, que en silencio mientras cierras. Si pregunta por el dinero, respóndele con como se reparten los fondos y sigue. Si no pregunta nada, no insistas: enlaza y continúa.)*
+> *(Aquí es donde suelen aparecer preguntas sobre el destino del dinero, el funcionamiento de la Asociación o cualquier otra objeción. Resuélvelas con naturalidad y retoma el discurso. Si no plantea ninguna, continúa sin insistir.)*
 
-Y déjame darte un solo dato, porque demuestra algo muy importante.
+Y déjame darte un dato que demuestra por qué la investigación cambia vidas.
 
-*(acotación: baja el ritmo. Este bloque se explica, no se recita.)*
+(Baja el ritmo. Este bloque se explica, no se recita.)
 
-Detrás de cada punto que sube la supervivencia hay miles de personas vivas hoy porque alguien investigó años atrás.
+Detrás de cada punto que aumenta la supervivencia hay miles de personas vivas hoy porque alguien investigó años antes.
 
-El cáncer de mama tiene hoy un 85% de supervivencia a cinco años. Hace 40 años no llegaba al 60%.
+El cáncer de mama supera hoy el **85 % de supervivencia a cinco años.** El de páncreas, en cambio, apenas alcanza entre el **7 y el 10 %.**
 
-El de páncreas, en cambio, se queda en el 7 o el 10%.
+Esa diferencia no es casualidad. Es el resultado de décadas de investigación. Y eso es exactamente lo que la Asociación quiere conseguir para los tumores que hoy siguen teniendo peor pronóstico.
 
-Esa diferencia no es suerte. Es investigación sostenida durante décadas. Y es exactamente lo que la Asociación quiere replicar para los tumores que hoy siguen siendo letales.
+En los años sesenta sobrevivía aproximadamente **1 de cada 4 personas con cáncer.** Hoy sobrevive **más de la mitad.** El objetivo es **superar el 70 % de supervivencia en 2030.** Y esa meta solo se consigue investigando.
 
-En los años 60 sobrevivía 1 de cada 4. Hoy sobrevive más de la mitad. El objetivo es superar el 70% en 2030. Ojo: todavía no está conseguido. Es una meta que se compra con investigación.
+Ahora mismo hay **792 proyectos de investigación en marcha.** Detrás de ellos hay **más de 3.000 investigadores** trabajando cada día para que los próximos pacientes tengan más respuestas de las que tuvo Raquel.
 
-Ahora mismo hay 792 proyectos en marcha. Y detrás no hay laboratorios vacíos: hay más de 3.000 investigadores trabajando cada día para que los próximos pacientes tengan más respuestas de las que tuvo Raquel.
+Y hay algo importante, porque sé que es una duda habitual.
 
-Y una cosa importante, porque sé lo que la gente piensa: para investigar, aquí no se acepta dinero de laboratorios farmacéuticos. Los proyectos los eligen comités científicos independientes. Sin intereses de por medio.
+Los proyectos de investigación se seleccionan mediante comités científicos independientes, siguiendo criterios científicos. La financiación procede principalmente de la sociedad, lo que permite impulsar esa investigación sin depender de intereses comerciales.
 
-¿Y quién sostiene toda esa red? Principalmente las personas. El 90% de lo que entra es privado. Y más de la mitad sale directamente de las cuotas de los socios. Personas normales, como tú y como yo, que un día decidieron que esta lucha también era suya.
+¿Y quién hace posible todo esto?
 
-Raquel es hoy las dos cosas a la vez. Fue la persona a la que acompañaron. Y hoy es una de las personas que está creando las respuestas que ella echó en falta.
+(Pausa.)
 
-Y su historia entera cabe en una sola frase: que nadie tenga que escuchar la palabra «cáncer» y quedarse solo con ella. Ni hoy, con alguien que descuelga el teléfono un domingo de madrugada. Ni mañana, con la investigación que convierte los tumores letales en tumores que se curan.
+Principalmente personas normales. Personas como tú y como yo, que un día decidieron que esta lucha también era suya.
 
-Eso es lo que sostienen los socios. *(pausa)* No una organización. Toda esa red.
+Raquel representa hoy las dos caras de esta historia.
+
+Primero fue la persona que necesitó ayuda.
+
+Hoy trabaja para que los próximos pacientes encuentren más respuestas de las que ella tuvo.
+
+(Pausa.)
+
+Y eso es, en el fondo, lo que hace un socio.
+
+Hace posible que, cuando alguien escuche mañana la palabra **«cáncer»**, encuentre a alguien al otro lado del teléfono, un profesional que le acompañe y una investigación que le dé más oportunidades que las que existían ayer.
 
 > 🔄 **RESPIRO 4 — toma la temperatura antes de pedir.**
 > 
@@ -127,15 +137,19 @@ Eso es lo que sostienen los socios. *(pausa)* No una organización. Toda esa red
 
 ## 🤝 Cierre *(petición clara)*
 
-*(Acotación: baja el ritmo. Pausa de 1-2 segundos antes de arrancar. Aquí es donde se decide.)*
+*(Acotación: baja el ritmo. Pausa de uno o dos segundos antes de empezar. Mira a la persona mientras hablas.)*
 
-> Por unos 12 euros al mes —lo que cuesta un par de cafés a la semana— tú puedes ser parte de esa red.
+Lo que hace posible todo esto son personas corrientes que un día decidieron implicarse.
 
-> No estarás pagando una cuota. Serás tú quien haga que alguien, esta misma noche, tenga a quien llamar. Y quien empuje la investigación que a Raquel le faltó.
+Con una pequeña aportación, ayudas a que alguien encuentre apoyo cuando más lo necesita y a que la investigación siga avanzando para que cada vez haya más historias con un final diferente.
 
-> Cuando Raquel necesitó ayuda, esa ayuda ya estaba ahí. Porque alguien, años antes, había decidido pagar su cuota por una desconocida. Hoy tú puedes ser ese alguien para una persona que todavía no sabe que va a necesitarlo.
+Cuando Raquel necesitó ayuda, esa ayuda ya existía. Había un teléfono al otro lado. Había profesionales para acompañarla. Y hoy puede investigar porque, durante años, miles de personas decidieron sostener esa red con una pequeña aportación.
 
-> ¿Te animas? *(pausa)* Para que la próxima Raquel encuentre respuestas donde ella encontró un vacío.
+Ahora esa decisión puede ser la tuya.
+
+¿Te animas a formar parte de la Asociación?
+
+(Pausa. Sonríe y espera la respuesta. No rellenes el silencio.)
 
 ---
 
