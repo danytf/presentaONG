@@ -146,9 +146,9 @@ Y déjame darte un dato que demuestra por qué investigar cambia vidas.
 
 *(Baja el ritmo. Este bloque se explica, no se recita.)*
 
-Cada punto que aumenta la supervivencia son miles de personas que hoy siguen aquí porque alguien investigó hace años.
+Cada punto que sube la supervivencia tiene nombre y apellidos.
 
-Son miles de personas que hoy siguen vivas porque alguien decidió investigar hace años.
+Son miles de personas que hoy siguen vivas porque alguien investigó hace años.
 
 El cáncer de mama supera hoy el **85 %** de supervivencia a cinco años.
 
