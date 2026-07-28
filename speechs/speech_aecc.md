@@ -4,7 +4,7 @@
 
 Hola, ¿me puedes dedicar un momento? Quiero contarte la historia de Raquel. Creo que ella explica mucho mejor que yo por qué estoy hoy aquí.
 
-> **Acotación:** Contacto visual. Sonrisa. Energía tranquila. No prometas "dos minutos": abre con la persona, no con el reloj.
+*(Contacto visual. Sonrisa. Energía tranquila. No prometas "dos minutos": abre con la persona, no con el reloj.)*
 
 ---
 
@@ -132,7 +132,7 @@ Impulsar la investigación.
 
 Y déjame darte un dato que demuestra por qué investigar cambia vidas.
 
-> **Baja el ritmo. Este bloque se explica, no se recita.**
+*(Baja el ritmo. Este bloque se explica, no se recita.)*
 
 Cada punto que aumenta la supervivencia tiene nombre y apellidos.
 
@@ -210,7 +210,7 @@ Y una investigación que siga abriendo caminos.
 
 ## 🤝 Cierre
 
-> Baja el ritmo. Mira a la persona. Haz una pausa antes de empezar.
+*(Baja el ritmo. Mira a la persona. Haz una pausa antes de empezar.)*
 
 Al final, todo esto existe por una razón muy sencilla.
 
