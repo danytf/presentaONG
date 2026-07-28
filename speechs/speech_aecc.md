@@ -48,11 +48,11 @@ El 900 100 036.
 
 (Pausa.)
 
-El año pasado atendió más de 240.000 llamadas. Muchas de ellas, cuando quien llamaba sentía que ya no tenía a nadie más al otro lado.
+El año pasado atendió más de 240.000 llamadas. Muchas de ellas, de personas que sentían que ya no tenían a nadie más al otro lado.
 
 Es un psicólogo que te atiende gratuitamente y sin lista de espera. Solo el año pasado, casi 59.000 personas recibieron ese apoyo.
 
-Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que desplazarte a otra provincia para recibir tratamiento, puedes alojarte gratuitamente junto a tu familia.
+Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que desplazarte a otra provincia para recibir tratamiento, puedes alojarte gratuitamente junto a tu familia. Para que lo único de lo que tengas que preocuparte sea de recuperarte.
 
 > 🔄 **RESPIRO 2 — la pregunta cuya respuesta convence sola.**
 > 
