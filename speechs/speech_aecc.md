@@ -4,7 +4,7 @@
 **Duración:** ~5-6 min de discurso (854 palabras) + 2-3 min de respuestas de la otra persona · **Hilo conductor:** Raquel Pérez-Aguilar (voz secundaria: Inma Serrano)
 **Datos:** fichero del proyecto, verificados julio 2026 (Memoria AECC 2025 · SEOM 2026)
 
-> ⚠️ **Esto no se recita.** Lleva 4 puntos de respiro marcados con 🔄 donde tienes que **parar, preguntar y escuchar**. Lo que la persona conteste ahí cambia cómo sigues. Ver la sección «Puntos de respiro» al final antes de salir a calle.
+> ⚠️ **Esto no se recita.** Lleva 4 puntos de respiro marcados con 🔄 donde tienes que **parar, preguntar y escuchar**. Lo que la persona conteste ahí cambia cómo sigues.
 
 ---
 
