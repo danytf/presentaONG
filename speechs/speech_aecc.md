@@ -10,7 +10,7 @@
 
 ## 🚦 Parada *(5-10 seg)*
 
-> ¿Te puedo robar un momento? Te quiero contar la historia de una persona real. Se llama Raquel, y su vida resume por qué estoy hoy aquí.
+> ¿Me puedes dedicar un momento? Me gustaría contarte la historia de una persona real. Se llama Raquel, y su vida resume por qué estoy hoy aquí.
 
 *(Acotación: contacto visual, sonrisa, energía tranquila. No prometas "dos minutos": abre con la persona, no con el reloj.)*
 
@@ -36,9 +36,9 @@ Porque en España, 1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cánc
 
 > 🔄 **RESPIRO 1 — el más importante de los cuatro.**
 > *(Pregunta y cállate. Aguanta el silencio aunque tarde en contestar.)*
->
+> 
 > **«¿Tú has tenido cerca a alguien que haya pasado por esto?»**
->
+> 
 > *(Casi todo el mundo dice que sí. A partir de aquí ya no hablas de cáncer en abstracto: hablas de la persona que acaba de nombrar. Ver ramificaciones al final.)*
 
 Y aquí viene lo que casi nadie sabe hasta que lo necesita.
@@ -56,9 +56,9 @@ Es un psicólogo que te atiende gratis y sin lista de espera. Solo el año pasad
 Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que irte a otra provincia a tratarte, te alojan gratis. A ti y a tu familia.
 
 > 🔄 **RESPIRO 2 — la pregunta cuya respuesta convence sola.**
->
+> 
 > **«¿Tú sabías que existía todo esto?»**
->
+> 
 > *(La respuesta es casi siempre «no». No la corrijas ni la remates: asiéntela. «Ya. Casi nadie lo sabe hasta que le toca.» Ese «no» acaba de demostrar tu argumento mejor que cualquier frase tuya.)*
 
 Raquel conoció muy bien esa parte. La de descubrir que, cuando todo se tambalea, alguien sigue ahí para sostenerte.
@@ -78,9 +78,9 @@ Hoy, con una Cátedra de la Asociación, investiga cómo integrar la fisioterapi
 Porque esa es la otra pata: la investigación.
 
 > 🔄 **RESPIRO 3 — saca las objeciones antes de que se enquisten.**
->
+> 
 > **«Oye, antes de seguir: ¿te está surgiendo alguna duda?»**
->
+> 
 > *(Aquí es donde suele salir el «¿y esto adónde va?». Mejor que salga ahora, contigo aún hablando, que en silencio mientras cierras. Si pregunta por el dinero, respóndele con el 59/25/16 y sigue. Si no pregunta nada, no insistas: enlaza y continúa.)*
 
 Y déjame darte un solo dato, porque demuestra algo muy importante.
@@ -110,9 +110,9 @@ Y su historia entera cabe en una sola frase: que nadie tenga que escuchar la pal
 Eso es lo que sostienen los socios. *(pausa)* No una organización. Toda esa red.
 
 > 🔄 **RESPIRO 4 — toma la temperatura antes de pedir.**
->
+> 
 > **«¿Cómo lo ves?»**
->
+> 
 > *(Tres palabras. No las sustituyas por «¿te gustaría colaborar?»: eso ya es la petición y se hace después. Aquí solo quieres saber dónde está. Si asiente o dice algo positivo, ve al cierre. Si duda, no cierres todavía: pregunta qué le frena y resuélvelo primero.)*
 
 ---
@@ -134,15 +134,19 @@ Eso es lo que sostienen los socios. *(pausa)* No una organización. Toda esa red
 ## 🙋 Objeciones típicas de calle *(respuesta en una línea)*
 
 **"¿Cómo sé que el dinero se usa bien?"**
+
 > Está auditado y publicado: 59% va a acompañar a pacientes, 25% a investigación y 16% a prevención, con sello de Fundación Lealtad y cuentas revisadas por Ernst & Young.
 
 **"¿Esto no debería pagarlo ya la sanidad pública?"**
+
 > La sanidad hace su parte y la hace bien: trata el tumor. Pero el psicólogo, el piso para tratarte lejos de casa o el teléfono a las 3 de la madrugada quedan fuera del hospital, y eso es justo lo que cubrimos.
 
 **"Con lo que yo aporte no se cura el cáncer."**
+
 > Más de la mitad de todo lo que entra sale de cuotas como la tuya; y el salto del cáncer de mama del 60% al 85% de supervivencia demuestra que la investigación sostenida por muchos sí cambia las cosas.
 
 **"Ya colaboré en la cuestación / compro la lotería."**
+
 > Y se agradece muchísimo; la diferencia es que hacerte socio permite planificar investigación a 5 y 7 años, que es como se ganan los tumores difíciles: con continuidad, no solo con un gesto puntual.
 
 ---
@@ -155,12 +159,12 @@ Eso es lo que sostienen los socios. *(pausa)* No una organización. Toda esa red
 
 Es el punto de mayor retorno de todo el guion. A partir de su respuesta dejas de hablar de cáncer en abstracto.
 
-| Si contesta… | Haz esto |
-|---|---|
-| **«Sí, mi madre / mi hermano / un compañero»** *(lo más frecuente)* | Pregunta una sola cosa más: **«¿Y cómo lo llevasteis?»** Escucha. Luego enlaza con lo que te haya contado: si menciona desplazamientos → los 44 pisos; si menciona el bajón anímico → el psicólogo; si menciona no saber a quién acudir → el 900 100 036. Ya no estás vendiendo un catálogo: le estás contando lo que le habría venido bien a su familia. |
-| **«Sí»** *(seco, sin desarrollar)* | No hurgues. **«Entonces sabes de lo que hablo.»** Y sigue el guion normal. El monosílabo suele ser dolor, no desinterés. |
-| **«No, por suerte»** | **«Pues ojalá siga así. Justamente por eso te lo cuento: esto funciona porque lo sostiene gente a la que todavía no le ha tocado.»** Es un enlace natural con el argumento de reciprocidad del cierre. |
-| **«Sí, ahora mismo. Mi padre está en tratamiento»** | ⚠️ **Para el speech.** No sigas vendiendo. Escucha, y dale lo que necesita ahora, no lo que tú necesitas: **«Apunta este número: 900 100 036. Es gratuito, 24 horas, y ahí te van a atender a ti también, no solo a él.»** Si después surge lo de hacerse socio, bien. Si no, has hecho lo correcto igualmente. Aprovechar el dolor inmediato de alguien para cerrar un alta es exactamente lo que este proyecto no hace. |
+| Si contesta…                                                        | Haz esto                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **«Sí, mi madre / mi hermano / un compañero»** *(lo más frecuente)* | Pregunta una sola cosa más: **«¿Y cómo lo llevasteis?»** Escucha. Luego enlaza con lo que te haya contado: si menciona desplazamientos → los 44 pisos; si menciona el bajón anímico → el psicólogo; si menciona no saber a quién acudir → el 900 100 036. Ya no estás vendiendo un catálogo: le estás contando lo que le habría venido bien a su familia.                                                                 |
+| **«Sí»** *(seco, sin desarrollar)*                                  | No hurgues. **«Entonces sabes de lo que hablo.»** Y sigue el guion normal. El monosílabo suele ser dolor, no desinterés.                                                                                                                                                                                                                                                                                                  |
+| **«No, por suerte»**                                                | **«Pues ojalá siga así. Justamente por eso te lo cuento: esto funciona porque lo sostiene gente a la que todavía no le ha tocado.»** Es un enlace natural con el argumento de reciprocidad del cierre.                                                                                                                                                                                                                    |
+| **«Sí, ahora mismo. Mi padre está en tratamiento»**                 | ⚠️ **Para el speech.** No sigas vendiendo. Escucha, y dale lo que necesita ahora, no lo que tú necesitas: **«Apunta este número: 900 100 036. Es gratuito, 24 horas, y ahí te van a atender a ti también, no solo a él.»** Si después surge lo de hacerse socio, bien. Si no, has hecho lo correcto igualmente. Aprovechar el dolor inmediato de alguien para cerrar un alta es exactamente lo que este proyecto no hace. |
 
 ### RESPIRO 2 · «¿Tú sabías que existía todo esto?»
 
@@ -191,6 +195,7 @@ Termómetro, no petición. La petición es el bloque siguiente.
 ## 📌 Notas para el captador
 
 **Criterio de cifras aplicado**
+
 - Exactas solo en datos estables: 85% (mama), 7-10% (páncreas), 70% (Reto 2030), 90% (ingresos privados), 44 (pisos), 52 (provincias), 792 (proyectos), 12 € (cuota), 900 100 036.
 - "Más de…" en lo que crece: más de 760.000 socios, más de 177.000 atendidas, más de 240.000 llamadas, más de 1.800 puntos, más de 3.000 investigadores.
 - **No mezclar** supervivencia media (~60% hoy; 25% en los 60; Reto 70%) con supervivencias por tumor (85% mama / 7-10% páncreas). En el discurso van en beats separados a propósito.
@@ -198,10 +203,12 @@ Termómetro, no petición. La petición es el bloque siguiente.
 - **No usar** el 94% de la Fundación Científica junto al 59/25/16 de la Asociación: son cosas distintas. En este guion se usa el 59/25/16 (objeción de fondos); el 94% no aparece.
 
 **Sobre la declaración de intenciones inicial**
+
 - El arranque *"vengo a buscar socios para la Asociación. Pero antes de pedirte nada, déjame contarte por qué"* es deliberado. Quita el filo al momento en que aparece la cuota: nadie se siente emboscado si se lo dijiste tú primero. **No lo elimines para ganar segundos.**
 - Está redactado para que sea verdad lo diga quien lo diga. Si además eres socio, dilo ("soy socio y vengo a buscar más") — suma. Si no lo eres, no lo digas.
 
 **Frases clave que no deben caerse**
+
 - "La sanidad pública trata el tumor. Pero nadie te enseña a seguir viviendo mientras dura. La Asociación se ocupa de todo lo demás." (primer tercio; la pausa va antes de la tercera frase, no antes de la segunda)
 - El cierre de reciprocidad: *"hubo gente anónima que hizo posible que ella recibiera ayuda… hoy tú puedes ser esa gente"*. Es el argumento de cadena: el socio no paga, ocupa el lugar que otro ocupó antes por Raquel. No lo cambies por una fórmula de "llenar el vacío": eso ya lo hace la frase final.
 - El **900 100 036**: única línea de atención oncológica 24h/365 de toda Europa, gratuita. (primer tercio)
@@ -209,20 +216,25 @@ Termómetro, no petición. La petición es el bloque siguiente.
 - El contraste **mama 85% / páncreas 7-10%** como prueba de que la investigación funciona.
 
 **Cómo hablar de la financiación (importante)**
+
 - NO digas "no recibe dinero público". Lo correcto: **el 90% de los ingresos es privado** y **más de la mitad sale de cuotas de socios**.
 - Refuerzo verificado y potente: para investigación **no acepta dinero de laboratorios farmacéuticos**; deciden **comités científicos independientes**.
 - NO inventes un "% de administración": ese desglose separado no existe en el fichero.
 
 **Tono con "1 de cada 2"**
+
 - Úsalo para "no es una enfermedad de otros", nunca para asustar ni con "te va a tocar". Equilibra siempre con esperanza (25% en los 60 → más de la mitad hoy).
 
 **Sobre el dato "única línea de toda Europa 24h/365"**
+
 - Está en el fichero (Informe/Memoria AECC 2025) y es un gancho excelente, así que se usa. Pero es una afirmación **institucional de la propia AECC**, no una auditoría independiente de servicios europeos comparables. Si alguien lo cuestiona, atribúyelo con naturalidad ("según la propia Asociación") en lugar de defenderlo como un hecho verificado por terceros. El servicio en sí —24h, 365 días, gratuito— sí está plenamente documentado.
 
 **Otros avisos**
+
 - El **70% en 2030 es un objetivo, no un logro**: preséntalo como meta.
 - **No cruzar datos con la Fundación Josep Carreras** (también es cáncer, también tiene pisos de acogida y trasplantes de médula): Raquel, el 900 100 036, los 44 pisos y las cifras de este guion son de la AECC.
 - Raquel Pérez-Aguilar e Inma Serrano son **personas reales** del fichero. La "mujer del día cualquiera" del speech de ejemplo del fichero es un caso ilustrativo compuesto: si lo usas, dilo.
 
 **Vigencia**
+
 - Datos verificados **julio 2026**, sobre **Memoria AECC 2025** y **SEOM 2026**. Si ha pasado tiempo, alguna cifra de personas atendidas o socios puede haber crecido; el criterio "más de…" cubre esa variación.
