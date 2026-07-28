@@ -34,17 +34,25 @@ En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a 
 
 Y aquí viene lo que casi nadie sabe hasta que lo necesita.
 
-Porque un diagnóstico no es solo el tumor. De repente estás de baja y no sabes qué papeles pedir. Te falta dinero. Tienes miedo y no sabes con quién hablarlo.
+Porque un diagnóstico no es solo el tumor. De repente tienes que enfrentarte a muchas cosas a la vez. Estás de baja y no sabes qué ayudas puedes pedir. Te preocupa el dinero. Tienes miedo. Y muchas veces no sabes con quién hablar.
 
-La sanidad pública trata el tumor. Pero nadie te enseña a seguir viviendo mientras dura. *(pausa)* La Asociación se ocupa de todo lo demás.
+La sanidad pública trata la enfermedad. Pero hay muchas necesidades que van más allá del tratamiento médico. Ahí es donde entra la Asociación.
 
-¿Y qué es «todo lo demás»?
+¿Y qué significa eso?
 
-Es un teléfono gratuito, abierto las 24 horas del día, los 365 días del año. El 900 100 036. La única línea de atención oncológica de toda Europa. El año pasado atendió más de 240.000 llamadas. Muchas, a horas en las que no hay nadie más al otro lado.
+Es un teléfono gratuito, abierto las 24 horas del día, los 365 días del año.
 
-Es un psicólogo que te atiende gratis y sin lista de espera. Solo el año pasado, casi 59.000 personas recibieron ese apoyo.
+(Pausa.)
 
-Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que irte a otra provincia a tratarte, te alojan gratis. A ti y a tu familia.
+El 900 100 036.
+
+(Pausa.)
+
+El año pasado atendió más de 240.000 llamadas. Muchas de ellas, cuando quien llamaba sentía que ya no tenía a nadie más al otro lado.
+
+Es un psicólogo que te atiende gratuitamente y sin lista de espera. Solo el año pasado, casi 59.000 personas recibieron ese apoyo.
+
+Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que desplazarte a otra provincia para recibir tratamiento, puedes alojarte gratuitamente junto a tu familia.
 
 > 🔄 **RESPIRO 2 — la pregunta cuya respuesta convence sola.**
 > 
