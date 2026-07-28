@@ -22,15 +22,40 @@ assets/             tipografías, logos y hoja de estilos de los speeches
 tools/              scripts de generación
 ```
 
-## Regenerar los speeches
+## Cambiar un speech
 
-Los `.md` de `speechs/` son la fuente. Tras editarlos:
+Los `.md` de `speechs/` son la fuente; el `.html` se genera a partir de ellos.
+
+**La forma rápida, sin instalar nada:**
+
+1. Abre el `.md` en GitHub, por ejemplo
+   [speechs/speech_aecc.md](speechs/speech_aecc.md)
+2. Pulsa el icono del lápiz (*Edit this file*)
+3. Escribe y pulsa **Commit changes**
+
+A partir de ahí es automático: un GitHub Action regenera el HTML y la web se
+actualiza en 1-2 minutos. Funciona también desde el móvil. El progreso se ve
+en la pestaña **Actions** del repositorio.
+
+**Si prefieres trabajar en local**, edita el `.md` con tu editor y lanza:
 
 ```bash
 node tools/build-speeches.js
 ```
 
 Reescribe los `speech_*.html` por completo. No requiere dependencias.
+
+### Ocultar secciones de un speech
+
+En `tools/build-speeches.js`, cada ONG admite un array `ocultar` con las
+secciones que no se publican (el texto sigue en el `.md`):
+
+```js
+aecc: { …, ocultar: ['Objeciones', 'Respiros', 'Notas'] },
+```
+
+Afecta solo a secciones de primer nivel (`##`). Las llamadas 🔄 intercaladas
+dentro del Discurso se mantienen: son parte del guion hablado.
 
 Si en algún momento se reexporta `index.html` desde la herramienta que genera
 los bundles, hay que volver a aplicar el parche de las tarjetas:

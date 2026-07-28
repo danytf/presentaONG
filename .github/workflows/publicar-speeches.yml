@@ -1,0 +1,73 @@
+name: Publicar speeches
+
+# Regenera speechs/*.html cuando cambia algun .md y lo devuelve a la rama.
+# Asi se puede editar el guion desde github.com sin tocar el PC: al guardar
+# el cambio, esto reconstruye la pagina y GitHub Pages la publica sola.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'speechs/**.md'
+      - 'tools/build-speeches.js'
+      - 'assets/speech.css'
+      - '.github/workflows/publicar-speeches.yml'
+  workflow_dispatch:        # permite lanzarlo a mano desde la pestana Actions
+
+# Sin esto el robot no puede devolver el HTML reconstruido a la rama.
+permissions:
+  contents: write
+
+# Si se guardan dos cambios seguidos, cancela el build viejo y deja solo el ultimo.
+concurrency:
+  group: publicar-speeches
+  cancel-in-progress: true
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+        # build-speeches.js solo usa modulos de Node, no hay dependencias que instalar
+
+      - name: Regenerar los HTML
+        run: node tools/build-speeches.js
+
+      - name: Publicar si algo ha cambiado
+        run: |
+          if git diff --quiet -- speechs; then
+            echo "Los .html ya estaban al dia. No hay nada que publicar."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add speechs
+          git commit -m "Regenerar speeches desde los .md [skip ci]"
+
+          # Si alguien ha guardado otro cambio mientras corria esto, rebasa y reintenta
+          for intento in 1 2 3; do
+            if git push; then
+              echo "Publicado."
+              exit 0
+            fi
+            echo "La rama se ha movido, reintento $intento..."
+            git pull --rebase origin main
+          done
+          echo "No se ha podido publicar tras 3 intentos."
+          exit 1
+
+      - name: Resumen
+        if: always()
+        run: |
+          {
+            echo "### Speeches"
+            echo ""
+            echo "Si el paso anterior dice *Publicado*, la web tarda 1-2 minutos mas en actualizarse:"
+            echo ""
+            echo "<https://danytf.github.io/presentaONG/>"
+          } >> "$GITHUB_STEP_SUMMARY"
