@@ -172,9 +172,9 @@ Y hay algo importante, porque sé que muchas personas se lo preguntan.
 
 Los proyectos se seleccionan mediante comités científicos independientes, valorando únicamente su calidad científica.
 
-Y buena parte de esa investigación se financia gracias a la sociedad.
+Y más de la mitad de todo lo que entra sale de las cuotas de los socios.
 
-Gracias a personas que decidieron implicarse.
+Personas normales, como tú y como yo, que un día decidieron que esto también era suyo.
 
 > 🔄 **RESPIRO 3 — Saca las objeciones antes de que aparezcan al final.**
 >
