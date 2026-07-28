@@ -1,10 +1,14 @@
 # 🎯 Speech de captación AECC
 
-## 🚦 Parada (5-10 segundos)
+## 🚦 Parada (10-15 segundos)
 
-Hola, ¿me puedes dedicar un momento? Quiero contarte la historia de Raquel. Creo que ella explica mucho mejor que yo por qué estoy hoy aquí.
+Hola, ¿me permites un momento?
 
-*(Contacto visual. Sonrisa. Energía tranquila. No prometas "dos minutos": abre con la persona, no con el reloj.)*
+Soy [tu nombre] y trabajo con la Asociación Española Contra el Cáncer, buscando gente que quiera formar parte.
+
+Pero antes de nada, déjame que te cuente la historia de Raquel.
+
+*(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo: mucha gente te devolverá el suyo, y a partir de ahí ya es una conversación. No cambies «un momento» por «dos minutos»: es una promesa que vas a romper.)*
 
 ---
 
