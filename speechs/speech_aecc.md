@@ -21,7 +21,7 @@ Y ese vacío no era solo el suyo, sino el de miles de personas que llegarían de
 
 **Por personas como Raquel estoy hoy aquí. Busco el apoyo de quienes quieran hacer posible todo esto. Pero antes, déjame enseñarte por qué esa ayuda es tan necesaria.**
 
-Y basta un solo dato para entenderlo.
+Y para entenderlo, basta con un solo dato.
 
 En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.** Muchas veces pensamos que el cáncer es algo que les pasa a otros. Pero las cifras dicen otra cosa. Es una realidad que, antes o después, acaba formando parte de la vida de casi todos nosotros.
 
@@ -56,13 +56,13 @@ Es un techo. Hay 44 pisos y residencias por toda España. Si tienes que desplaza
 
 (Pausa.)
 
-Eso fue lo que encontró Raquel cuando más lo necesitaba.
+Eso fue lo que encontró Raquel cuando más lo necesitaba. Y es por lo que la Asociación trabaja cada día para cualquier persona que pase por lo mismo.
 
 > 🔄 **RESPIRO 2 — la pregunta cuya respuesta convence sola.**
 > 
 > **«¿Tú sabías que existía todo esto?»**
 > 
-> *(La respuesta es casi siempre «no». No la corrijas ni la remates: asiéntela. «Ya. Casi nadie lo sabe hasta que le toca.» Ese «no» acaba de demostrar tu argumento mejor que cualquier frase tuya.)*
+> *(La respuesta es casi siempre «no». No la corrijas ni la remates: asiéntela. «Es normal. Casi nadie lo sabe hasta que le toca.» Ese «no» acaba de demostrar tu argumento mejor que cualquier frase tuya.)*
 
 Raquel conoció muy bien esa parte. La de descubrir que, cuando todo se tambalea, alguien sigue ahí para sostenerte.
 
