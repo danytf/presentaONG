@@ -90,6 +90,36 @@ Hoy, cada vez que alguien como Marta encuentra un donante, recibe apoyo durante 
 
 ## 🤝 Cierre
 
-"Hoy tú también puedes formar parte de esa historia. Con la cuota mensual que tú elijas ayudas a que la próxima persona que reciba un diagnóstico como el de Marta tenga más posibilidades de encontrar a alguien compatible, a impulsar nuevos tratamientos y a que ninguna familia recorra ese camino sola. ¿Te animas a hacerte socio?"
+*(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
+
+Cuando a Marta le dieron el diagnóstico, nada de lo que la sostuvo apareció ese día.
+
+El REDMO llevaba más de treinta años funcionando.
+
+El piso junto al hospital estaba porque una socia decidió dejarlo en herencia.
+
+Y había gente investigando desde mucho antes de que ella enfermara.
+
+*(Pausa.)*
+
+Todo eso existe porque más de 150.000 personas decidieron hacerse socias.
+
+Personas que nunca conocerán a quien están ayudando.
+
+*(Pausa.)*
+
+Hoy tú también puedes formar parte de esa historia.
+
+Para que la próxima persona que reciba ese diagnóstico encuentre a alguien compatible.
+
+Para que existan tratamientos que hoy no existen.
+
+Y para que ninguna familia recorra ese camino sola.
+
+*(Silencio de dos segundos. Sonríe.)*
+
+**¿Te animas a hacerte socio?**
+
+*(Silencio absoluto.)*
 
 ---
