@@ -104,6 +104,12 @@ Concepción dio su casa una vez. Que los nueve sigan abiertos cada mes, eso lo s
 
 Concepción nunca conoció a Marta. Ni a ninguno de los pacientes que han dormido en su casa desde entonces.
 
+Y hubo algo más, menos visible.
+
+Cada vez que Marta no entendía algo —un análisis, una palabra que le habían dicho de pasada, qué venía después— tuvo a quién preguntar. La Fundación tiene un equipo dedicado solo a eso: más de **22.000 consultas médicas** resueltas a pacientes y familias.
+
+Porque nadie sale de una consulta de oncología entendiendo la mitad de lo que le han dicho.
+
 Encontrar un donante salva vidas hoy. Descubrir nuevos tratamientos puede salvar las de mañana.
 
 El trasplante que salvó a Marta también salió de un laboratorio.
