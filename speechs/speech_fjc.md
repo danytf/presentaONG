@@ -70,7 +70,7 @@ Uno entre tres mil quinientos es una probabilidad diminuta. Por eso el registro 
 
 Medio millón de personas registradas solo en España. Y así esa probabilidad se convierte en que más de **8 de cada 10 pacientes** encuentren a su donante.
 
-Desde que existe el REDMO se han hecho posibles más de **15.000 trasplantes**.
+Desde que existe el REDMO se han hecho posibles **15.000 trasplantes**.
 
 Y ahora mismo, mientras tú y yo hablamos, hay más de mil personas en España esperando a que aparezca el suyo.
 
