@@ -150,7 +150,7 @@ Los proyectos son evaluados por comités científicos independientes y se financ
 
 Y todo esto existe, sobre todo, gracias a miles de personas normales que decidieron aportar un poco cada mes.
 
-Personas que probablemente nunca conocerán a quienes están ayudando.
+Personas como tú y como yo, que probablemente nunca conocerán a quienes están ayudando.
 
 > 🔄 **RESPIRO 3**
 >
