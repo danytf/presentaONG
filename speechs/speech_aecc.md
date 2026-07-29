@@ -170,7 +170,7 @@ Y hay algo importante, porque sé que muchas personas se lo preguntan.
 
 Los proyectos se seleccionan mediante comités científicos independientes, valorando únicamente su calidad científica.
 
-Y más de la mitad de todo lo que entra sale de las cuotas de los socios.
+Y de todo lo que entra, la mayor parte son cuotas de socios.
 
 Personas normales, como tú y como yo, que un día decidieron que esto también era suyo.
 
