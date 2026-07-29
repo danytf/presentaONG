@@ -174,7 +174,7 @@ Y gracias a ellas, hoy trabaja para que otras personas tengan más oportunidades
 >
 > **«¿Cómo lo ves?»**
 >
-> *((Escucha. Si aparecen dudas, resuélvelas antes de llegar al cierre.)*
+> *(Escucha. Si aparecen dudas, resuélvelas antes de llegar al cierre.)*
 
 ---
 
