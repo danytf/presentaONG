@@ -108,6 +108,14 @@ Todo lo que Marta encontró esperándola, él lo puso en marcha.
 
 Marta no estuvo sola. Que es exactamente lo que él quería.
 
+Pero eso era solo la mitad.
+
+La otra mitad —que la leucemia se cure— todavía no está conseguida.
+
+*(Pausa.)*
+
+Hasta que la curemos, no pararemos.
+
 > 🔄 **RESPIRO 4**
 >
 > **«¿Cómo lo ves?»**
