@@ -210,6 +210,8 @@ Y esa red solo puede seguir existiendo si hoy otras personas deciden continuar s
 
 *(Pausa.)*
 
+Por eso estoy hoy aquí.
+
 Hoy tú puedes ser una de ellas.
 
 *(Pausa breve.)*
