@@ -84,6 +84,31 @@ a alguien únicamente lo que necesita, sin darle el paquete entero.
 No hay ningún enlace entre ellos: ni vuelta a una portada ni salto a la
 presentación hermana. Cada fichero va por su cuenta.
 
+## Generar PDF
+
+```bash
+node tools/a-pdf.js                    los 7 speeches
+node tools/a-pdf.js aecc               solo uno
+node tools/presentacion-a-pdf.js aecc  una presentación
+```
+
+Salen a `dist/pdf/`.
+
+Los **speeches** se generan en A4 vertical con la hoja de impresión que ya
+llevan: sin barra ni navegador, encabezado en blanco y los bloques sin
+partirse entre páginas. El texto es real: se puede buscar y copiar.
+
+Las **presentaciones** son un pase de diapositivas de 1440×900 y se exportan
+respetando ese formato: páginas apaisadas con la misma proporción, una lámina
+por página. Ahí el texto va como imagen, que es lo normal en un pase exportado.
+
+Estas dos herramientas son las únicas del proyecto con dependencias:
+
+```bash
+npm install -D playwright
+npx playwright install chromium
+```
+
 ### Ocultar secciones de un speech
 
 En `tools/build-speeches.js`, cada ONG admite un array `ocultar` con las
