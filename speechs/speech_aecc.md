@@ -4,7 +4,7 @@
 
 Hola, ¿me permites un momento?
 
-Soy [tu nombre] de la la Asociación Española Contra el Cáncer.
+Soy [tu nombre] de la Asociación Española Contra el Cáncer.
 
 Antes de explicarte por qué estoy aquí, déjame contarte la historia de Raquel.
 
@@ -68,7 +68,7 @@ Pero la persona necesita muchas más cosas.
 
 Y eso fue lo que encontró Raquel cuando llegó a la Asociación.
 
-Cuando tuvo una duda y ya no sabía a quién llamar, encontró un teléfono que siempre estaba **disponible
+Cuando tuvo una duda y ya no sabía a quién llamar, encontró un teléfono que siempre estaba **disponible**.
 
 **Infocáncer, 900 100 036.**
 
