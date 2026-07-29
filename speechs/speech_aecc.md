@@ -66,7 +66,7 @@ Porque el hospital trata la enfermedad.
 
 Pero la persona necesita muchas más cosas.
 
-Y eso fue lo que encontró Raquel cuando llegó a la Asociación.
+Y fue entonces cuando Raquel descubrió que no tenía que recorrer ese camino sola.
 
 Cuando tuvo una duda y ya no sabía a quién llamar, encontró un teléfono que siempre estaba disponible.
 
@@ -140,7 +140,7 @@ Esa diferencia no es casualidad.
 
 Es investigación.
 
-Cada avance científico significa miles de personas que hoy siguen vivas porque alguien decidió investigar años antes
+Cada avance científico significa miles de personas que hoy siguen vivas porque alguien decidió investigar años antes.
 
 Por eso la Asociación impulsa actualmente cerca de **800 proyectos de investigación, desarrollados por más de 3.000 investigadores.**
 
@@ -186,7 +186,7 @@ Y gracias a ellas, hoy trabaja para que otras personas tengan más oportunidades
 
 *(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
 
-Al principio te hablé de Raquel.
+Y esta es la historia de Raquel.
 
 Cuando recibió aquel diagnóstico, no conocía a nadie de la Asociación.
 
