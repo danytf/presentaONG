@@ -33,6 +33,8 @@ A partir de ese momento, su vida pasa a depender de alguien a quien nunca ha vis
 > **«¿Tú eres donante de médula?»**
 >
 > *(Quien tienes delante no solo puede pagar una cuota: podría ser el donante. Pregunta y escucha de verdad. Pero no estás captando donantes, estás captando socios: informa, no presiones — donar médula es una decisión médica.)*
+>
+> *(Si aparece el miedo de siempre —«¿eso no es pincharte en la columna?»—: el 81 % de las donaciones se hacen por aféresis, sin cirugía, por un proceso parecido a donar sangre. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
