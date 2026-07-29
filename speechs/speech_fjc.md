@@ -43,7 +43,7 @@ Que sea un servicio oficial no significa que lo financie el Estado en solitario.
 >
 > **«¿Tú pensabas que esto lo pagaba entero el Estado?»**
 >
-> *(Casi siempre dicen que sí. Ese "sí" es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.» Si te pide cifras exactas, tienes el convenio del BOE en las objeciones — 100.000 € el Ministerio, 100.000 € la Fundación.)*
+> *(Casi siempre dicen que sí. Ese "sí" es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.» Si te pide cifras, el convenio del BOE son 100.000 € del Ministerio y 100.000 € de la Fundación.)*
 
 Para Marta, ese donante no era un número en un registro. Era la posibilidad de seguir viviendo.
 
