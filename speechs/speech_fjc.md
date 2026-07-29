@@ -96,7 +96,13 @@ Marta no tuvo que pagarlo.
 
 Durmió en un piso junto al Hospital Clínic de Barcelona que existe porque una señora llamada Concepción decidió dejar su casa en herencia a la Fundación.
 
-Concepción nunca conoció a Marta. Ni a ninguna de las más de cien familias que han pasado por ahí desde entonces.
+Hoy la Fundación tiene nueve pisos abiertos en Barcelona. Solo el año pasado alojaron a más de cien familias.
+
+Concepción dio su casa una vez. Que los nueve sigan abiertos cada mes, eso lo sostienen los socios.
+
+*(Pausa.)*
+
+Concepción nunca conoció a Marta. Ni a ninguno de los pacientes que han dormido en su casa desde entonces.
 
 Encontrar un donante salva vidas hoy. Descubrir nuevos tratamientos puede salvar las de mañana.
 
