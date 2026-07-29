@@ -2,9 +2,17 @@
 
 ---
 
-## 🚦 Parada (10-15 seg)
+## 🚦 Parada (10-15 segundos)
 
-"¿Me permites un momento? Déjame contarte una historia. Le podría pasar a cualquiera — de hecho, le pasa a miles de personas con leucemia cada año."
+Hola, ¿me permites un momento?
+
+Soy [tu nombre], colaborador de la Fundación Josep Carreras contra la Leucemia.
+
+Antes de explicarte por qué estoy aquí, déjame contarte una historia. Le podría pasar a cualquiera.
+
+De hecho, le pasa a miles de personas cada año.
+
+*(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
 
 *(Marta es un caso construido para contar el proceso real que viven los pacientes: el diagnóstico, la búsqueda de donante, el desplazamiento y la espera son lo que ocurre de verdad, y todas las cifras están verificadas. Si te preguntan si existe, no la conviertas en real sobre la marcha.)*
 
@@ -143,6 +151,8 @@ Todo eso existe porque más de 150.000 personas decidieron hacerse socias.
 Personas que nunca conocerán a quien están ayudando.
 
 *(Pausa.)*
+
+Por eso estoy hoy aquí.
 
 Hoy tú también puedes formar parte de esa historia.
 
