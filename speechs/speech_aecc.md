@@ -148,7 +148,7 @@ Que los próximos pacientes tengan más oportunidades de las que tuvo Raquel.
 
 Los proyectos son evaluados por comités científicos independientes y se financian por su calidad científica.
 
-Y todo esto existe, sobre todo, gracias a miles de personas normales que decidieron aportar un poco cada mes.
+Y todo esto existe, sobre todo, gracias a miles de personas que decidieron apoyarnos.
 
 Personas como tú y como yo, que probablemente nunca conocerán a quienes están ayudando.
 
