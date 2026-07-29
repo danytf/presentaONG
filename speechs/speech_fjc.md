@@ -74,7 +74,9 @@ Que sea un servicio oficial no significa que lo pague el Estado entero. La Funda
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
-Muchas familias tienen que desplazarse cientos de kilómetros para recibir el tratamiento y permanecer semanas o incluso meses lejos de casa. Para que esa situación no suponga también un problema económico, la Fundación dispone de pisos y hoteles solidarios que cada año acogen a más de un centenar de familias, evitando gastos que pueden llegar a casi 20.000 euros por estancia.
+A Marta le toca tratarse a cientos de kilómetros de su casa. Semanas, puede que meses, lejos de los suyos.
+
+Y eso, además del miedo, es dinero: una estancia así puede costar casi **20.000 euros**.
 
 > 🔄 **RESPIRO 3**
 >
@@ -82,9 +84,11 @@ Muchas familias tienen que desplazarse cientos de kilómetros para recibir el tr
 >
 > *(Deja que conteste de verdad. Casi nadie puede, y decirlo en voz alta convierte el piso solidario de "servicio" en "eso me habría salvado a mí". La frase que sigue aterriza sola.)*
 
-Y a veces esa ayuda llega de personas que nunca conocerán al paciente al que están cambiando la vida.
+Marta no tuvo que pagarlo.
 
-Uno de esos pisos, junto al Hospital Clínic de Barcelona, existe gracias al legado de una socia llamada Concepción, que decidió donar su vivienda a la Fundación. Desde entonces ha acogido a más de 150 pacientes y sus familias.
+Durmió en un piso junto al Hospital Clínic de Barcelona que existe porque una señora llamada Concepción decidió dejar su casa en herencia a la Fundación.
+
+Concepción nunca conoció a Marta. Ni a ninguna de las más de cien familias que han pasado por ahí desde entonces.
 
 Encontrar un donante salva vidas hoy. Descubrir nuevos tratamientos puede salvar las de mañana.
 
@@ -114,7 +118,7 @@ Cuando a Marta le dieron el diagnóstico, nada de lo que la sostuvo apareció es
 
 El REDMO llevaba más de treinta años funcionando.
 
-El piso junto al hospital estaba porque una socia decidió dejarlo en herencia.
+Concepción ya había dejado su casa.
 
 Y había gente investigando desde mucho antes de que ella enfermara.
 
