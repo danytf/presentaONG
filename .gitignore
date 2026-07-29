@@ -16,3 +16,8 @@ $RECYCLE.BIN/
 *.tmp
 *.bak
 ~$*
+
+# El paquete de un solo archivo se genera con tools/empaquetar.js.
+# Son ~11 MB que cambian con cada edicion: en el historial de git se
+# acumularian para siempre. Se regenera cuando haga falta repartirlo.
+dist/

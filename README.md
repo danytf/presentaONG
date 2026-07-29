@@ -45,6 +45,26 @@ node tools/build-speeches.js
 
 Reescribe los `speech_*.html` por completo. No requiere dependencias.
 
+## Repartir el material en un solo archivo
+
+Para enviarlo por Teams, por correo o llevarlo a un equipo sin conexión:
+
+```bash
+node tools/empaquetar.js
+```
+
+Genera `dist/Formaciones ONG.html` (~11 MB) con la portada, las 7
+presentaciones y los 7 speeches dentro. Se abre con doble clic, no necesita
+servidor ni internet, y no hay ninguna carpeta que conservar: es un archivo.
+
+Quien lo reciba solo tiene que abrirlo. Las tarjetas funcionan igual que en la
+web, y para volver desde una presentación está la barra superior.
+
+Las presentaciones necesitan un navegador moderno (Chrome 80, Edge 80, Firefox
+113 o Safari 16.4 en adelante). Los speeches funcionan en cualquiera.
+
+El archivo generado no se sube a git: se regenera cuando haga falta.
+
 ### Ocultar secciones de un speech
 
 En `tools/build-speeches.js`, cada ONG admite un array `ocultar` con las
