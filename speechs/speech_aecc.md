@@ -68,7 +68,7 @@ Pero la persona necesita muchas más cosas.
 
 Y eso fue lo que encontró Raquel cuando llegó a la Asociación.
 
-Cuando tuvo una duda y ya no sabía a quién llamar, encontró un teléfono que siempre estaba **disponible**.
+Cuando tuvo una duda y ya no sabía a quién llamar, encontró un teléfono que siempre estaba disponible.
 
 **Infocáncer, 900 100 036.**
 
