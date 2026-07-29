@@ -138,6 +138,8 @@ En cambio, el cáncer de páncreas apenas alcanza **entre un 7 % y un 10 %.**
 
 Esa diferencia no es casualidad.
 
+*(Pausa.)*
+
 Es investigación.
 
 Cada avance científico significa miles de personas que hoy siguen vivas porque alguien decidió investigar años antes.
@@ -186,9 +188,7 @@ Y gracias a ellas, hoy trabaja para que otras personas tengan más oportunidades
 
 *(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
 
-Y esta es la historia de Raquel.
-
-Cuando recibió aquel diagnóstico, no conocía a nadie de la Asociación.
+Cuando Raquel recibió aquel diagnóstico, no conocía a nadie de la Asociación.
 
 Sin embargo, la Asociación ya estaba allí esperándola.
 
@@ -218,8 +218,8 @@ Por eso estoy hoy aquí.
 
 Porque hoy tú también puedes ser una de esas personas.
 
-*(Pausa breve.)*
+*(Silencio de dos segundos. Sonríe.)*
 
 **¿Te animas a hacerte socio de la Asociación Española Contra el Cáncer?**
 
-*(Sonríe. Guarda silencio. Mantén el contacto visual y espera la respuesta. El silencio forma parte del cierre.)*
+*(Silencio absoluto.)*
