@@ -70,6 +70,8 @@ Medio millón de personas registradas solo en España. Y así esa probabilidad s
 
 Desde que existe el REDMO se han hecho posibles más de **15.000 trasplantes**.
 
+Y ahora mismo, mientras tú y yo hablamos, hay más de mil personas en España esperando a que aparezca el suyo.
+
 Y todo eso hay que pagarlo.
 
 Que sea un servicio oficial no significa que lo pague el Estado entero. La Fundación también pone recursos propios para que el registro no deje de funcionar ni un día.
