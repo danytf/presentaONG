@@ -4,7 +4,7 @@
 
 Hola, ¿me permites un momento?
 
-Soy [tu nombre] de la Asociación Española Contra el Cáncer.
+Soy [tu nombre], colaborador de la Asociación Española Contra el Cáncer.
 
 Antes de explicarte por qué estoy aquí, déjame contarte la historia de Raquel.
 
