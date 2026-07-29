@@ -14,7 +14,7 @@ De hecho, le pasa a miles de personas cada año.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
 
-*(Marta es un caso construido para contar el proceso real que viven los pacientes: el diagnóstico, la búsqueda de donante, el desplazamiento y la espera son lo que ocurre de verdad, y todas las cifras están verificadas. Si te preguntan si existe, no la conviertas en real sobre la marcha.)*
+*(Marta es un caso construido para contar el proceso real que viven los pacientes: el diagnóstico, la búsqueda de donante, el desplazamiento y la espera son lo que ocurre de verdad, y todas las cifras están verificadas. Si te preguntan si existe, tienes la respuesta preparada: «No es una persona concreta. Es el recorrido real de un paciente, y las cifras son reales.» Dilo con naturalidad y sigue — no es una confesión, es una aclaración.)*
 
 ---
 
