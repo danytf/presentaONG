@@ -12,7 +12,7 @@ Antes de explicarte por qué estoy aquí, déjame contarte la historia de Raquel
 
 ---
 
-## 🗣️ Discurso (~5 minutos)
+## 🗣️ Discurso (~7 minutos)
 
 Raquel es fisioterapeuta.
 
@@ -22,7 +22,7 @@ Hasta que un día fue ella quien acabó tumbada en una.
 
 Le diagnosticaron un cáncer.
 
-Y, como les ocurre a muchísimas personas, sintió que el suelo desaparecía bajo sus pies.
+Y sintió que el suelo desaparecía bajo sus pies.
 
 De un día para otro, su vida dio un vuelco.
 
@@ -47,8 +47,6 @@ Y empiezan las preguntas.
 *(Pausa.)*
 
 Muchas veces pensamos que el cáncer es algo que les pasa a otros.
-
-Pero la realidad es muy distinta.
 
 En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.**
 
@@ -94,7 +92,7 @@ Para que la única preocupación fuera recuperarse.
 
 Eso fue lo que encontró Raquel cuando más lo necesitaba.
 
-Y eso es lo que la Asociación intenta ofrecer cada día.
+Y eso es lo que la Asociación ofrece cada día.
 
 Que nadie tenga que enfrentarse al cáncer sin apoyo.
 
@@ -142,7 +140,7 @@ Esa diferencia no es casualidad.
 
 Es investigación.
 
-Cada avance científico significa miles de personas que hoy siguen vivas porque alguien decidió investigar años antes.
+Cada avance científico significa vidas que hoy continúan porque alguien investigó años antes.
 
 Por eso la Asociación impulsa actualmente cerca de **800 proyectos de investigación, desarrollados por más de 3.000 investigadores.**
 
@@ -150,7 +148,9 @@ Con un único objetivo:
 
 Que los próximos pacientes tengan más oportunidades de las que tuvo Raquel.
 
-Los proyectos son evaluados por comités científicos independientes y se financian por su calidad científica.
+Y sé lo que mucha gente se pregunta.
+
+Los proyectos los eligen comités científicos independientes, sin intereses de por medio.
 
 Y todo esto existe, sobre todo, gracias a miles de personas que decidieron apoyarnos.
 
@@ -164,17 +164,9 @@ Personas como tú y como yo, que probablemente nunca conocerán a quienes están
 
 Al final, la historia de Raquel resume muy bien lo que hace la Asociación.
 
-El día que recibió aquel diagnóstico, esa red ya estaba allí.
+Recibió el apoyo que necesitaba gracias a quienes ya eran socios.
 
-Nada apareció de un día para otro.
-
-Ya existía.
-
-Existía porque, mucho antes, miles de personas habían decidido hacerse socias.
-
-Gracias a ellas, Raquel encontró apoyo cuando más lo necesitó.
-
-Y gracias a ellas, hoy trabaja para que otras personas tengan más oportunidades.
+Y hoy, gracias a ellos, trabaja para que otras personas tengan más oportunidades.
 
 > 🔄 **RESPIRO 4**
 >
@@ -202,7 +194,7 @@ Había investigadores trabajando para que tuviera más oportunidades.
 
 Nada de eso apareció el día que ella enfermó.
 
-Llevaba años construyéndose gracias a miles de personas que, mucho antes, decidieron hacerse socias.
+Esa red llevaba años construyéndose gracias a miles de personas que, mucho antes, decidieron hacerse socias.
 
 Personas que nunca conocerían a Raquel.
 
@@ -220,6 +212,6 @@ Porque hoy tú también puedes ser una de esas personas.
 
 *(Silencio de dos segundos. Sonríe.)*
 
-**¿Te animas a hacerte socio de la Asociación Española Contra el Cáncer?**
+**¿Te animas a hacerte socio?**
 
 *(Silencio absoluto.)*
