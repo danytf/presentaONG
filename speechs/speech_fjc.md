@@ -4,7 +4,7 @@
 
 ## 🚦 Parada (5-10 seg)
 
-"¿Tienes cinco minutos? Te quiero contar la historia de Marta. Es un caso ficticio, pero todo lo que le ocurre es exactamente el proceso real que viven miles de personas con leucemia y otras enfermedades de la sangre."
+"¿Me permites un momento? Te quiero contar la historia de Marta. Es un caso ficticio, pero todo lo que le ocurre es exactamente el proceso real que viven miles de personas con leucemia y otras enfermedades de la sangre."
 
 ---
 
