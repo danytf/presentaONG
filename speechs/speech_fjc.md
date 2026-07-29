@@ -12,8 +12,6 @@
 
 ## 🗣️ Discurso
 
-Te lo digo de entrada, para que no haya sorpresas: vengo a buscar socios para la Fundación. Pero antes de pedirte nada, déjame contarte por qué.
-
 A Marta le diagnostican leucemia.
 
 El médico le explica que, para ella, la mejor opción es un trasplante de médula ósea. Lo primero que hacen es comprobar si algún familiar es compatible. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no encuentran un donante dentro de su propia familia.
