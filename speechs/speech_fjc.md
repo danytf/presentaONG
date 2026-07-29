@@ -100,9 +100,15 @@ Concepción nunca conoció a Marta. Ni a ninguna de las más de cien familias qu
 
 Encontrar un donante salva vidas hoy. Descubrir nuevos tratamientos puede salvar las de mañana.
 
-El Instituto Josep Carreras es **el mayor centro de investigación de Europa dedicado en exclusiva a la leucemia** y otras enfermedades de la sangre. Reúne a cientos de profesionales y decenas de grupos de investigación, y allí se desarrollan nuevos tratamientos que ya están llegando a pacientes a través de ensayos clínicos.
+El trasplante que salvó a Marta también salió de un laboratorio.
 
-Y todo esto existe gracias a más de 150.000 personas que han decidido hacerse socias de la Fundación.
+*(Pausa.)*
+
+Y lo que salve a quien enferme dentro de diez años se está investigando hoy. Buena parte, en el Instituto Josep Carreras: **el mayor centro de investigación de Europa dedicado en exclusiva a la leucemia**.
+
+Porque esto todavía no está ganado. **Uno de cada cinco niños** con leucemia no la supera. Y en adultos, la supervivencia es del **50 %**.
+
+Y esa investigación la pagan más de **150.000 socios**.
 
 Te decía que el nombre de la Fundación no era casualidad. Esta es la razón.
 
