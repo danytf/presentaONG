@@ -162,7 +162,7 @@ Hoy sobrevive más de la mitad.
 
 Y el objetivo es superar el **70 % de supervivencia en 2030**.
 
-Ahora mismo la Asociación impulsa **792 proyectos** de investigación, en los que trabajan más de **3.000 investigadores**.
+Ahora mismo la Asociación impulsa **casi 800 proyectos** con más de **3.000 investigadores**.
 
 Para que los próximos pacientes tengan más respuestas de las que tuvo Raquel.
 
