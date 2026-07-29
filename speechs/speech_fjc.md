@@ -82,7 +82,7 @@ Que sea un servicio oficial no significa que lo pague el Estado entero. La Funda
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
-A Marta le toca tratarse a cientos de kilómetros de su casa. Semanas, puede que meses, lejos de los suyos.
+A Marta le tocó tratarse a cientos de kilómetros de su casa. Semanas, puede que meses, lejos de los suyos.
 
 Y eso, además del miedo, es dinero: una estancia así puede costar casi **20.000 euros**.
 
