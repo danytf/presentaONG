@@ -81,9 +81,8 @@ Aldeas Infantiles - ...        ... hasta 14
 Cada uno se abre solo, con las fuentes y los logos dentro. Sirve para mandar
 a alguien únicamente lo que necesita, sin darle el paquete entero.
 
-Si los 14 se dejan juntos en una carpeta, el pie de cada speech enlaza con su
-presentación. Repartidos sueltos, ese enlace no lleva a ningún sitio: es el
-único precio de que sean independientes.
+No hay ningún enlace entre ellos: ni vuelta a una portada ni salto a la
+presentación hermana. Cada fichero va por su cuenta.
 
 ### Ocultar secciones de un speech
 

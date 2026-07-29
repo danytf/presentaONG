@@ -17,9 +17,10 @@
  * que se copian tal cual. El trabajo esta en los speeches, que leian sus
  * tipografias de assets/.
  *
- * Si los 14 se dejan en la misma carpeta, el pie de cada speech enlaza con
- * su presentacion. Si se reparten sueltos, ese enlace no llevara a ningun
- * sitio: es el unico precio de que sean independientes.
+ * No hay ningun enlace entre los 14: ni vuelta a la portada ni salto a la
+ * presentacion hermana. Cada fichero se manda por separado a quien le
+ * corresponda, asi que un enlace a otro archivo estaria roto la mayoria de
+ * las veces.
  */
 
 const fs = require('fs');
@@ -64,8 +65,8 @@ for (const [slug, [nombre, bundle]] of Object.entries(ONGS)) {
     console.error(`ERROR: falta speech_${slug}.html`); errores++; continue;
   }
   const speech = empotrarSpeech(fs.readFileSync(origenSpeech, 'utf8'), css, {
-    volver: 'quitar',                             // no hay portada al lado
-    presentacion: encodeURIComponent(nomPres),    // el hermano, si viajan juntos
+    volver: 'quitar',        // no hay portada al lado
+    presentacion: null,      // ni enlaces entre ficheros: cada uno va solo
   });
   const nomSpeech = `${nombre} - Speech.html`;
   fs.writeFileSync(path.join(DIST, nomSpeech), speech, 'utf8');
