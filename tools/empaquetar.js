@@ -31,6 +31,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { cssEmpotrado, empotrarSpeech } = require('./lib-empotrar');
 
 const ROOT = path.resolve(__dirname, '..');
 const DIST = path.join(ROOT, 'dist');
@@ -38,41 +39,6 @@ const SALIDA = path.join(DIST, 'Formaciones ONG.html');
 
 const leer = (...p) => fs.readFileSync(path.join(ROOT, ...p), 'utf8');
 const mb = (n) => (n / 1024 / 1024).toFixed(1) + ' MB';
-
-/* ------------------------------------------------- speeches autocontenidos */
-
-const MIME = { '.woff2': 'font/woff2', '.png': 'image/png', '.webp': 'image/webp', '.svg': 'image/svg+xml' };
-
-function dataUri(rel) {
-  const abs = path.join(ROOT, 'assets', rel);
-  const ext = path.extname(rel).toLowerCase();
-  return `data:${MIME[ext] || 'application/octet-stream'};base64,` +
-    fs.readFileSync(abs).toString('base64');
-}
-
-/** El CSS de los speeches, con las tipografias empotradas. */
-function cssEmpotrado() {
-  return leer('assets', 'speech.css').replace(
-    /url\(['"]?fonts\/([^'")]+)['"]?\)/g,
-    (_, f) => `url('${dataUri(path.join('fonts', f))}')`
-  );
-}
-
-/** Convierte un speech en un documento que no depende de ninguna carpeta. */
-function empotrarSpeech(html, css) {
-  return html
-    // la hoja de estilos, con las fuentes ya dentro
-    .replace(/<link rel="stylesheet" href="\.\.\/assets\/speech\.css">/,
-      `<style>\n${css}\n</style>`)
-    // el logo de la ONG
-    .replace(/src="\.\.\/assets\/logos\/([^"]+)"/g,
-      (_, f) => `src="${dataUri(path.join('logos', f))}"`)
-    // el favicon no pinta nada dentro de un marco
-    .replace(/<link rel="icon"[^>]*>/g, '')
-    // el enlace de vuelta avisa al contenedor en vez de navegar
-    .replace(/<a class="volver" href="\.\.\/index\.html">/,
-      '<a class="volver" href="#" onclick="try{parent.postMessage(\'paquete:volver\',\'*\')}catch(e){}return false;">');
-}
 
 /* ------------------------------------------------------------ el runtime */
 
@@ -165,7 +131,9 @@ for (const f of fs.readdirSync(path.join(ROOT, 'bundled')).filter((x) => x.endsW
   documentos[`bundled/${f}`] = leer('bundled', f);
 }
 for (const f of fs.readdirSync(path.join(ROOT, 'speechs')).filter((x) => x.endsWith('.html'))) {
-  documentos[`speechs/${f}`] = empotrarSpeech(leer('speechs', f), css);
+  // el enlace de vuelta avisa al contenedor; el del pie sigue funcionando
+  // porque la presentacion tambien va dentro del paquete
+  documentos[`speechs/${f}`] = empotrarSpeech(leer('speechs', f), css, { volver: 'avisar' });
 }
 
 // comprobacion: que no quede ninguna referencia a la carpeta assets

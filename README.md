@@ -65,6 +65,26 @@ Las presentaciones necesitan un navegador moderno (Chrome 80, Edge 80, Firefox
 
 El archivo generado no se sube a git: se regenera cuando haga falta.
 
+### O los 14 documentos por separado
+
+```bash
+node tools/empaquetar-sueltos.js
+```
+
+Deja en `dist/sueltos/` un fichero por ONG y tipo:
+
+```
+AECC - Formación.html          AECC - Speech.html
+Aldeas Infantiles - ...        ... hasta 14
+```
+
+Cada uno se abre solo, con las fuentes y los logos dentro. Sirve para mandar
+a alguien únicamente lo que necesita, sin darle el paquete entero.
+
+Si los 14 se dejan juntos en una carpeta, el pie de cada speech enlaza con su
+presentación. Repartidos sueltos, ese enlace no lleva a ningún sitio: es el
+único precio de que sean independientes.
+
 ### Ocultar secciones de un speech
 
 En `tools/build-speeches.js`, cada ONG admite un array `ocultar` con las
