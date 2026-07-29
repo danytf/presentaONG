@@ -25,7 +25,7 @@ A partir de ese momento, su vida pasa a depender de alguien a quien nunca ha vis
 >
 > **«¿Tú eres donante de médula?»**
 >
-> *(⚠️ No estás captando donantes, estás captando socios. Informa, no presiones — donar médula es una decisión médica. Ver ramificaciones al final.)*
+> *(No estás captando donantes, estás captando socios. Informa, no presiones — donar médula es una decisión médica.)*
 
 Aquí entra en juego el REDMO, el Registro Español de Donantes de Médula Ósea.
 
