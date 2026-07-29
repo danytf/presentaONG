@@ -46,9 +46,21 @@ Que sea un servicio oficial no significa que lo financie el Estado en solitario.
 
 Para Marta, ese donante no es un número en un registro. Es la posibilidad de seguir viviendo.
 
-Cuando aparece un donante compatible empieza una carrera contrarreloj.
+*(Pausa.)*
 
-La mediana de espera es de 26 días y más de 8 de cada 10 pacientes consigue encontrar un donante compatible. Desde que existe el REDMO ya se han hecho posibles más de 15.000 trasplantes, y esa cifra sigue creciendo cada año.
+Y aparece.
+
+Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En otro país.
+
+Marta nunca sabrá quién es. Y esa persona nunca sabrá a quién ha salvado.
+
+Que Marta encontrara a alguien compatible no fue suerte.
+
+Uno entre tres mil quinientos es una probabilidad diminuta. Por eso el registro tiene que ser enorme.
+
+Medio millón de personas en España, conectadas con los registros de todo el mundo. Y así esa probabilidad diminuta se convierte en que más de **8 de cada 10 pacientes** encuentren a su donante.
+
+Desde que existe el REDMO se han hecho posibles más de **15.000 trasplantes**.
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
