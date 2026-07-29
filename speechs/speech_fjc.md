@@ -42,6 +42,16 @@ Y aparece.
 
 Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En otro país.
 
+Y entonces empieza una carrera.
+
+Esas células no se pueden enviar por mensajería. Las lleva una persona en la mano, sentada en un avión, dentro de una nevera especial.
+
+Ni siquiera pueden pasar por el escáner del aeropuerto: la radiación las dañaría.
+
+Y desde que se las extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
+
+*(Pausa.)*
+
 Marta nunca sabrá quién es. Y esa persona nunca sabrá a quién ha salvado.
 
 Que Marta encontrara a alguien compatible no fue suerte.
@@ -79,8 +89,6 @@ Uno de esos pisos, junto al Hospital Clínic de Barcelona, existe gracias al leg
 Encontrar un donante salva vidas hoy. Descubrir nuevos tratamientos puede salvar las de mañana.
 
 El Instituto Josep Carreras es **el mayor centro de investigación de Europa dedicado en exclusiva a la leucemia** y otras enfermedades de la sangre. Reúne a cientos de profesionales y decenas de grupos de investigación, y allí se desarrollan nuevos tratamientos que ya están llegando a pacientes a través de ensayos clínicos.
-
-Todo esto tampoco sería posible sin la colaboración internacional. La Fundación forma parte de una red de fundaciones Josep Carreras que impulsan la investigación y el apoyo a los pacientes en distintos países.
 
 Y todo esto existe gracias a más de 150.000 personas que han decidido hacerse socias de la Fundación.
 
