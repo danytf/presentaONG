@@ -6,15 +6,19 @@ Hola, ¿me permites un momento?
 
 Soy [tu nombre], colaborador de la Asociación Española Contra el Cáncer.
 
-Antes de explicarte por qué estoy aquí, déjame contarte la historia de Raquel.
+Antes de explicarte por qué estoy aquí, déjame contarte una historia. Le podría pasar a cualquiera.
+
+De hecho, le pasa a miles de personas cada año.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
+
+*(Elena es un caso ilustrativo construido con situaciones reales de pacientes de la Asociación: el teléfono, el psicólogo, la orientación y el alojamiento son el recorrido real de un paciente, y todas las cifras están verificadas. Si alguien te pregunta si la conoces, no digas que sí.)*
 
 ---
 
 ## 🗣️ Discurso (~7 minutos)
 
-Raquel es fisioterapeuta.
+Elena es fisioterapeuta.
 
 Pasaba el día al lado de una camilla, ayudando a otras personas a recuperarse.
 
@@ -64,7 +68,7 @@ Porque el hospital trata la enfermedad.
 
 Pero la persona necesita muchas más cosas.
 
-Y fue entonces cuando Raquel descubrió que no tenía que recorrer ese camino sola.
+Y fue entonces cuando Elena descubrió que no tenía que recorrer ese camino sola.
 
 Cuando tuvo una duda y ya no sabía a quién llamar, encontró un teléfono que siempre estaba disponible.
 
@@ -90,7 +94,7 @@ La Asociación dispone de **44 pisos y residencias repartidos por España** para
 
 Para que la única preocupación fuera recuperarse.
 
-Eso fue lo que encontró Raquel cuando más lo necesitaba.
+Eso fue lo que encontró Elena cuando más lo necesitaba.
 
 Y eso es lo que la Asociación ofrece cada día.
 
@@ -102,11 +106,11 @@ Que nadie tenga que enfrentarse al cáncer sin apoyo.
 >
 > *(Lo habitual es que respondan que no. Asiente con naturalidad: "Es normal... casi nadie lo sabe hasta que le toca vivirlo de cerca.")*
 
-Con el paso de los meses, Raquel fue recuperando poco a poco su vida.
+Con el paso de los meses, Elena fue recuperando poco a poco su vida.
 
 Y entonces se hizo una pregunta.
 
-> "¿Cómo consigo que quienes lleguen después encuentren más respuestas de las que encontré yo?"
+> "¿Cómo consigo que quienes lleguen después encuentren aún más de lo que encontré yo?"
 
 Decidió dedicar su esfuerzo a ayudar a otras personas.
 
@@ -162,7 +166,7 @@ Personas como tú y como yo, que probablemente nunca conocerán a quienes están
 >
 > *(Resuelve cualquier objeción con tranquilidad. Si no hay dudas, continúa.)*
 
-Al final, la historia de Raquel resume muy bien lo que hace la Asociación.
+Al final, la historia de Elena resume muy bien lo que hace la Asociación.
 
 Recibió el apoyo que necesitaba gracias a quienes ya eran socios.
 
@@ -180,7 +184,7 @@ Y hoy, gracias a ellos, trabaja para que otras personas tengan más oportunidade
 
 *(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
 
-Cuando Raquel recibió aquel diagnóstico, no conocía a nadie de la Asociación.
+Cuando Elena recibió aquel diagnóstico, no conocía a nadie de la Asociación.
 
 Sin embargo, la Asociación ya estaba allí esperándola.
 
@@ -196,7 +200,7 @@ Nada de eso apareció el día que ella enfermó.
 
 Esa red llevaba años construyéndose gracias a miles de personas que, mucho antes, decidieron hacerse socias.
 
-Personas que nunca conocerían a Raquel.
+Personas que nunca conocerían a Elena.
 
 Todos esperamos no necesitar nunca esa ayuda.
 
