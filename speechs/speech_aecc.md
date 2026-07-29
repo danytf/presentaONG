@@ -130,7 +130,7 @@ Y decidió hacer algo extraordinario.
 
 Intentar que otras personas no sintieran el mismo vacío que ella había sentido.
 
-Hoy, a través de una Cátedra impulsada por la Asociación, investiga cómo integrar la fisioterapia en el tratamiento de pacientes con cáncer.
+Hoy, con una beca de investigación de la Asociación, estudia cómo integrar la fisioterapia en el tratamiento de pacientes con cáncer.
 
 *(Pausa.)*
 
