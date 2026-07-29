@@ -126,6 +126,12 @@ Porque esto no está ganado. **Uno de cada cinco niños** con leucemia no la sup
 
 Y esa investigación la pagan más de **150.000 socios**.
 
+> 🔄 **RESPIRO 4**
+>
+> **«¿Tú sabías que todo esto lo hacía la misma fundación?»**
+>
+> *(Casi nadie lo sabe. No lo celebres: «Ya, la mayoría conoce el nombre y poco más.» Es el último respiro antes del remate: córtalo tú, no lo dejes abierto, y arranca lo que viene sin pausa.)*
+
 Te decía que el nombre de la Fundación no era casualidad. Esta es la razón.
 
 En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió superar la enfermedad y, un año después, creó esta Fundación.
@@ -150,11 +156,11 @@ La otra mitad —que la leucemia se cure en todos los casos— todavía no está
 
 Hasta que la curemos, no pararemos.
 
-> 🔄 **RESPIRO 4**
+> 🔄 **RESPIRO 5**
 >
 > **«¿Cómo lo ves?»**
 >
-> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después. Si duda, no cierres: pregunta qué le frena. Y no adelantes este respiro: el bucle de Josep Carreras —«ese nombre no es casualidad» → «esta es la razón»— es el remate del guion y no se interrumpe.)*
+> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después. Si duda, no cierres: pregunta qué le frena. Y no lo fundas con el respiro anterior: entre los dos va el bucle de Josep Carreras —«ese nombre no es casualidad» → «esta es la razón»—, que es el remate del guion y se dice de una tirada.)*
 
 ---
 
