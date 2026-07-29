@@ -146,7 +146,7 @@ Por eso la Asociación impulsa actualmente cerca de **800 proyectos de investiga
 
 Con un único objetivo:
 
-Que los próximos pacientes tengan más oportunidades de las que tuvo Raquel.
+Que quien reciba mañana un diagnóstico de páncreas tenga las mismas oportunidades que tiene hoy uno de mama.
 
 Y sé lo que mucha gente se pregunta.
 
