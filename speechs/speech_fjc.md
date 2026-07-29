@@ -114,6 +114,10 @@ Cada vez que Marta no entendía algo —un análisis, una palabra que le habían
 
 Porque nadie sale de una consulta de oncología entendiendo la mitad de lo que le han dicho.
 
+Y porque a mucha gente el trasplante le deja secuelas que le impiden volver a trabajar.
+
+El acompañamiento no se acaba cuando se acaba el tratamiento.
+
 Encontrar un donante salva vidas hoy. Descubrir nuevos tratamientos puede salvar las de mañana.
 
 El trasplante que salvó a Marta también salió de un laboratorio.
