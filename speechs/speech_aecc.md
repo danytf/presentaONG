@@ -234,15 +234,15 @@ Todos esperamos no necesitar nunca esa ayuda.
 
 Pero si algún día nos toca a nosotros, o a alguien que queremos, todos deseamos que esa red siga ahí.
 
-(Pausa.)
+*(Pausa.)*
 
 **Y esa red solo puede seguir existiendo si hoy otras personas deciden continuar sosteniéndola.**
 
-(Pausa.)
+*(Pausa.)*
 
 **Hoy puedes ser una de ellas.**
 
-(Pausa.)
+*(Pausa.)*
 
 **¿Te animas a hacerte socio de la Asociación?**
 
