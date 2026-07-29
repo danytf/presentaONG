@@ -2,9 +2,11 @@
 
 ---
 
-## 🚦 Parada (5-10 seg)
+## 🚦 Parada (10-15 seg)
 
-"¿Me permites un momento? Te quiero contar la historia de Marta. Es un caso ficticio, pero todo lo que le ocurre es exactamente el proceso real que viven miles de personas con leucemia y otras enfermedades de la sangre."
+"¿Me permites un momento? Déjame contarte una historia. Le podría pasar a cualquiera — de hecho, le pasa a miles de personas con leucemia cada año."
+
+*(Marta es un caso construido para contar el proceso real que viven los pacientes: el diagnóstico, la búsqueda de donante, el desplazamiento y la espera son lo que ocurre de verdad, y todas las cifras están verificadas. Si te preguntan si existe, no la conviertas en real sobre la marcha.)*
 
 ---
 
