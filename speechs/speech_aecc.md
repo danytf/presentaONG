@@ -140,6 +140,8 @@ Esa diferencia no es casualidad.
 
 Es investigación.
 
+Cada avance científico significa miles de personas que hoy siguen vivas porque alguien decidió investigar años antes
+
 Por eso la Asociación impulsa actualmente cerca de **800 proyectos de investigación, desarrollados por más de 3.000 investigadores.**
 
 Con un único objetivo:
@@ -214,7 +216,7 @@ Y esa red solo puede seguir existiendo si hoy otras personas deciden continuar s
 
 Por eso estoy hoy aquí.
 
-Hoy tú puedes ser una de ellas.
+Porque hoy tú también puedes ser una de esas personas.
 
 *(Pausa breve.)*
 
