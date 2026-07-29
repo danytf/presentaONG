@@ -20,7 +20,7 @@ Marta tampoco.
 
 A partir de ese momento, su vida pasa a depender de alguien a quien nunca ha visto. Porque la probabilidad de que dos personas sin parentesco sean compatibles es de aproximadamente 1 entre 3.500.
 
-> 🔄 **RESPIRO 1 — el más potente de los cuatro. Es exclusivo de esta ONG.**
+> 🔄 **RESPIRO 1**
 > *(Aquí la persona que tienes delante no es solo alguien que puede pagar: podría literalmente ser el donante. Pregunta y escucha.)*
 >
 > **«¿Tú eres donante de médula?»**
@@ -39,7 +39,7 @@ Y hay algo que suele sorprender.
 
 Que sea un servicio oficial no significa que lo financie el Estado en solitario. La Fundación también pone recursos propios para que este sistema nunca deje de funcionar.
 
-> 🔄 **RESPIRO 2 — la pregunta cuya respuesta convence sola.**
+> 🔄 **RESPIRO 2**
 >
 > **«¿Tú pensabas que esto lo pagaba entero el Estado?»**
 >
@@ -55,7 +55,7 @@ Pero encontrar un donante no significa que el camino haya terminado.
 
 Muchas familias tienen que desplazarse cientos de kilómetros para recibir el tratamiento y permanecer semanas o incluso meses lejos de casa. Para que esa situación no suponga también un problema económico, la Fundación dispone de pisos y hoteles solidarios que cada año acogen a más de un centenar de familias, evitando gastos que pueden llegar a casi 20.000 euros por estancia.
 
-> 🔄 **RESPIRO 3 — que se lo imagine en su propia vida.**
+> 🔄 **RESPIRO 3**
 >
 > **«¿Tú podrías permitirte estar tres meses viviendo en otra ciudad?»**
 >
@@ -79,7 +79,7 @@ En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió super
 
 Hoy, cada vez que alguien como Marta encuentra un donante, recibe apoyo durante el tratamiento o puede beneficiarse de un nuevo avance científico, ese objetivo deja de ser un sueño y se convierte en una realidad para otra familia.
 
-> 🔄 **RESPIRO 4 — toma la temperatura antes de pedir.**
+> 🔄 **RESPIRO 4**
 > *(No lo pongas antes: el bucle de Josep Carreras —«ese nombre no es casualidad» → «esta es la razón»— es el remate emocional del guion y no se interrumpe.)*
 >
 > **«¿Cómo lo ves?»**
