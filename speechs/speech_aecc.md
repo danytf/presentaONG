@@ -4,11 +4,11 @@
 
 Hola, ¿me permites un momento?
 
-Soy [tu nombre] y trabajo con la Asociación Española Contra el Cáncer, buscando gente que quiera formar parte.
+Soy [tu nombre] de la la Asociación Española Contra el Cáncer.
 
-Pero antes de nada, déjame que te cuente la historia de Raquel.
+Antes de explicarte por qué estoy aquí, déjame contarte la historia de Raquel.
 
-*(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo: mucha gente te devolverá el suyo, y a partir de ahí ya es una conversación. No cambies «un momento» por «dos minutos»: es una promesa que vas a romper.)*
+*(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
 
 ---
 
@@ -22,7 +22,9 @@ Hasta que un día fue ella quien acabó tumbada en una.
 
 Le diagnosticaron un cáncer.
 
-Y, de un día para otro, su vida dio un vuelco.
+Y, como les ocurre a muchísimas personas, sintió que el suelo desaparecía bajo sus pies.
+
+De un día para otro, su vida dio un vuelco.
 
 Porque cuando alguien escucha esa palabra, no recibe solo un diagnóstico.
 
@@ -44,23 +46,19 @@ Y empiezan las preguntas.
 
 *(Pausa.)*
 
-Y lo más inquietante es que cualquiera de nosotros podría verse algún día en esa situación.
+Muchas veces pensamos que el cáncer es algo que les pasa a otros.
 
-De hecho, basta un dato para entenderlo.
-
-*(Pausa.)*
+Pero la realidad es muy distinta.
 
 En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.**
 
-Muchas veces pensamos que es algo que les pasa a otros.
+Al final, termina formando parte de la vida de casi todas las familias.
 
-Pero la realidad es que termina formando parte de la vida de casi todas las familias.
-
-> 🔄 **RESPIRO 1 — El más importante de los cuatro.**
+> 🔄 **RESPIRO 1**
 >
 > **«¿Has vivido el cáncer de cerca alguna vez?»**
 >
-> *(Escucha de verdad. Si responde, profundiza unos segundos: «¿Quién fue?», «¿Cómo está ahora?». Desde este momento deja de hablar del cáncer en general y habla, siempre que puedas, de la experiencia que acaba de compartir contigo.)*
+> *(Escucha de verdad. Si responde, profundiza unos segundos: «¿Quién fue?», «¿Cómo está ahora?». Desde aquí adapta el resto del discurso a su experiencia siempre que sea posible.)*
 
 Cuando pasa algo así, descubres que el tratamiento médico es solo una parte del camino.
 
@@ -68,57 +66,43 @@ Porque el hospital trata la enfermedad.
 
 Pero la persona necesita muchas más cosas.
 
-Y ahí Raquel descubrió algo que no esperaba.
+Y eso fue lo que encontró Raquel cuando llegó a la Asociación.
 
-Que no tenía por qué pasar por todo aquello sola.
+Cuando tuvo una duda y ya no sabía a quién llamar, encontró un teléfono que siempre estaba **disponible
 
-Fue entonces cuando encontró la Asociación.
+**Infocáncer, 900 100 036.**
 
-Ahí empezó a encontrar respuestas.
+El único servicio de atención al cáncer en Europa abierto las 24 horas del día, todos los días del año.
 
-No una.
+Solo el año pasado atendió **más de 240.000 llamadas.**
 
-Muchas.
+Cuando el miedo empezó a pesar más que el tratamiento, encontró apoyo psicológico gratuito.
 
-Encontró un teléfono gratuito.
+Porque no solo hay que tratar el cáncer.
 
-*(Pausa.)*
+También hay que cuidar a quien lo está viviendo.
 
-**Infocáncer. El 900 100 036.**
+Como ella, cerca de **59.000 personas** recibieron ese apoyo el último año.
 
-*(Pausa.)*
+Cuando aparecieron las dudas sobre el trabajo, las ayudas o los trámites, hubo profesionales que la orientaron.
 
-El único servicio de atención al cáncer en Europa que está abierto las 24 horas, todos los días del año.
+Y cuando tuvo que desplazarse para recibir tratamiento lejos de casa, tampoco tuvo que preocuparse por dónde vivir.
 
-Un teléfono al que llamar cuando ya no sabes a quién llamar.
+La Asociación dispone de **44 pisos y residencias repartidos por España** para que pacientes y familiares puedan alojarse gratuitamente durante el tratamiento.
 
-Y no fue la única: solo el año pasado atendieron más de **240.000 llamadas**.
+Para que la única preocupación fuera recuperarse.
 
-Encontró apoyo psicológico, gratuito y sin lista de espera.
+Eso fue lo que encontró Raquel cuando más lo necesitaba.
 
-Porque no solo hay que tratar el cáncer. También hay que cuidar a quien lo está viviendo.
+Y eso es lo que la Asociación intenta ofrecer cada día.
 
-Como ella, casi **59.000 personas** lo recibieron el año pasado.
+Que nadie tenga que enfrentarse al cáncer sin apoyo.
 
-Encontró a alguien que le ayudó con todo lo que no sale en una analítica: el trabajo, las ayudas, la economía familiar, los trámites... esas preocupaciones que siguen ahí mientras intentas curarte.
-
-Y encontró algo tan sencillo como un lugar donde quedarse: **44 pisos y residencias** por toda España para alojarse gratis con su familia si había que tratarse lejos de casa.
-
-Para que lo único de lo que tuviera que preocuparse fuera de recuperarse.
-
-*(Pausa.)*
-
-Eso fue lo que Raquel encontró cuando más falta le hacía.
-
-Y para eso trabaja la Asociación cada día.
-
-Para que nadie tenga que enfrentarse al cáncer sin apoyo.
-
-> 🔄 **RESPIRO 2 — La pregunta cuya respuesta convence sola.**
+> 🔄 **RESPIRO 2**
 >
 > **«¿Tú sabías que la Asociación hacía todo esto?»**
 >
-> *(La respuesta suele ser «no». Simplemente asiente: "Es normal... casi nadie lo sabe hasta que le toca.")*
+> *(Lo habitual es que respondan que no. Asiente con naturalidad: "Es normal... casi nadie lo sabe hasta que le toca vivirlo de cerca.")*
 
 Con el paso de los meses, Raquel fue recuperando poco a poco su vida.
 
@@ -126,124 +110,110 @@ Y entonces se hizo una pregunta.
 
 > "¿Cómo consigo que quienes lleguen después encuentren más respuestas de las que encontré yo?"
 
-Y decidió hacer algo extraordinario.
+Decidió dedicar su esfuerzo a ayudar a otras personas.
 
-Intentar que otras personas no sintieran el mismo vacío que ella había sentido.
+Hoy desarrolla su trabajo gracias a una beca de investigación de la Asociación, estudiando cómo integrar la fisioterapia en el tratamiento de pacientes con cáncer.
 
-Hoy, con una beca de investigación de la Asociación, estudia cómo integrar la fisioterapia en el tratamiento de pacientes con cáncer.
+Pasó de buscar respuestas...
 
-*(Pausa.)*
+...a dedicar su vida a encontrarlas para los demás.
 
-Pasó de buscar respuestas... a dedicar su vida a encontrarlas para los demás.
+Porque la Asociación no solo acompaña a quienes hoy tienen cáncer.
 
-Porque esa es la otra gran misión de la Asociación.
+También trabaja para que, dentro de unos años, menos personas tengan que vivir lo mismo.
 
-Impulsar la investigación.
+Y hay un dato que demuestra por qué investigar cambia vidas.
 
-Y déjame darte un dato que demuestra por qué investigar cambia vidas.
+*(Baja ligeramente el ritmo.)*
 
-*(Baja el ritmo. Este bloque se explica, no se recita.)*
+Hace unas décadas sobrevivía aproximadamente una de cada cuatro personas diagnosticadas de cáncer.
 
-Cada punto que sube la supervivencia tiene nombre y apellidos.
+Hoy sobreviven **más de la mitad.**
 
-Son miles de personas que hoy siguen vivas porque alguien investigó hace años.
+El cáncer de mama supera actualmente **el 85 % de supervivencia a cinco años.**
 
-El cáncer de mama supera hoy el **85 %** de supervivencia a cinco años.
-
-El de páncreas, en cambio, apenas alcanza entre el **7 % y el 10 %**.
+En cambio, el cáncer de páncreas apenas alcanza **entre un 7 % y un 10 %.**
 
 Esa diferencia no es casualidad.
 
 Es investigación.
 
-Hace unas décadas sobrevivía aproximadamente **1 de cada 4** personas con cáncer.
+Por eso la Asociación impulsa actualmente cerca de **800 proyectos de investigación, desarrollados por más de 3.000 investigadores.**
 
-Hoy sobrevive más de la mitad.
+Con un único objetivo:
 
-Y el objetivo es superar el **70 % de supervivencia en 2030**.
+Que los próximos pacientes tengan más oportunidades de las que tuvo Raquel.
 
-Ahora mismo la Asociación impulsa **casi 800 proyectos** con más de **3.000 investigadores**.
+Los proyectos son evaluados por comités científicos independientes y se financian por su calidad científica.
 
-Para que los próximos pacientes tengan más respuestas de las que tuvo Raquel.
+Y todo esto existe, sobre todo, gracias a miles de personas normales que decidieron aportar un poco cada mes.
 
-Y hay algo importante, porque sé que muchas personas se lo preguntan.
+Personas que probablemente nunca conocerán a quienes están ayudando.
 
-Los proyectos se seleccionan mediante comités científicos independientes, valorando únicamente su calidad científica.
-
-Y de todo lo que entra, la mayor parte son cuotas de socios.
-
-Personas normales, como tú y como yo, que un día decidieron que esto también era suyo.
-
-> 🔄 **RESPIRO 3 — Saca las objeciones antes de que aparezcan al final.**
+> 🔄 **RESPIRO 3**
 >
 > **«Oye, antes de seguir... ¿te está surgiendo alguna duda?»**
 >
-> *(Resuelve cualquier pregunta con naturalidad. Si no hay dudas, continúa.)*
+> *(Resuelve cualquier objeción con tranquilidad. Si no hay dudas, continúa.)*
 
 Al final, la historia de Raquel resume muy bien lo que hace la Asociación.
 
 El día que recibió aquel diagnóstico, esa red ya estaba allí.
 
-Nada de eso apareció de un día para otro.
+Nada apareció de un día para otro.
+
+Ya existía.
 
 Existía porque, mucho antes, miles de personas habían decidido hacerse socias.
 
-Gracias a ellas, Raquel encontró una red que la sostuvo cuando más la necesitó.
+Gracias a ellas, Raquel encontró apoyo cuando más lo necesitó.
 
-Y gracias a ellas, hoy Raquel trabaja para que quienes lleguen después tengan más oportunidades.
+Y gracias a ellas, hoy trabaja para que otras personas tengan más oportunidades.
 
-Eso es, en el fondo, lo que hace un socio.
-
-Hace posible que, cuando alguien escuche mañana la palabra «cáncer», no tenga que afrontarla solo.
-
-Que encuentre una voz al otro lado del teléfono.
-
-Un profesional que le acompañe.
-
-Y una investigación que siga abriendo caminos.
-
-> 🔄 **RESPIRO 4 — Toma la temperatura antes de pedir.**
+> 🔄 **RESPIRO 4**
 >
 > **«¿Cómo lo ves?»**
 >
-> *(Escucha. Si hay dudas, resuélvelas antes de hacer la petición.)*
+> *((Escucha. Si aparecen dudas, resuélvelas antes de llegar al cierre.)*
 
 ---
 
 ## 🤝 Cierre
 
-*(Baja el ritmo. Mira a la persona. Haz una pausa antes de empezar.)*
+*(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
 
-Al final, todo esto existe por una razón muy sencilla.
+Al principio te hablé de Raquel.
 
-Porque personas normales decidieron ayudar a otras personas a las que nunca conocerán.
+Cuando recibió aquel diagnóstico, no conocía a nadie de la Asociación.
 
-Gracias a esa decisión, cuando Raquel recibió aquel diagnóstico ya había alguien al otro lado del teléfono.
+Sin embargo, la Asociación ya estaba allí esperándola.
 
-Ya había un psicólogo para acompañarla.
+Había un teléfono al que llamar.
 
-Ya había profesionales que podían orientarla.
+Había psicólogos para acompañarla.
 
-Y ya había investigadores trabajando para que tuviera más oportunidades.
+Había profesionales que podían orientarla.
+
+Había investigadores trabajando para que tuviera más oportunidades.
 
 Nada de eso apareció el día que ella enfermó.
 
-Llevaba años construyéndose gracias a miles de personas que un día decidieron hacerse socias.
+Llevaba años construyéndose gracias a miles de personas que, mucho antes, decidieron hacerse socias.
+
+Personas que nunca conocerían a Raquel.
 
 Todos esperamos no necesitar nunca esa ayuda.
 
 Pero si algún día nos toca a nosotros, o a alguien que queremos, todos deseamos que esa red siga ahí.
 
-*(Pausa.)*
-
-**Y esa red solo puede seguir existiendo si hoy otras personas deciden continuar sosteniéndola.**
+Y esa red solo puede seguir existiendo si hoy otras personas deciden continuar sosteniéndola.
 
 *(Pausa.)*
 
-**Hoy puedes ser una de ellas.**
+Hoy tú puedes ser una de ellas.
 
-*(Pausa.)*
+*(Pausa breve.)*
 
-**¿Te animas a hacerte socio de la Asociación?**
+**¿Te animas a hacerte socio de la Asociación Española Contra el Cáncer?**
 
-*(Sonríe. Guarda silencio. Espera la respuesta. No rellenes el silencio.)*
+*(Sonríe. Guarda silencio. Mantén el contacto visual y espera la respuesta. El silencio forma parte del cierre.)*
