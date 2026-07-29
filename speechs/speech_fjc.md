@@ -164,9 +164,13 @@ El REDMO llevaba más de treinta años funcionando.
 
 Concepción ya había dejado su casa.
 
+Había alguien a quien preguntar cuando no entendía nada.
+
 Y había gente investigando desde mucho antes de que ella enfermara.
 
 *(Pausa.)*
+
+Cuatro cosas distintas. Una sola Fundación.
 
 Todo eso existe porque más de 150.000 personas decidieron hacerse socias.
 
