@@ -18,7 +18,7 @@ De hecho, le pasa a miles de personas cada año.
 
 ---
 
-## 🗣️ Discurso
+## 🗣️ Discurso (~8 minutos)
 
 A Marta le diagnostican leucemia.
 
@@ -122,13 +122,17 @@ El trasplante que salvó a Marta también salió de un laboratorio.
 
 Y lo que salve a quien enferme dentro de diez años se está investigando hoy. Buena parte, en el Instituto Josep Carreras: **el mayor centro de investigación de Europa dedicado en exclusiva a la leucemia**.
 
-Porque esto todavía no está ganado. **Uno de cada cinco niños** con leucemia no la supera. Y en adultos, la supervivencia es del **50 %**.
+Porque esto no está ganado. **Uno de cada cinco niños** con leucemia no la supera. Y en adultos, la supervivencia es del **50 %**.
 
 Y esa investigación la pagan más de **150.000 socios**.
 
 Te decía que el nombre de la Fundación no era casualidad. Esta es la razón.
 
-En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió superar la enfermedad y, un año después, creó esta Fundación con un objetivo muy sencillo de explicar, pero enorme de conseguir: que algún día la leucemia sea una enfermedad curable para todos y que ningún paciente tenga que enfrentarse a ella en soledad.
+En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió superar la enfermedad y, un año después, creó esta Fundación.
+
+Con un objetivo muy sencillo de explicar, pero enorme de conseguir: que algún día la leucemia sea una enfermedad curable en todos los casos.
+
+Y que ningún paciente tenga que enfrentarse a ella en soledad.
 
 Cuando Josep Carreras enfermó, el REDMO no existía.
 
