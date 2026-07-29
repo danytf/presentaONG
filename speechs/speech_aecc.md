@@ -130,7 +130,7 @@ Hace unas décadas sobrevivía aproximadamente una de cada cuatro personas diagn
 
 Hoy sobreviven **más de la mitad.**
 
-Y el objetivo es llegar al **70 % en 2030.**
+Y la meta es llegar al **70 % en 2030.**
 
 El cáncer de mama supera actualmente **el 85 % de supervivencia a cinco años.**
 
