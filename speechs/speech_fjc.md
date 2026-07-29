@@ -26,23 +26,13 @@ A partir de ese momento, su vida pasa a depender de alguien a quien nunca ha vis
 >
 > *(Quien tienes delante no solo puede pagar una cuota: podría ser el donante. Pregunta y escucha de verdad. Pero no estás captando donantes, estás captando socios: informa, no presiones — donar médula es una decisión médica.)*
 
-Aquí entra en juego el REDMO, el Registro Español de Donantes de Médula Ósea.
+Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
-Fue creado en 1991 y está gestionado por la Fundación Josep Carreras por encargo del Ministerio de Sanidad.
+Un fichero de personas que un día dijeron que sí, conectado con los registros de todo el mundo.
+
+Lo gestiona la Fundación Josep Carreras, por encargo del Ministerio de Sanidad, desde 1991.
 
 Ese nombre no es casualidad. Hay una historia detrás, y te la cuento al final.
-
-Busca entre más de medio millón de donantes activos en España y está conectado con la red internacional de registros para localizar una persona compatible en cualquier parte del mundo.
-
-Y hay algo que suele sorprender.
-
-Que sea un servicio oficial no significa que lo financie el Estado en solitario. La Fundación también pone recursos propios para que este sistema nunca deje de funcionar.
-
-> 🔄 **RESPIRO 2**
->
-> **«¿Tú pensabas que esto lo pagaba entero el Estado?»**
->
-> *(Casi siempre dicen que sí. Ese "sí" es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.» Si te pide cifras, el convenio del BOE son 100.000 € del Ministerio y 100.000 € de la Fundación.)*
 
 Para Marta, ese donante no es un número en un registro. Es la posibilidad de seguir viviendo.
 
@@ -58,9 +48,19 @@ Que Marta encontrara a alguien compatible no fue suerte.
 
 Uno entre tres mil quinientos es una probabilidad diminuta. Por eso el registro tiene que ser enorme.
 
-Medio millón de personas en España, conectadas con los registros de todo el mundo. Y así esa probabilidad diminuta se convierte en que más de **8 de cada 10 pacientes** encuentren a su donante.
+Medio millón de personas registradas solo en España. Y así esa probabilidad diminuta se convierte en que más de **8 de cada 10 pacientes** encuentren a su donante.
 
 Desde que existe el REDMO se han hecho posibles más de **15.000 trasplantes**.
+
+Y todo eso hay que pagarlo.
+
+Que sea un servicio oficial no significa que lo pague el Estado entero. La Fundación también pone recursos propios para que el registro no deje de funcionar ni un día.
+
+> 🔄 **RESPIRO 2**
+>
+> **«¿Tú pensabas que esto lo pagaba entero el Estado?»**
+>
+> *(Casi siempre dicen que sí. Ese "sí" es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.» Si te pide cifras, el convenio del BOE son 100.000 € del Ministerio y 100.000 € de la Fundación.)*
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
