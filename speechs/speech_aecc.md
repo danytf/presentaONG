@@ -32,15 +32,15 @@ Aparece el miedo.
 
 La incertidumbre.
 
-Y cientos de preguntas
+Y empiezan las preguntas.
 
-*"¿Qué va a pasar conmigo?"*
-
-*"¿Qué va a pasar con mi familia?"*
-
-*"¿Voy a poder seguir trabajando?"*
-
-*"¿Cómo voy a afrontar todo esto?"*
+> "¿Qué va a pasar conmigo?"
+>
+> "¿Qué va a pasar con mi familia?"
+>
+> "¿Voy a poder seguir trabajando?"
+>
+> "¿Cómo voy a afrontar todo esto?"
 
 *(Pausa.)*
 
