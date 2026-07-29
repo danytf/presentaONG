@@ -124,7 +124,7 @@ Con el paso de los meses, Raquel fue recuperando poco a poco su vida.
 
 Y entonces se hizo una pregunta.
 
-*"¿Cómo consigo que quienes lleguen después encuentren más respuestas de las que encontré yo?"*
+> "¿Cómo consigo que quienes lleguen después encuentren más respuestas de las que encontré yo?"
 
 Y decidió hacer algo extraordinario.
 
