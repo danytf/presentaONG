@@ -21,11 +21,10 @@ Marta tampoco.
 A partir de ese momento, su vida pasa a depender de alguien a quien nunca ha visto. Porque la probabilidad de que dos personas sin parentesco sean compatibles es de aproximadamente 1 entre 3.500.
 
 > 🔄 **RESPIRO 1**
-> *(Aquí la persona que tienes delante no es solo alguien que puede pagar: podría literalmente ser el donante. Pregunta y escucha.)*
 >
 > **«¿Tú eres donante de médula?»**
 >
-> *(No estás captando donantes, estás captando socios. Informa, no presiones — donar médula es una decisión médica.)*
+> *(Quien tienes delante no solo puede pagar una cuota: podría ser el donante. Pregunta y escucha de verdad. Pero no estás captando donantes, estás captando socios: informa, no presiones — donar médula es una decisión médica.)*
 
 Aquí entra en juego el REDMO, el Registro Español de Donantes de Médula Ósea.
 
@@ -45,7 +44,7 @@ Que sea un servicio oficial no significa que lo financie el Estado en solitario.
 >
 > *(Casi siempre dicen que sí. Ese "sí" es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.» Si te pide cifras, el convenio del BOE son 100.000 € del Ministerio y 100.000 € de la Fundación.)*
 
-Para Marta, ese donante no era un número en un registro. Era la posibilidad de seguir viviendo.
+Para Marta, ese donante no es un número en un registro. Es la posibilidad de seguir viviendo.
 
 Cuando aparece un donante compatible empieza una carrera contrarreloj.
 
@@ -67,7 +66,7 @@ Uno de esos pisos, junto al Hospital Clínic de Barcelona, existe gracias al leg
 
 Encontrar un donante salva vidas hoy. Descubrir nuevos tratamientos puede salvar las de mañana.
 
-El Instituto Josep Carreras es **el centro más grande de Europa dedicado en exclusiva a la leucemia** y otras enfermedades de la sangre. Reúne a cientos de profesionales y decenas de grupos de investigación, y allí se desarrollan nuevos tratamientos que ya están llegando a pacientes a través de ensayos clínicos.
+El Instituto Josep Carreras es **el mayor centro de investigación de Europa dedicado en exclusiva a la leucemia** y otras enfermedades de la sangre. Reúne a cientos de profesionales y decenas de grupos de investigación, y allí se desarrollan nuevos tratamientos que ya están llegando a pacientes a través de ensayos clínicos.
 
 Todo esto tampoco sería posible sin la colaboración internacional. La Fundación forma parte de una red de fundaciones Josep Carreras que impulsan la investigación y el apoyo a los pacientes en distintos países.
 
@@ -80,11 +79,10 @@ En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió super
 Hoy, cada vez que alguien como Marta encuentra un donante, recibe apoyo durante el tratamiento o puede beneficiarse de un nuevo avance científico, ese objetivo deja de ser un sueño y se convierte en una realidad para otra familia.
 
 > 🔄 **RESPIRO 4**
-> *(No lo pongas antes: el bucle de Josep Carreras —«ese nombre no es casualidad» → «esta es la razón»— es el remate emocional del guion y no se interrumpe.)*
 >
 > **«¿Cómo lo ves?»**
 >
-> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después. Si duda, no cierres: pregunta qué le frena.)*
+> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después. Si duda, no cierres: pregunta qué le frena. Y no adelantes este respiro: el bucle de Josep Carreras —«ese nombre no es casualidad» → «esta es la razón»— es el remate del guion y no se interrumpe.)*
 
 ---
 
