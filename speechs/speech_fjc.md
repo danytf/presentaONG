@@ -110,7 +110,7 @@ Marta no estuvo sola. Que es exactamente lo que él quería.
 
 Pero eso era solo la mitad.
 
-La otra mitad —que la leucemia se cure— todavía no está conseguida.
+La otra mitad —que la leucemia se cure en todos los casos— todavía no está conseguida.
 
 *(Pausa.)*
 
