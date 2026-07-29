@@ -100,7 +100,13 @@ Te decía que el nombre de la Fundación no era casualidad. Esta es la razón.
 
 En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió superar la enfermedad y, un año después, creó esta Fundación con un objetivo muy sencillo de explicar, pero enorme de conseguir: que algún día la leucemia sea una enfermedad curable para todos y que ningún paciente tenga que enfrentarse a ella en soledad.
 
-Hoy, cada vez que alguien como Marta encuentra un donante, recibe apoyo durante el tratamiento o puede beneficiarse de un nuevo avance científico, ese objetivo deja de ser un sueño y se convierte en una realidad para otra familia.
+Cuando Josep Carreras enfermó, el REDMO no existía.
+
+Todo lo que Marta encontró esperándola, él lo puso en marcha.
+
+*(Pausa.)*
+
+Marta no estuvo sola. Que es exactamente lo que él quería.
 
 > 🔄 **RESPIRO 4**
 >
