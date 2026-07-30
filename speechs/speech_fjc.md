@@ -54,7 +54,7 @@ Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En
 
 Y entonces empieza una carrera.
 
-Las células de ese donante no se pueden mandar en un paquete. Las lleva un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
+Las células de ese donante no pueden viajar como un paquete cualquiera. Las lleva un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
 
 Y desde que se las extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
@@ -66,7 +66,7 @@ Que Marta encontrara a alguien compatible no fue suerte.
 
 Uno entre tres mil quinientos es una probabilidad diminuta. Por eso el registro tiene que ser enorme.
 
-Medio millón de personas registradas solo en España, y cuarenta millones en el resto del mundo. Por eso más de **8 de cada 10 pacientes** encuentran a su donante.
+Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
 Y ahora mismo, mientras tú y yo hablamos, hay más de mil personas en España esperando el suyo.
 
