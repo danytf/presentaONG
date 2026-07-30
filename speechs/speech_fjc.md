@@ -138,7 +138,7 @@ En la habitación de al lado había un niño de dos años.
 
 *(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes — es el momento de más confianza de toda la conversación.)*
 
-Un año después creó esta Fundación, con un objetivo muy sencillo de explicar y enorme de conseguir: que algún día la leucemia sea una enfermedad curable en todos los casos.
+Un año después creó esta Fundación, con un objetivo fácil de decir y muy difícil de conseguir: que algún día la leucemia sea una enfermedad curable en todos los casos.
 
 Y que ningún paciente tenga que enfrentarse a ella en soledad.
 
