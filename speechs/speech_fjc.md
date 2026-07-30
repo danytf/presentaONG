@@ -36,7 +36,7 @@ A partir de ese momento, su vida depende de un desconocido. Porque la probabilid
 >
 > *(Quien tienes delante no solo puede pagar una cuota: podría ser el donante. Pregunta y escucha de verdad. Pero no estás captando donantes, estás captando socios: informa, no presiones. Donar médula es una decisión médica.)*
 >
-> *(Si aparece el miedo de siempre, «¿eso no es pincharte en la columna?»: el 88 % de las donaciones se hacen por aféresis de sangre periférica, sin cirugía, con un proceso parecido al de donar sangre. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
+> *(Si aparece el miedo de siempre, «¿eso no es pincharte en la columna?», desmóntalo entero y no a medias: «No. El 88 % de las donaciones se hacen por aféresis, sacando las células de la sangre del brazo, sin cirugía, parecido a donar sangre. Y el otro caso tampoco es la columna: se saca de la cadera, con anestesia. La médula ósea no tiene nada que ver con la médula espinal.» Nunca te quedes solo en el 88 %: la persona se va pensando que en el 12 % restante sí le pinchan la columna. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
 >
 > *(Si te dice que sí lo es: «Entonces tú ya estás dentro de lo que te voy a contar. Escúchalo, porque casi nadie sabe qué pasa después de apuntarse.» Es el mejor oyente que vas a tener hoy.)*
 >
@@ -80,7 +80,11 @@ Que dos desconocidos sean compatibles es rarísimo. Por eso el registro tiene qu
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
-Y esta semana, mientras tú y yo hablamos, el REDMO ha empezado veintisiete búsquedas nuevas.
+*(Pausa corta.)*
+
+Ocho de cada diez. Lo que significa que dos de cada diez, no.
+
+El REDMO abre unas veintisiete búsquedas nuevas cada semana. Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
 
 El Estado no lo paga todo.
 
@@ -126,7 +130,9 @@ Porque nadie sale de una consulta de oncología entendiendo ni la mitad de lo qu
 
 Encontrar un donante salvó la vida de Marta. Descubrir nuevos tratamientos puede salvar la de la próxima Marta.
 
-Porque el tratamiento que salvó a Marta también nació en un laboratorio.
+Porque no hay una leucemia: hay decenas, cada una con su propia firma. Y el tratamiento que salvó a Marta se eligió por la suya.
+
+Eso no lo trajo la suerte. Lo trajo alguien investigando durante años.
 
 *(Pausa.)*
 
