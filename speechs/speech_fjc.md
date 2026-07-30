@@ -22,7 +22,7 @@ A los padres de Marta les explican que la mejor opción es un trasplante de méd
 
 En la familia de Marta no hay nadie.
 
-A partir de ese momento, su vida depende de un desconocido. Porque la probabilidad de encontrar a alguien compatible es, de media, de una entre 3.500.
+A partir de ese momento, su vida depende de un desconocido. Porque la probabilidad de encontrar a alguien compatible es de una entre miles de personas.
 
 > 🔄 **RESPIRO 1**
 >
