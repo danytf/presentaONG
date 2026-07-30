@@ -54,13 +54,13 @@ Y entonces empieza una carrera contrarreloj.
 
 *(Sube el ritmo. Esto se cuenta rápido, como lo que es: una carrera.)*
 
-Las células de ese donante no pueden viajar como un paquete cualquiera.
+Las células del donante no pueden viajar como un paquete cualquiera.
 
-Las lleva en mano un mensajero médico especializado. Con el contenedor encima, sentado en la cabina del avión.
+Las lleva en mano un mensajero médico especializado, con el contenedor encima.
 
-Y desde que se las extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
+Y desde que se extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
-Cada semana, esos mensajeros recorren el equivalente a doce vueltas al mundo.
+Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente a doce vueltas al mundo.
 
 *(Pausa.)*
 
