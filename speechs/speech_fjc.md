@@ -8,11 +8,11 @@ Hola, ¿me permites un momento?
 
 Soy [tu nombre], colaborador de la Fundación Josep Carreras contra la Leucemia.
 
-Antes de decirte por qué estoy aquí, déjame contarte la historia de Marta, una niña de seis años.
+Antes de decirte por qué estoy aquí, déjame contarte la historia de Marta, una niña de seis años a la que le diagnosticaron leucemia.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y calla un segundo: muchos te dirán el suyo.)*
 
-*(Marta es un caso construido: el proceso y las cifras son reales. Su edad también: la leucemia es el cáncer infantil más frecuente. Pero la mayoría de los enfermos son adultos, porque la incidencia sube con la edad. No digas nunca lo contrario: es falso y te lo pueden rebatir.)*
+*(Marta es un caso construido: el recorrido es real y los datos están comprobados. Su edad también: la leucemia es el cáncer infantil más frecuente. Pero la mayoría de los enfermos son adultos, porque la incidencia sube con la edad. No digas nunca lo contrario: es falso y te lo pueden rebatir.)*
 
 *(Si preguntan si existe: «No es una persona concreta. Es el recorrido real de un paciente, y las cifras son reales.» Con naturalidad y sigues: no es una confesión, es una aclaración.)*
 
@@ -20,9 +20,7 @@ Antes de decirte por qué estoy aquí, déjame contarte la historia de Marta, un
 
 ## 🗣️ Discurso (~8 minutos)
 
-A Marta le diagnostican leucemia.
-
-A sus padres les explican que la mejor opción es un trasplante de médula ósea. Lo primero que hacen es analizar a toda la familia. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no tienen un familiar totalmente compatible.
+A los padres de Marta les explican que la mejor opción es un trasplante de médula ósea. Lo primero que hacen es analizar a toda la familia. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no tienen un familiar totalmente compatible.
 
 En la familia de Marta no hay nadie.
 
