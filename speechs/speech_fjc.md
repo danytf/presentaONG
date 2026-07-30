@@ -94,7 +94,7 @@ Y eso, además del miedo, es dinero: entre alojamiento y gastos, una estancia as
 
 Marta y su madre no tuvieron que pagarlo.
 
-Durmieron gratis en un piso al lado del Hospital Clínic. La Fundación tiene nueve abiertos en Barcelona y el año pasado alojó a más de cien familias.
+Durmieron gratis en un piso al lado del Hospital Clínic. La Fundación tiene nueve pisos abiertos en Barcelona y el año pasado alojó a más de cien familias.
 
 *(Pausa.)*
 
