@@ -36,7 +36,7 @@ A partir de ese momento, su vida depende de un desconocido. Porque la probabilid
 >
 > *(Quien tienes delante no solo puede pagar una cuota: podría ser el donante. Pregunta y escucha de verdad. Pero no estás captando donantes, estás captando socios: informa, no presiones. Donar médula es una decisión médica.)*
 >
-> *(Si aparece el miedo de siempre, «¿eso no es pincharte en la columna?»: el 81 % de las donaciones se hacen por aféresis, sin cirugía, por un proceso parecido a donar sangre. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
+> *(Si aparece el miedo de siempre, «¿eso no es pincharte en la columna?»: el 88 % de las donaciones se hacen por aféresis de sangre periférica, sin cirugía, con un proceso parecido al de donar sangre. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
@@ -72,7 +72,7 @@ Que dos desconocidos sean compatibles es rarísimo. Por eso el registro tiene qu
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
-Y mientras tú y yo hablamos, hay más de mil personas en España esperando el suyo.
+Y esta semana, mientras tú y yo hablamos, el REDMO ha empezado veintisiete búsquedas nuevas.
 
 El Estado no lo paga todo. La Fundación pone dinero propio para que el registro no deje de funcionar ni un día.
 
@@ -86,7 +86,7 @@ Pero encontrar un donante no significa que el camino haya terminado.
 
 A Marta le tocó tratarse a cientos de kilómetros de su casa. Semanas, puede que meses. Y su madre con ella.
 
-Y eso, además del miedo, es dinero: entre alojamiento y gastos, una estancia así puede costar casi **20.000 euros**.
+Y eso, además del miedo, es dinero: entre el alojamiento y todo lo demás, una estancia así pasa de los **diez mil euros**.
 
 > 🔄 **RESPIRO 3**
 >
@@ -96,7 +96,7 @@ Y eso, además del miedo, es dinero: entre alojamiento y gastos, una estancia as
 
 Marta y su madre no tuvieron que pagarlo.
 
-Durmieron gratis en un piso al lado del Hospital Clínic. La Fundación tiene nueve pisos abiertos en Barcelona y el año pasado alojó a más de cien familias.
+Durmieron gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho pisos abiertos en Barcelona. El año pasado durmieron en ellos cuarenta y una familias.
 
 *(Pausa.)*
 
