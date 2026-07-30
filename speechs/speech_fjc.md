@@ -78,9 +78,9 @@ El Estado no lo paga todo. La Fundación pone dinero propio para que el registro
 
 > 🔄 **RESPIRO 2**
 >
-> **«¿Pensabas que esto lo pagaba el Estado?»**
+> **«¿Pensabas que esto lo pagaba entero el Estado?»**
 >
-> *(Casi siempre dicen que sí. Ese «sí» es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.»)*
+> *(Casi siempre dicen que sí. Ese «sí» es tu argumento, no lo remates: «Ya. Casi todo el mundo da por hecho que está cubierto del todo.» Y no lo simplifiques después: el Estado sí pone parte.)*
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
@@ -90,9 +90,9 @@ Y eso, además del miedo, es dinero: entre el alojamiento y todo lo demás, una 
 
 > 🔄 **RESPIRO 3**
 >
-> **«¿Tú podrías permitirte pasar meses viviendo en otra ciudad?»**
+> **«¿Cuánta gente crees que puede permitirse eso?»**
 >
-> *(Deja que conteste de verdad. Casi nadie puede, y decirlo en voz alta convierte el piso de acogida de «servicio» en «eso me habría salvado a mí». La frase que sigue aterriza sola.)*
+> *(Deja que conteste. Casi todos dicen «poca» o «nadie», y esa respuesta es la que hace que el piso de acogida deje de sonar a servicio. No lo lleves a su bolsillo: no le preguntes si él podría. Y si es él quien lo lleva ahí, no lo remates.)*
 
 Marta y su madre no tuvieron que pagarlo.
 
@@ -176,9 +176,7 @@ Hasta que la curemos, no pararemos.
 
 *(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
 
-Cuando a Marta le diagnosticaron leucemia, nada de lo que la sostuvo apareció ese día.
-
-El REDMO llevaba más de treinta años funcionando.
+Cuando a Marta le diagnosticaron leucemia, el REDMO llevaba más de treinta años funcionando.
 
 Los pisos de acogida ya estaban abiertos.
 
@@ -187,6 +185,8 @@ Había alguien a quien preguntar cuando sus padres no entendían nada.
 Y había gente investigando desde mucho antes de que ella enfermara.
 
 *(Pausa.)*
+
+Nada de eso apareció el día del diagnóstico.
 
 Cuatro cosas distintas, y detrás de todas la misma Fundación.
 
