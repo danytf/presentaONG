@@ -42,7 +42,7 @@ Un registro de personas que un día dijeron que sí a donar.
 
 Lo creó la Fundación Josep Carreras en 1991, cuando en España no existía ninguno. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
-Ese nombre no es casualidad. Hay una historia detrás, y te la cuento al final.
+El tenor Josep Carreras tuvo leucemia. Pero no montó todo esto por eso. Al final te digo por qué.
 
 Para los padres de Marta, en ese registro hay una persona que puede salvar a su hija.
 
@@ -142,13 +142,9 @@ Y esa investigación la pagan más de **150.000 socios**.
 >
 > *(Pregunta abierta a propósito: lo que te conteste es por donde tienes que apretar en el cierre. Es el último respiro antes del remate: córtalo tú, no lo dejes abierto, y arranca lo que viene sin pausa. Si te dice que no sabía que todo esto lo hace una sola fundación, no lo remates: eso vuelve al final y quieres que le caiga entonces.)*
 
-Te decía que el nombre de la Fundación no era casualidad. Esta es la razón.
+Te decía que Josep Carreras no montó todo esto por su propia leucemia. Esta es la razón.
 
-En 1987, al tenor Josep Carreras le diagnosticaron leucemia. La superó.
-
-Pero lo que le llevó a crearla no fue solo lo suyo.
-
-En la habitación de al lado había un niño de dos años.
+En 1987, cuando le diagnosticaron, en la habitación de al lado había un niño de dos años.
 
 *(Pausa.)*
 
@@ -156,7 +152,7 @@ Josep Carreras había podido vivir cuarenta años. Aquel niño, dos.
 
 *(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes. Es el momento de más confianza de toda la conversación.)*
 
-Un año después creó esta Fundación, con un objetivo fácil de decir y muy difícil de conseguir: que algún día la leucemia sea una enfermedad curable en todos los casos.
+Superó la enfermedad, y un año después creó esta Fundación, con un objetivo fácil de decir y muy difícil de conseguir: que algún día la leucemia sea una enfermedad curable en todos los casos.
 
 Y que ningún paciente tenga que enfrentarse a ella en soledad.
 
