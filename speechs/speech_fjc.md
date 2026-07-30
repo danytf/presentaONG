@@ -34,9 +34,9 @@ A partir de ese momento, su vida depende de un desconocido. Porque la probabilid
 >
 > **«¿Tú eres donante de médula?»**
 >
-> *(Quien tienes delante no solo puede pagar una cuota: podría ser el donante. Pregunta y escucha de verdad. Pero no estás captando donantes, estás captando socios: informa, no presiones — donar médula es una decisión médica.)*
+> *(Quien tienes delante no solo puede pagar una cuota: podría ser el donante. Pregunta y escucha de verdad. Pero no estás captando donantes, estás captando socios: informa, no presiones. Donar médula es una decisión médica.)*
 >
-> *(Si aparece el miedo de siempre —«¿eso no es pincharte en la columna?»—: el 81 % de las donaciones se hacen por aféresis, sin cirugía, por un proceso parecido a donar sangre. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
+> *(Si aparece el miedo de siempre, «¿eso no es pincharte en la columna?»: el 81 % de las donaciones se hacen por aféresis, sin cirugía, por un proceso parecido a donar sangre. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
@@ -80,7 +80,7 @@ El Estado no lo paga todo. La Fundación pone dinero propio para que el registro
 >
 > **«¿Pensabas que esto lo pagaba el Estado?»**
 >
-> *(Casi siempre dicen que sí. Ese "sí" es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.»)*
+> *(Casi siempre dicen que sí. Ese «sí» es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.»)*
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
@@ -92,7 +92,7 @@ Y eso, además del miedo, es dinero: entre alojamiento y gastos, una estancia as
 >
 > **«¿Tú podrías permitirte pasar meses viviendo en otra ciudad?»**
 >
-> *(Deja que conteste de verdad. Casi nadie puede, y decirlo en voz alta convierte el piso solidario de "servicio" en "eso me habría salvado a mí". La frase que sigue aterriza sola.)*
+> *(Deja que conteste de verdad. Casi nadie puede, y decirlo en voz alta convierte el piso de acogida de «servicio» en «eso me habría salvado a mí». La frase que sigue aterriza sola.)*
 
 Marta y su madre no tuvieron que pagarlo.
 
@@ -109,6 +109,8 @@ Cada vez que sus padres no entendían algo, tuvieron a quién preguntar: un aná
 La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
 
 Porque nadie sale de una consulta de oncología entendiendo la mitad de lo que le han dicho.
+
+*(Pausa.)*
 
 Encontrar un donante salvó la vida de Marta. Descubrir nuevos tratamientos puede salvar la de la próxima Marta.
 
@@ -140,7 +142,7 @@ En la habitación de al lado había un niño de dos años.
 
 Él ya había vivido cuarenta años. Aquel niño, dos.
 
-*(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes — es el momento de más confianza de toda la conversación.)*
+*(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes. Es el momento de más confianza de toda la conversación.)*
 
 Un año después creó esta Fundación, con un objetivo fácil de decir y muy difícil de conseguir: que algún día la leucemia sea una enfermedad curable en todos los casos.
 
