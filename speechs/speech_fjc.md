@@ -26,7 +26,7 @@ A sus padres les explican que la mejor opción es un trasplante de médula ósea
 
 En la familia de Marta no hay nadie.
 
-A partir de ese momento, su vida depende de un desconocido. Porque solo una de cada 3.500 personas es compatible con ella.
+A partir de ese momento, su vida depende de un desconocido. Porque encontrar una persona compatible es una posibilidad entre 3.500.
 
 > 🔄 **RESPIRO 1**
 >
@@ -38,7 +38,7 @@ A partir de ese momento, su vida depende de un desconocido. Porque solo una de c
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
-Una lista de personas que un día dijeron que sí, conectada con los registros de todo el mundo.
+Un registro de personas que un día dijeron que sí, conectado con los registros de todo el mundo.
 
 Lo creó la Fundación Josep Carreras en 1991, cuando en España no había ningún registro. Hoy lo gestiona por encargo del Ministerio de Sanidad.
 
@@ -54,7 +54,7 @@ Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En
 
 Y entonces empieza una carrera.
 
-Las células de ese donante no pueden viajar como un paquete cualquiera. Las lleva un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
+Las células de ese donante no pueden viajar como un paquete cualquiera. Las lleva personalmente un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
 
 Y desde que se las extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
@@ -106,9 +106,9 @@ Cada vez que sus padres no entendían algo —un análisis, una palabra que les 
 
 Porque nadie sale de una consulta de oncología entendiendo la mitad de lo que le han dicho.
 
-Encontrar un donante salva vidas hoy. Descubrir nuevos tratamientos puede salvar las de mañana.
+Encontrar un donante salvó la vida de Marta. Descubrir nuevos tratamientos puede salvar la de la próxima Marta.
 
-El trasplante que salvó a Marta también salió de un laboratorio.
+Y el tratamiento que recibió también salió de un laboratorio.
 
 *(Pausa.)*
 
@@ -192,7 +192,7 @@ Personas que nunca conocerán a quien están ayudando.
 
 Por eso estoy hoy aquí.
 
-Hoy tú también puedes hacer que todo esto siga esperando a la próxima Marta.
+Hoy tú también puedes hacer que todo esto siga ahí esperando a la próxima Marta.
 
 Para que encuentre a su donante.
 
