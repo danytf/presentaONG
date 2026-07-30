@@ -96,15 +96,11 @@ Y eso, además del miedo, es dinero: una estancia así puede costar casi **20.00
 
 Marta no tuvo que pagarlo.
 
-Durmió en un piso al lado del Hospital Clínic. Ese piso existe porque una señora, Concepción, dejó su casa en herencia a la Fundación.
-
-Hoy la Fundación tiene nueve pisos abiertos en Barcelona. Solo el año pasado alojó a más de cien familias.
-
-Concepción dio su casa una vez. Que los nueve sigan abiertos cada mes, eso lo sostienen los socios.
+Durmió gratis en un piso al lado del Hospital Clínic. La Fundación tiene nueve abiertos en Barcelona y el año pasado alojó a más de cien familias.
 
 *(Pausa.)*
 
-Concepción nunca conoció a Marta. Ni a ninguno de los pacientes que han dormido en su casa desde entonces.
+Eso no se sostiene con un donativo. Se sostiene con gente que paga cada mes.
 
 Y hubo algo más, menos visible.
 
@@ -170,7 +166,7 @@ Cuando a Marta le dieron el diagnóstico, nada de lo que la sostuvo apareció es
 
 El REDMO llevaba más de treinta años funcionando.
 
-Concepción ya había dejado su casa.
+Los pisos de acogida ya estaban abiertos.
 
 Había alguien a quien preguntar cuando no entendía nada.
 
