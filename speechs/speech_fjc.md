@@ -40,7 +40,7 @@ Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea, conect
 
 Un registro de personas que un día decidieron dar el paso de donar.
 
-Lo creó la Fundación Josep Carreras en 1991, cuando en España no existía ninguno, después de que el propio Carreras tuviera leucemia. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
+Lo creó la Fundación Josep Carreras en 1991, cuando en España no existía ninguno, después de que el tenor tuviera leucemia. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
 Para los padres de Marta, en ese registro hay una persona que puede salvar a su hija.
 
