@@ -70,8 +70,6 @@ Medio millón de personas registradas solo en España, y más de cuarenta millon
 
 Y mientras tú y yo estamos aquí hablando, hay más de mil personas en España esperando el suyo.
 
-Y todo eso hay que pagarlo.
-
 El Estado no lo paga todo. La Fundación pone dinero propio para que el registro no deje de funcionar ni un día.
 
 > 🔄 **RESPIRO 2**
@@ -108,7 +106,7 @@ Porque nadie sale de una consulta de oncología entendiendo la mitad de lo que l
 
 Encontrar un donante salvó la vida de Marta. Descubrir nuevos tratamientos puede salvar la de la próxima Marta.
 
-Porque el tratamiento que recibió también nació en un laboratorio.
+Porque el tratamiento que recibió Marta también nació en un laboratorio.
 
 *(Pausa.)*
 
