@@ -26,7 +26,7 @@ A sus padres les explican que la mejor opción es un trasplante de médula ósea
 
 En la familia de Marta no hay nadie.
 
-A partir de ese momento, su vida depende de un desconocido. Porque la probabilidad de encontrar a alguien compatible es de aproximadamente una entre 3.500.
+A partir de ese momento, su vida depende de un desconocido. Porque la probabilidad de encontrar a alguien compatible es de aproximadamente una entre 3.500 personas.
 
 > 🔄 **RESPIRO 1**
 >
@@ -64,7 +64,7 @@ Marta nunca sabrá quién es. Y esa persona nunca sabrá a quién ha salvado.
 
 Que Marta encontrara a alguien compatible no fue suerte.
 
-Uno entre tres mil quinientos es una probabilidad diminuta. Por eso el registro tiene que ser enorme.
+Esa probabilidad —una entre 3.500— es diminuta. Por eso el registro tiene que ser enorme.
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
@@ -190,7 +190,7 @@ Personas que nunca conocerán a quien están ayudando.
 
 Por eso estoy hoy aquí.
 
-Hoy tú también puedes hacer que, cuando llegue la próxima Marta, todo esto siga ahí esperándola.
+Hoy tú también puedes hacer que, cuando llegue la próxima Marta, todo esto ya esté ahí esperándola.
 
 Para que encuentre a su donante.
 
