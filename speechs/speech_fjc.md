@@ -8,9 +8,7 @@ Hola, ¿me permites un momento?
 
 Soy [tu nombre], colaborador de la Fundación Josep Carreras contra la Leucemia.
 
-Antes de decirte por qué estoy aquí, déjame contarte una historia. Empieza con una niña de seis años y con un desconocido.
-
-Cada año, miles de personas en España oyen la palabra leucemia por primera vez.
+Antes de decirte por qué estoy aquí, déjame contarte la historia de Marta, una niña de seis años.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
 
@@ -22,7 +20,7 @@ Cada año, miles de personas en España oyen la palabra leucemia por primera vez
 
 ## 🗣️ Discurso (~8 minutos)
 
-A Marta le diagnostican leucemia. Tiene seis años.
+A Marta le diagnostican leucemia.
 
 A sus padres les explican que la mejor opción es un trasplante de médula ósea. Lo primero que hacen es analizar a toda la familia. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no tienen un familiar totalmente compatible.
 
