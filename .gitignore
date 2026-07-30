@@ -17,6 +17,13 @@ $RECYCLE.BIN/
 *.bak
 ~$*
 
+# Playwright solo hace falta para generar los PDF (tools/a-pdf.js y
+# tools/presentacion-a-pdf.js). Se instala cuando toca y se puede borrar
+# despues; los .js del repo no dependen de el para nada mas.
+node_modules/
+package.json
+package-lock.json
+
 # El paquete de un solo archivo se genera con tools/empaquetar.js.
 # Son ~11 MB que cambian con cada edicion: en el historial de git se
 # acumularian para siempre. Se regenera cuando haga falta repartirlo.
