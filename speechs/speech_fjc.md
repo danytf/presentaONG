@@ -26,13 +26,13 @@ A partir de ese momento, su vida depende de un desconocido. Porque la probabilid
 
 > 🔄 **RESPIRO 1**
 >
-> **«¿Tú eres donante de médula?»**
+> **«¿Conoces a alguien que sea donante de médula?»**
 >
-> *(Quien tienes delante no solo puede pagar una cuota: podría ser el donante. Pregunta y escucha de verdad. Pero no estás captando donantes, estás captando socios: informa, no presiones. Donar médula es una decisión médica.)*
+> *(Casi nadie dice que sí, y sin embargo son medio millón en España. Contéstale: «Ya. Es la generosidad más invisible que existe.» No des la cifra aquí, que llega más adelante y ahí golpea. Y esa idea de lo invisible vuelve dos veces: cuando Marta nunca sabe quién la salvó y cuando los socios nunca conocen a quien ayudan.)*
 >
-> *(Si aparece el miedo de siempre, «¿eso no es pincharte en la columna?», desmóntalo entero y no a medias: «No. El 88 % de las donaciones se hacen por aféresis, sacando las células de la sangre del brazo, sin cirugía, parecido a donar sangre. Y el otro caso tampoco es la columna: se saca de la cadera, con anestesia. La médula ósea no tiene nada que ver con la médula espinal.» Nunca te quedes solo en el 88 %: la persona se va pensando que en el 12 % restante sí le pinchan la columna. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
+> *(Si te dice que él mismo lo es: «Entonces tú ya estás dentro de lo que te voy a contar. Escúchalo, porque casi nadie sabe qué pasa después de apuntarse.» Es el mejor oyente que vas a tener hoy.)*
 >
-> *(Si te dice que sí lo es: «Entonces tú ya estás dentro de lo que te voy a contar. Escúchalo, porque casi nadie sabe qué pasa después de apuntarse.» Es el mejor oyente que vas a tener hoy.)*
+> *(No estás captando donantes, estás captando socios: no lleves tú la conversación ahí. Pero si sale, informa sin presionar, porque donar médula es una decisión médica. Y si aparece el miedo de siempre, «¿eso no es pincharte en la columna?», desmóntalo entero y no a medias: «No. El 88 % de las donaciones se hacen por aféresis, sacando las células de la sangre del brazo, sin cirugía, parecido a donar sangre. Y el otro caso tampoco es la columna: se saca de la cadera, con anestesia. La médula ósea no tiene nada que ver con la médula espinal.» Nunca te quedes solo en el 88 %: la persona se va pensando que en el 12 % restante sí le pinchan la columna. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
 >
 > *(Y si en cualquier momento del discurso te cuenta que lo ha vivido de cerca, para la historia. No la retomes hasta haber preguntado quién fue y cómo está. Luego vuelves con «Pues justo esto es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
 
