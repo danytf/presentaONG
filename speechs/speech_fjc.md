@@ -37,6 +37,10 @@ A partir de ese momento, su vida depende de un desconocido. Porque la probabilid
 > *(Quien tienes delante no solo puede pagar una cuota: podría ser el donante. Pregunta y escucha de verdad. Pero no estás captando donantes, estás captando socios: informa, no presiones. Donar médula es una decisión médica.)*
 >
 > *(Si aparece el miedo de siempre, «¿eso no es pincharte en la columna?»: el 88 % de las donaciones se hacen por aféresis de sangre periférica, sin cirugía, con un proceso parecido al de donar sangre. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
+>
+> *(Si te dice que sí lo es: «Entonces tú ya estás dentro de lo que te voy a contar. Escúchalo, porque casi nadie sabe qué pasa después de apuntarse.» Es el mejor oyente que vas a tener hoy.)*
+>
+> *(Y si en cualquier momento del discurso te cuenta que lo ha vivido de cerca, para la historia. No la retomes hasta haber preguntado quién fue y cómo está. Luego vuelves con «Pues justo esto es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
@@ -58,7 +62,9 @@ Y entonces empieza una carrera.
 
 *(Sube el ritmo. Esto se cuenta rápido, como lo que es: una carrera.)*
 
-Las células de ese donante no pueden viajar como un paquete cualquiera. Tiene que llevarlas personalmente un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
+Las células de ese donante no pueden viajar como un paquete cualquiera.
+
+Las lleva en mano un mensajero médico especializado. Con el contenedor encima, sentado en la cabina del avión.
 
 Y desde que se las extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
@@ -108,7 +114,7 @@ Cada vez que sus padres no entendían algo, tuvieron a quién preguntar: un aná
 
 La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
 
-Porque nadie sale de una consulta de oncología entendiendo la mitad de lo que le han dicho.
+Porque nadie sale de una consulta de oncología entendiendo ni la mitad de lo que le han dicho.
 
 *(Pausa.)*
 
@@ -126,13 +132,13 @@ Y esa investigación la pagan más de **150.000 socios**.
 
 > 🔄 **RESPIRO 4**
 >
-> **«¿Sabías que todo esto lo hace la misma fundación?»**
+> **«De todo lo que te he contado, ¿qué es lo que no te esperabas?»**
 >
-> *(Casi nadie lo sabe. No lo celebres: «Ya, la mayoría conoce el nombre y poco más.» Es el último respiro antes del remate: córtalo tú, no lo dejes abierto, y arranca lo que viene sin pausa.)*
+> *(Pregunta abierta a propósito: lo que te conteste es por donde tienes que apretar en el cierre. Es el último respiro antes del remate: córtalo tú, no lo dejes abierto, y arranca lo que viene sin pausa. Si te dice que no sabía que todo esto lo hace una sola fundación, no lo remates: eso vuelve al final y quieres que le caiga entonces.)*
 
 Te decía que el nombre de la Fundación no era casualidad. Esta es la razón.
 
-En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió superar la enfermedad.
+En 1987, al tenor Josep Carreras le diagnosticaron leucemia. La superó.
 
 Pero lo que le llevó a crearla no fue solo lo suyo.
 
