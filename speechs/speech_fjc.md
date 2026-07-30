@@ -68,6 +68,8 @@ Las lleva en mano un mensajero médico especializado. Con el contenedor encima, 
 
 Y desde que se las extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
+Cada semana, esos mensajeros recorren el equivalente a doce vueltas al mundo.
+
 *(Pausa.)*
 
 Marta nunca sabrá quién es. Y esa persona nunca sabrá a quién ha salvado.
