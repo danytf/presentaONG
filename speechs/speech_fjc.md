@@ -28,7 +28,7 @@ A sus padres les explican que la mejor opción es un trasplante de médula ósea
 
 En la familia de Marta no hay nadie.
 
-A partir de ese momento, su vida depende de un desconocido. Porque la probabilidad de encontrar a alguien compatible es de aproximadamente una entre 3.500 personas.
+A partir de ese momento, su vida depende de un desconocido. Porque la probabilidad de encontrar a alguien compatible es, de media, de una entre 3.500.
 
 > 🔄 **RESPIRO 1**
 >
@@ -82,7 +82,11 @@ Medio millón de personas registradas solo en España, y más de cuarenta millon
 
 Y esta semana, mientras tú y yo hablamos, el REDMO ha empezado veintisiete búsquedas nuevas.
 
-El Estado no lo paga todo. La Fundación pone dinero propio para que el registro no deje de funcionar ni un día.
+El Estado no lo paga todo.
+
+*(Pausa.)*
+
+La Fundación pone dinero propio para que el registro no deje de funcionar ni un día.
 
 > 🔄 **RESPIRO 2**
 >
@@ -148,7 +152,7 @@ En la habitación de al lado había un niño de dos años.
 
 *(Pausa.)*
 
-Él ya había vivido cuarenta años. Aquel niño, dos.
+Josep Carreras había podido vivir cuarenta años. Aquel niño, dos.
 
 *(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes. Es el momento de más confianza de toda la conversación.)*
 
