@@ -26,7 +26,7 @@ A sus padres les explican que la mejor opción es un trasplante de médula ósea
 
 En la familia de Marta no hay nadie.
 
-A partir de ese momento, su vida depende de un desconocido. Porque encontrar una persona compatible es una posibilidad entre 3.500.
+A partir de ese momento, su vida depende de un desconocido. Porque la posibilidad de encontrar a alguien compatible es aproximadamente de una entre 3.500.
 
 > 🔄 **RESPIRO 1**
 >
@@ -38,7 +38,7 @@ A partir de ese momento, su vida depende de un desconocido. Porque encontrar una
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
-Un registro de personas que un día dijeron que sí, conectado con los registros de todo el mundo.
+Un registro de personas que un día dijeron que sí a donar, conectado con los registros de todo el mundo.
 
 Lo creó la Fundación Josep Carreras en 1991, cuando en España no había ningún registro. Hoy lo gestiona por encargo del Ministerio de Sanidad.
 
@@ -108,7 +108,7 @@ Porque nadie sale de una consulta de oncología entendiendo la mitad de lo que l
 
 Encontrar un donante salvó la vida de Marta. Descubrir nuevos tratamientos puede salvar la de la próxima Marta.
 
-Y el tratamiento que recibió también salió de un laboratorio.
+Porque el tratamiento que recibió también nació en un laboratorio.
 
 *(Pausa.)*
 
@@ -192,7 +192,7 @@ Personas que nunca conocerán a quien están ayudando.
 
 Por eso estoy hoy aquí.
 
-Hoy tú también puedes hacer que todo esto siga ahí esperando a la próxima Marta.
+Hoy tú también puedes hacer que, cuando llegue la próxima Marta, todo esto siga ahí esperándola.
 
 Para que encuentre a su donante.
 
