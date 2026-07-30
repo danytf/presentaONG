@@ -14,7 +14,9 @@ Cada año, miles de personas en España oyen la palabra leucemia por primera vez
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
 
-*(Marta es un caso construido para contar el proceso real que viven los pacientes: el diagnóstico, la búsqueda de donante, el desplazamiento y la espera son lo que ocurre de verdad, y todas las cifras están verificadas. Su edad también es representativa: la leucemia es el cáncer infantil más frecuente. Pero eso no significa que la mayoría de los enfermos de leucemia sean niños — no lo son, la incidencia sube con la edad y los adultos son la gran mayoría. No digas nunca lo contrario: es falso y te lo pueden rebatir. Si te preguntan si existe, tienes la respuesta preparada: «No es una persona concreta. Es el recorrido real de un paciente, y las cifras son reales.» Dilo con naturalidad y sigue — no es una confesión, es una aclaración.)*
+*(Marta es un caso construido para contar el proceso real que viven los pacientes: el diagnóstico, la búsqueda de donante, el desplazamiento y la espera son lo que ocurre de verdad, y todas las cifras están verificadas. Su edad también es representativa: la leucemia es el cáncer infantil más frecuente. Pero eso no significa que la mayoría de los enfermos de leucemia sean niños: no lo son, la incidencia sube con la edad y los adultos son la gran mayoría. No digas nunca lo contrario, porque es falso y te lo pueden rebatir.)*
+
+*(Si te preguntan si Marta existe: «No es una persona concreta. Es el recorrido real de un paciente, y las cifras son reales.» Dilo con naturalidad y sigue. No es una confesión, es una aclaración.)*
 
 ---
 
@@ -46,13 +48,15 @@ Ese nombre no es casualidad. Hay una historia detrás, y te la cuento al final.
 
 Para los padres de Marta, en ese registro hay una persona que puede salvar a su hija.
 
-*(Pausa.)*
+*(Pausa. Baja la voz.)*
 
 Y aparece.
 
 Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En otro país.
 
 Y entonces empieza una carrera.
+
+*(Sube el ritmo. Esto se cuenta rápido, como lo que es: una carrera.)*
 
 Las células de ese donante no pueden viajar como un paquete cualquiera. Tiene que llevarlas personalmente un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
 
@@ -64,7 +68,7 @@ Marta nunca sabrá quién es. Y esa persona nunca sabrá a quién ha salvado.
 
 Que Marta encontrara a alguien compatible no fue suerte.
 
-Esa probabilidad es diminuta. Por eso el registro tiene que ser enorme.
+Que dos desconocidos sean compatibles es rarísimo. Por eso el registro tiene que ser enorme.
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
@@ -100,7 +104,7 @@ Eso no se sostiene con un donativo puntual. Se sostiene con gente que paga cada 
 
 Y hubo algo más, menos visible.
 
-Cada vez que sus padres no entendían algo, tuvieron a quién preguntar. Un análisis, una palabra que les habían dicho de pasada, qué venía después.
+Cada vez que sus padres no entendían algo, tuvieron a quién preguntar: un análisis, una palabra que les habían dicho de pasada, qué venía después.
 
 La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
 
@@ -182,7 +186,7 @@ Y había gente investigando desde mucho antes de que ella enfermara.
 
 *(Pausa.)*
 
-Y detrás de las cuatro está la misma Fundación.
+Cuatro cosas distintas, y detrás de todas la misma Fundación.
 
 Todo eso existe porque más de 150.000 personas decidieron hacerse socias.
 
