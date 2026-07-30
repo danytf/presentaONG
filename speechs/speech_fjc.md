@@ -78,7 +78,7 @@ El Estado no lo paga todo. La Fundación pone dinero propio para que el registro
 
 > 🔄 **RESPIRO 2**
 >
-> **«¿Tú pensabas que esto lo pagaba entero el Estado?»**
+> **«¿Pensabas que esto lo pagaba el Estado?»**
 >
 > *(Casi siempre dicen que sí. Ese "sí" es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.»)*
 
@@ -122,7 +122,7 @@ Y esa investigación la pagan más de **150.000 socios**.
 
 > 🔄 **RESPIRO 4**
 >
-> **«¿Tú sabías que todo esto lo hacía la misma fundación?»**
+> **«¿Sabías que todo esto lo hace la misma fundación?»**
 >
 > *(Casi nadie lo sabe. No lo celebres: «Ya, la mayoría conoce el nombre y poco más.» Es el último respiro antes del remate: córtalo tú, no lo dejes abierto, y arranca lo que viene sin pausa.)*
 
@@ -137,6 +137,8 @@ En la habitación de al lado había un niño de dos años.
 *(Pausa.)*
 
 Él ya había vivido cuarenta años. Aquel niño, dos.
+
+*(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes — es el momento de más confianza de toda la conversación.)*
 
 Un año después creó esta Fundación, con un objetivo muy sencillo de explicar y enorme de conseguir: que algún día la leucemia sea una enfermedad curable en todos los casos.
 
