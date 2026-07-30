@@ -8,25 +8,27 @@ Hola, ¿me permites un momento?
 
 Soy [tu nombre], colaborador de la Fundación Josep Carreras contra la Leucemia.
 
-Antes de explicarte por qué estoy aquí, déjame contarte una historia. Empieza con un diagnóstico y con un desconocido.
+Antes de explicarte por qué estoy aquí, déjame contarte una historia. Empieza con una niña de seis años y con un desconocido.
 
 Le pasa a miles de personas cada año.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
 
-*(Marta es un caso construido para contar el proceso real que viven los pacientes: el diagnóstico, la búsqueda de donante, el desplazamiento y la espera son lo que ocurre de verdad, y todas las cifras están verificadas. Si te preguntan si existe, tienes la respuesta preparada: «No es una persona concreta. Es el recorrido real de un paciente, y las cifras son reales.» Dilo con naturalidad y sigue — no es una confesión, es una aclaración.)*
+*(Marta es un caso construido para contar el proceso real que viven los pacientes: el diagnóstico, la búsqueda de donante, el desplazamiento y la espera son lo que ocurre de verdad, y todas las cifras están verificadas. Su edad también es representativa: la leucemia es el cáncer infantil más frecuente. Pero eso no significa que la mayoría de los enfermos de leucemia sean niños — no lo son, la incidencia sube con la edad y los adultos son la gran mayoría. No digas nunca lo contrario: es falso y te lo pueden rebatir. Si te preguntan si existe, tienes la respuesta preparada: «No es una persona concreta. Es el recorrido real de un paciente, y las cifras son reales.» Dilo con naturalidad y sigue — no es una confesión, es una aclaración.)*
 
 ---
 
 ## 🗣️ Discurso (~8 minutos)
 
-A Marta le diagnostican leucemia.
+A Marta le diagnostican leucemia. Tiene seis años.
 
-El médico le explica que, para ella, la mejor opción es un trasplante de médula ósea. Lo primero que hacen es comprobar si algún familiar es compatible. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no tienen un familiar totalmente compatible.
+Es el cáncer más frecuente en la infancia.
 
-Marta tampoco.
+A sus padres les explican que la mejor opción es un trasplante de médula ósea. Lo primero que hacen es analizar a toda la familia. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no tienen un familiar totalmente compatible.
 
-A partir de ese momento, su vida pasa a depender de alguien a quien nunca ha visto. Porque la probabilidad de que dos personas sin parentesco sean compatibles es de aproximadamente 1 entre 3.500.
+En la familia de Marta no hay nadie.
+
+A partir de ese momento, su vida depende de un desconocido. Porque fuera de la familia solo hay una persona compatible entre cada 3.500.
 
 > 🔄 **RESPIRO 1**
 >
@@ -44,7 +46,7 @@ Lo creó la Fundación Josep Carreras en 1991, cuando en España no había ning�
 
 Ese nombre no es casualidad. Hay una historia detrás, y te la cuento al final.
 
-Para Marta, ese donante no es un número en un registro. Es la posibilidad de seguir viviendo.
+Para los padres de Marta, ese donante no es un número en un registro. Es la posibilidad de que su hija siga viviendo.
 
 *(Pausa.)*
 
@@ -84,19 +86,19 @@ El Estado no lo paga todo. La Fundación pone dinero propio para que el registro
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
-A Marta le tocó tratarse a cientos de kilómetros de su casa. Semanas, puede que meses, lejos de los suyos.
+A Marta le tocó tratarse a cientos de kilómetros de su casa. Semanas, puede que meses. Y su madre con ella.
 
 Y eso, además del miedo, es dinero: una estancia así puede costar casi **20.000 euros**.
 
 > 🔄 **RESPIRO 3**
 >
-> **«¿Tú podrías permitirte pasar meses viviendo en otra ciudad?»**
+> **«¿Tú podrías dejar tu trabajo unos meses para estar con tu hija?»**
 >
-> *(Deja que conteste de verdad. Casi nadie puede, y decirlo en voz alta convierte el piso solidario de "servicio" en "eso me habría salvado a mí". La frase que sigue aterriza sola.)*
+> *(Deja que conteste de verdad. Casi nadie puede, y decirlo en voz alta convierte el piso solidario de "servicio" en "eso me habría salvado a mí". La frase que sigue aterriza sola. Si no tiene hijos, cámbialo por «para estar con tu hermano» o «con tu madre».)*
 
-Marta no tuvo que pagarlo.
+Marta y su madre no tuvieron que pagarlo.
 
-Durmió gratis en un piso al lado del Hospital Clínic. La Fundación tiene nueve abiertos en Barcelona y el año pasado alojó a más de cien familias.
+Durmieron gratis en un piso al lado del Hospital Clínic. La Fundación tiene nueve abiertos en Barcelona y el año pasado alojó a más de cien familias.
 
 *(Pausa.)*
 
@@ -104,7 +106,7 @@ Eso no se sostiene con un donativo. Se sostiene con gente que paga cada mes.
 
 Y hubo algo más, menos visible.
 
-Cada vez que Marta no entendía algo —un análisis, una palabra que le habían dicho de pasada, qué venía después— tuvo a quién preguntar. La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
+Cada vez que sus padres no entendían algo —un análisis, una palabra que les habían dicho de pasada, qué venía después— tuvieron a quién preguntar. La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
 
 Porque nadie sale de una consulta de oncología entendiendo la mitad de lo que le han dicho.
 
@@ -128,13 +130,21 @@ Y esa investigación la pagan más de **150.000 socios**.
 
 Te decía que el nombre de la Fundación no era casualidad. Esta es la razón.
 
-En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió superar la enfermedad y, un año después, creó esta Fundación.
+En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió superar la enfermedad.
 
-Con un objetivo muy sencillo de explicar, pero enorme de conseguir: que algún día la leucemia sea una enfermedad curable en todos los casos.
+Pero lo que le decidió a crear esta Fundación no fue lo suyo.
+
+En la habitación de al lado había un bebé de dos años.
+
+*(Pausa.)*
+
+Él ya había vivido cuarenta años. Aquel niño, dos.
+
+Un año después creó esta Fundación, con un objetivo muy sencillo de explicar y enorme de conseguir: que algún día la leucemia sea una enfermedad curable en todos los casos.
 
 Y que ningún paciente tenga que enfrentarse a ella en soledad.
 
-Cuando Josep Carreras enfermó, el REDMO no existía.
+Cuando él enfermó, el REDMO no existía.
 
 Todo lo que Marta encontró esperándola, él lo puso en marcha.
 
@@ -168,7 +178,7 @@ El REDMO llevaba más de treinta años funcionando.
 
 Los pisos de acogida ya estaban abiertos.
 
-Había alguien a quien preguntar cuando no entendía nada.
+Había alguien a quien preguntar cuando sus padres no entendían nada.
 
 Y había gente investigando desde mucho antes de que ella enfermara.
 
