@@ -22,7 +22,7 @@ A los padres de Marta les explican que la mejor opción es un trasplante de méd
 
 En la familia de Marta no hay nadie.
 
-A partir de ese momento, su vida depende de un desconocido. Porque la probabilidad de encontrar a alguien compatible ronda una entre 3.500.
+A partir de ese momento, su vida depende de un desconocido.
 
 > 🔄 **RESPIRO 1**
 >
@@ -42,13 +42,13 @@ Un registro de personas que un día decidieron dar el paso de donar.
 
 Lo creó la Fundación Josep Carreras en 1991, cuando en España no existía ninguno, después de que el tenor tuviera leucemia. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
-Para los padres de Marta, en ese registro hay una persona que puede salvar a su hija.
+Para los padres de Marta, en ese registro hay una persona que puede salvar a su hija. Todavía no saben quién.
 
 *(Pausa. Baja la voz.)*
 
 Y aparece.
 
-Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En otro país.
+Veintiséis días después, el REDMO encuentra a alguien compatible con ella. Está en otro país.
 
 Y entonces empieza una carrera contrarreloj.
 
@@ -68,7 +68,7 @@ Marta nunca sabrá quién es. Y esa persona nunca sabrá a quién ha salvado.
 
 Que Marta encontrara a alguien compatible no fue suerte.
 
-Que dos desconocidos sean compatibles es rarísimo. Por eso el registro tiene que ser enorme.
+Que dos desconocidos sean compatibles es rarísimo: ronda una entre 3.500. Por eso el registro tiene que ser enorme.
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
