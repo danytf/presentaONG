@@ -64,7 +64,7 @@ Marta nunca sabrá quién es. Y esa persona nunca sabrá a quién ha salvado.
 
 Que Marta encontrara a alguien compatible no fue suerte.
 
-Esa probabilidad, una entre 3.500, es diminuta. Por eso el registro tiene que ser enorme.
+Esa probabilidad es diminuta. Por eso el registro tiene que ser enorme.
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
@@ -86,9 +86,9 @@ Y eso, además del miedo, es dinero: entre alojamiento y gastos, una estancia as
 
 > 🔄 **RESPIRO 3**
 >
-> **«¿Tú podrías dejar tu trabajo unos meses para estar con tu hija?»**
+> **«¿Tú podrías permitirte pasar meses viviendo en otra ciudad?»**
 >
-> *(Deja que conteste de verdad. Casi nadie puede, y decirlo en voz alta convierte el piso solidario de "servicio" en "eso me habría salvado a mí". La frase que sigue aterriza sola. Si no tiene hijos, cámbialo por «para estar con tu hermano» o «con tu madre».)*
+> *(Deja que conteste de verdad. Casi nadie puede, y decirlo en voz alta convierte el piso solidario de "servicio" en "eso me habría salvado a mí". La frase que sigue aterriza sola.)*
 
 Marta y su madre no tuvieron que pagarlo.
 
