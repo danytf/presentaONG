@@ -44,7 +44,7 @@ Lo creó la Fundación Josep Carreras en 1991, cuando en España no había ning�
 
 Ese nombre no es casualidad. Hay una historia detrás, y te la cuento al final.
 
-Para los padres de Marta, ese donante no es un número en un registro. Es la posibilidad de que su hija siga viviendo.
+Para los padres de Marta, en ese registro hay una persona que puede salvar a su hija.
 
 *(Pausa.)*
 
@@ -64,7 +64,7 @@ Marta nunca sabrá quién es. Y esa persona nunca sabrá a quién ha salvado.
 
 Que Marta encontrara a alguien compatible no fue suerte.
 
-Esa probabilidad —una entre 3.500— es diminuta. Por eso el registro tiene que ser enorme.
+Esa probabilidad, una entre 3.500, es diminuta. Por eso el registro tiene que ser enorme.
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
@@ -100,7 +100,9 @@ Eso no se sostiene con un donativo puntual. Se sostiene con gente que paga cada 
 
 Y hubo algo más, menos visible.
 
-Cada vez que sus padres no entendían algo —un análisis, una palabra que les habían dicho de pasada, qué venía después— tuvieron a quién preguntar. La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
+Cada vez que sus padres no entendían algo, tuvieron a quién preguntar. Un análisis, una palabra que les habían dicho de pasada, qué venía después.
+
+La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
 
 Porque nadie sale de una consulta de oncología entendiendo la mitad de lo que le han dicho.
 
@@ -150,7 +152,7 @@ Marta no estuvo sola. Que es exactamente lo que él quería.
 
 Pero eso era solo la mitad.
 
-La otra mitad —que la leucemia se cure en todos los casos— todavía no está conseguida.
+La otra mitad, que la leucemia se cure en todos los casos, todavía no está conseguida.
 
 *(Pausa.)*
 
@@ -180,7 +182,7 @@ Y había gente investigando desde mucho antes de que ella enfermara.
 
 *(Pausa.)*
 
-Cuatro cosas distintas. Una sola Fundación.
+Y detrás de las cuatro está la misma Fundación.
 
 Todo eso existe porque más de 150.000 personas decidieron hacerse socias.
 
