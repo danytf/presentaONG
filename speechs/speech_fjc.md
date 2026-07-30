@@ -56,9 +56,9 @@ Y entonces empieza una carrera contrarreloj.
 
 Las células del donante no pueden viajar como un paquete cualquiera.
 
-Las lleva en mano un mensajero médico especializado, con el contenedor encima.
-
 Y desde que se extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
+
+Por eso las lleva en mano un mensajero médico especializado, con el contenedor encima.
 
 Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente a doce vueltas al mundo.
 
@@ -66,15 +66,13 @@ Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente
 
 Marta nunca sabrá quién es. Y esa persona nunca sabrá a quién ha salvado.
 
-Que Marta encontrara a alguien compatible no fue suerte.
-
 Que dos desconocidos sean compatibles es rarísimo: ronda una entre 3.500. Por eso el registro tiene que ser enorme.
 
-Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
+Y sin embargo, que Marta encontrara a alguien compatible no fue cuestión de suerte.
 
-*(Pausa corta.)*
+Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo lo hicieron posible.
 
-Ocho de cada diez. Lo que significa que dos de cada diez, no.
+Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
 El REDMO abre unas veintisiete búsquedas nuevas cada semana. Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
 
@@ -86,9 +84,9 @@ La Fundación pone dinero propio para que el registro no deje de funcionar ni un
 
 > 🔄 **RESPIRO 2**
 >
-> **«¿Pensabas que esto lo pagaba entero el Estado?»**
+> **«¿Tú habías oído hablar del REDMO?»**
 >
-> *(Casi siempre dicen que sí. Ese «sí» es tu argumento, no lo remates: «Ya. Casi todo el mundo da por hecho que está cubierto del todo.» Y no lo simplifiques después: el Estado sí pone parte.)*
+> *(Casi nadie dice que sí. Contéstale: «Ya. Y casi nadie lo sabe.» Y no simplifiques lo del dinero: el Estado sí pone una parte.)*
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
@@ -130,7 +128,7 @@ Eso no lo trajo la suerte. Lo trajo alguien investigando durante años.
 
 Y hoy ya se está investigando lo que curará a los pacientes de dentro de diez años. Buena parte, en el Instituto Josep Carreras, el centro de investigación de la propia Fundación: **el mayor de Europa dedicado en exclusiva a la leucemia**.
 
-Porque esto no está ganado. **No todas las leucemias son iguales**: hay algunas que hoy se curan en la mayoría de los casos, y otras en las que todavía se pierde a la mitad de los pacientes.
+Porque esto no está ganado. **Dos de cada diez pacientes no encuentran a su donante.** Y no todas las leucemias son iguales: hay algunas que hoy se curan en la mayoría de los casos, y otras en las que todavía se pierde a la mitad de los pacientes.
 
 Y esa investigación la pagan más de **150.000 socios**.
 
