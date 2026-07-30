@@ -28,13 +28,11 @@ A partir de ese momento, su vida depende de un desconocido. Porque la probabilid
 >
 > **«¿Conoces a alguien que sea donante de médula?»**
 >
-> *(Casi nadie dice que sí, y sin embargo son medio millón en España. Contéstale: «Ya. Es la generosidad más invisible que existe.» No des la cifra aquí, que llega más adelante y ahí golpea. Y esa idea de lo invisible vuelve dos veces: cuando Marta nunca sabe quién la salvó y cuando los socios nunca conocen a quien ayudan.)*
+> *(Casi nadie dice que sí, y son medio millón en España. Contéstale: «Ya. Es la generosidad más invisible que existe.» No des la cifra aquí: llega más adelante. Y si te dice que él lo es: «Entonces ya estás dentro de lo que te voy a contar. Escúchalo, porque casi nadie sabe qué pasa después de apuntarse.»)*
 >
-> *(Si te dice que él mismo lo es: «Entonces tú ya estás dentro de lo que te voy a contar. Escúchalo, porque casi nadie sabe qué pasa después de apuntarse.» Es el mejor oyente que vas a tener hoy.)*
+> *(No lleves tú la conversación a la donación: buscas socios. Si sale, informa sin presionar. Y ante el miedo de siempre, «¿eso no es pincharte en la columna?»: «No. El 88 % es por aféresis, del brazo, sin cirugía, como donar sangre. Y el resto es de la cadera, con anestesia: la médula ósea no tiene nada que ver con la espinal.» Di siempre las dos mitades, o se queda con la peor. Es gratuito y no obliga a nada: 900 32 33 34.)*
 >
-> *(No estás captando donantes, estás captando socios: no lleves tú la conversación ahí. Pero si sale, informa sin presionar, porque donar médula es una decisión médica. Y si aparece el miedo de siempre, «¿eso no es pincharte en la columna?», desmóntalo entero y no a medias: «No. El 88 % de las donaciones se hacen por aféresis, sacando las células de la sangre del brazo, sin cirugía, parecido a donar sangre. Y el otro caso tampoco es la columna: se saca de la cadera, con anestesia. La médula ósea no tiene nada que ver con la médula espinal.» Nunca te quedes solo en el 88 %: la persona se va pensando que en el 12 % restante sí le pinchan la columna. Es gratuito, con los gastos cubiertos, y apuntarse no obliga a nada. Para informarse o inscribirse: 900 32 33 34.)*
->
-> *(Y si en cualquier momento del discurso te cuenta que lo ha vivido de cerca, para la historia. No la retomes hasta haber preguntado quién fue y cómo está. Luego vuelves con «Pues justo esto es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
+> *(Si te cuenta que lo ha vivido de cerca, para la historia y pregúntale quién fue y cómo está. Vuelves con «Pues justo esto es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
