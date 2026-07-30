@@ -36,11 +36,11 @@ A partir de ese momento, su vida depende de un desconocido. Porque la probabilid
 >
 > *(Si te cuenta que lo ha vivido de cerca, para la historia y pregúntale quién fue y cómo está. Vuelves con «Pues justo esto es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
 
-Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
+Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea, conectado con el resto de los registros del mundo.
 
-Un registro de personas que un día dijeron que sí a donar, conectado con los registros de todo el mundo.
+Un registro de personas que un día dijeron que sí a donar.
 
-Lo creó la Fundación Josep Carreras en 1991, cuando en España no había ningún registro. Hoy lo gestiona por encargo del Ministerio de Sanidad.
+Lo creó la Fundación Josep Carreras en 1991, cuando en España no existía ninguno. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
 Ese nombre no es casualidad. Hay una historia detrás, y te la cuento al final.
 
