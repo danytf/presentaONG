@@ -58,7 +58,7 @@ Las células del donante no pueden viajar como un paquete cualquiera.
 
 Y desde que se extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
-Por eso las lleva en mano un mensajero médico especializado, con el contenedor encima.
+Por eso las lleva personalmente un mensajero médico especializado. Con el contenedor encima, en la cabina del avión.
 
 Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente a doce vueltas al mundo.
 
@@ -72,21 +72,21 @@ Y sin embargo, que Marta encontrara a alguien compatible no fue cuestión de sue
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo lo hicieron posible.
 
+*(Pausa.)*
+
 Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
 El REDMO abre unas veintisiete búsquedas nuevas cada semana. Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
 
-El Estado no lo paga todo.
+El Estado financia una parte.
 
-*(Pausa.)*
-
-La Fundación pone dinero propio para que el registro no deje de funcionar ni un día.
+La Fundación pone su propio dinero para que el registro no deje de funcionar ni un día.
 
 > 🔄 **RESPIRO 2**
 >
 > **«¿Tú habías oído hablar del REDMO?»**
 >
-> *(Casi nadie dice que sí. Contéstale: «Ya. Y casi nadie lo sabe.» Y no simplifiques lo del dinero: el Estado sí pone una parte.)*
+> *(Lo normal es que diga que no. Contéstale: «Ya. Y casi nadie sabe que existe.»)*
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
