@@ -12,9 +12,7 @@ Antes de decirte por qué estoy aquí, déjame contarte la historia de Marta, un
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y calla un segundo: muchos te dirán el suyo.)*
 
-*(Marta es un caso construido: el recorrido es real y los datos están comprobados. Su edad también: la leucemia es el cáncer infantil más frecuente. Pero la mayoría de los enfermos son adultos, porque la incidencia sube con la edad. No digas nunca lo contrario: es falso y te lo pueden rebatir.)*
-
-*(Si preguntan si existe: «No es una persona concreta. Es el recorrido real de un paciente, y las cifras son reales.» Con naturalidad y sigues: no es una confesión, es una aclaración.)*
+*(Marta es un caso construido. Si preguntan si existe: «No es una persona concreta. Es el recorrido real de un paciente, y las cifras son reales.» Es una aclaración, no una confesión: dilo y sigue. La edad es representativa, porque la leucemia es el cáncer infantil más frecuente. Pero la mayoría de los enfermos son adultos, y no digas lo contrario: es falso y te lo rebaten.)*
 
 ---
 
