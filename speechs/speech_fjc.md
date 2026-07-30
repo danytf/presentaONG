@@ -8,9 +8,9 @@ Hola, ¿me permites un momento?
 
 Soy [tu nombre], colaborador de la Fundación Josep Carreras contra la Leucemia.
 
-Antes de explicarte por qué estoy aquí, déjame contarte una historia. Le podría pasar a cualquiera.
+Antes de explicarte por qué estoy aquí, déjame contarte una historia. Empieza con un diagnóstico y con un desconocido.
 
-De hecho, le pasa a miles de personas cada año.
+Le pasa a miles de personas cada año.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
 
