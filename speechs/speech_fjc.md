@@ -10,7 +10,7 @@ Soy [tu nombre], colaborador de la Fundación Josep Carreras contra la Leucemia.
 
 Antes de explicarte por qué estoy aquí, déjame contarte una historia. Empieza con una niña de seis años y con un desconocido.
 
-Le pasa a miles de personas cada año.
+Cada año, miles de personas en España oyen la palabra leucemia por primera vez.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
 
@@ -21,8 +21,6 @@ Le pasa a miles de personas cada año.
 ## 🗣️ Discurso (~8 minutos)
 
 A Marta le diagnostican leucemia. Tiene seis años.
-
-Es el cáncer más frecuente en la infancia.
 
 A sus padres les explican que la mejor opción es un trasplante de médula ósea. Lo primero que hacen es analizar a toda la familia. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no tienen un familiar totalmente compatible.
 
@@ -132,9 +130,9 @@ Te decía que el nombre de la Fundación no era casualidad. Esta es la razón.
 
 En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió superar la enfermedad.
 
-Pero lo que le decidió a crear esta Fundación no fue lo suyo.
+Pero no fue solo por lo que le había pasado a él.
 
-En la habitación de al lado había un bebé de dos años.
+En la habitación de al lado había un niño de dos años.
 
 *(Pausa.)*
 
@@ -172,7 +170,7 @@ Hasta que la curemos, no pararemos.
 
 *(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
 
-Cuando a Marta le dieron el diagnóstico, nada de lo que la sostuvo apareció ese día.
+Cuando a Marta le diagnosticaron leucemia, nada de lo que la sostuvo apareció ese día.
 
 El REDMO llevaba más de treinta años funcionando.
 
