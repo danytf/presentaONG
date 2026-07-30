@@ -28,9 +28,11 @@ A partir de ese momento, su vida depende de un desconocido. Porque la probabilid
 >
 > **«¿Conoces a alguien que sea donante de médula?»**
 >
-> *(Casi nadie dice que sí, y son medio millón en España. Contéstale: «Ya. Es la generosidad más invisible que existe.» No des la cifra aquí: llega más adelante. Y si te dice que él lo es: «Entonces ya estás dentro de lo que te voy a contar. Escúchalo, porque casi nadie sabe qué pasa después de apuntarse.»)*
+> *(Si dice que no: «Ya. Es uno de los actos de generosidad más invisibles que existen.»)*
 >
-> *(No lleves tú la conversación a la donación: buscas socios. Si sale, informa sin presionar. Y ante el miedo de siempre, «¿eso no es pincharte en la columna?»: «No. El 88 % es por aféresis, del brazo, sin cirugía, como donar sangre. Y el resto es de la cadera, con anestesia: la médula ósea no tiene nada que ver con la espinal.» Di siempre las dos mitades, o se queda con la peor. Es gratuito y no obliga a nada: 900 32 33 34.)*
+> *(Si te dice que él lo es: «Entonces ya estás dentro de lo que te voy a contar, y mucha gente no sabe lo que pasa después de apuntarse.»)*
+>
+> *(No lleves tú la conversación a la donación: buscas socios. Si sale, informa sin presionar: el 88 % es por aféresis, del brazo, sin cirugía; el resto es de la cadera, con anestesia. La médula ósea no tiene nada que ver con la espinal. Gratis y sin compromiso: 900 32 33 34.)*
 >
 > *(Si te cuenta que lo ha vivido de cerca, para la historia y pregúntale quién fue y cómo está. Vuelves con «Pues justo esto es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
 
