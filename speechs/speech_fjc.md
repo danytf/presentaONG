@@ -8,7 +8,7 @@ Hola, ¿me permites un momento?
 
 Soy [tu nombre], colaborador de la Fundación Josep Carreras contra la Leucemia.
 
-Antes de explicarte por qué estoy aquí, déjame contarte una historia. Empieza con una niña de seis años y con un desconocido.
+Antes de decirte por qué estoy aquí, déjame contarte una historia. Empieza con una niña de seis años y con un desconocido.
 
 Cada año, miles de personas en España oyen la palabra leucemia por primera vez.
 
@@ -26,7 +26,7 @@ A sus padres les explican que la mejor opción es un trasplante de médula ósea
 
 En la familia de Marta no hay nadie.
 
-A partir de ese momento, su vida depende de un desconocido. Porque fuera de la familia solo hay una persona compatible entre cada 3.500.
+A partir de ese momento, su vida depende de un desconocido. Porque solo una de cada 3.500 personas es compatible con ella.
 
 > 🔄 **RESPIRO 1**
 >
@@ -38,7 +38,7 @@ A partir de ese momento, su vida depende de un desconocido. Porque fuera de la f
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
-Un fichero de personas que un día dijeron que sí, conectado con los registros de todo el mundo.
+Una lista de personas que un día dijeron que sí, conectada con los registros de todo el mundo.
 
 Lo creó la Fundación Josep Carreras en 1991, cuando en España no había ningún registro. Hoy lo gestiona por encargo del Ministerio de Sanidad.
 
@@ -68,7 +68,7 @@ Uno entre tres mil quinientos es una probabilidad diminuta. Por eso el registro 
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
-Y ahora mismo, mientras tú y yo hablamos, hay más de mil personas en España esperando el suyo.
+Y mientras tú y yo estamos aquí hablando, hay más de mil personas en España esperando el suyo.
 
 Y todo eso hay que pagarlo.
 
@@ -98,7 +98,7 @@ Durmieron gratis en un piso al lado del Hospital Clínic. La Fundación tiene nu
 
 *(Pausa.)*
 
-Eso no se sostiene con un donativo. Se sostiene con gente que paga cada mes.
+Eso no se sostiene con un donativo puntual. Se sostiene con gente que paga cada mes.
 
 Y hubo algo más, menos visible.
 
@@ -128,7 +128,7 @@ Te decía que el nombre de la Fundación no era casualidad. Esta es la razón.
 
 En 1987, el tenor Josep Carreras fue diagnosticado de leucemia. Consiguió superar la enfermedad.
 
-Pero no fue solo por lo que le había pasado a él.
+Pero lo que le llevó a crearla no fue solo lo suyo.
 
 En la habitación de al lado había un niño de dos años.
 
@@ -192,7 +192,7 @@ Personas que nunca conocerán a quien están ayudando.
 
 Por eso estoy hoy aquí.
 
-Hoy tú también puedes hacer posible la historia de la próxima Marta.
+Hoy tú también puedes hacer que todo esto siga esperando a la próxima Marta.
 
 Para que encuentre a su donante.
 
