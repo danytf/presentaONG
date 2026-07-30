@@ -54,9 +54,9 @@ Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En
 
 Y entonces empieza una carrera.
 
-Las células de ese donante no se pueden enviar por mensajería. Las lleva una persona en la mano, sentada en un avión, dentro de una nevera especial.
+Las células de ese donante no se pueden mandar en un paquete. Las lleva en mano un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
 
-Ni siquiera pueden pasar por el escáner del aeropuerto: la radiación las dañaría.
+Ni siquiera pasan por el escáner del aeropuerto.
 
 Y desde que se las extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
@@ -86,7 +86,7 @@ Pero encontrar un donante no significa que el camino haya terminado.
 
 A Marta le tocó tratarse a cientos de kilómetros de su casa. Semanas, puede que meses. Y su madre con ella.
 
-Y eso, además del miedo, es dinero: una estancia así puede costar casi **20.000 euros**.
+Y eso, además del miedo, es dinero: entre alojamiento y gastos, una estancia así puede costar casi **20.000 euros**.
 
 > 🔄 **RESPIRO 3**
 >
@@ -116,7 +116,7 @@ El trasplante que salvó a Marta también salió de un laboratorio.
 
 Y hoy ya se está investigando lo que curará a los pacientes de dentro de diez años. Buena parte, en el Instituto Josep Carreras, el centro de investigación de la propia Fundación: **el mayor de Europa dedicado en exclusiva a la leucemia**.
 
-Porque esto no está ganado. **Uno de cada cinco niños** con leucemia no la supera. Y **la mitad de los adultos**, tampoco.
+Porque esto no está ganado. **No todas las leucemias son iguales**: hay algunas que hoy se curan en la mayoría de los casos, y otras en las que todavía se pierde a la mitad de los pacientes.
 
 Y esa investigación la pagan más de **150.000 socios**.
 
