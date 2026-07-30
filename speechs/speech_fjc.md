@@ -22,7 +22,7 @@ De hecho, le pasa a miles de personas cada año.
 
 A Marta le diagnostican leucemia.
 
-El médico le explica que, para ella, la mejor opción es un trasplante de médula ósea. Lo primero que hacen es comprobar si algún familiar es compatible. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no encuentran un donante dentro de su propia familia.
+El médico le explica que, para ella, la mejor opción es un trasplante de médula ósea. Lo primero que hacen es comprobar si algún familiar es compatible. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no tienen un familiar totalmente compatible.
 
 Marta tampoco.
 
@@ -40,7 +40,7 @@ Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
 Un fichero de personas que un día dijeron que sí, conectado con los registros de todo el mundo.
 
-Lo gestiona la Fundación Josep Carreras, por encargo del Ministerio de Sanidad, desde 1991.
+Lo creó la Fundación Josep Carreras en 1991, cuando en España no había ningún registro. Hoy lo gestiona por encargo del Ministerio de Sanidad.
 
 Ese nombre no es casualidad. Hay una historia detrás, y te la cuento al final.
 
@@ -54,7 +54,7 @@ Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En
 
 Y entonces empieza una carrera.
 
-Esas células no se pueden enviar por mensajería. Las lleva una persona en la mano, sentada en un avión, dentro de una nevera especial.
+Las células de ese donante no se pueden enviar por mensajería. Las lleva una persona en la mano, sentada en un avión, dentro de una nevera especial.
 
 Ni siquiera pueden pasar por el escáner del aeropuerto: la radiación las dañaría.
 
@@ -68,7 +68,7 @@ Que Marta encontrara a alguien compatible no fue suerte.
 
 Uno entre tres mil quinientos es una probabilidad diminuta. Por eso el registro tiene que ser enorme.
 
-Medio millón de personas registradas solo en España. Y así esa probabilidad se convierte en que más de **8 de cada 10 pacientes** encuentren a su donante.
+Medio millón de personas registradas solo en España, y cuarenta millones en el resto del mundo. Por eso más de **8 de cada 10 pacientes** encuentran a su donante.
 
 Desde que existe el REDMO se han hecho posibles **15.000 trasplantes**.
 
@@ -76,13 +76,13 @@ Y ahora mismo, mientras tú y yo hablamos, hay más de mil personas en España e
 
 Y todo eso hay que pagarlo.
 
-Que sea un servicio oficial no significa que lo pague el Estado entero. La Fundación también pone recursos propios para que el registro no deje de funcionar ni un día.
+El Estado no lo paga todo. La Fundación pone dinero propio para que el registro no deje de funcionar ni un día.
 
 > 🔄 **RESPIRO 2**
 >
 > **«¿Tú pensabas que esto lo pagaba entero el Estado?»**
 >
-> *(Casi siempre dicen que sí. Ese "sí" es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.» Si te pide cifras, el convenio del BOE son 100.000 € del Ministerio y 100.000 € de la Fundación.)*
+> *(Casi siempre dicen que sí. Ese "sí" es tu argumento, no lo remates: «Ya. Casi todo el mundo lo da por hecho.»)*
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
@@ -92,15 +92,15 @@ Y eso, además del miedo, es dinero: una estancia así puede costar casi **20.00
 
 > 🔄 **RESPIRO 3**
 >
-> **«¿Tú podrías permitirte estar tres meses viviendo en otra ciudad?»**
+> **«¿Tú podrías permitirte pasar meses viviendo en otra ciudad?»**
 >
 > *(Deja que conteste de verdad. Casi nadie puede, y decirlo en voz alta convierte el piso solidario de "servicio" en "eso me habría salvado a mí". La frase que sigue aterriza sola.)*
 
 Marta no tuvo que pagarlo.
 
-Durmió en un piso junto al Hospital Clínic de Barcelona que existe porque una señora llamada Concepción decidió dejar su casa en herencia a la Fundación.
+Durmió en un piso al lado del Hospital Clínic. Ese piso existe porque una señora, Concepción, dejó su casa en herencia a la Fundación.
 
-Hoy la Fundación tiene nueve pisos abiertos en Barcelona. Solo el año pasado alojaron a más de cien familias.
+Hoy la Fundación tiene nueve pisos abiertos en Barcelona. Solo el año pasado alojó a más de cien familias.
 
 Concepción dio su casa una vez. Que los nueve sigan abiertos cada mes, eso lo sostienen los socios.
 
@@ -124,9 +124,9 @@ El trasplante que salvó a Marta también salió de un laboratorio.
 
 *(Pausa.)*
 
-Y lo que salve a quien enferme dentro de diez años se está investigando hoy. Buena parte, en el Instituto Josep Carreras: **el mayor centro de investigación de Europa dedicado en exclusiva a la leucemia**.
+Y hoy ya se está investigando lo que curará a los pacientes de dentro de diez años. Buena parte, en el Instituto Josep Carreras, el centro de investigación de la propia Fundación: **el mayor de Europa dedicado en exclusiva a la leucemia**.
 
-Porque esto no está ganado. **Uno de cada cinco niños** con leucemia no la supera. Y en adultos, la supervivencia es del **50 %**.
+Porque esto no está ganado. **Uno de cada cinco niños** con leucemia no la supera. Y **la mitad de los adultos**, tampoco.
 
 Y esa investigación la pagan más de **150.000 socios**.
 
@@ -164,7 +164,7 @@ Hasta que la curemos, no pararemos.
 >
 > **«¿Cómo lo ves?»**
 >
-> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después. Si duda, no cierres: pregunta qué le frena. Y no lo fundas con el respiro anterior: entre los dos va el bucle de Josep Carreras —«ese nombre no es casualidad» → «esta es la razón»—, que es el remate del guion y se dice de una tirada.)*
+> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después. Si duda, no cierres: pregunta qué le frena.)*
 
 ---
 
@@ -196,7 +196,7 @@ Por eso estoy hoy aquí.
 
 Hoy tú también puedes formar parte de esa historia.
 
-Para que la próxima persona que reciba ese diagnóstico encuentre a alguien compatible.
+Para que la próxima persona que enferme encuentre a su donante.
 
 Para que existan tratamientos que hoy no existen.
 
