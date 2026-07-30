@@ -106,7 +106,7 @@ Porque nadie sale de una consulta de oncología entendiendo la mitad de lo que l
 
 Encontrar un donante salvó la vida de Marta. Descubrir nuevos tratamientos puede salvar la de la próxima Marta.
 
-Porque el tratamiento que recibió Marta también nació en un laboratorio.
+Porque el tratamiento que curó a Marta también nació en un laboratorio.
 
 *(Pausa.)*
 
