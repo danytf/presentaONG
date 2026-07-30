@@ -26,7 +26,7 @@ A sus padres les explican que la mejor opción es un trasplante de médula ósea
 
 En la familia de Marta no hay nadie.
 
-A partir de ese momento, su vida depende de un desconocido. Porque la posibilidad de encontrar a alguien compatible es aproximadamente de una entre 3.500.
+A partir de ese momento, su vida depende de un desconocido. Porque la probabilidad de encontrar a alguien compatible es de aproximadamente una entre 3.500.
 
 > 🔄 **RESPIRO 1**
 >
@@ -54,7 +54,7 @@ Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En
 
 Y entonces empieza una carrera.
 
-Las células de ese donante no pueden viajar como un paquete cualquiera. Las lleva personalmente un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
+Las células de ese donante no pueden viajar como un paquete cualquiera. Tiene que llevarlas personalmente un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
 
 Y desde que se las extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
@@ -68,7 +68,7 @@ Uno entre tres mil quinientos es una probabilidad diminuta. Por eso el registro 
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo. Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
 
-Y mientras tú y yo estamos aquí hablando, hay más de mil personas en España esperando el suyo.
+Y mientras tú y yo hablamos, hay más de mil personas en España esperando el suyo.
 
 El Estado no lo paga todo. La Fundación pone dinero propio para que el registro no deje de funcionar ni un día.
 
