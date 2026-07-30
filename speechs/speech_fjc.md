@@ -54,9 +54,7 @@ Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En
 
 Y entonces empieza una carrera.
 
-Las células de ese donante no se pueden mandar en un paquete. Las lleva en mano un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
-
-Ni siquiera pasan por el escáner del aeropuerto.
+Las células de ese donante no se pueden mandar en un paquete. Las lleva un mensajero médico especializado, sentado en la cabina del avión, dentro de un contenedor preparado para conservarlas.
 
 Y desde que se las extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
@@ -194,9 +192,9 @@ Personas que nunca conocerán a quien están ayudando.
 
 Por eso estoy hoy aquí.
 
-Hoy tú también puedes formar parte de esa historia.
+Hoy tú también puedes hacer posible la historia de la próxima Marta.
 
-Para que la próxima persona que enferme encuentre a su donante.
+Para que encuentre a su donante.
 
 Para que existan tratamientos que hoy no existen.
 
