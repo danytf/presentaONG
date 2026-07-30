@@ -38,11 +38,9 @@ A partir de ese momento, su vida depende de un desconocido. Porque la probabilid
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea, conectado con el resto de los registros del mundo.
 
-Un registro de personas que un día dijeron que sí a donar.
+Un registro de personas que un día decidieron dar el paso de donar.
 
-Lo creó la Fundación Josep Carreras en 1991, cuando en España no existía ninguno. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
-
-El tenor Josep Carreras tuvo leucemia. Pero no montó todo esto por eso. Al final te digo por qué.
+Lo creó la Fundación Josep Carreras en 1991, cuando en España no existía ninguno, después de que el propio Carreras tuviera leucemia. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
 Para los padres de Marta, en ese registro hay una persona que puede salvar a su hija.
 
@@ -52,7 +50,7 @@ Y aparece.
 
 Veintiséis días después, el REDMO encuentra a alguien compatible con ella. En otro país.
 
-Y entonces empieza una carrera.
+Y entonces empieza una carrera contrarreloj.
 
 *(Sube el ritmo. Esto se cuenta rápido, como lo que es: una carrera.)*
 
@@ -142,7 +140,7 @@ Y esa investigación la pagan más de **150.000 socios**.
 >
 > *(Pregunta abierta a propósito: lo que te conteste es por donde tienes que apretar en el cierre. Es el último respiro antes del remate: córtalo tú, no lo dejes abierto, y arranca lo que viene sin pausa. Si te dice que no sabía que todo esto lo hace una sola fundación, no lo remates: eso vuelve al final y quieres que le caiga entonces.)*
 
-Te decía que Josep Carreras no montó todo esto por su propia leucemia. Esta es la razón.
+Josep Carreras no montó todo esto por su propia leucemia. Esta es la razón.
 
 En 1987, cuando le diagnosticaron, en la habitación de al lado había un niño de dos años.
 
