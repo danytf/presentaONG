@@ -128,9 +128,9 @@ La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la d
 
 Encontrar un donante salvó la vida de Marta. Descubrir nuevos tratamientos puede salvar la de la próxima Marta.
 
-Porque no hay una leucemia: hay decenas, cada una con su propia firma. Y el tratamiento que salvó a Marta se eligió por la suya.
+Porque no hay una leucemia: hay decenas, y no todas se tratan igual. El tratamiento que salvó a Marta se eligió por la suya.
 
-Eso no lo trajo la suerte. Lo trajo alguien investigando durante años.
+Y existe porque alguien lo investigó durante años.
 
 *(Pausa.)*
 
