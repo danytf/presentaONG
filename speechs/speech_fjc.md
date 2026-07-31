@@ -64,11 +64,11 @@ Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente
 
 *(Pausa.)*
 
-Marta nunca sabrá quién es. Y esa persona nunca sabrá a quién ha salvado.
+Marta nunca sabrá quién fue su donante. Y esa persona nunca sabrá a quién ha salvado.
 
-Que dos desconocidos sean compatibles es rarísimo: ronda una entre 3.500. Por eso el registro tiene que ser enorme.
+Lo más increíble para mí es que dos desconocidos sean compatibles: ronda una entre 3.500. Por eso el registro tiene que ser enorme.
 
-Y sin embargo, que Marta encontrara a alguien compatible no fue cuestión de suerte.
+Y que se encontraran no fue cuestión de suerte.
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo lo hicieron posible.
 
