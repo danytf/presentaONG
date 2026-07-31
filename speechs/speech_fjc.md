@@ -118,7 +118,7 @@ Duermen gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho
 
 Y hay algo más que muy poca gente conoce.
 
-Cada vez que sus padres no entienden algo, tienen a quién preguntar. Un análisis, una palabra que les han dicho de pasada, qué viene después.
+Cada vez que sus padres no entienden algo, tienen a quién preguntar.
 
 Porque nadie sale de una consulta de oncología entendiendo ni la mitad de lo que le han dicho.
 
@@ -136,9 +136,9 @@ Y existe porque alguien lo investigó durante años.
 
 *(Pausa.)*
 
-Por eso la Fundación creó, junto a la Generalitat, el Instituto Josep Carreras: **el primer centro de investigación de Europa centrado en la leucemia**.
+Por eso la Fundación creó, junto a la Generalitat, el Instituto Josep Carreras: **el primer centro de investigación de Europa dedicado en exclusiva a la leucemia y otros cánceres de la sangre**.
 
-Allí se investiga hoy lo que curará a los pacientes de dentro de diez años.
+Allí se busca hoy lo que curará a los pacientes de dentro de diez años.
 
 Porque esto no está ganado. **Dos de cada diez pacientes no encuentran a su donante.** Y no todas las leucemias son iguales: hay algunas que hoy se curan en la mayoría de los casos, y otras en las que todavía se pierde a la mitad de los pacientes.
 
