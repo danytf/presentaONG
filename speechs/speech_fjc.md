@@ -128,13 +128,15 @@ La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la d
 
 Encontrar un donante salvó la vida de Marta. Descubrir nuevos tratamientos puede salvar la de la próxima Marta.
 
-Porque no hay una leucemia: hay decenas, y no todas se tratan igual. El tratamiento que salvó a Marta se eligió por la suya.
+Porque no hay una única leucemia: hay decenas, y no todas se tratan igual. El tratamiento que salvó a Marta era específico para la suya.
 
 Y existe porque alguien lo investigó durante años.
 
 *(Pausa.)*
 
-Y hoy ya se está investigando lo que curará a los pacientes de dentro de diez años. Buena parte, en el Instituto Josep Carreras, el centro de investigación de la propia Fundación: **el mayor de Europa dedicado en exclusiva a la leucemia**.
+Por eso la Fundación creó el Instituto Josep Carreras, **el mayor centro de Europa dedicado en exclusiva a la leucemia**.
+
+Allí se investiga hoy lo que curará a los pacientes de dentro de diez años.
 
 Porque esto no está ganado. **Dos de cada diez pacientes no encuentran a su donante.** Y no todas las leucemias son iguales: hay algunas que hoy se curan en la mayoría de los casos, y otras en las que todavía se pierde a la mitad de los pacientes.
 
