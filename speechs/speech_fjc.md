@@ -128,7 +128,7 @@ La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la d
 
 Marta salió adelante.
 
-Pero la próxima Marta va a necesitar un tratamiento que todavía no existe.
+Pero la próxima Marta puede necesitar un tratamiento que todavía no existe.
 
 Porque no hay una única leucemia: hay decenas, y no todas se tratan igual. El tratamiento que salvó a Marta era específico para la suya.
 
@@ -136,7 +136,7 @@ Y existe porque alguien lo investigó durante años.
 
 *(Pausa.)*
 
-Por eso la Fundación creó el Instituto Josep Carreras, **el mayor centro de Europa dedicado en exclusiva a la leucemia**.
+Por eso la Fundación creó, junto a la Generalitat, el Instituto Josep Carreras: **el primer centro de investigación de Europa centrado en la leucemia**.
 
 Allí se investiga hoy lo que curará a los pacientes de dentro de diez años.
 
