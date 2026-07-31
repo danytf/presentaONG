@@ -68,9 +68,9 @@ Marta nunca sabrá quién fue su donante. Y esa persona nunca sabrá a quién ha
 
 Lo más increíble para mí es que la probabilidad de que dos desconocidos sean compatibles ronda una entre 3.500. Por eso el registro tiene que ser enorme.
 
-Y que se encontraran no fue cuestión de suerte.
+Y que se encuentren no es cuestión de suerte.
 
-Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo lo hicieron posible.
+Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo lo hacen posible.
 
 *(Pausa.)*
 
@@ -88,13 +88,13 @@ La Fundación pone su propio dinero para que el registro no deje de funcionar ni
 >
 > **«¿Tú habías oído hablar del REDMO?»**
 >
-> *(Dice que no, y es lo normal: «Ya. Y es el único que hay en España.»)*
+> *(Dice que no: «Es lo normal. Y es el único que hay en España.»)*
 >
 > *(Dice que sí: «¿Y de qué te sonaba?» Si detrás hay una historia, escúchala; si solo le sonaba el nombre, sigue.)*
 
-Pero encontrar un donante no significa que el camino haya terminado.
+Pero encontrar un donante solo es el primer paso.
 
-A Marta le tocó tratarse a cientos de kilómetros de su casa. Semanas, puede que meses. Y su madre con ella.
+A Marta le toca tratarse a cientos de kilómetros de su casa. Semanas, puede que meses. Y su madre con ella.
 
 Y eso, además del miedo, es dinero: entre el alojamiento y todo lo demás, una estancia así pasa de los **diez mil euros**.
 
@@ -104,17 +104,17 @@ Y eso, además del miedo, es dinero: entre el alojamiento y todo lo demás, una 
 >
 > *(Deja que conteste. Casi todos dicen «poca» o «nadie», y esa respuesta es la que hace que el piso de acogida deje de sonar a servicio. No lo lleves a su bolsillo: no le preguntes si él podría. Y si es él quien lo lleva ahí, no lo remates.)*
 
-Marta y su madre no tuvieron que pagarlo.
+Marta y su madre no tienen que pagarlo.
 
-Durmieron gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho pisos abiertos en Barcelona. El año pasado durmieron en ellos cuarenta y una familias.
+Duermen gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho pisos abiertos en Barcelona. El año pasado durmieron en ellos cuarenta y una familias.
 
 *(Pausa.)*
 
 Eso no se sostiene con un donativo puntual. Se sostiene con gente que paga cada mes.
 
-Y hubo algo más, menos visible.
+Y hay algo más, menos visible.
 
-Cada vez que sus padres no entendían algo, tuvieron a quién preguntar: un análisis, una palabra que les habían dicho de pasada, qué venía después.
+Cada vez que sus padres no entienden algo, tienen a quién preguntar: un análisis, una palabra que les han dicho de pasada, qué viene después.
 
 La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
 
