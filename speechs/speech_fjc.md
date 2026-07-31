@@ -144,13 +144,19 @@ Porque esto no está ganado. **Dos de cada diez pacientes no encuentran a su don
 
 Y esa investigación la pagan más de **150.000 socios**.
 
-Nada de esto se sostiene con un donativo puntual. Se sostiene con gente que paga cada mes.
+Nada de esto se sostiene con un donativo puntual. Se sostiene con gente que sigue ahí.
 
 > 🔄 **RESPIRO 4**
 >
-> **«De todo lo que te he contado, ¿qué es lo que no te esperabas?»**
+> **«De todo lo que te he contado, ¿hay algo que te haya sorprendido?»**
 >
-> *(Pregunta abierta a propósito: lo que te conteste es por donde tienes que apretar en el cierre. Es el último respiro antes del remate: córtalo tú, no lo dejes abierto, y arranca lo que viene sin pausa. Si te dice que no sabía que todo esto lo hace una sola fundación, no lo remates: eso vuelve al final y quieres que le caiga entonces.)*
+> *(Casi siempre dicen que sí. Si no concreta, pregúntale el qué: lo que te conteste es por donde tienes que apretar en el cierre.)*
+>
+> *(Si dice que no, no insistas: el cierre no depende de su respuesta.)*
+>
+> *(Si te dice que no sabía que todo esto lo hace una sola fundación, no lo desarrolles: eso vuelve al final y quieres que le caiga entonces.)*
+>
+> *(Es el último antes del cierre: córtalo tú y entra sin pausa.)*
 
 Josep Carreras no montó todo esto por su propia leucemia. Esta es la razón.
 
