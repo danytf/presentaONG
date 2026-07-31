@@ -116,9 +116,9 @@ Duermen gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho
 
 *(Pausa.)*
 
-Y hay algo más, que poca gente conoce.
+Y hay algo más que muy poca gente conoce.
 
-Cada vez que sus padres no entienden algo, tienen a quién preguntar: un análisis, una palabra que les han dicho de pasada, qué viene después.
+Cada vez que sus padres no entienden algo, tienen a quién preguntar. Un análisis, una palabra que les han dicho de pasada, qué viene después.
 
 Porque nadie sale de una consulta de oncología entendiendo ni la mitad de lo que le han dicho.
 
