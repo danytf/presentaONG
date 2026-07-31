@@ -78,7 +78,7 @@ Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a
 
 El REDMO abre unas veintisiete búsquedas nuevas cada semana. Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
 
-Y todo esto cuesta dinero.
+Y como imaginarás, todo esto cuesta mucho dinero.
 
 El Estado financia una parte.
 
