@@ -110,13 +110,13 @@ Y eso, además del miedo, es dinero: una habitación de hotel en Barcelona cuest
 
 Marta y su madre no tienen que pagarlo.
 
-Duermen gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho pisos abiertos en Barcelona. El año pasado durmieron en ellos cuarenta y una familias, llegadas de toda España.
+Duermen gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho pisos abiertos en Barcelona, cerca de los hospitales de referencia. El año pasado durmieron en ellos cuarenta y una familias, llegadas de toda España.
 
-*(Si te dicen que eso en su ciudad no sirve: los pisos están junto a los hospitales de referencia para estos tratamientos, y ahí se desplaza gente de toda España. Entre esas cuarenta y una hay familias de Sevilla, Asturias, Almería o Tenerife: di la que te pille más cerca.)*
+*(Si te dicen que eso en su ciudad no sirve: a esos hospitales se desplaza gente de toda España. Entre esas cuarenta y una hay familias de Sevilla, Asturias, Almería o Tenerife: di la que te pille más cerca.)*
 
 *(Pausa.)*
 
-Y hay algo más, menos visible.
+Y hay algo más, que no se ve desde fuera.
 
 Cada vez que sus padres no entienden algo, tienen a quién preguntar: un análisis, una palabra que les han dicho de pasada, qué viene después.
 
