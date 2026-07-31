@@ -102,7 +102,11 @@ Y eso, además del miedo, es dinero: una habitación de hotel en Barcelona cuest
 >
 > **«¿Cuánta gente crees que puede permitirse eso?»**
 >
-> *(Deja que conteste. Casi todos dicen «poca» o «nadie», y esa respuesta es la que hace que el piso de acogida deje de sonar a servicio. No lo lleves a su bolsillo: no le preguntes si él podría. Y si es él quien lo lleva ahí, no lo remates.)*
+> *(Deja que conteste. Casi todos dicen «poca» o «nadie», y esa respuesta es la que hace que el piso de acogida deje de sonar a una prestación más. No contestes tú: lo que viene ya es la respuesta.)*
+>
+> *(No lo lleves a su bolsillo: no le preguntes si él podría, y si es él quien lo lleva ahí, déjalo pasar.)*
+>
+> *(Pregunta si no lo cubre la sanidad pública: «El tratamiento sí. Dónde duerme la familia esos meses, no.» Y sigue: no te metas en qué ayudas hay, que cambian según la comunidad.)*
 
 Marta y su madre no tienen que pagarlo.
 
