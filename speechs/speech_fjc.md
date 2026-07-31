@@ -126,7 +126,9 @@ La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la d
 
 *(Pausa.)*
 
-Encontrar un donante salvó la vida de Marta. Descubrir nuevos tratamientos puede salvar la de la próxima Marta.
+Marta salió adelante.
+
+Pero la próxima Marta va a necesitar un tratamiento que todavía no existe.
 
 Porque no hay una única leucemia: hay decenas, y no todas se tratan igual. El tratamiento que salvó a Marta era específico para la suya.
 
