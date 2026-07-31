@@ -50,7 +50,7 @@ Y aparece.
 
 Veintiséis días después, el REDMO encuentra a alguien compatible con ella. Está en otro país.
 
-Y entonces empieza una carrera contrarreloj.
+Entonces empieza una carrera contrarreloj.
 
 *(Sube el ritmo. Esto se cuenta rápido, como lo que es: una carrera.)*
 
@@ -58,7 +58,7 @@ Las células del donante no pueden viajar como un paquete cualquiera.
 
 Y desde que se extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
-Por eso las lleva personalmente un mensajero médico especializado. Con el contenedor encima, en la cabina del avión.
+Por eso las lleva un mensajero médico especializado. Su trabajo es subir al avión con el contenedor encima y no soltarlo hasta el hospital.
 
 Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente a doce vueltas al mundo.
 
