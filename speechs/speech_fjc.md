@@ -36,11 +36,11 @@ En la familia de Marta no hay nadie, así que desde ese momento su vida depende 
 >
 > *(No lleves tú la conversación a la donación: buscas socios. Si sale, contesta corto y vuelve a Marta. La médula ósea no tiene nada que ver con la espinal. El 88 % de las donaciones es por aféresis, del brazo y sin cirugía; el resto por la cadera, con anestesia. Apuntarse es gratis: 900 32 33 34.)*
 
-Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea, conectado con el resto de los registros del mundo.
+Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
-Un registro de personas que un día decidieron dar el paso de donar.
+Un registro de personas que un día decidieron dar el paso de donar, conectado con el resto de los registros del mundo.
 
-Lo creó la Fundación Josep Carreras en 1991, cuando en España no existía ninguno, después de que el tenor tuviera leucemia. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
+Lo creó la Fundación en 1991, cuando en España no existía ninguno, después de que el tenor Josep Carreras tuviera leucemia. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
 Para los padres de Marta, en ese registro hay una persona que puede salvar a su hija. Todavía no saben quién.
 
