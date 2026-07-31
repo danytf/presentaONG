@@ -26,13 +26,13 @@ En la familia de Marta no hay nadie, así que desde ese momento su vida depende 
 >
 > **«¿Conoces a alguien que sea donante de médula?»**
 >
-> *(Si dice que no: «Ya. Es uno de los actos de generosidad más invisibles que existen.»)*
+> *(Dice que no: «Ya. Es uno de los actos de generosidad más invisibles que existen.»)*
 >
-> *(Si te dice que él lo es: «Entonces ya estás dentro de lo que te voy a contar, y mucha gente no sabe lo que pasa después de apuntarse.»)*
+> *(Dice que él lo es: «Entonces ya estás dentro de lo que te voy a contar, y mucha gente no sabe lo que pasa después de apuntarse.»)*
 >
-> *(No lleves tú la conversación a la donación: buscas socios. Si sale, informa sin presionar: el 88 % es por aféresis, del brazo, sin cirugía; el resto es de la cadera, con anestesia. La médula ósea no tiene nada que ver con la espinal. Gratis y sin compromiso: 900 32 33 34.)*
+> *(Dice que lo ha vivido de cerca: para la historia y pregúntale quién fue y cómo está. Vuelves con «Pues justo esto que te cuento es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
 >
-> *(Si te cuenta que lo ha vivido de cerca, para la historia y pregúntale quién fue y cómo está. Vuelves con «Pues justo esto es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
+> *(No lleves tú la conversación a la donación: buscas socios. Si sale, informa sin presionar: el 88 % es por aféresis, del brazo y sin cirugía; el resto por la cadera, con anestesia. La médula ósea no tiene nada que ver con la espinal. Gratis y sin compromiso: 900 32 33 34.)*
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea, conectado con el resto de los registros del mundo.
 
