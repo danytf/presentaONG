@@ -118,7 +118,7 @@ Duermen gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho
 
 Y hay algo más que muy poca gente conoce.
 
-Cada vez que sus padres no entienden algo, tienen a quién preguntar.
+Cada vez que sus padres no comprenden algo, tienen a quién preguntar.
 
 Porque nadie sale de una consulta de oncología entendiendo ni la mitad de lo que le han dicho.
 
@@ -130,9 +130,9 @@ Marta salió adelante.
 
 Pero la próxima Marta puede necesitar un tratamiento que todavía no existe.
 
-Porque no hay una única leucemia: hay decenas, y no todas se tratan igual. El tratamiento que salvó a Marta era específico para la suya.
+Porque no hay una única leucemia: hay decenas de tipos, y no todos se tratan igual. El tratamiento que salvó a Marta era específico para el suyo.
 
-Y existe porque alguien lo investigó durante años.
+Y existe porque alguien investigó ese tipo durante años.
 
 *(Pausa.)*
 
