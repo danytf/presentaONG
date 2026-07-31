@@ -110,11 +110,11 @@ Y eso, además del miedo, es dinero: una habitación de hotel en Barcelona cuest
 
 Marta y su madre no tienen que pagarlo.
 
-Duermen gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho pisos abiertos en Barcelona. El año pasado durmieron en ellos cuarenta y una familias.
+Duermen gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho pisos abiertos en Barcelona. El año pasado durmieron en ellos cuarenta y una familias, llegadas de toda España.
+
+*(Si te dicen que eso en su ciudad no sirve: los pisos están junto a los hospitales de referencia para estos tratamientos, y ahí se desplaza gente de toda España. Entre esas cuarenta y una hay familias de Sevilla, Asturias, Almería o Tenerife: di la que te pille más cerca.)*
 
 *(Pausa.)*
-
-Eso no se sostiene con un donativo puntual. Se sostiene con gente que paga cada mes.
 
 Y hay algo más, menos visible.
 
@@ -139,6 +139,8 @@ Y hoy ya se está investigando lo que curará a los pacientes de dentro de diez 
 Porque esto no está ganado. **Dos de cada diez pacientes no encuentran a su donante.** Y no todas las leucemias son iguales: hay algunas que hoy se curan en la mayoría de los casos, y otras en las que todavía se pierde a la mitad de los pacientes.
 
 Y esa investigación la pagan más de **150.000 socios**.
+
+Nada de esto se sostiene con un donativo puntual. Se sostiene con gente que paga cada mes.
 
 > 🔄 **RESPIRO 4**
 >
