@@ -42,7 +42,7 @@ Un registro de personas que un día decidieron dar el paso de donar, conectado c
 
 Lo creó la Fundación en 1991, cuando en España no existía ninguno, después de que el tenor Josep Carreras tuviera leucemia. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
-Para los padres de Marta, en ese registro hay una persona que puede salvar a su hija. Todavía no saben quién.
+Ese registro es la única posibilidad de encontrar a una persona que pueda salvar a Marta. Todavía no ha aparecido.
 
 *(Pausa. Baja la voz.)*
 
