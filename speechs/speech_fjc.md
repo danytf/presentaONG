@@ -8,7 +8,7 @@ Hola, ¿me permites un momento?
 
 Soy [tu nombre], colaborador de la Fundación Josep Carreras contra la Leucemia.
 
-Antes de decirte por qué estoy aquí, déjame contarte la historia de Marta, una niña de seis años a la que le diagnosticaron leucemia.
+Antes de decirte por qué estoy aquí, déjame que te cuente la historia de Marta, una niña de seis años a la que le diagnosticaron leucemia.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y calla un segundo: muchos te dirán el suyo.)*
 
@@ -18,11 +18,9 @@ Antes de decirte por qué estoy aquí, déjame contarte la historia de Marta, un
 
 ## 🗣️ Discurso (~8 minutos)
 
-A los padres de Marta les explican que la mejor opción es un trasplante de médula ósea. Lo primero que hacen es analizar a toda la familia. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no tienen un familiar totalmente compatible.
+A los padres de Marta les explican que en su caso la única opción es un trasplante de médula ósea. Lo primero que hacen es analizar a toda la familia. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no tienen un familiar totalmente compatible.
 
-En la familia de Marta no hay nadie.
-
-A partir de ese momento, su vida depende de un desconocido.
+En la familia de Marta no hay nadie, así que desde ese momento su vida depende de un desconocido.
 
 > 🔄 **RESPIRO 1**
 >
