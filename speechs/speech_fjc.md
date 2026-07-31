@@ -96,7 +96,7 @@ Pero encontrar un donante solo es el primer paso.
 
 A Marta le toca tratarse a cientos de kilómetros de su casa. Semanas, puede que meses. Y su madre con ella.
 
-Y eso, además del miedo, es dinero: entre el alojamiento y todo lo demás, una estancia así pasa de los **diez mil euros**.
+Y eso, además del miedo, es dinero: una habitación de hotel en Barcelona cuesta de media **183 euros la noche**, y hay pacientes que pasan más de **cien días** fuera de casa.
 
 > 🔄 **RESPIRO 3**
 >
