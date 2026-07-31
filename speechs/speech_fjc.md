@@ -112,17 +112,17 @@ Marta y su madre no tienen que pagarlo.
 
 Duermen gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho pisos abiertos en Barcelona, cerca de los hospitales de referencia. El año pasado durmieron en ellos cuarenta y una familias, llegadas de toda España.
 
-*(Si te dicen que eso en su ciudad no sirve: a esos hospitales se desplaza gente de toda España. Entre esas cuarenta y una hay familias de Sevilla, Asturias, Almería o Tenerife: di la que te pille más cerca.)*
+*(Si te dicen que eso en su ciudad no sirve: entre esas cuarenta y una hay familias de Sevilla, Asturias, Almería o Tenerife. Di la que te pille más cerca.)*
 
 *(Pausa.)*
 
-Y hay algo más, que no se ve desde fuera.
+Y hay algo más, que poca gente conoce.
 
 Cada vez que sus padres no entienden algo, tienen a quién preguntar: un análisis, una palabra que les han dicho de pasada, qué viene después.
 
-La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
-
 Porque nadie sale de una consulta de oncología entendiendo ni la mitad de lo que le han dicho.
+
+La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
 
 *(Pausa.)*
 
