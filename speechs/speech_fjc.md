@@ -66,7 +66,7 @@ Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente
 
 Marta nunca sabrá quién fue su donante. Y esa persona nunca sabrá a quién ha salvado.
 
-Lo más increíble para mí es que dos desconocidos sean compatibles: ronda una entre 3.500. Por eso el registro tiene que ser enorme.
+Lo más increíble para mí es que la probabilidad de que dos desconocidos sean compatibles ronda una entre 3.500. Por eso el registro tiene que ser enorme.
 
 Y que se encontraran no fue cuestión de suerte.
 
@@ -88,7 +88,9 @@ La Fundación pone su propio dinero para que el registro no deje de funcionar ni
 >
 > **«¿Tú habías oído hablar del REDMO?»**
 >
-> *(Lo normal es que diga que no. Contéstale: «Ya. Y casi nadie sabe que existe.»)*
+> *(Dice que no, y es lo normal: «Ya. Y casi nadie sabe que existe.»)*
+>
+> *(Dice que sí: «¿Y de qué te sonaba?» Si detrás hay una historia, escúchala; si solo le sonaba el nombre, sigue.)*
 
 Pero encontrar un donante no significa que el camino haya terminado.
 
