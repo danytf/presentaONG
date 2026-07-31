@@ -88,7 +88,7 @@ La Fundación pone su propio dinero para que el registro no deje de funcionar ni
 >
 > **«¿Tú habías oído hablar del REDMO?»**
 >
-> *(Dice que no, y es lo normal: «Ya. Y casi nadie sabe que existe.»)*
+> *(Dice que no, y es lo normal: «Ya. Y es el único que hay en España.»)*
 >
 > *(Dice que sí: «¿Y de qué te sonaba?» Si detrás hay una historia, escúchala; si solo le sonaba el nombre, sigue.)*
 
