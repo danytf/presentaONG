@@ -42,13 +42,13 @@ Un registro de personas que un día decidieron dar el paso de donar, conectado c
 
 Lo creó la Fundación en 1991, cuando en España no existía ninguno, después de que el tenor Josep Carreras tuviera leucemia. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
-Ese registro es la única posibilidad de encontrar a una persona que pueda salvar a Marta. Todavía no ha aparecido.
+Ese registro es la única posibilidad de encontrar a una persona que pueda salvar a Marta.
 
 *(Pausa. Baja la voz.)*
 
-Y aparece.
+Y veintiséis días después aparece.
 
-Veintiséis días después, el REDMO encuentra a alguien compatible con ella. Está en otro país.
+El REDMO encuentra a alguien compatible con ella. Está en otro país.
 
 Entonces empieza una carrera contrarreloj.
 
