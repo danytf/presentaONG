@@ -38,9 +38,11 @@ En la familia de Marta no hay nadie, así que desde ese momento su vida depende 
 >
 > *(Dice que conoce a alguien apuntado: «Pues es gente así la que le salva la vida a alguien como Marta.»)*
 >
-> *(Dice que lo ha vivido de cerca: para la historia y pregúntale quién fue y cómo está. Vuelves con «Pues justo esto que te cuento es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
+> *(Dice que lo ha vivido de cerca: deja la historia y pregúntale quién fue y cómo está. Vuelves con «Pues justo esto que te cuento es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
 >
-> *(No lleves tú la conversación a la donación: buscas socios. Si sale, contesta corto y vuelve a Marta. La médula ósea no tiene nada que ver con la espinal. El 88 % de las donaciones es por aféresis, del brazo y sin cirugía; el resto por la cadera, con anestesia. Apuntarse es gratis: 900 32 33 34.)*
+> *(Te lo devuelve con un «¿y tú?»: contéstalo en una frase y sigue. Si lo eres, dilo y no lo desarrolles. Si no, dilo sin excusarte y con tus palabras.)*
+>
+> *(Si te preguntan cómo se dona o si duele: contesta corto y vuelve a Marta. No lleves tú la conversación a la donación, que buscas socios. La médula ósea no tiene nada que ver con la espinal. El 88 % de las donaciones es por aféresis, del brazo y sin cirugía; el resto por la cadera, con anestesia. Apuntarse es gratis: 900 32 33 34.)*
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
@@ -54,7 +56,7 @@ Ese registro es la única posibilidad de encontrar a una persona que pueda salva
 
 *(Pausa. Baja la voz.)*
 
-Y veintiséis días después aparece.
+Y veintisiete días después aparece.
 
 El REDMO encuentra a alguien compatible con ella. Está en otro país.
 
@@ -62,7 +64,7 @@ Entonces empieza una carrera contrarreloj.
 
 *(Sube el ritmo. Esto se cuenta rápido, como lo que es: una carrera.)*
 
-Las células del donante no pueden viajar como un paquete cualquiera.
+Las células del donante, las que fabrican la sangre, no pueden viajar como un paquete cualquiera.
 
 Y desde que se extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
 
@@ -70,27 +72,29 @@ Por eso las lleva un mensajero médico especializado. Su trabajo es subir al avi
 
 Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente a doce vueltas al mundo.
 
+Las células de Marta llegan a tiempo.
+
 *(Pausa.)*
 
 Marta nunca sabrá quién fue su donante. Y esa persona nunca sabrá a quién ha salvado.
-
-Lo más increíble para mí es que la probabilidad de que dos desconocidos sean compatibles ronda una entre 3.500. Por eso el registro tiene que ser enorme.
 
 Y que se encuentren no es cuestión de suerte.
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo lo hacen posible.
 
+Lo más increíble para mí es que, de esos cuarenta millones, un paciente que encuentra donante suele tener solo dos o tres compatibles. Por eso el registro tiene que ser enorme.
+
 *(Pausa.)*
 
 Gracias a esa red internacional, más de **ocho de cada diez pacientes** encuentran a su donante.
 
-El REDMO abre unas veintisiete búsquedas nuevas cada semana. Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
+El REDMO abrió casi mil cuatrocientas búsquedas nuevas el año pasado. Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
 
 Y como imaginarás, todo esto cuesta mucho dinero.
 
 El Estado financia una parte.
 
-La Fundación pone su propio dinero para que el registro no deje de funcionar ni un día.
+La Fundación pone la otra, para que el registro no deje de funcionar ni un día.
 
 > 🔄 **RESPIRO 2**
 >
@@ -120,7 +124,7 @@ Una habitación de hotel en Barcelona cuesta de media **183 euros la noche**, y 
 
 Marta y su madre no tienen que pagarlo.
 
-Duermen gratis en un piso al lado del Hospital Clínic. La Fundación tiene ocho pisos abiertos en Barcelona, cerca de los hospitales de referencia. El año pasado durmieron en ellos cuarenta y una familias, llegadas de toda España.
+Duermen gratis en un piso al lado del Hospital Vall d'Hebron. La Fundación tiene ocho pisos abiertos en Barcelona, cerca de los hospitales de referencia. El año pasado durmieron en ellos cuarenta y una familias, llegadas de toda España.
 
 *(Si te dicen que eso en su ciudad no sirve: entre esas cuarenta y una hay familias de Sevilla, Asturias, Almería o Tenerife. Di la que te pille más cerca.)*
 
@@ -156,7 +160,7 @@ Porque esto no está ganado.
 
 Y no todas las leucemias son iguales: hay algunas que hoy se curan en la mayoría de los casos, y otras para las que todavía no tenemos una cura.
 
-Y esa investigación la pagan más de **150.000 socios**.
+Y todo esto lo pagan más de **150.000 socios**.
 
 Nada de esto se sostiene con un donativo puntual. Se sostiene con gente que sigue ahí.
 
@@ -178,9 +182,9 @@ Cuando a Josep Carreras le diagnosticaron leucemia, en 1987, en la habitación d
 
 *(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes. Es el momento de más confianza de toda la conversación.)*
 
-Superó la enfermedad, y aquel niño fue uno de los motivos por los que creó esta Fundación.
+Josep Carreras superó la enfermedad. Y aquel niño fue uno de los motivos por los que creó esta Fundación.
 
-Entonces el REDMO ni siquiera existía. Todo lo que Marta encontró en la Fundación, él lo puso en marcha.
+Todo lo que Marta encontró en la Fundación, él lo puso en marcha.
 
 Pero la leucemia todavía no se cura en todos los casos.
 
@@ -188,15 +192,7 @@ Pero la leucemia todavía no se cura en todos los casos.
 
 Hasta que la curemos, no pararemos.
 
-> 🔄 **RESPIRO 5**
->
-> **«¿Cómo lo ves?»**
->
-> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después.)*
->
-> *(Si duda, no cierres: pregunta qué le frena.)*
->
-> *(Si te pregunta cuánto cuesta: «Enseguida lo vemos, que me queda poco.» No des una cifra: la cuota va después de la pregunta.)*
+*(Desde aquí hasta la pregunta no hay respiros: minuto y medio seguido. Es el único tramo del guion en el que no quieres que te suelten, así que no lo dejes caer.)*
 
 ---
 
@@ -232,12 +228,14 @@ Para que encuentre a su donante.
 
 Para que existan tratamientos que hoy no existen.
 
-Y para que ninguna familia recorra ese camino sola.
+Y para que ninguna familia pase por esto sola.
 
 *(Silencio de dos segundos. Sonríe.)*
 
 **¿Te animas a hacerte socio?**
 
 *(Silencio absoluto.)*
+
+*(Si en cualquier momento de este tramo te pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
 
 ---
