@@ -168,7 +168,7 @@ Josep Carreras había podido vivir cuarenta años. Aquel niño, dos.
 
 *(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes. Es el momento de más confianza de toda la conversación.)*
 
-Superó la enfermedad, y un año después creó esta Fundación, con un objetivo fácil de decir y muy difícil de conseguir: que algún día la leucemia sea una enfermedad curable en todos los casos.
+Superó la enfermedad, y un año después creó esta Fundación, con un objetivo fácil de decir y muy difícil de conseguir: que algún día se curen todas las leucemias.
 
 Y que ningún paciente tenga que enfrentarse a ella en soledad.
 
