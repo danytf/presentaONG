@@ -156,21 +156,17 @@ Nada de esto se sostiene con un donativo puntual. Se sostiene con gente que sigu
 >
 > *(Si te dice que no sabía que todo esto lo hace una sola fundación, no lo desarrolles: eso vuelve al final y quieres que le caiga entonces.)*
 >
-> *(Es el último antes del cierre: córtalo tú y entra sin pausa.)*
+> *(Córtalo tú y entra sin pausa en lo que viene.)*
 
-Josep Carreras no montó todo esto por su propia leucemia.
-
-En 1987, cuando le diagnosticaron, en la habitación de al lado había un niño de dos años.
+Cuando a Josep Carreras le diagnosticaron leucemia, en 1987, en la habitación de al lado había un niño de dos años.
 
 *(Pausa.)*
 
-Josep Carreras había podido vivir cuarenta años. Aquel niño, dos.
-
 *(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes. Es el momento de más confianza de toda la conversación.)*
 
-Superó la enfermedad y creó esta Fundación.
+Superó la enfermedad, y aquel niño fue uno de los motivos por los que creó esta Fundación.
 
-Cuando él enfermó, el REDMO ni siquiera existía. Todo lo que Marta encontró esperándola, él lo puso en marcha.
+Entonces el REDMO ni siquiera existía. Todo lo que Marta encontró en la Fundación, él lo puso en marcha.
 
 Pero la leucemia todavía no se cura en todos los casos.
 
@@ -182,7 +178,11 @@ Hasta que la curemos, no pararemos.
 >
 > **«¿Cómo lo ves?»**
 >
-> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después. Si duda, no cierres: pregunta qué le frena.)*
+> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después.)*
+>
+> *(Si duda, no cierres: pregunta qué le frena.)*
+>
+> *(Si te pregunta cuánto cuesta: «Enseguida lo vemos, que me queda poco.» No des una cifra: la cuota va después de la pregunta.)*
 
 ---
 
