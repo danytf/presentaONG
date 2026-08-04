@@ -158,7 +158,7 @@ Nada de esto se sostiene con un donativo puntual. Se sostiene con gente que sigu
 >
 > *(Es el último antes del cierre: córtalo tú y entra sin pausa.)*
 
-Josep Carreras no montó todo esto por su propia leucemia. Esta es la razón.
+Josep Carreras no montó todo esto por su propia leucemia.
 
 En 1987, cuando le diagnosticaron, en la habitación de al lado había un niño de dos años.
 
@@ -168,21 +168,11 @@ Josep Carreras había podido vivir cuarenta años. Aquel niño, dos.
 
 *(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes. Es el momento de más confianza de toda la conversación.)*
 
-Superó la enfermedad, y un año después creó esta Fundación, con un objetivo fácil de decir y muy difícil de conseguir: que algún día se curen todas las leucemias.
+Superó la enfermedad y creó esta Fundación.
 
-Y que ningún paciente tenga que enfrentarse a ella en soledad.
+Cuando él enfermó, el REDMO ni siquiera existía. Todo lo que Marta encontró esperándola, él lo puso en marcha.
 
-Cuando él enfermó, el REDMO no existía.
-
-Todo lo que Marta encontró esperándola, él lo puso en marcha.
-
-*(Pausa.)*
-
-Marta no estuvo sola. Que es exactamente lo que él quería.
-
-Pero eso era solo la mitad.
-
-La otra mitad, que la leucemia se cure en todos los casos, todavía no está conseguida.
+Pero la leucemia todavía no se cura en todos los casos.
 
 *(Pausa.)*
 
