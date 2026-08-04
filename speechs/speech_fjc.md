@@ -208,9 +208,9 @@ Todo eso existe porque más de 150.000 personas decidieron hacerse socias.
 
 Personas que nunca conocerán a quien están ayudando.
 
-*(Pausa.)*
+Y aun así lo hicieron.
 
-Por eso estoy hoy aquí.
+*(Pausa larga. Sostén la mirada.)*
 
 Hoy tú también puedes hacer que, cuando llegue la próxima Marta, todo esto ya esté ahí esperándola.
 
