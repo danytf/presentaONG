@@ -2,7 +2,7 @@
 
 ---
 
-## 🚦 Parada (10-15 segundos)
+## 🚦 Parada (15-20 segundos)
 
 Hola, ¿me permites un momento?
 
@@ -16,9 +16,15 @@ Antes de decirte por qué estoy aquí, déjame que te cuente la historia de Mart
 
 ---
 
-## 🗣️ Discurso (~8 minutos)
+## 🗣️ Discurso (~6-7 minutos)
 
-A los padres de Marta les explican que en su caso la única opción es un trasplante de médula ósea. Lo primero que hacen es analizar a toda la familia. Pero ocurre algo que mucha gente desconoce: 3 de cada 4 pacientes no tienen un familiar totalmente compatible.
+A los padres de Marta les explican que en su caso la única opción es un trasplante de médula ósea.
+
+Lo primero que hacen es analizar a toda la familia.
+
+Pero ocurre algo que mucha gente desconoce.
+
+Tres de cada cuatro pacientes no tienen un familiar totalmente compatible.
 
 En la familia de Marta no hay nadie, así que desde ese momento su vida depende de un desconocido.
 
@@ -40,7 +46,9 @@ Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
 Un registro de personas que un día decidieron dar el paso de donar, conectado con el resto de los registros del mundo.
 
-Lo creó la Fundación en 1991, cuando en España no existía ninguno, después de que el tenor Josep Carreras tuviera leucemia. Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
+Lo creó la Fundación en 1991, cuando en España no existía ninguno, después de que el tenor Josep Carreras tuviera leucemia.
+
+Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
 Ese registro es la única posibilidad de encontrar a una persona que pueda salvar a Marta.
 
@@ -74,7 +82,7 @@ Medio millón de personas registradas solo en España, y más de cuarenta millon
 
 *(Pausa.)*
 
-Gracias a esa red internacional, más de **8 de cada 10 pacientes** encuentran a su donante.
+Gracias a esa red internacional, más de **ocho de cada diez pacientes** encuentran a su donante.
 
 El REDMO abre unas veintisiete búsquedas nuevas cada semana. Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
 
@@ -96,7 +104,9 @@ Pero encontrar un donante solo es el primer paso.
 
 A Marta le toca tratarse a cientos de kilómetros de su casa. Semanas, puede que meses. Y su madre con ella.
 
-Y eso, además del miedo, es dinero: una habitación de hotel en Barcelona cuesta de media **183 euros la noche**, y hay pacientes que pasan más de **cien días** fuera de casa.
+Y eso, además del miedo, es dinero.
+
+Una habitación de hotel en Barcelona cuesta de media **183 euros la noche**, y hay pacientes que pasan más de **cien días** fuera de casa.
 
 > 🔄 **RESPIRO 3**
 >
@@ -140,7 +150,11 @@ Por eso la Fundación creó, junto a la Generalitat, el Instituto Josep Carreras
 
 Allí se busca hoy lo que curará a los pacientes de dentro de diez años.
 
-Porque esto no está ganado. **Dos de cada diez pacientes no encuentran a su donante.** Y no todas las leucemias son iguales: hay algunas que hoy se curan en la mayoría de los casos, y otras en las que todavía se pierde a la mitad de los pacientes.
+Porque esto no está ganado.
+
+**Dos de cada diez pacientes no encuentran a su donante.**
+
+Y no todas las leucemias son iguales: hay algunas que hoy se curan en la mayoría de los casos, y otras para las que todavía no tenemos una cura.
 
 Y esa investigación la pagan más de **150.000 socios**.
 
