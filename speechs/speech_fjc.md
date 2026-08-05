@@ -160,21 +160,7 @@ Porque esto no está ganado.
 
 **Dos de cada diez pacientes no encuentran a su donante.**
 
-Y hay leucemias que hoy se curan en la mayoría de los casos, y otras para las que todavía no tenemos una cura.
-
 Y todo esto lo sostienen más de **150.000 socios**.
-
-> 🔄 **RESPIRO 4**
->
-> **«De todo lo que te he contado, ¿hay algo que te haya sorprendido?»**
->
-> *(Casi siempre dicen que sí. Si no concreta, pregúntale el qué: lo que te conteste es por donde tienes que apretar en el cierre.)*
->
-> *(Si dice que no, no insistas: el cierre no depende de su respuesta.)*
->
-> *(Si te dice que no sabía que todo esto lo hace una sola fundación, no lo desarrolles: eso vuelve al final y quieres que le caiga entonces.)*
->
-> *(Córtalo tú y entra sin pausa en lo que viene.)*
 
 Cuando a Josep Carreras le diagnosticaron leucemia, en 1987, en la habitación de al lado había un niño de dos años.
 
@@ -182,7 +168,9 @@ Cuando a Josep Carreras le diagnosticaron leucemia, en 1987, en la habitación d
 
 *(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes. Es el momento de más confianza de toda la conversación.)*
 
-Josep Carreras superó la enfermedad. Y aquel niño fue uno de los motivos por los que creó esta Fundación.
+Josep Carreras superó la enfermedad.
+
+Y creó esta Fundación, en parte, porque aquello le pareció injusto: él había vivido cuarenta años, y aquel niño dos.
 
 Todo lo que Marta encontró en la Fundación, él lo puso en marcha.
 
@@ -192,7 +180,17 @@ Pero la leucemia todavía no se cura en todos los casos.
 
 Hasta que la curemos, no pararemos.
 
-*(Desde aquí hasta la pregunta no hay respiros: minuto y medio seguido. Es el único tramo del guion en el que no quieres que te suelten, así que no lo dejes caer.)*
+> 🔄 **RESPIRO 4**
+>
+> **«De todo lo que te he contado, ¿hay algo que te haya sorprendido?»**
+>
+> *(Casi siempre dicen que sí. Si no concreta, pregúntale el qué: lo que te conteste es por donde tienes que apretar en el cierre, que viene justo después.)*
+>
+> *(Si dice que no, no insistas: el cierre no depende de su respuesta.)*
+>
+> *(Si te dice que no sabía que todo esto lo hace una sola fundación, no lo desarrolles: eso vuelve al final y quieres que le caiga entonces.)*
+>
+> *(Es el último antes del cierre: córtalo tú y entra sin pausa.)*
 
 ---
 
