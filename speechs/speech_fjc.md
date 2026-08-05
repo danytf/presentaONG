@@ -162,6 +162,8 @@ Porque esto no está ganado.
 
 Y todo esto lo sostienen más de **150.000 socios**.
 
+Pero empezó con una sola persona.
+
 Cuando a Josep Carreras le diagnosticaron leucemia, en 1987, en la habitación de al lado había un niño de dos años.
 
 *(Pausa.)*
