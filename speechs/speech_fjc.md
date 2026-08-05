@@ -84,7 +84,7 @@ Y que se encuentren no es cuestión de suerte.
 
 Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo lo hacen posible.
 
-Lo más increíble para mí es que, de esos cuarenta millones, un paciente que encuentra donante suele tener solo dos o tres compatibles. Por eso el registro tiene que ser enorme.
+Lo más increíble para mí es que, de esos cuarenta millones, un paciente que encuentra donante suele tener solo dos o tres personas compatibles. Por eso el registro tiene que ser enorme.
 
 *(Pausa.)*
 
