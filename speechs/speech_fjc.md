@@ -162,9 +162,7 @@ Porque esto no está ganado.
 
 Y hay leucemias que hoy se curan en la mayoría de los casos, y otras para las que todavía no tenemos una cura.
 
-Y todo esto lo pagan más de **150.000 socios**.
-
-Nada de esto se sostiene con un donativo puntual. Se sostiene con gente que sigue ahí.
+Y todo esto lo sostienen más de **150.000 socios**.
 
 > 🔄 **RESPIRO 4**
 >
