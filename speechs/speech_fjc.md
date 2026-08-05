@@ -160,23 +160,9 @@ Porque esto no está ganado.
 
 **Dos de cada diez pacientes no encuentran a su donante.**
 
+Y hay leucemias que hoy se curan en la mayoría de los casos, y otras para las que todavía no tenemos una cura.
+
 Y todo esto lo sostienen más de **150.000 socios**.
-
-Pero empezó con una sola persona.
-
-Cuando a Josep Carreras le diagnosticaron leucemia, en 1987, en la habitación de al lado había un niño de dos años.
-
-*(Pausa.)*
-
-*(Si te preguntan qué fue de aquel niño: no se sabe, la Fundación no lo cuenta. Dilo así, sin adornar. Y no lo inventes. Es el momento de más confianza de toda la conversación.)*
-
-Josep Carreras superó la enfermedad.
-
-Y creó esta Fundación, en parte, porque aquello le pareció injusto: él había vivido cuarenta años, y aquel niño dos.
-
-Todo lo que Marta encontró en la Fundación, él lo puso en marcha.
-
-Pero la leucemia todavía no se cura en todos los casos.
 
 *(Pausa.)*
 
