@@ -160,7 +160,7 @@ Porque esto no está ganado.
 
 **Dos de cada diez pacientes no encuentran a su donante.**
 
-Y no todas las leucemias son iguales: hay algunas que hoy se curan en la mayoría de los casos, y otras para las que todavía no tenemos una cura.
+Y hay leucemias que hoy se curan en la mayoría de los casos, y otras para las que todavía no tenemos una cura.
 
 Y todo esto lo pagan más de **150.000 socios**.
 
