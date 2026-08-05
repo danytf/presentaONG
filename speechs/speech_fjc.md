@@ -8,11 +8,11 @@ Hola, ¿me permites un momento?
 
 Soy [tu nombre], colaborador de la Fundación Josep Carreras contra la Leucemia.
 
-Antes de decirte por qué estoy aquí, déjame que te cuente la historia de Marta, una niña de seis años a la que le diagnosticaron leucemia.
+Antes de nada, déjame que te cuente la historia de Marta, una niña de seis años a la que le diagnosticaron leucemia.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y calla un segundo: muchos te dirán el suyo.)*
 
-*(Marta es un caso construido. Si preguntan si existe: «No es una persona concreta. Es el recorrido real de un paciente, y las cifras son reales.» Es una aclaración, no una confesión: dilo y sigue.)*
+*(Marta es un caso construido. Si preguntan si existe: «No es una persona concreta. Representa el recorrido real de un paciente, y las cifras son reales.» Es una aclaración, no una confesión: dilo y sigue.)*
 
 ---
 
@@ -34,11 +34,13 @@ En la familia de Marta no hay nadie, así que desde ese momento su vida depende 
 >
 > *(Dice que no: «Ya. Son muchos más de los que parece, pero no se les ve.»)*
 >
-> *(Dice que él lo es: «Pues gracias por estar apuntado. Tú ya conoces el principio; lo que mucha gente no sabe es lo que pasa después.»)*
+> *(Dice que él lo es: «Muchas gracias por dar ese paso. Tú ya conoces el principio, pero mucha gente no sabe qué pasa después.»)*
 >
 > *(Dice que conoce a alguien apuntado: «Pues es gente así la que le salva la vida a alguien como Marta.»)*
 >
-> *(Dice que lo ha vivido de cerca: deja la historia y pregúntale quién fue y cómo está. Vuelves con «Pues justo esto que te cuento es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
+> *(Dice que lo ha vivido de cerca: deja la historia y pregúntale quién fue y cómo está. Sin insistir. Vuelves con «Pues justo esto que te cuento es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
+>
+> *(Dice que murió: no lo enlaces con Marta. «Lo siento.» Y calla: que decida esa persona si seguís.)*
 >
 > *(Te lo devuelve con un «¿y tú?»: contéstalo en una frase y sigue. Si lo eres, dilo y no lo desarrolles. Si no, dilo sin excusarte y con tus palabras.)*
 >
