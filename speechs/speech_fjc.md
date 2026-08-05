@@ -192,7 +192,7 @@ El REDMO llevaba más de treinta años funcionando.
 
 Los pisos de acogida estaban abiertos.
 
-Había alguien a quien preguntar cuando sus padres no entendían nada.
+Había alguien a quien preguntar cuando sus padres no entendían algo.
 
 Y cientos de personas investigando desde mucho antes de que ella enfermara.
 
