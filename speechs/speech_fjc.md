@@ -186,21 +186,21 @@ Hasta que la curemos, no pararemos.
 
 *(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
 
-Cuando a Marta le diagnosticaron leucemia, el REDMO llevaba más de treinta años funcionando.
+Cuando a Marta le diagnosticaron leucemia, todo esto ya estaba ahí.
 
-Los pisos de acogida ya estaban abiertos.
+El REDMO llevaba más de treinta años funcionando.
+
+Los pisos de acogida estaban abiertos.
 
 Había alguien a quien preguntar cuando sus padres no entendían nada.
 
-Y había gente investigando desde mucho antes de que ella enfermara.
+Y cientos de personas investigando desde mucho antes de que ella enfermara.
 
 *(Pausa.)*
 
-Nada de eso apareció el día del diagnóstico.
-
 Cuatro cosas distintas, y detrás de todas la misma Fundación.
 
-Todo eso existe porque más de 150.000 personas decidieron hacerse socias.
+Pero todo eso existe porque más de 150.000 personas decidieron hacerse socias.
 
 Personas que nunca conocerán a quien están ayudando.
 
@@ -208,7 +208,7 @@ Y aun así lo hicieron.
 
 *(Pausa larga. Sostén la mirada.)*
 
-Hoy tú también puedes hacer que, cuando llegue la próxima Marta, todo esto ya esté ahí esperándola.
+Hoy tú también puedes hacer que, cuando llegue la próxima Marta, todo esto siga ahí esperándola.
 
 Para que encuentre a su donante.
 
