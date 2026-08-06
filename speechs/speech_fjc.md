@@ -16,7 +16,7 @@ Antes de nada, déjame que te cuente la historia de Marta, una niña de seis añ
 
 ---
 
-## 🗣️ Discurso (~6-7 minutos)
+## 🗣️ Discurso (~7 minutos)
 
 A los padres de Marta les explican que en su caso la única opción es un trasplante de médula ósea.
 
