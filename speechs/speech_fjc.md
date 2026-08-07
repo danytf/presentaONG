@@ -44,7 +44,7 @@ En la familia de Marta no hay nadie, así que desde ese momento su vida depende 
 >
 > *(Te lo devuelve con un «¿y tú?»: contéstalo en una frase y sigue. Si lo eres, dilo y no lo desarrolles. Si no, dilo sin excusarte y con tus palabras.)*
 >
-> *(Si te preguntan cómo se dona o si duele: contesta corto y vuelve a Marta. No lleves tú la conversación a la donación, que buscas socios. La médula ósea no tiene nada que ver con la espinal. Casi nueve de cada diez donaciones son del brazo y sin cirugía; el resto por la cadera, con anestesia. Eso del brazo se llama aféresis: no digas tú la palabra, solo si la trae él. Apuntarse es gratis: 900 32 33 34.)*
+> *(Si te preguntan cómo se dona o si duele: contesta corto y vuelve a Marta. No lleves tú la conversación a la donación, que buscas socios. La médula ósea no tiene nada que ver con la espinal. El 88 % de las donaciones son del brazo y sin cirugía; el resto por la cadera, con anestesia. Eso del brazo se llama aféresis: no digas tú la palabra, solo si la trae él. Apuntarse es gratis: 900 32 33 34.)*
 >
 > *(Si sacan el haploidéntico o el cordón umbilical: «Sí, hay otras vías, y para algunos pacientes son la mejor.» El cordón también se busca desde el REDMO; el haploidéntico lo decide el hospital. Dales la razón y retoma la historia: no discutas de medicina.)*
 
