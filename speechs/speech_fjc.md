@@ -1,4 +1,4 @@
-# 🩸 Fundación Josep Carreras — Speech de captación F2F
+# 🩸 Speech de captación · Fundación Josep Carreras
 
 ---
 
@@ -24,7 +24,7 @@ Lo primero que hacen es analizar a toda la familia.
 
 Pero ocurre algo que mucha gente desconoce.
 
-Tres de cada cuatro pacientes no tienen un familiar totalmente compatible.
+Tres de cada cuatro familias no tienen a nadie totalmente compatible.
 
 En la familia de Marta no hay nadie, así que desde ese momento su vida depende de un desconocido.
 
@@ -44,17 +44,19 @@ En la familia de Marta no hay nadie, así que desde ese momento su vida depende 
 >
 > *(Te lo devuelve con un «¿y tú?»: contéstalo en una frase y sigue. Si lo eres, dilo y no lo desarrolles. Si no, dilo sin excusarte y con tus palabras.)*
 >
-> *(Si te preguntan cómo se dona o si duele: contesta corto y vuelve a Marta. No lleves tú la conversación a la donación, que buscas socios. La médula ósea no tiene nada que ver con la espinal. El 88 % de las donaciones son del brazo y sin cirugía; el resto por la cadera, con anestesia. Eso del brazo se llama aféresis: no digas tú la palabra, solo si la trae él. Apuntarse es gratis: 900 32 33 34.)*
+> *(Si te preguntan cómo se dona o si duele: contesta corto y vuelve a Marta. No lleves tú la conversación a la donación, que buscas socios. La médula ósea no tiene nada que ver con la espinal. Ser compatible no es tener el mismo grupo sanguíneo: es un marcador genético que se hereda, y por eso se mira primero a la familia. El 88 % de las donaciones son del brazo y sin cirugía; el resto por la cadera, con anestesia. Eso del brazo se llama aféresis: no digas tú la palabra, solo si la trae él. Apuntarse es gratis: 900 32 33 34.)*
 >
 > *(Si sacan el haploidéntico o el cordón umbilical: «Sí, hay otras vías, y para algunos pacientes son la mejor.» El cordón también se busca desde el REDMO; el haploidéntico lo decide el hospital. Dales la razón y retoma la historia: no discutas de medicina.)*
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
-Un registro de personas que un día decidieron dar el paso de donar. Y está conectado con todos los registros del mundo.
+Un registro de personas que un día decidieron dar el paso de donar. Medio millón solo en España. Y está conectado con todos los registros del mundo.
 
 Lo creó la Fundación en 1991, después de que el tenor Josep Carreras tuviera leucemia.
 
 Antes de eso, una familia como la de Marta no tenía dónde buscar.
+
+*(Si preguntan por él: «Sí, el tenor. Tuvo leucemia, se curó y montó esto.» Dos frases y para ahí: la historia que estás contando es la de ella, no la suya.)*
 
 Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
@@ -65,6 +67,8 @@ Ese registro es la única posibilidad de encontrar a una persona que pueda salva
 Y veintisiete días después aparece.
 
 El REDMO encuentra a alguien compatible con ella. Está en otro país.
+
+*(Para un segundo. Es la primera buena noticia de la historia y mucha gente reacciona aquí. Si dice algo o levanta las cejas, asiente y sigue. No lo pises.)*
 
 Entonces empieza una carrera contrarreloj.
 
@@ -86,15 +90,19 @@ Marta nunca sabrá quién fue su donante. Y esa persona nunca sabrá a quién ha
 
 Y que se encuentren no es cuestión de suerte.
 
-Lo hacen posible medio millón de personas registradas solo en España. Y más de cuarenta millones en todo el mundo.
+Lo hacen posible más de cuarenta millones de personas registradas en todo el mundo.
 
-Lo más increíble para mí es esto. De esos cuarenta millones, un paciente que encuentra donante suele tener solo dos personas compatibles. Encontrar a esas dos entre cuarenta millones es el trabajo del REDMO, todos los días.
+¿Sabes qué es lo que más me impresiona?
+
+*(Espera. Te va a decir «¿qué?» o va a levantar las cejas. Ahí lo tienes escuchando otra vez.)*
+
+De esos cuarenta millones, un paciente que encuentra donante suele tener solo dos personas compatibles. Encontrar a esas dos entre cuarenta millones es el trabajo del REDMO, todos los días.
 
 *(Pausa.)*
 
 Gracias a esa red internacional, más de **ocho de cada diez pacientes** encuentran a su donante.
 
-El REDMO abrió casi mil cuatrocientas búsquedas nuevas el año pasado. Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
+El REDMO abre casi cuatro búsquedas nuevas cada día. Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
 
 Y como imaginarás, todo esto cuesta mucho dinero.
 
@@ -114,11 +122,11 @@ La Fundación pone la otra, para que el registro no deje de funcionar ni un día
 
 Pero encontrar un donante solo es el primer paso.
 
-El hospital donde la tratan está a cientos de kilómetros de su casa. A Marta le toca pasar allí semanas, puede que meses. Y su madre con ella.
+El hospital donde la tratan está a cientos de kilómetros de su casa. Y su madre se va con ella.
 
 Y eso, además del miedo, es dinero.
 
-Una habitación de hotel en Barcelona cuesta de media **183 euros la noche**, y hay pacientes que pasan más de **cien días** fuera de casa.
+Una habitación de hotel en Barcelona cuesta de media **183 euros la noche**. Marta va a pasar allí **más de cien noches**.
 
 > 🔄 **RESPIRO 3**
 >
@@ -136,7 +144,7 @@ Duermen gratis en un piso al lado del Hospital Vall d'Hebron. La Fundación tien
 
 *(Si te dicen que eso en su ciudad no sirve: entre esas cuarenta y una hay familias de Sevilla, Asturias, Almería o Tenerife. Di la que te pille más cerca.)*
 
-*(Si le parecen pocas: son ocho pisos, cada familia se queda meses y la ocupación ronda el 80 % todo el año. Y no son para los mil cuatrocientos: son para los que tienen que venirse a Barcelona. No prometas que va a haber más.)*
+*(Si le parecen pocas: son ocho pisos, cada familia se queda meses y están llenos casi todo el año. Y no son para todos los que buscan donante en España: son para los que tienen que venirse a Barcelona. No prometas que va a haber más.)*
 
 *(Pausa.)*
 
@@ -146,17 +154,21 @@ Cada vez que sus padres no comprenden algo, tienen a quién preguntar.
 
 Porque nadie sale de una consulta de oncología entendiendo ni la mitad de lo que le han dicho.
 
+*(Aquí te van a cortar, y te interesa. Si te cuenta lo suyo, para y escúchalo entero. Vuelves con «Pues imagínate eso mismo, pero con una hija de seis años».)*
+
 La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
 
 *(Pausa.)*
 
 Marta salió adelante.
 
+*(Aquí casi todos sueltan un «menos mal». Déjaselo decir, asiente, y entra con lo siguiente sin dejar hueco. Si no dice nada, no lo rellenes tú.)*
+
+Pero la próxima Marta puede necesitar un tratamiento que todavía no existe.
+
 No hay una única leucemia: hay decenas de tipos, y no todos se tratan igual. En el de Marta, el trasplante funciona.
 
 Y eso lo sabemos porque alguien investigó ese tipo durante años.
-
-Pero la próxima Marta puede necesitar un tratamiento que todavía no existe.
 
 *(Pausa.)*
 
@@ -182,7 +194,7 @@ Hasta que la curemos, no pararemos.
 >
 > *(Casi siempre dicen que sí. Si no concreta, pregúntale el qué: lo que te conteste es por donde tienes que apretar en el cierre, que viene justo después.)*
 >
-> *(Si dice que no, no insistas: el cierre no depende de su respuesta.)*
+> *(Si dice que no, no insistas: el cierre no depende de su respuesta. Y si lo que suelta es una duda, no la resuelvas aquí: este respiro es para recoger, no para despejar dudas. Cierras primero y luego habláis.)*
 >
 > *(Si te dice que no sabía que todo esto lo hace una sola fundación, no lo desarrolles: eso vuelve al final y quieres que le caiga entonces.)*
 >
@@ -210,11 +222,15 @@ Cuatro cosas distintas, y detrás de todas la misma Fundación.
 
 Pero todo eso existe porque más de 150.000 personas decidieron hacerse socias.
 
-Personas que nunca conocerán a quien están ayudando.
+Personas que, como el donante de Marta, nunca sabrán a quién han ayudado.
+
+*(Si en el primer respiro te dijo que es donante o que conoce a uno, esta frase es suya y hay que dársela: «Tú ya hiciste esto una vez, por alguien a quien no vas a conocer.»)*
 
 Y aun así lo hicieron.
 
 *(Pausa larga. Sostén la mirada.)*
+
+*(Aquí se cobra lo que te haya contado. Si te dijo qué le sorprendió, cuélgalo de esto en una frase. Si te dijo su nombre, dilo. No para que le cueste decir que no: para que se note que le has escuchado.)*
 
 Hoy tú también puedes hacer que todo esto siga ahí esperando a la próxima Marta.
 
@@ -230,6 +246,6 @@ Y para que ninguna familia pase por esto sola.
 
 *(Silencio absoluto.)*
 
-*(Si en cualquier momento de este tramo te pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
+*(Si en cualquier momento, aquí o antes, te pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
 
 ---
