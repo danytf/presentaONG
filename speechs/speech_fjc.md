@@ -44,13 +44,17 @@ En la familia de Marta no hay nadie, así que desde ese momento su vida depende 
 >
 > *(Te lo devuelve con un «¿y tú?»: contéstalo en una frase y sigue. Si lo eres, dilo y no lo desarrolles. Si no, dilo sin excusarte y con tus palabras.)*
 >
-> *(Si te preguntan cómo se dona o si duele: contesta corto y vuelve a Marta. No lleves tú la conversación a la donación, que buscas socios. La médula ósea no tiene nada que ver con la espinal. El 88 % de las donaciones es por aféresis, del brazo y sin cirugía; el resto por la cadera, con anestesia. Apuntarse es gratis: 900 32 33 34.)*
+> *(Si te preguntan cómo se dona o si duele: contesta corto y vuelve a Marta. No lleves tú la conversación a la donación, que buscas socios. La médula ósea no tiene nada que ver con la espinal. Casi nueve de cada diez donaciones son del brazo y sin cirugía; el resto por la cadera, con anestesia. Eso del brazo se llama aféresis: no digas tú la palabra, solo si la trae él. Apuntarse es gratis: 900 32 33 34.)*
+>
+> *(Si sacan el haploidéntico o el cordón umbilical: «Sí, hay otras vías, y para algunos pacientes son la mejor.» El cordón también se busca desde el REDMO; el haploidéntico lo decide el hospital. Dales la razón y retoma la historia: no discutas de medicina.)*
 
 Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
 
-Un registro de personas que un día decidieron dar el paso de donar, conectado con el resto de los registros del mundo.
+Un registro de personas que un día decidieron dar el paso de donar. Y está conectado con todos los registros del mundo.
 
-Lo creó la Fundación en 1991, cuando en España no existía ninguno, después de que el tenor Josep Carreras tuviera leucemia.
+Lo creó la Fundación en 1991, después de que el tenor Josep Carreras tuviera leucemia.
+
+Antes de eso, una familia como la de Marta no tenía dónde buscar.
 
 Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
 
@@ -68,13 +72,13 @@ Entonces empieza una carrera contrarreloj.
 
 Las células del donante, las que fabrican la sangre, no pueden viajar como un paquete cualquiera.
 
-Y desde que se extraen hasta que entran en el cuerpo de Marta no pueden pasar más de tres días.
+Y no pueden pasar más de tres días desde que se extraen hasta que entran en el cuerpo de Marta.
 
 Por eso las lleva un mensajero médico especializado. Su trabajo es subir al avión con el contenedor encima y no soltarlo hasta el hospital.
 
 Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente a doce vueltas al mundo.
 
-Las células de Marta llegan a tiempo.
+Las células llegan a tiempo.
 
 *(Pausa.)*
 
@@ -82,9 +86,9 @@ Marta nunca sabrá quién fue su donante. Y esa persona nunca sabrá a quién ha
 
 Y que se encuentren no es cuestión de suerte.
 
-Medio millón de personas registradas solo en España, y más de cuarenta millones en todo el mundo lo hacen posible.
+Lo hacen posible medio millón de personas registradas solo en España. Y más de cuarenta millones en todo el mundo.
 
-Lo más increíble para mí es que, de esos cuarenta millones, un paciente que encuentra donante suele tener solo dos o tres personas compatibles. Por eso el registro tiene que ser enorme.
+Lo más increíble para mí es esto. De esos cuarenta millones, un paciente que encuentra donante suele tener solo dos personas compatibles. Encontrar a esas dos entre cuarenta millones es el trabajo del REDMO, todos los días.
 
 *(Pausa.)*
 
@@ -105,10 +109,12 @@ La Fundación pone la otra, para que el registro no deje de funcionar ni un día
 > *(Dice que no: «Es lo normal. Y es el único que hay en España.»)*
 >
 > *(Dice que sí: «¿Y de qué te sonaba?» Si detrás hay una historia, escúchala; si solo le sonaba el nombre, sigue.)*
+>
+> *(Si te cuentan que lo suyo tardó meses: «Los veintisiete días son hasta encontrarlo. Después vienen las pruebas de confirmación y la preparación, y eso suma semanas.» No es un contraejemplo, es lo normal: dales la razón.)*
 
 Pero encontrar un donante solo es el primer paso.
 
-A Marta le toca tratarse a cientos de kilómetros de su casa. Semanas, puede que meses. Y su madre con ella.
+El hospital donde la tratan está a cientos de kilómetros de su casa. A Marta le toca pasar allí semanas, puede que meses. Y su madre con ella.
 
 Y eso, además del miedo, es dinero.
 
@@ -130,9 +136,11 @@ Duermen gratis en un piso al lado del Hospital Vall d'Hebron. La Fundación tien
 
 *(Si te dicen que eso en su ciudad no sirve: entre esas cuarenta y una hay familias de Sevilla, Asturias, Almería o Tenerife. Di la que te pille más cerca.)*
 
+*(Si le parecen pocas: son ocho pisos, cada familia se queda meses y la ocupación ronda el 80 % todo el año. Y no son para los mil cuatrocientos: son para los que tienen que venirse a Barcelona. No prometas que va a haber más.)*
+
 *(Pausa.)*
 
-Y hay algo más que muy poca gente conoce.
+Y hay algo más.
 
 Cada vez que sus padres no comprenden algo, tienen a quién preguntar.
 
@@ -144,25 +152,25 @@ La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la d
 
 Marta salió adelante.
 
+No hay una única leucemia: hay decenas de tipos, y no todos se tratan igual. En el de Marta, el trasplante funciona.
+
+Y eso lo sabemos porque alguien investigó ese tipo durante años.
+
 Pero la próxima Marta puede necesitar un tratamiento que todavía no existe.
-
-Porque no hay una única leucemia: hay decenas de tipos, y no todos se tratan igual. El tratamiento que salvó a Marta era específico para el suyo.
-
-Y existe porque alguien investigó ese tipo durante años.
 
 *(Pausa.)*
 
-Por eso la Fundación creó, junto a la Generalitat, el Instituto Josep Carreras: **el primer centro de investigación de Europa dedicado en exclusiva a la leucemia y otros cánceres de la sangre**.
+Por eso la Fundación, junto a la Generalitat, creó en 2010 el Instituto Josep Carreras. Fue **el primer centro de investigación de Europa centrado en la leucemia y otros cánceres de la sangre**.
 
-Allí se busca hoy lo que curará a los pacientes de dentro de diez años.
+Allí hay cientos de personas buscando hoy lo que curará a los pacientes de dentro de diez años.
 
 Porque esto no está ganado.
 
-**Dos de cada diez pacientes no encuentran a su donante.**
+**Todavía hay pacientes que se quedan sin donante.**
 
 Y hay leucemias que hoy se curan en la mayoría de los casos, y otras para las que todavía no tenemos una cura.
 
-Y todo esto lo sostienen más de **150.000 socios**.
+Todo lo que hace la Fundación lo sostienen sus socios.
 
 *(Pausa.)*
 
@@ -178,7 +186,7 @@ Hasta que la curemos, no pararemos.
 >
 > *(Si te dice que no sabía que todo esto lo hace una sola fundación, no lo desarrolles: eso vuelve al final y quieres que le caiga entonces.)*
 >
-> *(Es el último antes del cierre: córtalo tú y entra sin pausa.)*
+> *(Es el último antes del cierre: córtalo tú, no esperes a que se alargue.)*
 
 ---
 
@@ -188,7 +196,7 @@ Hasta que la curemos, no pararemos.
 
 Cuando a Marta le diagnosticaron leucemia, todo esto ya estaba ahí.
 
-El REDMO llevaba más de treinta años funcionando.
+El REDMO llevaba más de treinta años funcionando, y cada semana alguien cruzaba el mundo con un contenedor en la mano.
 
 Los pisos de acogida estaban abiertos.
 
@@ -208,7 +216,7 @@ Y aun así lo hicieron.
 
 *(Pausa larga. Sostén la mirada.)*
 
-Hoy tú también puedes hacer que, cuando llegue la próxima Marta, todo esto siga ahí esperándola.
+Hoy tú también puedes hacer que todo esto siga ahí esperando a la próxima Marta.
 
 Para que encuentre a su donante.
 
