@@ -1,6 +1,6 @@
 # 🎯 Speech de captación AECC
 
-## 🚦 Parada (10-15 segundos)
+## 🚦 Parada (15-20 segundos)
 
 Hola, ¿me permites un momento?
 
@@ -8,7 +8,7 @@ Soy [tu nombre], colaborador de la Asociación Española Contra el Cáncer.
 
 Antes de explicarte por qué estoy aquí, déjame contarte una historia. Le podría pasar a cualquiera.
 
-De hecho, le pasa a miles de personas cada año.
+De hecho, le pasa a casi 300.000 personas cada año.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
 
@@ -16,7 +16,7 @@ De hecho, le pasa a miles de personas cada año.
 
 ---
 
-## 🗣️ Discurso (~7 minutos)
+## 🗣️ Discurso (~6 minutos)
 
 Elena es fisioterapeuta.
 
@@ -32,7 +32,7 @@ De un día para otro, su vida dio un vuelco.
 
 Porque cuando alguien escucha esa palabra, no recibe solo un diagnóstico.
 
-Recibe un montón de preguntas para las que nadie te prepara.
+Recibe un montón de preguntas para las que nadie está preparado.
 
 Aparece el miedo.
 
@@ -58,11 +58,17 @@ Al final, termina formando parte de la vida de casi todas las familias.
 
 > 🔄 **RESPIRO 1**
 >
-> **«¿Has vivido el cáncer de cerca alguna vez?»**
+> **«¿Qué crees que necesita alguien que acaba de recibir esa noticia?»**
 >
-> *(Escucha de verdad. Si responde, profundiza unos segundos: «¿Quién fue?», «¿Cómo está ahora?». Desde aquí adapta el resto del discurso a su experiencia siempre que sea posible.)*
-
-Cuando pasa algo así, descubres que el tratamiento médico es solo una parte del camino.
+> *(Deja que conteste. Casi todos dicen «apoyo», «no estar solo» o «alguien que le explique». Lo que te diga es la puerta de lo que viene, que es exactamente eso.)*
+>
+> *(Si te cuenta algo suyo, para el guion y escúchalo. No lo has preguntado tú: te lo está dando él.)*
+>
+> *(Dice que murió: «Lo siento.» Y calla. No preguntes cómo está, no preguntes de qué, y no lo enlaces con Elena.)*
+>
+> *(Dice que lo está viviendo ahora, o que lo tuvo él: ahí ya no eres tú quien cuenta la historia. Escucha. Si te deja seguir, entras con «Pues justo por eso estoy aquí» y te vas directo al teléfono, al psicólogo y a los pisos, saltándote la parte de Elena descubriéndolos.)*
+>
+> *(No contesta o se encoge de hombros: contéstalo tú y sigue. «Pues para empezar, que alguien le coja el teléfono.»)*
 
 Porque el hospital trata la enfermedad.
 
@@ -76,15 +82,13 @@ Cuando tuvo una duda y ya no sabía a quién llamar, encontró un teléfono que 
 
 El único servicio de atención al cáncer en Europa abierto las 24 horas del día, todos los días del año.
 
-Solo el año pasado atendió **más de 240.000 llamadas.**
+Solo el año pasado atendió **más de 650 llamadas cada día.**
 
 Cuando el miedo empezó a pesar más que el tratamiento, encontró apoyo psicológico gratuito.
 
-Porque no solo hay que tratar el cáncer.
+Porque el miedo no se va con la quimio.
 
-También hay que cuidar a quien lo está viviendo.
-
-Como ella, cerca de **59.000 personas** recibieron ese apoyo el último año.
+Como ella, el año pasado la Asociación dio ese apoyo **cerca de 59.000 veces**.
 
 Cuando aparecieron las dudas sobre el trabajo, las ayudas o los trámites, hubo profesionales que la orientaron.
 
@@ -94,17 +98,19 @@ La Asociación dispone de **44 pisos y residencias repartidos por España** para
 
 Para que la única preocupación fuera recuperarse.
 
-Eso fue lo que encontró Elena cuando más lo necesitaba.
-
-Y eso es lo que la Asociación ofrece cada día.
-
 Que nadie tenga que enfrentarse al cáncer sin apoyo.
 
 > 🔄 **RESPIRO 2**
 >
 > **«¿Tú sabías que la Asociación hacía todo esto?»**
 >
-> *(Lo habitual es que respondan que no. Asiente con naturalidad: "Es normal... casi nadie lo sabe hasta que le toca vivirlo de cerca.")*
+> *(Dice que no, que es lo habitual: «Es normal. Casi nadie lo sabe hasta que le toca de cerca.»)*
+>
+> *(Dice que sí: no le quites la razón ni compitas con lo que sabe. «Pues entonces ya sabes por qué hago esto.» Y sigues.)*
+>
+> *(Dice que lo ha usado él o alguien suyo: para y escúchalo. Eso vale más que todo lo que te queda por contar.)*
+>
+> *(Dice que ya es socio: dale las gracias de verdad y déjalo ir. Es la mejor conversación del día y no hay que pedirle nada.)*
 
 Con el paso de los meses, Elena fue recuperando poco a poco su vida.
 
@@ -112,31 +118,21 @@ Y entonces se hizo una pregunta.
 
 > "¿Cómo consigo que quienes lleguen después encuentren aún más de lo que encontré yo?"
 
-Decidió dedicar su esfuerzo a ayudar a otras personas.
-
-Hoy desarrolla su trabajo gracias a una beca de investigación de la Asociación, estudiando cómo integrar la fisioterapia en el tratamiento de pacientes con cáncer.
+Hoy investiga gracias a una beca de la Asociación. Estudia cómo integrar la fisioterapia en el tratamiento del cáncer.
 
 Pasó de buscar respuestas...
 
 ...a dedicar su vida a encontrarlas para los demás.
 
-Porque la Asociación no solo acompaña a quienes hoy tienen cáncer.
-
-También trabaja para que, dentro de unos años, menos personas tengan que vivir lo mismo.
+Y la Asociación mira más lejos: trabaja para que dentro de unos años menos personas tengan que vivir lo mismo.
 
 Y hay un dato que demuestra por qué investigar cambia vidas.
 
 *(Baja ligeramente el ritmo.)*
 
-Hace unas décadas sobrevivía aproximadamente una de cada cuatro personas diagnosticadas de cáncer.
+Hace cuarenta años, del cáncer de mama se salvaban **seis de cada diez** mujeres. Hoy se salvan **casi nueve**.
 
-Hoy sobreviven **más de la mitad.**
-
-Y la meta es llegar al **70 % en 2030.**
-
-El cáncer de mama supera actualmente **el 85 % de supervivencia a cinco años.**
-
-En cambio, el cáncer de páncreas apenas alcanza **entre un 7 % y un 10 %.**
+En cambio, el cáncer de páncreas **apenas supera el 10 %.**
 
 Esa diferencia no es casualidad.
 
@@ -146,33 +142,17 @@ Es investigación.
 
 Cada avance científico significa vidas que hoy continúan porque alguien investigó años antes.
 
-Por eso la Asociación impulsa actualmente cerca de **800 proyectos de investigación, desarrollados por más de 3.000 investigadores.**
+El año pasado hubo **354 avances**. Casi uno al día.
 
-Con un único objetivo:
+Por eso la Asociación impulsa actualmente **792 proyectos de investigación, desarrollados por más de 3.000 investigadores.**
 
-Que quien reciba mañana un diagnóstico de páncreas tenga las mismas oportunidades que tiene hoy uno de mama.
+Hoy sobrevive **más de la mitad** de las personas a las que se diagnostica un cáncer. La meta es llegar al **70 % en 2030.**
 
-Y sé lo que mucha gente se pregunta.
+Y que quien reciba mañana un diagnóstico de páncreas tenga las mismas oportunidades que tiene hoy uno de mama.
 
-Los proyectos los eligen comités científicos independientes, sin intereses de por medio.
-
-Y todo esto existe, sobre todo, gracias a miles de personas que decidieron apoyarnos.
-
-Personas como tú y como yo, que probablemente nunca conocerán a quienes están ayudando.
+Y todo esto existe, sobre todo, gracias a sus socios.
 
 > 🔄 **RESPIRO 3**
->
-> **«Oye, antes de seguir... ¿te está surgiendo alguna duda?»**
->
-> *(Resuelve cualquier objeción con tranquilidad. Si no hay dudas, continúa.)*
-
-Al final, la historia de Elena resume muy bien lo que hace la Asociación.
-
-Recibió el apoyo que necesitaba gracias a quienes ya eran socios.
-
-Y hoy, gracias a ellos, trabaja para que otras personas tengan más oportunidades.
-
-> 🔄 **RESPIRO 4**
 >
 > **«¿Cómo lo ves?»**
 >
@@ -198,7 +178,7 @@ Había investigadores trabajando para que tuviera más oportunidades.
 
 Nada de eso apareció el día que ella enfermó.
 
-Esa red llevaba años construyéndose gracias a miles de personas que, mucho antes, decidieron hacerse socias.
+Esa red llevaba años construyéndose gracias a **más de 760.000 personas** que, mucho antes, decidieron hacerse socias.
 
 Personas que nunca conocerían a Elena.
 
