@@ -32,7 +32,7 @@ Esa noche no durmió. Y no fue por el miedo a morirse.
 
 > «¿Se lo digo ya a mis padres?»
 >
-> «¿Quién le da las sesiones a mi gente el lunes?»
+> «¿Quién atiende a mis pacientes el lunes?»
 >
 > «¿Voy a poder volver a trabajar con mis manos?»
 
@@ -40,7 +40,7 @@ Nadie está preparado para esas preguntas.
 
 Muchas veces pensamos que el cáncer es algo que les pasa a otros.
 
-En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.**
+En España, **uno de cada dos hombres tendrá cáncer. Y una de cada tres mujeres.**
 
 > 🔄 **RESPIRO 1**
 >
@@ -82,9 +82,11 @@ Como ella, el año pasado la Asociación dio ese apoyo **cerca de 59.000 veces**
 
 La pregunta de las manos se la contestó una orientadora laboral: qué derechos tenía y cuánto tiempo podía estar de baja.
 
-Y en la sala de espera conoció a una familia que había venido de la otra punta del país. Dormían gratis en un piso de la Asociación, al lado del hospital.
+Y en la sala de espera conoció a una familia que había venido de la otra punta del país. Llevaban casi dos meses durmiendo en un piso de la Asociación, sin pagar nada.
 
-La Asociación tiene **44 pisos y residencias repartidos por España** para que pacientes y familiares se alojen gratis durante el tratamiento.
+La Asociación tiene **44 pisos y residencias repartidos por España** para pacientes que tienen que tratarse lejos de casa.
+
+Nada de eso le costó un euro.
 
 Que nadie tenga que enfrentarse al cáncer sin apoyo.
 
@@ -148,7 +150,7 @@ Y todo esto existe, sobre todo, gracias a sus socios.
 
 Cuando Elena recibió aquel diagnóstico, no conocía a nadie de la Asociación.
 
-Sin embargo, la Asociación ya estaba allí esperándola.
+Pero la Asociación ya estaba allí esperándola.
 
 Había un teléfono al que llamar.
 
