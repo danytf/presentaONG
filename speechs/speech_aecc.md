@@ -12,7 +12,7 @@ De hecho, le pasa a casi 300.000 personas cada año.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y deja un segundo de silencio: muchas personas responderán con el suyo y la conversación empezará de forma natural.)*
 
-*(Elena es un caso ilustrativo construido con situaciones reales de pacientes de la Asociación: el teléfono, el psicólogo, la orientación y el alojamiento son el recorrido real de un paciente, y todas las cifras están verificadas. Si alguien te pregunta si la conoces, no digas que sí.)*
+*(Elena es un caso ilustrativo construido con situaciones reales de pacientes de la Asociación. El teléfono, el psicólogo, la orientación laboral y los pisos existen tal y como se cuentan, y las cifras salen de la memoria de 2025. Si alguien te pregunta si la conoces, no digas que sí.)*
 
 ---
 
@@ -26,35 +26,21 @@ Hasta que un día fue ella quien acabó tumbada en una.
 
 Le diagnosticaron un cáncer.
 
-Y sintió que el suelo desaparecía bajo sus pies.
-
-De un día para otro, su vida dio un vuelco.
-
-Porque cuando alguien escucha esa palabra, no recibe solo un diagnóstico.
-
-Recibe un montón de preguntas para las que nadie está preparado.
-
-Aparece el miedo.
-
-La incertidumbre.
-
-Y empiezan las preguntas.
-
-> "¿Qué va a pasar conmigo?"
->
-> "¿Qué va a pasar con mi familia?"
->
-> "¿Voy a poder seguir trabajando?"
->
-> "¿Cómo voy a afrontar todo esto?"
-
 *(Pausa.)*
+
+Esa noche no durmió. Y no fue por el miedo a morirse.
+
+> «¿Se lo digo ya a mis padres?»
+>
+> «¿Quién le da las sesiones a mi gente el lunes?»
+>
+> «¿Voy a poder volver a trabajar con mis manos?»
+
+Nadie está preparado para esas preguntas.
 
 Muchas veces pensamos que el cáncer es algo que les pasa a otros.
 
 En España, **1 de cada 2 hombres y 1 de cada 3 mujeres desarrollará cáncer a lo largo de su vida.**
-
-Al final, termina formando parte de la vida de casi todas las familias.
 
 > 🔄 **RESPIRO 1**
 >
@@ -66,7 +52,7 @@ Al final, termina formando parte de la vida de casi todas las familias.
 >
 > *(Dice que murió: «Lo siento.» Y calla. No preguntes cómo está, no preguntes de qué, y no lo enlaces con Elena.)*
 >
-> *(Dice que lo está viviendo ahora, o que lo tuvo él: ahí ya no eres tú quien cuenta la historia. Escucha. Si te deja seguir, entras con «Pues justo por eso estoy aquí» y te vas directo al teléfono, al psicólogo y a los pisos, saltándote la parte de Elena descubriéndolos.)*
+> *(Dice que lo está viviendo ahora, o que lo tuvo él: ahí ya no eres tú quien cuenta la historia. Escucha. Si te deja seguir, entras con «Pues justo por eso estoy aquí» y te vas directo al teléfono, al psicólogo y a la orientación laboral, saltándote la madrugada de Elena.)*
 >
 > *(No contesta o se encoge de hombros: contéstalo tú y sigue. «Pues para empezar, que alguien le coja el teléfono.»)*
 
@@ -74,9 +60,9 @@ Porque el hospital trata la enfermedad.
 
 Pero la persona necesita muchas más cosas.
 
-Y fue entonces cuando Elena descubrió que no tenía que recorrer ese camino sola.
+Esa madrugada Elena buscó en internet a quién preguntar. Encontró un número, y llamó sin pensar que fueran a cogerlo.
 
-Cuando tuvo una duda y ya no sabía a quién llamar, encontró un teléfono que siempre estaba disponible.
+Le cogieron.
 
 **Infocáncer, 900 100 036.**
 
@@ -84,19 +70,21 @@ El único servicio de atención al cáncer en Europa abierto las 24 horas del d�
 
 Solo el año pasado atendió **más de 650 llamadas cada día.**
 
-Cuando el miedo empezó a pesar más que el tratamiento, encontró apoyo psicológico gratuito.
+En esa llamada le ofrecieron un psicólogo. Dijo que no.
+
+*(Pausa.)*
+
+Volvió a llamar tres semanas después.
 
 Porque el miedo no se va con la quimio.
 
 Como ella, el año pasado la Asociación dio ese apoyo **cerca de 59.000 veces**.
 
-Cuando aparecieron las dudas sobre el trabajo, las ayudas o los trámites, hubo profesionales que la orientaron.
+La pregunta de las manos se la contestó una orientadora laboral: qué derechos tenía y cuánto tiempo podía estar de baja.
 
-Y cuando tuvo que desplazarse para recibir tratamiento lejos de casa, tampoco tuvo que preocuparse por dónde vivir.
+Y en la sala de espera conoció a una familia que había venido de la otra punta del país. Dormían gratis en un piso de la Asociación, al lado del hospital.
 
-La Asociación dispone de **44 pisos y residencias repartidos por España** para que pacientes y familiares puedan alojarse gratuitamente durante el tratamiento.
-
-Para que la única preocupación fuera recuperarse.
+La Asociación tiene **44 pisos y residencias repartidos por España** para que pacientes y familiares se alojen gratis durante el tratamiento.
 
 Que nadie tenga que enfrentarse al cáncer sin apoyo.
 
@@ -112,23 +100,21 @@ Que nadie tenga que enfrentarse al cáncer sin apoyo.
 >
 > *(Dice que ya es socio: dale las gracias de verdad y déjalo ir. Es la mejor conversación del día y no hay que pedirle nada.)*
 
-Con el paso de los meses, Elena fue recuperando poco a poco su vida.
+Con el paso de los meses, Elena fue recuperando su vida.
 
 Y entonces se hizo una pregunta.
 
-> "¿Cómo consigo que quienes lleguen después encuentren aún más de lo que encontré yo?"
+> «¿Cómo consigo que quienes lleguen después encuentren aún más de lo que encontré yo?»
 
 Hoy investiga gracias a una beca de la Asociación. Estudia cómo integrar la fisioterapia en el tratamiento del cáncer.
 
-Pasó de buscar respuestas...
-
-...a dedicar su vida a encontrarlas para los demás.
-
-Y la Asociación mira más lejos: trabaja para que dentro de unos años menos personas tengan que vivir lo mismo.
-
-Y hay un dato que demuestra por qué investigar cambia vidas.
+Trabaja para que otros no pierdan lo que ella tuvo miedo de perder.
 
 *(Baja ligeramente el ritmo.)*
+
+Su proyecto es uno de los **792 que la Asociación tiene en marcha**, con más de **3.000 investigadores**.
+
+Y esto es lo que mueven esos proyectos.
 
 Hace cuarenta años, del cáncer de mama se salvaban **seis de cada diez** mujeres. Hoy se salvan **casi nueve**.
 
@@ -138,13 +124,9 @@ Esa diferencia no es casualidad.
 
 *(Pausa.)*
 
-Es investigación.
+Es investigación. El año pasado hubo **354 avances**. Casi uno al día.
 
-Cada avance científico significa vidas que hoy continúan porque alguien investigó años antes.
-
-El año pasado hubo **354 avances**. Casi uno al día.
-
-Por eso la Asociación impulsa actualmente **792 proyectos de investigación, desarrollados por más de 3.000 investigadores.**
+Y cada uno significa vidas que hoy continúan porque alguien investigó años antes.
 
 Hoy sobrevive **más de la mitad** de las personas a las que se diagnostica un cáncer. La meta es llegar al **70 % en 2030.**
 
@@ -174,6 +156,8 @@ Había psicólogos para acompañarla.
 
 Había profesionales que podían orientarla.
 
+Había un piso para las familias que venían de lejos.
+
 Había investigadores trabajando para que tuviera más oportunidades.
 
 Nada de eso apareció el día que ella enfermó.
@@ -182,17 +166,17 @@ Esa red llevaba años construyéndose gracias a **más de 760.000 personas** que
 
 Personas que nunca conocerían a Elena.
 
-Todos esperamos no necesitar nunca esa ayuda.
+Todos esperamos no necesitar nunca esa ayuda. Pero si algún día nos toca, o le toca a alguien nuestro, todos queremos que siga estando ahí.
 
-Pero si algún día nos toca a nosotros, o a alguien que queremos, todos deseamos que esa red siga ahí.
-
-Y esa red solo puede seguir existiendo si hoy otras personas deciden continuar sosteniéndola.
+Y solo sigue ahí si alguien la sostiene.
 
 *(Pausa.)*
 
 Por eso estoy hoy aquí.
 
-Porque hoy tú también puedes ser una de esas personas.
+La pregunta de Elena era cómo hacer que el que llegue detrás encuentre más de lo que encontró ella.
+
+Esa es la misma pregunta que te hago yo.
 
 *(Silencio de dos segundos. Sonríe.)*
 
