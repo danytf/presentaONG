@@ -185,3 +185,5 @@ Esa es la misma pregunta que te hago yo.
 **¿Te animas a hacerte socio?**
 
 *(Silencio absoluto.)*
+
+*(Si en cualquier momento, aquí o antes, te pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
