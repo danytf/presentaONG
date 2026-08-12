@@ -110,6 +110,8 @@ Tres semanas después volvió a llamar. Y esta vez lo pidió ella.
 
 Porque hay cosas que, cuando te diagnostican un cáncer, no sabes ni que vas a necesitar. Hasta que las necesitas.
 
+A sus padres se lo contó después de hablar con la psicóloga. Casi un mes después del diagnóstico.
+
 *(Pausa. Aquí no digas nada más. Deja que caiga.)*
 
 Como ella, el año pasado la Asociación dio ese apoyo **cerca de 59.000 veces**.
@@ -128,7 +130,7 @@ Los días malos no podía ni sostener una taza. Ella, que se ganaba la vida con 
 >
 > *(Dice que ya es socio: dale las gracias de verdad y déjalo ir. Es la mejor conversación del día y no hay que pedirle nada.)*
 
-Otra de aquellas preguntas de madrugada se la contestó una orientadora laboral: qué derechos tenía y cuándo podía volver.
+Y hubo una orientadora laboral que le explicó qué derechos tenía, cuánto podía parar y cómo volver.
 
 A la de las manos, esa noche, no había respuesta. Nadie se la podía dar.
 
@@ -160,17 +162,23 @@ La familia.
 >
 > *(Ojo: esta pregunta no evalúa nada, y va aquí a propósito. No la muevas al final: una pregunta abierta justo antes de pedir le da el guion de su propio «no».)*
 
-Con los meses, Elena volvió a trabajar. Volvió a ponerse al lado de una camilla. Volvió a usar sus manos.
+Con los meses, Elena volvió a ponerse al lado de una camilla. Volvió a usar sus manos.
 
 *(Pausa.)*
 
-Aquella pregunta que una noche la había despertado ya tiene respuesta. Y hoy Elena investiga, con una beca de la Asociación, cómo meter la fisioterapia dentro del tratamiento del cáncer.
+Aquella pregunta que una noche la había despertado ya tiene respuesta. Y hoy Elena investiga, con una beca de la Asociación, cómo meter la fisioterapia en el tratamiento del cáncer.
 
 Lo que tuvo miedo de perder es justo lo que ahora usa para los demás.
 
 *(Pausa.)*
 
-Porque recibir ayuda cambia la forma en que atraviesas un cáncer.
+> 🔄 **RESPIRO 4**
+>
+> **«Todo esto ayuda a pasar por un cáncer. Pero para curarlo, ¿qué crees que hace falta?»**
+>
+> *(Casi todos dicen «investigación». Cuando lo diga, dale la razón y sigue: lo que viene es exactamente eso, y ahora lo ha dicho él. Si no contesta, contéstalo tú y sigue.)*
+>
+> *(No es una pregunta de evaluación: no le pides opinión sobre ti ni sobre la Asociación. Por eso puede ir aquí y «¿cómo lo ves?» no podría.)*
 
 *(Baja el ritmo. Esto es el giro del discurso.)*
 
@@ -190,7 +198,7 @@ Curar un cáncer para el que todavía no existe una cura.
 
 Eso solo lo consigue la ciencia.
 
-Por eso la Asociación tiene **792 proyectos de investigación en marcha** y más de **3.000 investigadores** trabajando en España.
+Por eso la Asociación tiene **792 proyectos de investigación en marcha** y más de **3.000 investigadores**.
 
 Hace cuarenta años, del cáncer de mama se salvaban **seis de cada diez** mujeres. Hoy se salvan **casi nueve**.
 
@@ -202,15 +210,13 @@ Esa diferencia son cuarenta años de investigación que a un cáncer se le diero
 
 Y quien reciba un diagnóstico de páncreas la semana que viene no tiene cuarenta años.
 
-Hoy sale adelante **más de la mitad** de las personas a las que se diagnostica un cáncer. Y la Asociación se ha puesto una meta muy concreta: **superar el 70 % en 2030**.
+Hoy sale adelante **más de la mitad** de las personas a las que se diagnostica un cáncer. Y la meta es **superar el 70 % en 2030**.
 
 Entre esa mitad y ese setenta por ciento hay personas con nombre. Personas que quieren volver a trabajar y volver a casa.
 
 *(Pausa.)*
 
-Y ahí es donde entiendo por qué la Asociación necesita socios.
-
-Porque la investigación no empieza el día que alguien recibe un diagnóstico.
+Y por eso la Asociación necesita socios. Porque la investigación no empieza el día que alguien recibe un diagnóstico.
 
 Empieza años antes.
 
