@@ -54,7 +54,13 @@ Elena tenía un diagnóstico. Pero no tenía respuestas.
 
 *(Pausa.)*
 
-Y aquí hay algo que yo no entendía hasta que entré en esto.
+Yo, hasta que entré en esto, pensaba que el cáncer era algo que le pasaba a otros.
+
+Míralo así: de cada dos hombres que pasan ahora mismo por esta calle, **uno tendrá cáncer**. Y **una de cada tres mujeres**.
+
+*(Pausa.)*
+
+Y hay otra cosa que tampoco entendía.
 
 Cuando aparece el cáncer, el hospital trata la enfermedad. Pero hay una persona que tiene que seguir viviendo con todo lo que viene detrás.
 
@@ -107,6 +113,8 @@ Porque hay cosas que, cuando te diagnostican un cáncer, no sabes ni que vas a n
 *(Pausa. Aquí no digas nada más. Deja que caiga.)*
 
 Como ella, el año pasado la Asociación dio ese apoyo **cerca de 59.000 veces**.
+
+Los días malos no podía ni sostener una taza. Ella, que se ganaba la vida con las manos.
 
 > 🔄 **RESPIRO 2**
 >
