@@ -6,11 +6,11 @@ Hola, buenas. Soy [tu nombre], colaborador de la Asociación Española Contra el
 
 ¿Tú cómo te llamas?
 
-*(Espera de verdad. Casi todo el mundo lo dice, y en cuanto lo dice ya no eres un captador abordando a alguien: sois dos personas hablando. Eso es lo que te compra los seis minutos siguientes.)*
+*(Espera. De verdad. En cuanto te dice su nombre ya no eres un captador abordando a alguien: sois dos personas hablando.)*
 
-*(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio.)*
+*(Sonríe. Contacto visual. Energía tranquila.)*
 
-*(No te plantes de frente cerrándole el paso: eso se lee como un bloqueo. En cuanto se pare, gírate y ponte a su lado, un poco en ángulo, los dos mirando hacia el mismo sitio.)*
+*(Cuando se detenga, ponte ligeramente a su lado, no de frente. Que deje de sentir que le estás cerrando el paso.)*
 
 *(La tablet o la carpeta, abajo y fuera de la vista hasta el final. Si llevas papel en la mano mientras cuentas la historia, lo único que oye es que le vas a hacer firmar.)*
 
@@ -18,11 +18,13 @@ Hola, buenas. Soy [tu nombre], colaborador de la Asociación Española Contra el
 
 ---
 
-## 🗣️ Discurso (~7 minutos)
+## 🗣️ Discurso (~8 minutos)
 
-Mira, [su nombre]: Elena es fisioterapeuta.
+Mira, [su nombre].
 
-Se pasaba el día al lado de una camilla, levantando a otra gente.
+Elena es fisioterapeuta.
+
+Se pasaba el día al lado de una camilla, ayudando a otras personas a recuperarse.
 
 *(Cállate dos segundos.)*
 
@@ -32,35 +34,39 @@ Le diagnosticaron un cáncer.
 
 *(Pausa. Aquí te pones frente a él.)*
 
-Esa noche no durmió.
+Y esa noche no durmió.
 
-Del miedo a morirse ya te lo imaginas. Lo que no te imaginas son las otras preguntas.
+Por miedo a morirse, claro.
 
-*(Más bajo y más lento, como si leyeras lo que alguien está pensando. Deja el hueco más grande antes de la última.)*
+Pero las preguntas que más pesan no siempre son esas. Son las que aparecen cuando te quedas solo.
+
+*(Baja la voz. Más lento, como si leyeras lo que alguien está pensando. Deja el hueco más grande antes de la última.)*
 
 > «¿Se lo digo ya a mis padres?»
 >
-> «¿Y el lunes? ¿Qué les digo a mis pacientes?»
+> «¿Qué les digo el lunes a mis pacientes?»
 >
 > «¿Voy a poder volver a trabajar con mis manos?»
 
-Se las hizo a las cuatro de la mañana. Sola. Sin nadie a quien preguntárselas.
+Eran las cuatro de la mañana.
+
+Elena tenía un diagnóstico. Pero no tenía respuestas.
 
 *(Pausa.)*
 
-Yo, hasta que entré aquí, pensaba que esto era algo que le pasaba a otros.
+Y aquí hay algo que yo no entendía hasta que entré en esto.
 
-Míralo así: de cada dos hombres que pasan ahora mismo por esta calle, uno tendrá cáncer. Y una de cada tres mujeres.
+Cuando aparece el cáncer, el hospital trata la enfermedad. Pero hay una persona que tiene que seguir viviendo con todo lo que viene detrás.
 
 > 🔄 **RESPIRO 1**
 >
-> **«¿Y tú qué crees que le hace más falta a alguien así, aparte del médico?»**
+> **«¿Tú qué crees que necesita alguien así, aparte del médico?»**
 >
-> *(Deja que conteste. Casi todos dicen «apoyo», «no estar solo» o «alguien que le explique». Lo que te diga es la puerta de lo que viene, que es exactamente eso. El «aparte del médico» está para que no tenga miedo de equivocarse.)*
+> *(Escucha. Casi todos dicen «apoyo», «no estar solo» o «que le expliquen». Contesta «Sí. Exactamente.» y sigue. El «aparte del médico» está para que no tenga miedo de equivocarse.)*
 >
-> **«Y una cosa más: ¿tú sabrías a dónde llamar?»**
+> **«Y otra: ¿tú sabrías a quién llamar?»**
 >
-> *(Lo normal es que diga que no. No lo remates: «Yo tampoco lo sabía.» Y ahí entra el teléfono.)*
+> *(Lo normal es que diga que no. No lo remates: «Pues yo tampoco lo sabía.» Y ahí entra el teléfono.)*
 >
 > *(Si te cuenta algo suyo, para el guion y escúchalo. No lo has preguntado tú: te lo está dando él.)*
 >
@@ -70,11 +76,9 @@ Míralo así: de cada dos hombres que pasan ahora mismo por esta calle, uno tend
 >
 > *(No contesta o se encoge de hombros: contéstalo tú y sigue. «Pues para empezar, que alguien le coja el teléfono.»)*
 
-Porque el hospital trata la enfermedad.
+Aquella noche Elena buscó en internet a quién podía preguntar.
 
-Pero la persona necesita muchas más cosas.
-
-Esa noche que no durmió, Elena buscó en internet a quién preguntar. Encontró un número, y llamó sin pensar que fueran a cogerlo.
+Encontró un número. Y llamó, sin saber siquiera si alguien iba a cogerlo.
 
 *(Pausa.)*
 
@@ -82,103 +86,125 @@ Le cogieron.
 
 *(Dilo bajo y no lo adornes. Aquí mucha gente reacciona: si dice algo o levanta las cejas, asiente y sigue.)*
 
-A las cuatro de la mañana, al otro lado, había alguien despierto.
+A las cuatro de la mañana, al otro lado, había una persona despierta para escucharla.
 
 Elena no le preguntó el nombre.
 
-**Infocáncer, 900 100 036.**
+**900 100 036.** Gratuito, **las 24 horas del día, los 365 días del año**. El único así en Europa.
 
-El único servicio de atención al cáncer en Europa abierto las 24 horas del día, todos los días del año.
+Y no es un teléfono para decirte «llame usted mañana a su médico». Al otro lado te escuchan y te abren la puerta a todo lo demás.
 
-Cada día atiende más de **650 llamadas**.
+En aquella primera llamada le ofrecieron ayuda psicológica.
 
-> 🔄 **RESPIRO 2**
->
-> **«¿Tú sabías que ese teléfono existe?»**
->
-> *(Dice que no, que es lo normal: «Casi nadie lo sabe hasta que le toca de cerca.»)*
->
-> *(Dice que sí: no le quites la razón ni compitas con lo que sabe. «Pues entonces ya sabes por qué hago esto.» Y sigues.)*
->
-> *(Dice que lo ha usado él o alguien suyo: para y escúchalo. Eso vale más que todo lo que te queda por contar.)*
->
-> *(Dice que ya es socio: dale las gracias de verdad y déjalo ir. Es la mejor conversación del día y no hay que pedirle nada.)*
-
-En esa llamada le ofrecieron un psicólogo. Dijo que no. Que ella estaba bien, que la que estaba mal era su madre.
+Ella dijo que no. Que estaba bien. Que quien lo necesitaba era su madre.
 
 *(Pausa.)*
 
-Volvió a llamar tres semanas después. Y esa vez lo pidió ella.
+Tres semanas después volvió a llamar. Y esta vez lo pidió ella.
 
-Porque el miedo no se va con la quimio.
+Porque hay cosas que, cuando te diagnostican un cáncer, no sabes ni que vas a necesitar. Hasta que las necesitas.
 
 *(Pausa. Aquí no digas nada más. Deja que caiga.)*
 
 Como ella, el año pasado la Asociación dio ese apoyo **cerca de 59.000 veces**.
 
-A la pregunta del lunes le contestó una orientadora laboral: qué derechos tenía, cuánto podía parar y cómo volver.
+> 🔄 **RESPIRO 2**
+>
+> **«¿Tú sabías que existía ese teléfono?»**
+>
+> *(Dice que no: «Es increíble, ¿verdad? Que exista y que la mayoría solo lo descubramos cuando nos toca de cerca.»)*
+>
+> *(Dice que sí: «Pues entonces entiendes perfectamente por qué estoy aquí.» No compitas con lo que sabe.)*
+>
+> *(Cuenta una experiencia personal: para el discurso del todo y escucha. Eso vale más que lo que te queda por contar.)*
+>
+> *(Dice que ya es socio: dale las gracias de verdad y déjalo ir. Es la mejor conversación del día y no hay que pedirle nada.)*
 
-A la de las manos, esa madrugada, no había respuesta. Nadie se la podía dar.
+Otra de aquellas preguntas de madrugada se la contestó una orientadora laboral: qué derechos tenía y cuándo podía volver.
 
-A Elena nada de eso le costó un euro.
+A la de las manos, esa noche, no había respuesta. Nadie se la podía dar.
 
-Y en la sala de espera conoció a un matrimonio que había venido de la otra punta del país. Llevaban casi dos meses durmiendo en un piso de la Asociación, sin pagar nada.
+A Elena nada de esto le costó un euro.
+
+Y en una sala de espera conoció a una pareja que había venido desde la otra punta del país para tratarse. Llevaban casi dos meses fuera de su casa.
 
 Ellos no estaban enfermos. No les dolía nada.
 
-Porque en esto nunca hay una sola persona.
+*(Pausa.)*
 
-La Asociación tiene **44 pisos y residencias repartidos por España** para pacientes que tienen que tratarse lejos de casa.
+Pero ¿dónde duermes cuando el hospital está a cientos de kilómetros de tu casa?
 
-Esa es la idea: que nadie tenga que apañárselas solo.
+La Asociación tiene **44 pisos y residencias en España** para las familias que tienen que venirse de lejos.
+
+Y no es solo un piso. Es no tener que elegir entre el tratamiento y poder pagarte dónde dormir.
+
+Porque cuando una persona tiene cáncer, muchas veces hay otra persona enferma al lado. Aunque no tenga cáncer.
+
+La familia.
 
 > 🔄 **RESPIRO 3**
 >
-> **«¿Y esto lo sabías, que se puede pedir sin pagar nada?»**
+> **«¿Y esto lo sabías, que hay pisos para los pacientes y sus familias?»**
 >
-> *(Dice que no: «Ni un euro. Y no hay lista de espera para llamar.»)*
+> *(Escucha. Y remata: «Y todo gratis. El cáncer ya cuesta bastante para que encima cueste dinero estar acompañado.»)*
 >
 > *(Pregunta a qué va el dinero o quién decide: «Los proyectos los eligen comités científicos independientes.» Una frase y para ahí; no entres en porcentajes de gasto.)*
 >
 > *(Ojo: esta pregunta no evalúa nada, y va aquí a propósito. No la muevas al final: una pregunta abierta justo antes de pedir le da el guion de su propio «no».)*
 
-Con el paso de los meses, Elena fue recuperando su vida.
-
-Hoy ha vuelto a la camilla. Vuelve a trabajar con sus manos.
+Con los meses, Elena volvió a trabajar. Volvió a ponerse al lado de una camilla. Volvió a usar sus manos.
 
 *(Pausa.)*
 
-Y aquella pregunta de las manos, la que aquella noche no tenía respuesta, hoy la está contestando ella para otros: investiga, con una beca de la Asociación, cómo meter la fisioterapia dentro del tratamiento del cáncer.
+Aquella pregunta que una noche la había despertado ya tiene respuesta. Y hoy Elena investiga, con una beca de la Asociación, cómo meter la fisioterapia dentro del tratamiento del cáncer.
 
 Lo que tuvo miedo de perder es justo lo que ahora usa para los demás.
 
 *(Pausa.)*
 
-Elena salió adelante.
+Porque recibir ayuda cambia la forma en que atraviesas un cáncer.
 
-Y hay gente que tiene todo eso, y aun así no sale adelante.
+*(Baja el ritmo. Esto es el giro del discurso.)*
 
-Lo que decide eso no es el acompañamiento. Es la investigación.
+Podemos escucharte de madrugada.
 
-*(Baja ligeramente el ritmo.)*
+Podemos ponerte un psicólogo.
+
+Podemos pelear tus derechos.
+
+Podemos darte una cama al lado del hospital.
+
+Pero hay una cosa que ninguna de esas ayudas puede hacer.
+
+*(Pausa.)*
+
+Curar un cáncer para el que todavía no existe una cura.
+
+Eso solo lo consigue la ciencia.
+
+Por eso la Asociación tiene **792 proyectos de investigación en marcha** y más de **3.000 investigadores** trabajando en España.
 
 Hace cuarenta años, del cáncer de mama se salvaban **seis de cada diez** mujeres. Hoy se salvan **casi nueve**.
 
 En cambio, la supervivencia del cáncer de páncreas **apenas supera el 10 %**.
 
+*(Pausa.)*
+
 Esa diferencia son cuarenta años de investigación que a un cáncer se le dieron y al otro todavía no.
 
 Y quien reciba un diagnóstico de páncreas la semana que viene no tiene cuarenta años.
 
+Hoy sale adelante **más de la mitad** de las personas a las que se diagnostica un cáncer. Y la Asociación se ha puesto una meta muy concreta: **superar el 70 % en 2030**.
+
+Entre esa mitad y ese setenta por ciento hay personas con nombre. Personas que quieren volver a trabajar y volver a casa.
+
 *(Pausa.)*
 
-Hoy sale adelante **más de la mitad** de las personas a las que se diagnostica un cáncer. La meta es llegar al **70 % en 2030**.
+Y ahí es donde entiendo por qué la Asociación necesita socios.
 
-Entre esa mitad y ese setenta por ciento hay gente con nombre que hoy todavía no lo consigue.
+Porque la investigación no empieza el día que alguien recibe un diagnóstico.
 
-El proyecto de Elena es uno de los **792** que la Asociación tiene en marcha, con más de **3.000 investigadores**.
-
-Y todo esto existe, sobre todo, gracias a sus socios.
+Empieza años antes.
 
 ---
 
@@ -186,9 +212,9 @@ Y todo esto existe, sobre todo, gracias a sus socios.
 
 *(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
 
-Cuando Elena recibió aquel diagnóstico, no conocía a nadie de la Asociación.
+Cuando Elena recibió su diagnóstico, no conocía a nadie de la Asociación.
 
-Pero la Asociación ya estaba allí esperándola.
+Pero la Asociación ya estaba allí.
 
 Había un teléfono al que llamar de madrugada.
 
@@ -196,27 +222,33 @@ Había un psicólogo para cuando lo pidiera.
 
 Había alguien que sabía de bajas y de derechos.
 
-Había un piso para las familias que venían de lejos.
+Había un piso para una familia que venía de lejos.
 
-Había gente investigando desde mucho antes de que ella enfermara.
+Y había gente investigando para que su cáncer fuera más fácil de tratar.
 
-Nada de eso apareció el día que ella enfermó.
+Nada de eso apareció el día que Elena enfermó.
 
-Esa red llevaba años construyéndose gracias a **más de 760.000 personas** que, mucho antes, decidieron hacerse socias.
+Esa red llevaba años construyéndose, y hoy la sostienen **más de 764.000 socios**.
 
-*(Pausa.)*
+*(Pausa larga.)*
 
-Ninguna de ellas sabrá nunca que Elena existe.
+Ninguno de ellos sabrá nunca quién es Elena.
 
-Y Elena nunca sabrá quién hizo que aquella madrugada, a las cuatro, hubiera alguien despierto al otro lado del teléfono.
+Y Elena nunca sabrá quién hizo posible que aquella madrugada hubiera alguien al otro lado del teléfono.
 
 *(Pausa larga. Sostén la mirada.)*
 
-Casi ninguno de nosotros va a ser Elena.
+Eso es lo que significa ser socio.
 
-Pero casi todos, antes o después, vamos a ser el que la acompaña. Y el que acompaña tampoco sabe qué hacer.
+No ayudas a alguien que conoces. Ayudas a que, cuando llegue el momento, haya una respuesta esperando.
 
-Y esa red solo sigue ahí si alguien la sostiene.
+*(Pausa.)*
+
+Y ninguno de nosotros quiere ser Elena.
+
+Pero casi todos, antes o después, vamos a ser su madre, su pareja o su amigo. O el que recibe la llamada y no sabe qué hacer.
+
+Y más vale que la red ya esté ahí.
 
 *(Pausa.)*
 
@@ -224,7 +256,9 @@ Por eso estoy hoy aquí.
 
 Yo no te voy a pedir que cures el cáncer.
 
-Te pido que sostengas el teléfono, el psicólogo, el piso y la gente que investiga, para el que reciba la llamada mañana.
+Te pido algo más sencillo: que ayudes a mantener esa red para quien mañana no sepa a quién llamar.
+
+El teléfono. El psicólogo. El alojamiento. Y la investigación.
 
 *(Silencio de dos segundos. Sonríe. Manos quietas.)*
 
@@ -233,5 +267,23 @@ Te pido que sostengas el teléfono, el psicólogo, el piso y la gente que invest
 *(Silencio absoluto. No lo rellenes tú: ni «¿eh?», ni «¿qué me dices?», ni asentir con la cabeza. Aguanta hasta que hable él, aunque se te haga larguísimo.)*
 
 *(Si en cualquier momento, aquí o antes, te pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
+
+---
+
+## 📌 Notas
+
+**No memorices palabras. Memoriza imágenes.**
+
+Camilla, diagnóstico, las cuatro de la mañana, el teléfono, el psicólogo, el trabajo, el piso, la investigación, los socios. Si te acuerdas de esas nueve, el discurso sale solo y sale natural. Si te aprendes las frases, se te nota que las estás recitando.
+
+**Las pausas son parte del discurso**, no un descanso. Las que no se pueden saltar van después de «Le diagnosticaron un cáncer», después de «Le cogieron», después de «La familia», después de «La investigación» y después de la pregunta final.
+
+**No dramatices.** La historia ya es bastante potente. La emoción tiene que venir de lo que pasa, no de poner voz de documental. Si te sale tristeza teatral, la persona se da cuenta y deja de creerte.
+
+**Las preguntas de los respiros no son retóricas.** Cuando preguntes, espera la respuesta de verdad, aunque se haga incómodo. Una conversación convence más que un monólogo, y lo que te conteste te dice por dónde apretar.
+
+**El orden importa: primero persona, después historia, después necesidad, después solución, después decisión.** La tablet no aparece hasta el final.
+
+**Y el cierre no se negocia.** Después de la pregunta final te callas. El siguiente movimiento es de la otra persona, no tuyo.
 
 ---
