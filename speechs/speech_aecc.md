@@ -178,63 +178,53 @@ Aunque no tengan cáncer.
 >
 > **«Y todo gratis. El cáncer ya cuesta bastante como para que encima cueste dinero poder estar acompañado.»**
 
-Con los meses, Elena volvió a ponerse al lado de una camilla. Volvió a usar sus manos.
+El tratamiento funcionó.
 
-*(Pausa.)*
+Y Elena pudo volver a ponerse al lado de una camilla.
 
-Aquella pregunta que una noche la había despertado ya tiene respuesta. Y hoy Elena investiga, con una beca de la Asociación, cómo meter la fisioterapia en el tratamiento del cáncer.
-
-Lo que tuvo miedo de perder es justo lo que ahora usa para los demás.
+Volvió a usar sus manos.
 
 *(Pausa.)*
 
 > 🔄 **RESPIRO 4**
 >
-> **«Todo esto ayuda a pasar por un cáncer. Pero para curarlo, ¿qué crees que hace falta?»**
+> **«Porque todo lo que te he contado ayuda, y mucho, a pasar por un cáncer. Pero para curarlo, ¿qué crees que hace falta?»**
 >
-> *(Casi todos dicen «investigación». Cuando lo diga, dale la razón y sigue: lo que viene es exactamente eso, y ahora lo ha dicho él. Si no contesta, contéstalo tú y sigue.)*
+> *(Escucha.)*
 >
-> *(No es una pregunta de evaluación: no le pides opinión sobre ti ni sobre la Asociación. Por eso puede ir aquí y «¿cómo lo ves?» no podría.)*
+> *(Si dice «investigación», dale la razón y continúa:)*
+> **«Exactamente.»**
+>
+> *(Si no responde, puedes decirlo tú:)*
+> **«Investigación.»**
+>
+> *(Pausa breve.)*
 
-*(Baja el ritmo. Esto es el giro del discurso.)*
+Por eso, la Asociación apoya cerca de **800 proyectos de investigación** que involucran a más de **3.000 investigadores**.
 
-Podemos escucharte de madrugada.
+Hace cuarenta años, del cáncer de mama se salvaban **seis de cada diez** mujeres.
 
-Podemos ponerte un psicólogo.
-
-Podemos pelear tus derechos.
-
-Podemos darte una cama al lado del hospital.
-
-Pero hay una cosa que ninguna de esas ayudas puede hacer.
-
-*(Pausa.)*
-
-Curar un cáncer para el que todavía no existe una cura.
-
-Eso solo lo consigue la ciencia.
-
-Por eso la Asociación tiene **792 proyectos de investigación en marcha** y más de **3.000 investigadores**.
-
-Hace cuarenta años, del cáncer de mama se salvaban **seis de cada diez** mujeres. Hoy se salvan **casi nueve**.
+Hoy se salvan **casi nueve de cada diez**.
 
 En cambio, la supervivencia del cáncer de páncreas **apenas supera el 10 %**.
 
 *(Pausa.)*
 
-Esa diferencia son cuarenta años de investigación que a un cáncer se le dieron y al otro todavía no.
+Esa diferencia nos enseña lo que puede conseguir la investigación cuando tiene tiempo, recursos y continuidad.
 
-Y quien reciba un diagnóstico de páncreas la semana que viene no tiene cuarenta años.
+Pero quien reciba un diagnóstico de cáncer de páncreas la semana que viene no tiene cuarenta años para esperar.
 
-Hoy sale adelante **más de la mitad** de las personas a las que se diagnostica un cáncer. Y la meta es **superar el 70 % en 2030**.
+Por eso necesitamos que la investigación siga avanzando.
 
-Entre esa mitad y ese setenta por ciento hay personas con nombre. Personas que quieren volver a trabajar y volver a casa.
-
-*(Pausa.)*
-
-Y por eso la Asociación necesita socios. Porque la investigación no empieza el día que alguien recibe un diagnóstico.
+Porque la investigación no empieza el día que alguien recibe un diagnóstico.
 
 Empieza años antes.
+
+Hoy, **más de la mitad** de las personas diagnosticadas de cáncer sobreviven a la enfermedad.
+
+Y la meta es **superar el 70 % de supervivencia en 2030**.
+
+*(Pausa.)*
 
 ---
 
