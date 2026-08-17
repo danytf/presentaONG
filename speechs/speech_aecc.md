@@ -2,15 +2,15 @@
 
 ## 🚦 Parada · 20–25 segundos
 
-Hola, ¿qué tal?
+**Hola, ¿qué tal?**
 
-Soy [tu nombre], colaborador de la Asociación Española Contra el Cáncer.
+Soy [tu nombre], colaborador de la **Asociación Española Contra el Cáncer**.
 
 Te he parado un momento porque quiero contarte la historia de Elena. Es una historia basada en situaciones reales que viven muchas personas con cáncer y que nos ayudará a entender por qué el trabajo de la Asociación es tan importante.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y haz una pequeña pausa. Lo habitual es que la persona te diga el suyo.)*
 
-*(Elena es un personaje construido a partir de situaciones reales de pacientes de la Asociación. Las situaciones y los servicios que se mencionan son reales, y las cifras utilizadas proceden de la memoria oficial de la Asociación.)*
+*(Elena es un personaje construido a partir de situaciones reales de pacientes de la Asociación. Las situaciones y los servicios que se mencionan son reales, y las cifras utilizadas proceden de fuentes oficiales de la Asociación.)*
 
 ---
 
@@ -22,7 +22,7 @@ Se pasaba el día junto a una camilla, ayudando a otras personas a recuperarse.
 
 *(Pausa de 2 segundos.)*
 
-Hasta que un día, la que acabó tumbada en esa camilla fue ella.
+Hasta que un día, **la que acabó tumbada en esa camilla fue ella.**
 
 Le diagnosticaron un cáncer.
 
@@ -30,7 +30,7 @@ Le diagnosticaron un cáncer.
 
 Esa noche apenas durmió.
 
-La cabeza no paraba de **darle vueltas a todo**.
+La cabeza no paraba de **darle vueltas a todo.**
 
 > «¿Se lo digo ya a mis padres?»
 >
@@ -80,7 +80,7 @@ A las cuatro de la mañana, **al otro lado había una persona para escucharla.**
 
 Era el teléfono de **Infocáncer**.
 
-Un servicio gratuito, disponible **las 24 horas del día, los 365 días del año**.
+Un servicio gratuito, disponible **las 24 horas del día, los 365 días del año**. Es el único teléfono en Europa que ofrece atención 24 horas, los 365 días del año.
 
 *(Pausa breve.)*
 
@@ -93,9 +93,11 @@ Un servicio gratuito, disponible **las 24 horas del día, los 365 días del año
 > *(Escucha la respuesta.)*
 >
 > *(Si dice que no:)*
+>
 > **«Pues es increíble que exista un servicio así y que muchas personas no sepamos que está ahí hasta que lo necesitamos.»**
 >
 > *(Si dice que sí:)*
+>
 > **«Entonces ya sabes lo importante que es que exista.»**
 >
 > *(Si cuenta una experiencia personal: para el discurso y escucha. No intentes reconducir inmediatamente la conversación. Esa experiencia es más importante que cualquier frase que tengas preparada.)*
@@ -126,25 +128,25 @@ A sus padres se lo contó después de hablar con la psicóloga.
 
 Y lo que le pasó a Elena no es algo excepcional.
 
-**El año pasado, la Asociación ofreció apoyo psicológico cerca de 59.000 veces.**
+**En 2025, la Asociación atendió a 177.000 personas con servicios profesionales y gratuitos.**
 
 Los días malos no podía ni sostener una taza.
 
-Ella, que se ganaba la vida con las manos.
+**Ella, que se ganaba la vida con las manos.**
 
 *(Pausa.)*
 
 Y entonces apareció otra preocupación:
 
-¿Volvería a poder trabajar con ellas?
+**¿Volvería a poder trabajar con ellas?**
 
-La Asociación le ofreció fisioterapia oncológica para ayudarla a recuperar poco a poco la fuerza y la movilidad de sus manos.
+La Asociación le ofreció **fisioterapia oncológica** para ayudarla a recuperar poco a poco la fuerza y la movilidad de sus manos.
 
-Para Elena, recuperar sus manos significaba recuperar también una parte de su vida.
+**Para Elena, recuperar sus manos significaba recuperar también una parte de su vida.**
 
 Y mientras se recuperaba, una orientadora laboral de la Asociación le explicó qué derechos tenía y la ayudó a gestionar las prestaciones que podía solicitar.
 
-Y a Elena, nada de esto le costó un solo euro.
+**Y a Elena, nada de esto le costó un solo euro.**
 
 Un día, mientras esperaba en la sala de espera del hospital, conoció a una pareja que había venido desde la otra punta del país para tratarse.
 
@@ -178,31 +180,35 @@ Aunque no tengan cáncer.
 >
 > **«Y todo gratis. El cáncer ya cuesta bastante como para que encima cueste dinero poder estar acompañado.»**
 
+---
+
 El tratamiento funcionó.
 
 Y Elena pudo volver a ponerse al lado de una camilla.
 
-Volvió a usar sus manos.
+**Volvió a usar sus manos.**
 
 *(Pausa.)*
 
 > 🔄 **RESPIRO 4**
 >
-> **«Porque todo lo que te he contado ayuda, y mucho, a pasar por un cáncer. Pero para curarlo, ¿qué crees que hace falta?»**
+> **«Porque todo lo que te he contado ayuda, y mucho, a pasar por un cáncer. Pero para conseguir que cada vez más personas puedan curarlo, ¿qué crees que hace falta?»**
 >
 > *(Escucha.)*
 >
 > *(Si dice «investigación», dale la razón y continúa:)*
+>
 > **«Exactamente.»**
 >
 > *(Si no responde, puedes decirlo tú:)*
+>
 > **«Investigación.»**
 >
 > *(Pausa breve.)*
 
-Por eso, la Asociación apoya cerca de **800 proyectos de investigación** que involucran a más de **3.000 investigadores**.
+Por eso, la Asociación apoya **792 proyectos de investigación** que involucran a más de **3.000 investigadores**.
 
-Hace cuarenta años, del cáncer de mama se salvaban **seis de cada diez** mujeres.
+Hace cuarenta años, del cáncer de mama se salvaban **seis de cada diez mujeres**.
 
 Hoy se salvan **casi nueve de cada diez**.
 
@@ -210,23 +216,21 @@ En cambio, la supervivencia del cáncer de páncreas **apenas supera el 10 %**.
 
 *(Pausa.)*
 
-Esa diferencia nos enseña lo que puede conseguir la investigación cuando tiene tiempo, recursos y continuidad.
+**Esa diferencia demuestra lo que puede conseguir la investigación cuando tiene tiempo, recursos y continuidad.**
 
-Pero quien reciba un diagnóstico de cáncer de páncreas la semana que viene no tiene cuarenta años para esperar.
+Pero quien reciba un diagnóstico de cáncer de páncreas la semana que viene **no tiene cuarenta años para esperar.**
 
 Por eso necesitamos que la investigación siga avanzando.
 
-Porque la investigación no empieza el día que alguien recibe un diagnóstico.
+Porque la investigación **no empieza el día que alguien recibe un diagnóstico.**
 
-Empieza años antes.
+**Empieza años antes.**
 
 Hoy, **más de la mitad** de las personas diagnosticadas de cáncer sobreviven a la enfermedad.
 
-Y la meta es **superar el 70 % de supervivencia en 2030**.
+Y la meta es **superar el 70 % de supervivencia en 2030.**
 
 *(Pausa.)*
-
-Y por eso la Asociación necesita socios.
 
 ---
 
@@ -236,7 +240,7 @@ Y por eso la Asociación necesita socios.
 
 Cuando Elena recibió su diagnóstico, no conocía a nadie de la Asociación.
 
-Pero la Asociación ya estaba allí.
+**Pero la Asociación ya estaba allí.**
 
 Había una respuesta al otro lado del teléfono.
 
@@ -250,23 +254,23 @@ Y personas investigando para que el cáncer pueda tratarse cada vez mejor.
 
 *(Pausa.)*
 
-Nada de eso apareció el día que Elena enfermó.
+**Nada de eso apareció el día que Elena enfermó.**
 
 Esa red llevaba años construyéndose.
 
-Y hoy esa red sigue en pie gracias a los socios de la Asociación.
+**Y hoy esa red sigue en pie gracias a los socios de la Asociación.**
 
 *(Pausa larga.)*
 
-Eso es lo que significa ser socio.
+**Eso es lo que significa ser socio.**
 
 No ayudas a alguien que conoces.
 
-Ayudas a que, cuando llegue el momento, haya una respuesta esperando.
+**Ayudas a que, cuando llegue el momento, haya una respuesta esperando.**
 
 *(Pausa.)*
 
-Y ahí es donde entras tú.
+**Y ahí es donde entras tú.**
 
 *(Silencio de 2 segundos.)*
 
