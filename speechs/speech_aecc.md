@@ -1,6 +1,6 @@
 # 🎯 Speech de captación AECC
 
-## 🚦 Parada · 15–20 segundos
+## 🚦 Parada · 20–25 segundos
 
 Hola, ¿qué tal?
 
@@ -14,7 +14,7 @@ Te he parado un momento porque quiero contarte la historia de Elena. Es una hist
 
 ---
 
-## 🗣️ Discurso · ~8 minutos
+## 🗣️ Discurso · ~7 minutos
 
 Elena es fisioterapeuta.
 
@@ -230,7 +230,7 @@ Y por eso la Asociación necesita socios.
 
 ---
 
-## 🤝 Cierre
+## 🤝 Cierre · ~1 minuto
 
 *(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
 
@@ -273,23 +273,5 @@ Y ahí es donde entras tú.
 **¿Te animas a hacerte socio?**
 
 *(Silencio absoluto. Espera a que responda.)*
-
----
-
-## 📌 Notas
-
-**No memorices palabras. Memoriza imágenes.**
-
-Camilla, diagnóstico, las cuatro de la mañana, el teléfono, el psicólogo, el trabajo, el piso, la investigación, los socios. Si te acuerdas de esas nueve, el discurso sale solo y sale natural. Si te aprendes las frases, se te nota que las estás recitando.
-
-**Las pausas son parte del discurso**, no un descanso. Las que no se pueden saltar van después de «Le diagnosticaron un cáncer», después de «Le cogieron», después de «La familia», después de «La investigación» y después de la pregunta final.
-
-**No dramatices.** La historia ya es bastante potente. La emoción tiene que venir de lo que pasa, no de poner voz de documental. Si te sale tristeza teatral, la persona se da cuenta y deja de creerte.
-
-**Las preguntas de los respiros no son retóricas.** Cuando preguntes, espera la respuesta de verdad, aunque se haga incómodo. Una conversación convence más que un monólogo, y lo que te conteste te dice por dónde apretar.
-
-**El orden importa: primero persona, después historia, después necesidad, después solución, después decisión.** La tablet no aparece hasta el final.
-
-**Y el cierre no se negocia.** Después de la pregunta final te callas. El siguiente movimiento es de la otra persona, no tuyo.
 
 ---
