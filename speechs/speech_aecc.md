@@ -146,7 +146,9 @@ La Asociación le ofreció **fisioterapia oncológica** para ayudarla a recupera
 
 Para Elena, recuperar sus manos significaba recuperar también una parte de su vida.
 
-Y mientras se recuperaba, una orientadora laboral de la Asociación le explicó qué derechos tenía, cuánto tiempo podía parar, y la ayudó a gestionar las prestaciones que podía solicitar.
+Y mientras se recuperaba, una orientadora laboral de la Asociación le explicó qué derechos tenía y cuánto tiempo podía parar.
+
+Y la ayudó a gestionar las prestaciones que podía solicitar.
 
 Y a Elena, nada de esto le costó un solo euro.
 
@@ -188,7 +190,7 @@ Aunque no tengan cáncer.
 
 ---
 
-El tratamiento funcionó.
+Meses después, el tratamiento funcionó.
 
 Y Elena pudo volver a ponerse al lado de una camilla.
 
@@ -256,6 +258,8 @@ Apoyo psicológico cuando lo necesitó.
 
 Ayuda para recuperar sus manos.
 
+Alguien que sabía de derechos y de bajas.
+
 Un lugar donde una familia podía quedarse.
 
 Y personas investigando para que el cáncer pueda tratarse cada vez mejor.
@@ -284,7 +288,7 @@ Ayudas a que, cuando llegue el momento, haya una respuesta esperando.
 
 *(Pausa.)*
 
-Y ahí es donde entras tú.
+Y ahí es donde entras tú, [su nombre].
 
 *(Silencio de 2 segundos.)*
 
