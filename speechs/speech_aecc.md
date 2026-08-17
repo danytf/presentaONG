@@ -64,23 +64,27 @@ Y cuando aparece el cáncer, el hospital trata la enfermedad.
 >
 > *(Pausa breve y continúa.)*
 
-Aquella noche Elena buscó en internet a quién podía preguntar.
+Esa misma noche, Elena buscó en Internet a quién podía preguntar.
 
-Encontró un número. Y llamó, sin saber siquiera si alguien iba a cogerlo.
+Encontró un número.
+
+Y llamó, sin saber siquiera si alguien iba a cogerlo.
 
 *(Pausa.)*
 
-Le cogieron.
+**Le cogieron.**
 
-*(Dilo bajo y no lo adornes. Aquí mucha gente reacciona: si dice algo o levanta las cejas, asiente y sigue.)*
+*(Dilo bajo. Sin adornarlo. Deja que la frase caiga. Si la persona reacciona, dice algo o levanta las cejas, asiente y continúa.)*
 
-A las cuatro de la mañana, al otro lado, había una persona despierta para escucharla.
+A las cuatro de la mañana, **al otro lado había una persona para escucharla.**
 
-Elena no le preguntó el nombre.
+Era el teléfono de **Infocáncer**.
 
-**900 100 036.** Gratuito, **las 24 horas del día, los 365 días del año**. El único así en Europa.
+Un servicio gratuito, disponible **las 24 horas del día, los 365 días del año**.
 
-Y no es un teléfono para decirte «llame usted mañana a su médico». Al otro lado te escuchan y te abren la puerta a todo lo demás.
+*(Pausa breve.)*
+
+**Porque hay preguntas que no pueden esperar a mañana.**
 
 En aquella primera llamada le ofrecieron ayuda psicológica.
 
