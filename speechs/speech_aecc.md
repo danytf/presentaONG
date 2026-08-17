@@ -86,15 +86,23 @@ Un servicio gratuito, disponible **las 24 horas del día, los 365 días del año
 
 **Porque hay preguntas que no pueden esperar a mañana.**
 
-En aquella primera llamada le ofrecieron ayuda psicológica.
+En aquella primera llamada, además de resolver muchas de sus dudas, le ofrecieron apoyo psicológico.
 
-Ella dijo que no. Que estaba bien. Que quien lo necesitaba era su madre.
+Ella dijo que no.
+
+Que estaba bien.
 
 *(Pausa.)*
 
-Tres semanas después volvió a llamar. Y esta vez lo pidió ella.
+Tres semanas después volvió a llamar.
 
-Porque hay cosas que, cuando te diagnostican un cáncer, no sabes ni que vas a necesitar. Hasta que las necesitas.
+Y esta vez, sí lo pidió.
+
+Porque hay cosas que, cuando te diagnostican un cáncer, no sabes que vas a necesitar.
+
+*(Pausa breve.)*
+
+Hasta que las necesitas.
 
 A sus padres se lo contó después de hablar con la psicóloga. Casi un mes después del diagnóstico.
 
