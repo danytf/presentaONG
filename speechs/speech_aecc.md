@@ -146,31 +146,37 @@ Y mientras se recuperaba, una orientadora laboral de la Asociación le explicó 
 
 Y a Elena, nada de esto le costó un solo euro.
 
-Y en una sala de espera conoció a una pareja que había venido desde la otra punta del país para tratarse. Llevaban casi dos meses fuera de su casa.
+Un día, mientras esperaba en la sala de espera del hospital, conoció a una pareja que había venido desde la otra punta del país para tratarse.
 
-Ellos no estaban enfermos. No les dolía nada.
+Ellos no estaban enfermos.
 
-*(Pausa.)*
+**Pero su hijo sí.**
+
+Llevaban casi dos meses fuera de casa.
 
 Pero ¿dónde duermes cuando el hospital está a cientos de kilómetros de tu casa?
 
-La Asociación tiene **44 pisos y residencias en España** para las familias que tienen que venirse de lejos.
+*(Pausa.)*
 
-Y no es solo un piso. Es no tener que elegir entre el tratamiento y poder pagarte dónde dormir.
+La Asociación tiene **44 pisos y residencias en España** para las familias que tienen que desplazarse lejos de casa para recibir tratamiento.
 
-Porque cuando una persona tiene cáncer, muchas veces hay otra persona enferma al lado. Aunque no tenga cáncer.
+Y no es solo tener un sitio donde dormir.
 
-La familia.
+**Es no tener que elegir entre el tratamiento y poder pagar dónde dormir.**
+
+Porque cuando una persona tiene cáncer, muchas veces otras personas también lo viven **de cerca**.
+
+Aunque no tengan cáncer.
+
+**La familia.**
 
 > 🔄 **RESPIRO 3**
 >
-> **«¿Y esto lo sabías, que hay pisos para los pacientes y sus familias?»**
+> **«¿Y esto lo sabías? ¿Que la Asociación tiene recursos de alojamiento para pacientes y sus familias?»**
 >
-> *(Escucha. Y remata: «Y todo gratis. El cáncer ya cuesta bastante para que encima cueste dinero estar acompañado.»)*
+> *(Escucha.)*
 >
-> *(Pregunta a qué va el dinero o quién decide: «Los proyectos los eligen comités científicos independientes.» Una frase y para ahí; no entres en porcentajes de gasto.)*
->
-> *(Ojo: esta pregunta no evalúa nada, y va aquí a propósito. No la muevas al final: una pregunta abierta justo antes de pedir le da el guion de su propio «no».)*
+> **«Y todo gratis. El cáncer ya cuesta bastante como para que encima cueste dinero poder estar acompañado.»**
 
 Con los meses, Elena volvió a ponerse al lado de una camilla. Volvió a usar sus manos.
 
