@@ -238,57 +238,41 @@ Cuando Elena recibió su diagnóstico, no conocía a nadie de la Asociación.
 
 Pero la Asociación ya estaba allí.
 
-Había un teléfono al que llamar de madrugada.
+Había una respuesta al otro lado del teléfono.
 
-Había un psicólogo para cuando lo pidiera.
+Apoyo psicológico cuando lo necesitó.
 
-Había alguien que sabía de bajas y de derechos.
+Ayuda para recuperar sus manos.
 
-Había un piso para una familia que venía de lejos.
+Un lugar donde una familia podía quedarse.
 
-Y había gente investigando para que su cáncer fuera más fácil de tratar.
+Y personas investigando para que el cáncer pueda tratarse cada vez mejor.
+
+*(Pausa.)*
 
 Nada de eso apareció el día que Elena enfermó.
 
-Esa red llevaba años construyéndose, y hoy la sostienen **más de 764.000 socios**.
+Esa red llevaba años construyéndose.
+
+Y hoy esa red sigue en pie gracias a los socios de la Asociación.
 
 *(Pausa larga.)*
 
-Ninguno de ellos sabrá nunca quién es Elena.
-
-Y Elena nunca sabrá quién hizo posible que aquella madrugada hubiera alguien al otro lado del teléfono.
-
-*(Pausa larga. Sostén la mirada.)*
-
 Eso es lo que significa ser socio.
 
-No ayudas a alguien que conoces. Ayudas a que, cuando llegue el momento, haya una respuesta esperando.
+No ayudas a alguien que conoces.
+
+Ayudas a que, cuando llegue el momento, haya una respuesta esperando.
 
 *(Pausa.)*
 
-Y ninguno de nosotros quiere ser Elena.
+Y ahí es donde entras tú.
 
-Pero casi todos, antes o después, vamos a ser su madre, su pareja o su amigo. O el que recibe la llamada y no sabe qué hacer.
-
-Y más vale que la red ya esté ahí.
-
-*(Pausa.)*
-
-Por eso estoy hoy aquí.
-
-Yo no te voy a pedir que cures el cáncer.
-
-Te pido algo más sencillo: que ayudes a mantener esa red para quien mañana no sepa a quién llamar.
-
-El teléfono. El psicólogo. El alojamiento. Y la investigación.
-
-*(Silencio de dos segundos. Sonríe. Manos quietas.)*
+*(Silencio de 2 segundos.)*
 
 **¿Te animas a hacerte socio?**
 
-*(Silencio absoluto. No lo rellenes tú: ni «¿eh?», ni «¿qué me dices?», ni asentir con la cabeza. Aguanta hasta que hable él, aunque se te haga larguísimo.)*
-
-*(Si en cualquier momento, aquí o antes, te pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
+*(Silencio absoluto. Espera a que responda.)*
 
 ---
 
