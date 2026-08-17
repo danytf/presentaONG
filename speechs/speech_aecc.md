@@ -104,11 +104,15 @@ Porque hay cosas que, cuando te diagnostican un cáncer, no sabes que vas a nece
 
 Hasta que las necesitas.
 
-A sus padres se lo contó después de hablar con la psicóloga. Casi un mes después del diagnóstico.
+A sus padres se lo contó después de hablar con la psicóloga.
 
-*(Pausa. Aquí no digas nada más. Deja que caiga.)*
+**Casi un mes después del diagnóstico.**
 
-Como ella, el año pasado la Asociación dio ese apoyo **cerca de 59.000 veces**.
+*(Pausa. No añadas nada. Deja que el tiempo transcurrido caiga.)*
+
+Y lo que le pasó a Elena no es algo excepcional.
+
+**El año pasado, la Asociación ofreció apoyo psicológico cerca de 59.000 veces.**
 
 Los días malos no podía ni sostener una taza. Ella, que se ganaba la vida con las manos.
 
