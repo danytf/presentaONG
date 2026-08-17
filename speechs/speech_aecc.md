@@ -132,17 +132,13 @@ Casi un mes después del diagnóstico.
 
 *(Pausa. No añadas nada. Deja que el tiempo transcurrido caiga.)*
 
-Y lo que le pasó a Elena no es algo excepcional.
-
-**En 2025, la Asociación atendió a 177.000 personas con servicios profesionales y gratuitos.**
-
 Los días malos no podía ni sostener una taza.
 
 Ella, que se ganaba la vida con las manos.
 
 *(Pausa.)*
 
-Y entonces apareció otra preocupación:
+Y entonces volvió aquella pregunta de la primera noche.
 
 ¿Volvería a poder trabajar con ellas?
 
@@ -150,9 +146,13 @@ La Asociación le ofreció **fisioterapia oncológica** para ayudarla a recupera
 
 Para Elena, recuperar sus manos significaba recuperar también una parte de su vida.
 
-Y mientras se recuperaba, una orientadora laboral de la Asociación le explicó qué derechos tenía y la ayudó a gestionar las prestaciones que podía solicitar.
+Y mientras se recuperaba, una orientadora laboral de la Asociación le explicó qué derechos tenía, cuánto tiempo podía parar, y la ayudó a gestionar las prestaciones que podía solicitar.
 
 Y a Elena, nada de esto le costó un solo euro.
+
+Y lo que le pasó a Elena no es algo excepcional.
+
+**En 2025, la Asociación atendió a 177.000 personas con servicios profesionales y gratuitos.**
 
 > 🔄 **RESPIRO 3**
 >
@@ -237,6 +237,8 @@ Hoy, **más de la mitad** de las personas diagnosticadas de cáncer sobreviven a
 Y la meta es **superar el 70 % de supervivencia en 2030.**
 
 *(Pausa.)*
+
+Y por eso la Asociación necesita socios.
 
 ---
 
