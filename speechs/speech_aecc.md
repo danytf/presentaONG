@@ -128,11 +128,23 @@ Y lo que le pasó a Elena no es algo excepcional.
 
 **El año pasado, la Asociación ofreció apoyo psicológico cerca de 59.000 veces.**
 
-Y hubo una orientadora laboral que le explicó qué derechos tenía, cuánto podía parar y cómo volver.
+Los días malos no podía ni sostener una taza.
 
-A la de las manos, esa noche, no había respuesta. Nadie se la podía dar.
+Ella, que se ganaba la vida con las manos.
 
-A Elena nada de esto le costó un euro.
+*(Pausa.)*
+
+Y entonces apareció otra preocupación:
+
+¿Volvería a poder trabajar con ellas?
+
+La Asociación le ofreció fisioterapia oncológica para ayudarla a recuperar poco a poco la fuerza y la movilidad de sus manos.
+
+Para Elena, recuperar sus manos significaba recuperar también una parte de su vida.
+
+Y mientras se recuperaba, una orientadora laboral de la Asociación le explicó qué derechos tenía y la ayudó a gestionar las prestaciones que podía solicitar.
+
+Y a Elena, nada de esto le costó un solo euro.
 
 Y en una sala de espera conoció a una pareja que había venido desde la otra punta del país para tratarse. Llevaban casi dos meses fuera de su casa.
 
