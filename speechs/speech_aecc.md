@@ -80,7 +80,7 @@ A las cuatro de la mañana, **al otro lado había una persona para escucharla.**
 
 Era el teléfono de **Infocáncer**.
 
-Un servicio gratuito, disponible **las 24 horas del día, los 365 días del año**. Es el único teléfono en Europa que ofrece atención 24 horas, los 365 días del año.
+Un servicio gratuito, disponible **las 24 horas del día, los 365 días del año**.
 
 *(Pausa breve.)*
 
