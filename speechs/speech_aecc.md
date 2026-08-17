@@ -86,7 +86,21 @@ Un servicio gratuito, disponible **las 24 horas del día, los 365 días del año
 
 **Porque hay preguntas que no pueden esperar a mañana.**
 
-En aquella primera llamada, además de resolver muchas de sus dudas, le ofrecieron apoyo psicológico.
+> 🔄 **RESPIRO 2**
+>
+> **«¿Conocías la existencia de este teléfono?»**
+>
+> *(Escucha la respuesta.)*
+>
+> *(Si dice que no:)*
+> **«Pues es increíble que exista un servicio así y que muchas personas no sepamos que está ahí hasta que lo necesitamos.»**
+>
+> *(Si dice que sí:)*
+> **«Entonces ya sabes lo importante que es que exista.»**
+>
+> *(Si cuenta una experiencia personal: para el discurso y escucha. No intentes reconducir inmediatamente la conversación. Esa experiencia es más importante que cualquier frase que tengas preparada.)*
+
+En aquella primera llamada, además de resolver muchas de sus dudas, **le ofrecieron apoyo psicológico.**
 
 Ella dijo que no.
 
@@ -94,15 +108,15 @@ Que estaba bien.
 
 *(Pausa.)*
 
-Tres semanas después volvió a llamar.
+**Tres semanas después volvió a llamar.**
 
 Y esta vez, sí lo pidió.
 
-Porque hay cosas que, cuando te diagnostican un cáncer, no sabes que vas a necesitar.
+Porque hay cosas que, cuando te diagnostican un cáncer, **no sabes que vas a necesitar.**
 
 *(Pausa breve.)*
 
-Hasta que las necesitas.
+**Hasta que las necesitas.**
 
 A sus padres se lo contó después de hablar con la psicóloga.
 
@@ -113,20 +127,6 @@ A sus padres se lo contó después de hablar con la psicóloga.
 Y lo que le pasó a Elena no es algo excepcional.
 
 **El año pasado, la Asociación ofreció apoyo psicológico cerca de 59.000 veces.**
-
-Los días malos no podía ni sostener una taza. Ella, que se ganaba la vida con las manos.
-
-> 🔄 **RESPIRO 2**
->
-> **«¿Conocías la existencia de este teléfono?»**
->
-> *(Escucha la respuesta.)*
->
-> *(Si dice que no:)* **«Pues es increíble que exista un servicio así y que muchas personas no sepamos que está ahí hasta que lo necesitamos.»**
->
-> *(Si dice que sí:)* **«Entonces ya sabes lo importante que es que exista.»**
->
-> *(Si cuenta una experiencia personal: para el discurso y escucha. No intentes reconducir inmediatamente la conversación. Esa experiencia es más importante que cualquier frase que tengas preparada.)*
 
 Y hubo una orientadora laboral que le explicó qué derechos tenía, cuánto podía parar y cómo volver.
 
