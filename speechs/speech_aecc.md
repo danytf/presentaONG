@@ -118,15 +118,15 @@ Los días malos no podía ni sostener una taza. Ella, que se ganaba la vida con 
 
 > 🔄 **RESPIRO 2**
 >
-> **«¿Tú sabías que existía ese teléfono?»**
+> **«¿Conocías la existencia de este teléfono?»**
 >
-> *(Dice que no: «Es increíble, ¿verdad? Que exista y que la mayoría solo lo descubramos cuando nos toca de cerca.»)*
+> *(Escucha la respuesta.)*
 >
-> *(Dice que sí: «Pues entonces entiendes perfectamente por qué estoy aquí.» No compitas con lo que sabe.)*
+> *(Si dice que no:)* **«Pues es increíble que exista un servicio así y que muchas personas no sepamos que está ahí hasta que lo necesitamos.»**
 >
-> *(Cuenta una experiencia personal: para el discurso del todo y escucha. Eso vale más que lo que te queda por contar.)*
+> *(Si dice que sí:)* **«Entonces ya sabes lo importante que es que exista.»**
 >
-> *(Dice que ya es socio: dale las gracias de verdad y déjalo ir. Es la mejor conversación del día y no hay que pedirle nada.)*
+> *(Si cuenta una experiencia personal: para el discurso y escucha. No intentes reconducir inmediatamente la conversación. Esa experiencia es más importante que cualquier frase que tengas preparada.)*
 
 Y hubo una orientadora laboral que le explicó qué derechos tenía, cuánto podía parar y cómo volver.
 
