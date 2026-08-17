@@ -56,21 +56,13 @@ Pero detrás hay una persona que tiene que seguir viviendo con todo lo que le vi
 
 > 🔄 **RESPIRO 1**
 >
-> **«¿Tú qué crees que necesita alguien así, aparte del médico?»**
+> **«¿Tú qué crees que necesita una persona en ese momento, además de atención médica?»**
 >
-> *(Escucha. Casi todos dicen «apoyo», «no estar solo» o «que le expliquen». Contesta «Sí. Exactamente.» y sigue. El «aparte del médico» está para que no tenga miedo de equivocarse.)*
+> *(Escucha. Deja que responda. Lo habitual es que aparezcan respuestas como «apoyo», «no estar solo», «que le expliquen»…)*
 >
-> **«Y otra: ¿tú sabrías a quién llamar?»**
+> **«Sí. Exactamente.»**
 >
-> *(Lo normal es que diga que no. No lo remates: «Pues yo tampoco lo sabía.» Y ahí entra el teléfono.)*
->
-> *(Si te cuenta algo suyo, para el guion y escúchalo. No lo has preguntado tú: te lo está dando él.)*
->
-> *(Dice que murió: «Lo siento.» Y calla. No preguntes cómo está, no preguntes de qué, y no lo enlaces con Elena.)*
->
-> *(Dice que lo está viviendo ahora, o que lo tuvo él: ahí ya no eres tú quien cuenta la historia. Escucha. Si te deja seguir, entras con «Pues justo por eso estoy aquí» y comprimes lo de Elena en una frase: «Elena llamó una noche a un número que encontró en internet, y se lo cogieron.» Y sigues por el psicólogo.)*
->
-> *(No contesta o se encoge de hombros: contéstalo tú y sigue. «Pues para empezar, que alguien le coja el teléfono.»)*
+> *(Pausa breve y continúa.)*
 
 Aquella noche Elena buscó en internet a quién podía preguntar.
 
