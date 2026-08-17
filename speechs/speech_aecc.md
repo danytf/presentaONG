@@ -1,20 +1,16 @@
 # 🎯 Speech de captación AECC
 
-## 🚦 Parada (15-20 segundos)
+## 🚦 Parada · 15–20 segundos
 
-Hola, buenas. Soy [tu nombre], colaborador de la Asociación Española Contra el Cáncer.
+Hola, ¿qué tal?
 
-¿Tú cómo te llamas?
+Soy [tu nombre], colaborador de la Asociación Española Contra el Cáncer.
 
-*(Espera. De verdad. En cuanto te dice su nombre ya no eres un captador abordando a alguien: sois dos personas hablando.)*
+Te he parado un momento porque quiero contarte la historia de Elena. Es una historia basada en situaciones reales que viven muchas personas con cáncer y que nos ayudará a entender por qué el trabajo de la Asociación es tan importante.
 
-*(Sonríe. Contacto visual. Energía tranquila.)*
+*(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y haz una pequeña pausa. Lo habitual es que la persona te diga el suyo.)*
 
-*(Cuando se detenga, ponte ligeramente a su lado, no de frente. Que deje de sentir que le estás cerrando el paso.)*
-
-*(La tablet o la carpeta, abajo y fuera de la vista hasta el final. Si llevas papel en la mano mientras cuentas la historia, lo único que oye es que le vas a hacer firmar.)*
-
-*(Elena es un caso ilustrativo construido con situaciones reales de pacientes de la Asociación. Todo lo que se cuenta de la Asociación existe tal y como se cuenta, y las cifras salen de la memoria de 2025. Si alguien te pregunta si la conoces, no digas que sí.)*
+*(Elena es un personaje construido a partir de situaciones reales de pacientes de la Asociación. Las situaciones y los servicios que se mencionan son reales, y las cifras utilizadas proceden de la memoria oficial de la Asociación.)*
 
 ---
 
