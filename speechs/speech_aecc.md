@@ -14,7 +14,7 @@ Te he parado un momento porque quiero contarte la historia de Elena. Es una hist
 
 ---
 
-## 🗣️ Discurso (~8 minutos)
+## 🗣️ Discurso · ~8 minutos
 
 Elena es fisioterapeuta.
 
@@ -30,7 +30,7 @@ Le diagnosticaron un cáncer.
 
 Esa noche apenas durmió.
 
-La cabeza no paraba de hacerse preguntas.
+La cabeza no paraba de **darle vueltas a todo**.
 
 > «¿Se lo digo ya a mis padres?»
 >
@@ -40,19 +40,19 @@ La cabeza no paraba de hacerse preguntas.
 
 Eran las cuatro de la mañana.
 
-Elena tenía un diagnóstico. Pero no tenía respuestas.
+Elena tenía un diagnóstico. **Pero no tenía respuestas.**
 
 *(Pausa.)*
 
 Porque uno piensa que el cáncer es algo que le pasa a otros.
 
-Pero la estadística es clara: **uno de cada dos hombres y una de cada tres mujeres** tendrán cáncer a lo largo de su vida.
+Pero la estadística es clara: **uno de cada dos hombres y una de cada tres mujeres tendrán cáncer a lo largo de su vida.**
 
 *(Pausa.)*
 
 Y cuando aparece el cáncer, el hospital trata la enfermedad.
 
-Pero detrás hay una persona que tiene que seguir viviendo con todo lo que le viene encima.
+**Pero detrás hay una persona que tiene que seguir viviendo con todo lo que le viene encima.**
 
 > 🔄 **RESPIRO 1**
 >
