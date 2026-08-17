@@ -44,15 +44,15 @@ Elena tenía un diagnóstico. Pero no tenía respuestas.
 
 *(Pausa.)*
 
-Yo, hasta que entré en esto, pensaba que el cáncer era algo que le pasaba a otros.
+Porque uno piensa que el cáncer es algo que le pasa a otros.
 
-Míralo así: de cada dos hombres que pasan ahora mismo por esta calle, **uno tendrá cáncer**. Y **una de cada tres mujeres**.
+Pero la estadística es clara: **uno de cada dos hombres y una de cada tres mujeres** tendrán cáncer a lo largo de su vida.
 
 *(Pausa.)*
 
-Y hay otra cosa que tampoco entendía.
+Y cuando aparece el cáncer, el hospital trata la enfermedad.
 
-Cuando aparece el cáncer, el hospital trata la enfermedad. Pero hay una persona que tiene que seguir viviendo con todo lo que viene detrás.
+Pero detrás hay una persona que tiene que seguir viviendo con todo lo que le viene encima.
 
 > 🔄 **RESPIRO 1**
 >
