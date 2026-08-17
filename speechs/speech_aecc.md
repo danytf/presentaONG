@@ -158,7 +158,7 @@ Pero ¿dónde duermes cuando el hospital está a cientos de kilómetros de tu ca
 
 *(Pausa.)*
 
-La Asociación tiene **44 pisos y residencias en España** para las familias que tienen que desplazarse lejos de casa para recibir tratamiento.
+La Asociación tiene **44 pisos y residencias en España** para familias que tienen que desplazarse lejos de casa porque uno de sus miembros recibe tratamiento.
 
 Y no es solo tener un sitio donde dormir.
 
