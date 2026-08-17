@@ -78,6 +78,8 @@ Y llamó, sin saber siquiera si alguien iba a cogerlo.
 
 A las cuatro de la mañana, **al otro lado había una persona para escucharla.**
 
+Elena no le preguntó el nombre.
+
 Era el teléfono de **Infocáncer**.
 
 Un servicio gratuito, disponible **las 24 horas del día, los 365 días del año**.
@@ -101,6 +103,10 @@ Un servicio gratuito, disponible **las 24 horas del día, los 365 días del año
 > **«Entonces ya sabes lo importante que es que exista.»**
 >
 > *(Si cuenta una experiencia personal: para el discurso y escucha. No intentes reconducir inmediatamente la conversación. Esa experiencia es más importante que cualquier frase que tengas preparada.)*
+>
+> *(Si te cuenta que alguien murió: «Lo siento.» Y calla. No preguntes de qué ni cómo. Que decida esa persona si seguís.)*
+>
+> *(Si ya es socio: dale las gracias de verdad y déjalo ir. No hay que pedirle nada.)*
 
 En aquella primera llamada, además de resolver muchas de sus dudas, **le ofrecieron apoyo psicológico.**
 
@@ -148,6 +154,14 @@ Y mientras se recuperaba, una orientadora laboral de la Asociación le explicó 
 
 **Y a Elena, nada de esto le costó un solo euro.**
 
+> 🔄 **RESPIRO 3**
+>
+> **«¿Y esto lo sabías, que todo esto es gratis para el paciente?»**
+>
+> *(Escucha.)*
+>
+> **«El cáncer ya cuesta bastante como para que encima cueste dinero poder estar acompañado.»**
+
 Un día, mientras esperaba en la sala de espera del hospital, conoció a una pareja que había venido desde la otra punta del país para tratarse.
 
 Ellos no estaban enfermos.
@@ -171,14 +185,6 @@ Porque cuando una persona tiene cáncer, muchas veces otras personas también lo
 Aunque no tengan cáncer.
 
 **La familia.**
-
-> 🔄 **RESPIRO 3**
->
-> **«¿Y esto lo sabías? ¿Que la Asociación tiene recursos de alojamiento para pacientes y sus familias?»**
->
-> *(Escucha.)*
->
-> **«Y todo gratis. El cáncer ya cuesta bastante como para que encima cueste dinero poder estar acompañado.»**
 
 ---
 
@@ -258,7 +264,13 @@ Y personas investigando para que el cáncer pueda tratarse cada vez mejor.
 
 Esa red llevaba años construyéndose.
 
-**Y hoy esa red sigue en pie gracias a los socios de la Asociación.**
+**Y hoy esa red sigue en pie gracias a más de 760.000 socios.**
+
+*(Pausa.)*
+
+Ninguno de ellos sabrá nunca que Elena existe.
+
+**Y Elena nunca sabrá quién hizo posible que aquella madrugada hubiera alguien al otro lado del teléfono.**
 
 *(Pausa larga.)*
 
@@ -277,5 +289,7 @@ No ayudas a alguien que conoces.
 **¿Te animas a hacerte socio?**
 
 *(Silencio absoluto. Espera a que responda.)*
+
+*(Si en cualquier momento, aquí o antes, te pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
 
 ---
