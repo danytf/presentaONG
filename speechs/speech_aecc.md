@@ -16,33 +16,27 @@ Te he parado un momento porque quiero contarte la historia de Elena. Es una hist
 
 ## 🗣️ Discurso (~8 minutos)
 
-Mira, [su nombre].
-
 Elena es fisioterapeuta.
 
-Se pasaba el día al lado de una camilla, ayudando a otras personas a recuperarse.
+Se pasaba el día junto a una camilla, ayudando a otras personas a recuperarse.
 
-*(Cállate dos segundos.)*
+*(Pausa de 2 segundos.)*
 
-Hasta que un día la que acabó tumbada fue ella.
+Hasta que un día, la que acabó tumbada en esa camilla fue ella.
 
 Le diagnosticaron un cáncer.
 
-*(Pausa. Aquí te pones frente a él.)*
+*(Pausa.)*
 
-Y esa noche no durmió.
+Esa noche apenas durmió.
 
-Por miedo a morirse, claro.
-
-Pero las preguntas que más pesan no siempre son esas. Son las que aparecen cuando te quedas solo.
-
-*(Baja la voz. Más lento, como si leyeras lo que alguien está pensando. Deja el hueco más grande antes de la última.)*
+La cabeza no paraba de hacerse preguntas.
 
 > «¿Se lo digo ya a mis padres?»
 >
 > «¿Qué les digo el lunes a mis pacientes?»
 >
-> «¿Voy a poder volver a trabajar con mis manos?»
+> «¿Podré volver a trabajar con mis manos?»
 
 Eran las cuatro de la mañana.
 
