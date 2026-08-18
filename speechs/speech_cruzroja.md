@@ -28,35 +28,39 @@ Te lo digo de entrada, para que no haya sorpresas: vengo a buscar socios para Cr
 
 Te voy a hablar de Pilar.
 
-Pilar tiene una cosa colgada al cuello. Un botón.
+Pilar lleva un botón colgado al cuello.
+
+Es la teleasistencia.
 
 *(Pausa. Deja que se lo imagine antes de explicárselo.)*
 
-Ella lo cuenta mejor que yo. Dice: «Yo estoy sola, no tengo hijos, ni familia.»
+Ella está sola.
 
-Y añade: «Lo uso desde que me levanto hasta que me voy a dormir.»
+No tiene hijos ni familia.
 
-*(Las dos frases son suyas. Dilas como se dicen las citas, un poco más despacio.)*
+Lo usa desde que se levanta hasta que se va a dormir.
 
-Ese botón la conecta, en segundos, con una persona de verdad. Las 24 horas. Los 365 días del año.
+Ese botón la conecta, en segundos, con una persona de verdad.
 
-Pilar lleva dieciséis años con ese botón encima. Y como ella, hoy, más de 132.000 personas mayores en toda España.
+Las 24 horas.
+
+Los 365 días del año.
+
+Pilar lleva dieciséis años con ese botón.
+
+Y como ella, hoy, más de 132.000 personas mayores en toda España.
 
 *(Pausa.)*
 
-Y ojalá sean dieciséis años más sin tener que pulsarlo.
-
-Pero esta noche, mientras tú y yo dormimos, alguien en algún sitio de España va a pulsar el suyo.
+Esta noche, mientras tú y yo dormimos, alguien en algún lugar de España va a pulsar el suyo.
 
 *(Baja la voz. Aquí es de noche.)*
 
 Y al otro lado va a haber una persona despierta.
 
-Que no se despierta con la llamada. Ya estaba despierta.
+Preparada para ayudar.
 
-Llevaba toda la noche esperando una llamada que no sabía si iba a llegar.
-
-*(Pausa larga. No añadas nada. Esta es la idea de la que va todo lo demás.)*
+*(Pausa larga. No añadas nada.)*
 
 > 🔄 **RESPIRO 1 — pon a Pilar dentro de su vida, no en la tuya.**
 >
