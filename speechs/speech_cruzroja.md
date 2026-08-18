@@ -58,19 +58,21 @@ Y al otro lado va a haber una persona despierta.
 
 *(Pausa larga. No añadas nada.)*
 
-> 🔄 **RESPIRO 1 — pon a Pilar dentro de su vida, no en la tuya.**
+> 🔄 **RESPIRO 1**
 >
-> **«¿Tú tienes a alguien mayor que viva solo?»**
+> **«¿Tú tienes a alguien mayor cerca que viva solo?»**
 >
-> *(Casi todo el mundo tiene una madre, un abuelo o una vecina. En cuanto lo nombre, deja de hablar de «132.000 personas mayores» y habla de esa persona.)*
+> *(Escucha. No rellenes el silencio.)*
 >
-> *(Si dice que sí, que es lo más común: pregunta una cosa más, **«¿y cómo lo lleva?»**, y escucha. A partir de ahí, cuando hables del botón, ya está pensando en ella. No hace falta que se lo digas tú.)*
+> *(En cuanto nombre a alguien, deja de hablar de «132.000 personas mayores» y habla de esa persona.)*
 >
-> *(Si dice que sí y que le preocupa: es tu mejor escenario. **«Es justo el miedo que quita ese botón.»**)*
+> *(Si dice que sí: pregunta una cosa más: **«¿Y cómo lo lleva?»** Y escucha.)*
 >
-> *(Si dice que no, que la tiene cerca o que viven juntos: **«Pues tiene suerte, y tú también.»** Y enlazas: **«Hay mucha gente que no tiene a nadie.»**)*
+> *(Si dice que le preocupa: **«Es justo el miedo que quita ese botón.»**)*
 >
-> *(Si te dice que se murió: baja el ritmo y no lo aproveches. Un **«lo siento»** y sigue sin volver sobre ello.)*
+> *(Si dice que no porque vive acompañado o tiene a alguien cerca: **«Pues tiene suerte. Y tú también.»** Y enlaza: **«Hay mucha gente que no tiene a nadie.»**)*
+>
+> *(Si te dice que esa persona murió: baja el ritmo. **«Lo siento.»** No utilices el recuerdo para vender. Continúa solo cuando la conversación lo permita.)*
 
 La historia de Pilar no habla solo de ella. Habla de cualquiera de nosotros. Porque a Pilar no le pasó nada extraordinario.
 
