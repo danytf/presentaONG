@@ -10,7 +10,7 @@ Hola, ¿qué tal?
 
 Soy [tu nombre], de Cruz Roja.
 
-Te he parado porque quiero contarte el día de una persona que no conoces. Pero que vas a reconocer enseguida.
+Te he parado porque quiero hablarte de dos personas. Una que no conoces, pero que vas a reconocer enseguida. Y otra que no vas a conocer nunca.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y haz una pequeña pausa. Lo habitual es que la persona te diga el suyo.)*
 
@@ -42,7 +42,7 @@ Pilar lleva dieciséis años con ese botón encima. Y como ella, hoy, más de 13
 
 *(Pausa.)*
 
-Y ojalá sean dieciséis años más sin tener que usarlo.
+Y ojalá sean dieciséis años más sin tener que pulsarlo.
 
 Pero esta noche, mientras tú y yo dormimos, alguien en algún sitio de España va a pulsar el suyo.
 
@@ -142,7 +142,7 @@ Alguien que no pueda dormir por la ansiedad va a marcar un teléfono gratuito. Y
 
 *(Otra vez la voz baja. Es el mismo eco de antes, y se nota.)*
 
-La de Pilar. La de la riada. La del que busca trabajo. La del que no puede dormir.
+La red de Pilar. La de la riada. La del que busca trabajo. La del que no puede dormir.
 
 *(Las cuatro seguidas, sin prisa.)*
 
@@ -184,7 +184,7 @@ Eso no lo sostiene un sorteo de un día. Lo sostienes tú, todos los meses.
 
 *(Todo este bloque es un módulo adaptable. Apréndetelo entero, pero en calle léelo según la persona: si ya la ves lista para decidir, condénsalo en una idea —«el dinero público está atado a convenios; tu cuota es el que da margen»— y ve al cierre. No lo sueltes entero por inercia.)*
 
-Y una última cosa, porque a veces me la preguntan.
+Y déjame añadir una cosa, porque a veces me la preguntan.
 
 La misma red trabaja en Gaza, en Ucrania, en Sudán.
 
@@ -220,11 +220,7 @@ A alguien que estaba sola del todo. Y que hoy se acuesta sabiendo que, si pasa a
 
 *(Pausa de 1-2 segundos. Baja el ritmo. Mira a la persona.)*
 
-Y aquí es donde entras tú, [su nombre].
-
-*(Silencio de 2 segundos.)*
-
-Piensa en esa persona que esta noche va a estar despierta, esperando una llamada.
+Piensa en esa persona que esta noche va a estar esperando una llamada.
 
 *(Pausa.)*
 
@@ -240,7 +236,11 @@ Eso es ser socio.
 
 Un socio no sostiene una organización.
 
-Sostiene a esa persona despierta. La noche en que a alguien, a cualquiera, la vida normal se le rompe.
+Sostiene a esa persona. La noche en que a alguien, a cualquiera, la vida normal se le rompe.
+
+*(Pausa.)*
+
+Y ahí es donde entras tú, [su nombre].
 
 *(Silencio de 2 segundos.)*
 
