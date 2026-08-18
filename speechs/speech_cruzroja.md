@@ -136,25 +136,47 @@ Está ahí cuando la necesitas.
 >
 > *(Si dice «no sé»: **«Precisamente cuando ocurre algo que nadie esperaba.»** Y continúa.)*
 
-El 29 de octubre de 2024. La DANA de Valencia.
+Porque esta red no solo está para una persona que vive sola.
 
-Las propias sedes de Cruz Roja quedaron destruidas por el agua. Sus coches, arrastrados por la riada.
+También tiene que estar preparada cuando, de repente, **miles de personas necesitan ayuda a la vez.**
 
-*(Pausa. Que caiga que a la organización también le pasó.)*
+Una inundación.
 
-Y aun así, aquellos primeros días hubo 6.019 personas voluntarias sobre el terreno.
+Un incendio.
 
-Fue de las primeras en llegar. Y de las últimas en irse.
+Una emergencia que cambia la vida de una familia en cuestión de horas.
 
-Mari Carmen, de Alfafar, perdió su casa entera. Y lo resume en una frase: «Los primeros en venir a ayudarnos fueron de Cruz Roja.»
+*(Pausas pequeñas.)*
 
-*(Deja que la frase termine antes de seguir. No la remates tú.)*
+Cuando ocurre algo así, no puedes empezar a construir una red desde cero.
 
-Y no fue un titular de un día. Un año después, más de 143.000 personas seguían recibiendo ayuda de ese plan. Con las cuentas publicadas, euro a euro.
+**La red tiene que estar ahí antes.**
 
-Porque esto no lo improvisa nadie.
+Con personas formadas.
 
-Pero no te quedes solo con la emergencia. Porque esa misma red, en un día cualquiera, está haciendo mil cosas a la vez.
+Con recursos.
+
+Con equipos de emergencia.
+
+Y con voluntarios listos para salir cuando más falta hace.
+
+Porque cuando llega una emergencia, **no hay tiempo para empezar a organizarse.**
+
+La respuesta tiene que estar en marcha.
+
+*(Pausa.)*
+
+Pero hay algo que quizá te sorprenda.
+
+**Esa misma red no trabaja solo cuando ocurre una emergencia.**
+
+Está trabajando todos los días.
+
+Mientras nosotros hacemos nuestra vida normal, hay personas que necesitan ayuda para **encontrar un trabajo, prepararse para una entrevista o volver a empezar después de una situación difícil.**
+
+Y esa es otra parte de la red.
+
+**El empleo.**
 
 Ahora mismo, mientras hablamos, en alguna oficina hay una persona que lleva ocho meses sin trabajo, sentada delante de alguien que le está corrigiendo el currículum.
 
