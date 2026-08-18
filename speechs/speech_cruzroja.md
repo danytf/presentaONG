@@ -1,4 +1,4 @@
-# 🩹 Speech de captación cara a cara · Cruz Roja Española
+# 🩹 Discurso de captación F2F · Cruz Roja
 
 > ⚠️ **Esto no se recita.** Lleva cuatro respiros marcados donde tienes que **parar, preguntar y escuchar**. Debajo de cada uno tienes qué hacer con cada respuesta. Sin eso se convierten en preguntas retóricas, que es peor que no preguntar.
 
@@ -10,11 +10,13 @@ Hola, ¿qué tal?
 
 Soy [tu nombre], de Cruz Roja.
 
-Te he parado porque quiero hablarte de dos personas. Una que no conoces, pero que vas a reconocer enseguida. Y otra que no vas a conocer nunca.
+Te he parado porque quiero contarte el día de una persona que no conoces.
+
+Pero que, probablemente, vas a reconocer en alguna otra persona que puedas conocer.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y haz una pequeña pausa. Lo habitual es que la persona te diga el suyo.)*
 
-*(Pilar Lou y Mari Carmen Benavent son personas reales y las dos frases entrecomilladas son suyas. Los datos son de la Memoria 2024 y el Presupuesto 2026.)*
+*(Pilar es un personaje construido a partir de situaciones reales de usuarios de la Cruz Roja. Las situaciones y los servicios que se mencionan son reales, y las cifras utilizadas proceden de fuentes oficiales.)*
 
 ---
 
