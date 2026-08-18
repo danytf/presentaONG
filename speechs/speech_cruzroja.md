@@ -74,27 +74,55 @@ Y al otro lado va a haber una persona despierta.
 >
 > *(Si te dice que esa persona murió: baja el ritmo. **«Lo siento.»** No utilices el recuerdo para vender. Continúa solo cuando la conversación lo permita.)*
 
-La historia de Pilar no habla solo de ella. Habla de cualquiera de nosotros. Porque a Pilar no le pasó nada extraordinario.
+La historia de Pilar no habla solo de ella.
 
-Simplemente llegó un momento en el que hacerse mayor cambió muchas cosas. Se quedó sola. Y un día lo normal se volvió frágil.
+Habla de cualquiera de nosotros.
 
-Y eso, escúchame bien, le puede pasar a cualquiera.
+Porque a Pilar no le pasó nada extraordinario.
 
-Una caída. Una enfermedad. Perder el trabajo. Una riada que se lleva tu casa por delante.
+Simplemente llegó un momento en el que hacerse mayor cambió las cosas.
+
+Estaba sola y, de un día para otro, su vida se volvió más frágil.
+
+*(Pausa.)*
+
+Y, en realidad, esa vulnerabilidad nos puede llegar a todos.
+
+Una caída.
+
+Una enfermedad.
+
+Perder el trabajo.
+
+Una riada que se lleva tu casa por delante.
 
 *(Cuatro cosas, cuatro pausas pequeñas. No las corras.)*
 
-De la vida normal a necesitar ayuda hay un día.
+De tener una vida normal a necesitar ayuda hay un día.
 
-*(Pausa de verdad aquí. Es la frase que sostiene todo el guion.)*
+*(Pausa de verdad.)*
 
 A veces, una hora.
 
-Por eso existe una red. La red humanitaria más extensa de España. Una red que ya existe antes de que cualquiera de nosotros la necesite.
+Por eso existe una red.
 
-En las 52 provincias. En tu barrio. En tu ciudad. Lista para cuando haga falta.
+La red humanitaria más extensa de España.
 
-Porque una red de verdad no se nota cuando todo va bien. Se nota cuando todo se rompe.
+Una red que ya está ahí antes de que cualquiera de nosotros la necesite.
+
+En las 52 provincias.
+
+En tu barrio.
+
+En tu ciudad.
+
+Preparada para cuando haga falta.
+
+Porque una red de verdad no se nota cuando todo va bien.
+
+*(Pausa.)*
+
+Está ahí cuando la necesitas.
 
 > 🔄 **RESPIRO 2 — el recuerdo compartido más potente que existe en España ahora mismo.**
 >
