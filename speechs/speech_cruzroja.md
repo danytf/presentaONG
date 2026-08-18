@@ -40,6 +40,22 @@ Ese botón la conecta, en segundos, con una persona de verdad. Las 24 horas. Los
 
 Pilar lleva dieciséis años con ese botón encima. Y como ella, hoy, más de 132.000 personas mayores en toda España.
 
+*(Pausa.)*
+
+Y ojalá sean dieciséis años más sin tener que usarlo.
+
+Pero esta noche, mientras tú y yo dormimos, alguien en algún sitio de España va a pulsar el suyo.
+
+*(Baja la voz. Aquí es de noche.)*
+
+Y al otro lado va a haber una persona despierta.
+
+Que no se despierta con la llamada. Ya estaba despierta.
+
+Llevaba toda la noche esperando una llamada que no sabía si iba a llegar.
+
+*(Pausa larga. No añadas nada. Esta es la idea de la que va todo lo demás.)*
+
 > 🔄 **RESPIRO 1 — pon a Pilar dentro de su vida, no en la tuya.**
 >
 > **«¿Tú tienes a alguien mayor que viva solo?»**
@@ -112,19 +128,19 @@ Porque esto no lo improvisa nadie.
 
 Pero no te quedes solo con la emergencia. Porque esa misma red, en un día cualquiera, está haciendo mil cosas a la vez.
 
-Ahora mismo, mientras hablamos, en alguna oficina hay una persona que lleva ocho meses sin trabajo.
+Ahora mismo, mientras hablamos, en alguna oficina hay una persona que lleva ocho meses sin trabajo, sentada delante de alguien que le está corrigiendo el currículum.
 
-La están ayudando con el currículum. A preparar entrevistas, incluso con un simulador de inteligencia artificial. Y a encontrar ofertas de verdad.
+Preparando entrevistas, incluso con un simulador de inteligencia artificial. Y buscando ofertas de verdad.
 
 El año pasado pasaron por esos programas más de 280.000 personas. Y casi la mitad encontró empleo.
 
 Es la misma red que la de Pilar.
 
-Y esta noche, cuando tú estés durmiendo, habrá alguien que no pueda dormir por la ansiedad.
+Y esta noche, la del botón no va a ser la única llamada.
 
-Va a marcar un teléfono gratuito. Y al otro lado habrá una persona formada, despierta, solo para escucharle.
+Alguien que no pueda dormir por la ansiedad va a marcar un teléfono gratuito. Y también va a haber alguien esperando esa llamada.
 
-*(Baja la voz aquí. Es de noche en la historia.)*
+*(Otra vez la voz baja. Es el mismo eco de antes, y se nota.)*
 
 La de Pilar. La de la riada. La del que busca trabajo. La del que no puede dormir.
 
@@ -180,11 +196,9 @@ Y precisamente por eso puede entrar donde nadie más entra. Y ayudar a las víct
 
 Al final del día… volvemos a Pilar.
 
-A alguien que estaba sola del todo. Y que hoy se siente acompañada, de la mañana a la noche.
+A alguien que estaba sola del todo. Y que hoy se acuesta sabiendo que, si pasa algo, hay alguien despierto.
 
-Un socio no financia una organización.
-
-Hace posible que esa red siga estando ahí. El día en que a alguien, a cualquiera, la vida normal se le rompe.
+*(Pausa.)*
 
 > 🔄 **RESPIRO 4 — toma la temperatura antes de pedir.**
 >
@@ -210,15 +224,23 @@ Y aquí es donde entras tú, [su nombre].
 
 *(Silencio de 2 segundos.)*
 
-Tú eres quien mantiene encendido ese botón en la mesilla de Pilar.
-
-Y el día que alguien lo pulse, serás tú quien haya hecho que al otro lado haya una persona.
+Piensa en esa persona que esta noche va a estar despierta, esperando una llamada.
 
 *(Pausa.)*
 
-Porque nadie sabe quién será la próxima Pilar.
+Está ahí porque alguien como tú lleva años haciendo que esté.
 
-Lo único que podemos decidir hoy es que, cuando llegue ese día, la red esté.
+*(Pausa larga.)*
+
+Y si el teléfono no suena, nadie le va a dar las gracias por haber estado despierta.
+
+*(Deja que caiga. Es la frase más alta del guion.)*
+
+Eso es ser socio.
+
+Un socio no sostiene una organización.
+
+Sostiene a esa persona despierta. La noche en que a alguien, a cualquiera, la vida normal se le rompe.
 
 *(Silencio de 2 segundos.)*
 
