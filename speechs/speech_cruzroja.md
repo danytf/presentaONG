@@ -12,11 +12,11 @@ Soy [tu nombre], de Cruz Roja.
 
 Te he parado porque quiero contarte el día de una persona que no conoces.
 
-Pero que, probablemente, vas a reconocer en alguna otra persona que puedas conocer.
+Pero que, probablemente, te recuerde a alguien que sí conoces.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y haz una pequeña pausa. Lo habitual es que la persona te diga el suyo.)*
 
-*(Pilar es un personaje construido a partir de situaciones reales de usuarios de la Cruz Roja. Las situaciones y los servicios que se mencionan son reales, y las cifras utilizadas proceden de fuentes oficiales.)*
+*(Pilar es un personaje construido a partir de situaciones reales de personas atendidas por Cruz Roja. Las situaciones y los servicios que se mencionan son reales, y las cifras utilizadas proceden de fuentes oficiales.)*
 
 ---
 
