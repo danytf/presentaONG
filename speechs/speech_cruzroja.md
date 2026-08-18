@@ -30,9 +30,9 @@ Pilar lleva un botón colgado al cuello.
 
 *(Pausa. Deja que se lo imagine antes de explicárselo.)*
 
-Ella está sola.
+Tiene 82 años y vive sola.
 
-No tiene hijos ni familia.
+No tiene hijos.
 
 Lo usa desde que se levanta hasta que se va a dormir.
 
