@@ -124,21 +124,17 @@ Porque una red de verdad no se nota cuando todo va bien.
 
 Está ahí cuando la necesitas.
 
-> 🔄 **RESPIRO 2 — el recuerdo compartido más potente que existe en España ahora mismo.**
+> 🔄 **RESPIRO 2**
 >
-> **«¿Tú te acuerdas de la DANA de Valencia?»**
+> **«¿Cuándo crees que hace más falta una red de ayuda como esta?»**
 >
-> *(Todo el mundo se acuerda, y mucha gente tiene algo que contar: familia allí, un donativo, un vecino que fue de voluntario. Escucha eso antes de seguir.)*
+> *(Escucha. Deja que responda. No busques una respuesta concreta.)*
 >
-> *(Si dice «claro» o «cómo no»: **«¿y tú qué recuerdas de aquellos días?»** Deja que cuente.)*
+> *(Si dice «cuando hay una emergencia», «cuando pasa algo grave» o algo parecido: **«Exacto.»** Y continúa.)*
 >
-> *(Si tiene familia allí o conoce a gente: escucha de verdad. Esta persona ya sabe lo que valió la respuesta. No tienes que convencerla, tienes que reconocerlo.)*
+> *(Si pone un ejemplo personal: escucha y utiliza ese ejemplo para enlazar.)*
 >
-> *(Si fue de voluntario o mandó dinero: reconócelo sin adular. **«Entonces ya formaste parte de esto una vez.»** Es un puente directo al cierre.)*
->
-> *(Si perdió su casa o a alguien: **para el guion.** No sigas vendiendo. Escucha, y si la conversación no vuelve sola, déjala ir. Cerrar un alta sobre una pérdida así no es aceptable.)*
->
-> *(Si te dice que prefiere no hablar de eso: **«claro, perdona»**, y sáltate el bloque entero de la DANA. Ve directo al de empleo. El guion aguanta sin él.)*
+> *(Si dice «no sé»: **«Precisamente cuando ocurre algo que nadie esperaba.»** Y continúa.)*
 
 El 29 de octubre de 2024. La DANA de Valencia.
 
