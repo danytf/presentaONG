@@ -22,15 +22,11 @@ Pero que, probablemente, te recuerde a alguien que sí conoces.
 
 ## 🗣️ Discurso · ~7 minutos
 
-Te lo digo de entrada, para que no haya sorpresas: vengo a buscar socios para Cruz Roja. Pero antes de pedirte nada, déjame contarte por qué.
-
-*(No te saltes esta frase para ganar segundos. Es la que le quita el filo al momento en que aparece la cuota.)*
-
 Te voy a hablar de Pilar.
 
 Pilar lleva un botón colgado al cuello.
 
-Es la teleasistencia.
+**Es la teleasistencia.**
 
 *(Pausa. Deja que se lo imagine antes de explicárselo.)*
 
@@ -48,7 +44,7 @@ Los 365 días del año.
 
 Pilar lleva dieciséis años con ese botón.
 
-Y como ella, hoy, más de 132.000 personas mayores en toda España.
+Y como ella, hoy, **más de 132.000 personas mayores en toda España.**
 
 *(Pausa.)*
 
@@ -58,7 +54,7 @@ Esta noche, mientras tú y yo dormimos, alguien en algún lugar de España va a 
 
 Y al otro lado va a haber una persona despierta.
 
-Preparada para ayudar.
+**Preparada para ayudar.**
 
 *(Pausa larga. No añadas nada.)*
 
