@@ -78,7 +78,7 @@ Y el destino de Javier puede depender de **lo que haga la persona que tiene al l
 
 Porque ante una parada cardíaca, **cada minuto cuenta.**
 
-> «La RCP de un testigo y la desfibrilación en los primeros minutos pueden aumentar sus posibilidades de sobrevivir.»
+**Si alguien le hace una reanimación en los primeros minutos, sus posibilidades de sobrevivir se multiplican.**
 
 > 🔄 **RESPIRO 2**
 >
