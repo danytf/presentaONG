@@ -184,25 +184,23 @@ Y en el **Mediterráneo**, WWF impulsa reservas marinas de interés pesquero y c
 
 La idea es sencilla: **proteger el mar no significa dejar de vivir de él; significa conseguir que podamos seguir haciéndolo en el futuro.**
 
-> 🔄 **RESPIRO 2**
->
-> **Si te fijas, hemos hablado de agua, incendios, clima, animales, contaminación, mar...**
+**Si te fijas, hemos hablado de agua, incendios, clima, animales, contaminación, mar...**
 
 Son problemas diferentes, pero todos tienen algo en común:
 
 **dependemos de la naturaleza mucho más de lo que a veces pensamos.**
 
-Y después de todo esto...
-
+> 🔄 **RESPIRO 2**
+>
 > **«¿Dirías que como sociedad la estamos cuidando lo suficiente?»**
-
-*(Escuchar.)*
-
-**Sí:** «Es cierto que hemos conseguido cosas importantes, pero ahora la cuestión es **cómo conseguimos que esos avances se mantengan en el tiempo**.»
-
-**No:** «Yo también creo que todavía queda mucho por hacer. Y la cuestión es **si estamos dispuestos a cambiar algunas cosas para que eso pueda ser diferente**.»
-
-**Depende:** «Sí. **Hay cosas que estamos haciendo bien y otras en las que todavía tenemos mucho margen de mejora.**»
+>
+> *(Escuchar.)*
+>
+> **Sí:** «Es cierto que hemos conseguido cosas importantes, pero ahora la cuestión es **cómo conseguimos que esos avances se mantengan en el tiempo**.»
+>
+> **No:** «Yo también creo que todavía queda mucho por hacer. Y la cuestión es **si estamos dispuestos a cambiar algunas cosas para que eso pueda ser diferente**.»
+>
+> **Depende:** «Sí. **Hay cosas que estamos haciendo bien y otras en las que todavía tenemos mucho margen de mejora.**»
 
 ### 🌍 PORQUE NO SOLO SE TRATA DE NOSOTROS
 
@@ -226,9 +224,9 @@ Se trata de algo mucho más concreto.
 
 Porque **lo que encuentren mañana dependerá, en parte, de lo que decidamos hacer hoy.**
 
-> 🔄 **RESPIRO 3**
+**Y al final, la pregunta es muy sencilla.**
 
-**Y al final, la pregunta es muy sencilla:**
+> 🔄 **RESPIRO 3**
 
 **¿Qué queremos dejarles?**
 

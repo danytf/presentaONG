@@ -135,7 +135,13 @@ function bloques(lines, ctx) {
     // cita
     if (esCita(l)) {
       const buf = [];
-      while (i < lines.length && (esCita(lines[i]) || (buf.length && !lines[i].trim() && esCita(lines[i + 1] || '')))) {
+        while (i < lines.length && (esCita(lines[i]) ||
+            // Se salta una linea en blanco para no partir una cita de varios parrafos, PERO
+            // no si lo que viene detras abre OTRA clase de bloque: un respiro (🔄) o un aviso
+            // (⚠️). Sin esto se fusionaban y el bloque entero se clasificaba por su primera
+            // linea: en WWF, la respuesta de la ruta se comia la caja del RESPIRO 1.
+            (buf.length && !lines[i].trim() && esCita(lines[i + 1] || "") &&
+             !/^\s*>\s*(🔄|⚠️|⚠)/.test(lines[i + 1] || "")))) {
         buf.push(lines[i].replace(/^\s*> ?/, ''));
         i++;
       }
