@@ -154,8 +154,6 @@ Trabaja para conseguir que gobiernos y comunidades autónomas refuercen la preve
 
 Y también nos ayuda a tomar mejores decisiones en algo tan cotidiano como la alimentación. A través de su **Sello de Producto Cardiosaludable,** la Fundación identifica productos que cumplen unos criterios nutricionales establecidos para favorecer una alimentación cardiosaludable.
 
-Y detrás de todo este trabajo **hay miles de socios.**
-
 La investigación tampoco se detiene.
 
 La Fundación es el **brazo social de la Sociedad Española de Cardiología**, que reúne a más de **8.000 profesionales**.
@@ -213,6 +211,8 @@ Personas que deciden que merece la pena prevenir.
 Que merece la pena investigar.
 
 Y que nadie debería estar solo cuando llega un diagnóstico.
+
+**Y detrás de todo esto hay miles de personas que ya lo sostienen.**
 
 *(Pausa.)*
 
