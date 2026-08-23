@@ -47,20 +47,24 @@ const esAcot  = (s) => /^\(.*\)$/.test(limpio(s));
 const esCita  = (s) => /^«/.test(limpio(s));
 const esResp  = (s) => /^🔄/.test(limpio(s));
 // una rama es una instruccion del respiro: «Si dice que no: ...», con o sin negrita
-const esRama  = (s) => /^\*{0,2}Si\b/.test(limpio(s)) || /→/.test(s);
+const esRama  = (s) => /^\*{0,2}Si\b/.test(limpio(s)) || /→/.test(s) ||
+                       /^\*\*[^*]{1,30}:\*\*\s*«/.test(s.trim());
 // un rotulo de bloque: parrafo entero en negrita que empieza por un simbolo
 // (🕗 8:00 · TELEASISTENCIA, 🕸️ LA RED). Son señales de estructura para el
 // captador, no texto hablado: van como ### para que el auditor no los cuente.
 const esSub   = (s) => /^\*\*[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/u.test(s.trim()) &&
                        /\*\*$/.test(s.trim()) && limpio(s).length < 60;
 const esSec   = (s) => /^(🚦|🗣️|🤝)/.test(limpio(s));
-const esTit   = (s) => /^(🎯|🔴|❤️|🧠|🐾|🩹|🩸|🏠|🏡)/.test(limpio(s));
+// El titulo es SIEMPRE el primer parrafo del documento. Antes se adivinaba por el emoji,
+// y eso fallaba en cuanto un guion usaba el mismo emoji para el titulo y para un bloque:
+// en WWF, 🐼 abre el documento Y marca «¿Como intenta WWF cambiar las cosas?».
+const esTit   = (s, i) => i === 0 && !esSec(s);
 
 const out = [];
 for (let i = 0; i < parrafos.length; i++) {
   const l = parrafos[i];
 
-  if (esTit(l)) { out.push('# ' + limpio(l), ''); continue; }
+  if (esTit(l, i)) { out.push('# ' + limpio(l), ''); continue; }
   if (esSec(l)) { out.push('---', '', '## ' + limpio(l), ''); continue; }
 
   if (esResp(l)) {                                   // respiro completo
