@@ -106,7 +106,7 @@ Forma parte del programa PACS de la Fundación.
 
 Le indica dónde está el desfibrilador más cercano y avisa a otros voluntarios de la zona.
 
-**Hoy, Ariadna tiene registrados más de 29.000 desfibriladores y más de 71.000 voluntarios.**
+**Hoy, Ariadna tiene registrados más de 28.000 desfibriladores y más de 9.000 personas formadas y dispuestas a acudir.**
 
 En Galicia y Canarias, el sistema ya está conectado directamente con emergencias.
 
