@@ -114,7 +114,7 @@ Y la **tasa media de inserción laboral fue del 48 %.**
 
 ### 🌆 18:00 · ATENPRO
 
-Por la tarde, la necesidad es diferente.
+Son las seis de la tarde.
 
 **Sara tiene 39 años.**
 
