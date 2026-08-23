@@ -222,7 +222,7 @@ Y hay leucemias que hoy se curan en la mayoría de los casos y otras para las qu
 
 Por eso la investigación no puede detenerse.
 
-Y por eso todo lo que hace la Fundación necesita una red que lo sostenga.
+Y por eso todo lo que hace la Fundación necesita socios que lo sostengan.
 
 *(Pausa.)*
 
