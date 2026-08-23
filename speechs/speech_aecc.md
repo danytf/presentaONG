@@ -232,7 +232,9 @@ En cambio, en el cáncer de páncreas esa misma supervivencia **apenas supera el
 
 *(Pausa.)*
 
-Esa diferencia demuestra lo que puede conseguir la investigación cuando tiene tiempo, recursos y continuidad.
+Ese 85 % es lo que consigue la investigación cuando tiene tiempo, recursos y continuidad.
+
+Cuarenta años de tiempo.
 
 Pero quien reciba un diagnóstico de cáncer de páncreas la semana que viene no tiene cuarenta años para esperar.
 
