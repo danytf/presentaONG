@@ -186,11 +186,11 @@ Cuando Lucía cumple 18 años, empieza a tomar decisiones sobre su propia vida.
 
 A partir de los 18, Aldeas **sigue acompañando** a los que salen: vivienda, estudios, dinero, orientación laboral o apoyo emocional.
 
-**En 2025 acompañó así a 1.141 jóvenes.**
-
 Y el acompañamiento tampoco tiene por qué terminar cuando un joven alcanza la independencia.
 
 El **Proyecto de Emancipación** mantiene el seguimiento y los apoyos puntuales cuando alguien que pasó por Aldeas vuelve a necesitar ayuda: **económica, psicológica o laboral.**
+
+**En 2025 acompañó así a 1.141 jóvenes.**
 
 > 🔄 **RESPIRO 4**
 >
