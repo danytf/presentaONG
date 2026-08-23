@@ -242,5 +242,5 @@ Y habrá niños, niñas y jóvenes que necesitarán que esa red esté ahí.
 
 *(Silencio absoluto. No rellenes el silencio. Espera a que responda.)*
 
-*(Si pregunta cuánto cuesta, responde según la cuota vigente y la modalidad de captación.)*
+*(Si pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
 
