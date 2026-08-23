@@ -227,10 +227,10 @@ Porque **lo que encuentren mañana dependerá, en parte, de lo que decidamos hac
 **Y al final, la pregunta es muy sencilla.**
 
 > 🔄 **RESPIRO 3**
-
-**¿Qué queremos dejarles?**
-
-*(Pausa. Escuchar, recoger brevemente su respuesta y continuar.)*
+>
+> **«¿Qué queremos dejarles?»**
+>
+> *(Pausa. Escuchar, recoger brevemente su respuesta y continuar.)*
 
 ### 🐼 ¿CÓMO INTENTA WWF CAMBIAR LAS COSAS?
 
