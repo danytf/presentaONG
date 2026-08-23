@@ -182,15 +182,13 @@ Y necesita personas que decidan sostenerla.
 >
 > **Si señala la investigación o el análisis de sangre:** «Sí. Es impresionante lo que puede conseguir la investigación cuando se mantiene durante años.»
 >
-> **Si señala a las familias:** «Sí. Porque mientras buscamos soluciones para el futuro, hay familias que necesitan apoyo hoy.»
+> **Si señala a las familias o el acompañamiento:** «Sí. Porque mientras buscamos soluciones para el futuro, hay familias que necesitan apoyo hoy.»
 >
 > **Si señala a Julián o el Estudio ALFA:** «Sí. Porque demuestra que la investigación también necesita personas dispuestas a participar en ella.»
 >
-> **Si habla del acompañamiento a familias:** «Sí. Porque además de investigar para el futuro, hay personas que necesitan apoyo hoy.»
->
 > **Si dice que no tenía ni idea:** «Es normal. Muchas veces no conocemos todo lo que hay detrás de una enfermedad como esta.»
 >
-> **Si plantea una objeción:«¿Qué es lo que más te frena?»** Escucha, resuelve y vuelve al cierre.
+> **Si plantea una objeción: «¿Qué es lo que más te frena?»** Escucha, resuelve y vuelve al cierre.
 
 ---
 

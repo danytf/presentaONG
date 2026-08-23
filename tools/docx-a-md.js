@@ -33,7 +33,11 @@ for (const p of xml.split(/<w:p[ >]/).slice(1)) {
     if (!txt) continue;
     t += negrita ? `**${txt}**` : txt;
   }
-  t = t.replace(/\*\*\s*\*\*/g, '');
+  t = t.replace(/\*\*\*\*/g, '');            // negrita vacia
+  // Dos tramos de negrita seguidos se funden en uno, PERO conservando el espacio
+  // de en medio: sin esto, «**A:** **B**» acababa como «**A:B**» y desaparecia
+  // el espacio. Paso en FPM con «Si plantea una objecion: «¿Que te frena?»».
+  t = t.replace(/\*\*(\s+)\*\*/g, '$1');
   t = t.replace(/\*\*(\s*)([^*]+?)(\s*)\*\*/g, (m,a,b,c) => a + '**' + b + '**' + c);
   for (const trozo of t.split('\u0000')) if (trozo.trim()) parrafos.push(trozo.trim());
 }
