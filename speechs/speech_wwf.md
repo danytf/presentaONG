@@ -282,7 +282,7 @@ Porque quizá ninguno de nosotros pueda solucionar por sí solo **la crisis ambi
 
 **Pero hace veinticinco años tampoco parecía que se pudiera salvar el lince.**
 
-Pero sí podemos ayudar a que **el trabajo de quienes están intentando solucionarla pueda continuar**.
+Y sí podemos ayudar a que **el trabajo de quienes están intentando solucionarla pueda continuar**.
 
 No solamente podemos decidir lo que construimos.
 
