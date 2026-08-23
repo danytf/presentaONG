@@ -252,8 +252,6 @@ Cuando a Marta le diagnosticaron leucemia, **todo esto ya estaba ahí.**
 
 El REDMO llevaba más de treinta años buscando donantes.
 
-Había personas registradas en España y en todo el mundo.
-
 Los pisos de acogida estaban abiertos.
 
 Había un médico al otro lado cuando sus padres necesitaban una respuesta.
