@@ -62,6 +62,7 @@ const SECCION_INTERNA = /objecion|notas para|autoauditor|puntos de respiro/i;
 function palabrasHabladas(lineas) {
   let n = 0;
   let contando = true;
+  let ramaAbierta = false;
   for (const l of lineas) {
     const t = l.trim();
     if (/^## /.test(t)) contando = !SECCION_INTERNA.test(t);
@@ -73,7 +74,12 @@ function palabrasHabladas(lineas) {
       // instruccion son para el captador
       // las ramas ("Si dice que no: ...", con o sin negrita) son alternativas:
       // solo se dice una, y no siempre, asi que no cuentan para la duracion
+      if (!dentro) continue;   // linea vacia de la cita: no apaga la bandera de rama
       const esRama = /^[*]{0,2}Si\b/.test(dentro) || /^Este respiro/.test(dentro);
+      // una rama puede venir partida en dos lineas: la etiqueta acaba en dos puntos y la
+      // respuesta va debajo. Esa respuesta tampoco se dice siempre.
+      if (esRama && /:\s*[*]{0,2}$/.test(dentro)) { ramaAbierta = true; continue; }
+      if (ramaAbierta) { ramaAbierta = false; continue; }
       if (/^🔄/.test(dentro) || esAcotacion(dentro) || esRama || !dentro) continue;
       n += dentro.replace(/[*_«»"]/g, '').split(/\s+/).filter(Boolean).length;
       continue;

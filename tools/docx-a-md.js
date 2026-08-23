@@ -50,7 +50,7 @@ const esRama  = (s) => /^\*{0,2}Si\b/.test(limpio(s));
 const esSub   = (s) => /^\*\*[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/u.test(s.trim()) &&
                        /\*\*$/.test(s.trim()) && limpio(s).length < 60;
 const esSec   = (s) => /^(🚦|🗣️|🤝)/.test(limpio(s));
-const esTit   = (s) => /^(🎯|🔴|❤️|🧠|🐾|🩹|🩸|🏠)/.test(limpio(s));
+const esTit   = (s) => /^(🎯|🔴|❤️|🧠|🐾|🩹|🩸|🏠|🏡)/.test(limpio(s));
 
 const out = [];
 for (let i = 0; i < parrafos.length; i++) {
