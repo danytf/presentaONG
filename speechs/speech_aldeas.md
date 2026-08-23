@@ -216,7 +216,7 @@ El **Proyecto de Emancipación** mantiene el seguimiento y los apoyos puntuales 
 
 ---
 
-## 🤝 Cierre
+## 🤝 Cierre · ~1 minuto
 
 *(Baja el ritmo. Mira a la persona. Pequeña pausa.)*
 
@@ -230,11 +230,15 @@ Y una red así **tiene que existir antes de que llegue el problema.**
 
 **Esa red la sostienen personas que deciden estar.**
 
+**Y en España ya son casi 250.000.**
+
 Personas como tú y como yo.
 
 Y habrá niños, niñas y jóvenes que necesitarán que esa red esté ahí.
 
 *(Pausa larga. Mira a la persona.)*
+
+**Y ahí es donde entras tú, [su nombre].**
 
 **¿Te animas a formar parte de ella y hacerte socio o socia de Aldeas?**
 
