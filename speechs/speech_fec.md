@@ -158,9 +158,9 @@ Y detrás de todo este trabajo **hay miles de socios.**
 
 La investigación tampoco se detiene.
 
-**La Sociedad Española de Cardiología reúne a más de 8.000 personas,** entre cardiólogos y otros profesionales relacionados con las enfermedades cardiovasculares.
+La Fundación es el **brazo social de la Sociedad Española de Cardiología**, que reúne a más de **8.000 profesionales**.
 
-En 2024 destinó **más de 850.000 euros** a Proyectos, Becas y Premios. Ese año contó **con 25 proyectos y estudios financiados y 3 proyectos propios en activo** que buscan nuevas formas de prevenir y tratar las enfermedades cardiovasculares.
+Y desde ahí se financian **becas y proyectos de investigación**: en 2024, más de **850.000 euros**.
 
 Y cuando una persona ya convive con una enfermedad cardiovascular, tampoco debería enfrentarse sola a ella.
 
