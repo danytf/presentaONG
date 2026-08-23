@@ -1,12 +1,14 @@
 # 🎯 Speech de captación AECC
 
+---
+
 ## 🚦 Parada · 20–25 segundos
 
 Hola, ¿qué tal?
 
 Soy [tu nombre], colaborador de la Asociación Española Contra el Cáncer.
 
-Te he parado un momento porque quiero contarte la historia de Elena. Es una historia basada en situaciones reales que viven muchas personas con cáncer y que nos ayudará a entender por qué el trabajo de la Asociación es tan importante.
+Te he parado un momento porque quiero contarte la historia de Elena, un personaje que representa las vivencias de muchos pacientes con cáncer.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y haz una pequeña pausa. Lo habitual es que la persona te diga el suyo.)*
 
@@ -58,7 +60,7 @@ Pero detrás hay una persona que tiene que seguir viviendo con todo lo que le vi
 >
 > **«¿Tú qué crees que necesita una persona en ese momento, además de atención médica?»**
 >
-> *(Escucha. Deja que responda. Lo habitual es que aparezcan respuestas como «apoyo», «no estar solo», «que le expliquen»…)*
+> *(Escucha. Deja que responda. Lo habitual es que aparezcan respuestas como «apoyo», «no estar solo», «que le expliquen» …)*
 >
 > **«Sí. Exactamente.»**
 >
@@ -74,7 +76,7 @@ Y llamó, sin saber siquiera si alguien iba a cogerlo.
 
 **Le cogieron.**
 
-*(Dilo bajo. Sin adornarlo. Deja que la frase caiga. Si la persona reacciona, dice algo o levanta las cejas, asiente y continúa.)*
+*(Dilo bajo. Sin adornarlo. Deja que la frase caiga.)*
 
 A las cuatro de la mañana, al otro lado había una persona para escucharla.
 
@@ -102,9 +104,9 @@ Porque hay preguntas que no pueden esperar a mañana.
 >
 > **«Entonces ya sabes lo importante que es que exista.»**
 >
-> *(Si cuenta una experiencia personal: para el discurso y escucha. No intentes reconducir inmediatamente la conversación. Esa experiencia es más importante que cualquier frase que tengas preparada.)*
+> *(Si cuenta una experiencia personal: para el discurso y escucha. Esa experiencia es más importante que cualquier frase preparada.)*
 >
-> *(Si te cuenta que alguien murió: «Lo siento.» Y calla. No preguntes de qué ni cómo. Que decida esa persona si seguís.)*
+> *(Si te cuenta que alguien murió: «Lo siento.» Y calla. No preguntes de qué ni cómo.)*
 >
 > *(Si ya es socio: dale las gracias de verdad y déjalo ir. No hay que pedirle nada.)*
 
@@ -146,6 +148,10 @@ La Asociación le ofreció **fisioterapia oncológica** para ayudarla a recupera
 
 Para Elena, recuperar sus manos significaba recuperar también una parte de su vida.
 
+Porque el cáncer no afecta solo a tu salud.
+
+**Te cambia la vida entera.**
+
 Y mientras se recuperaba, una orientadora laboral de la Asociación le explicó qué derechos tenía y cuánto tiempo podía parar.
 
 Y la ayudó a gestionar las prestaciones que podía solicitar.
@@ -154,7 +160,7 @@ Y a Elena, nada de esto le costó un solo euro.
 
 Y lo que le pasó a Elena no es algo excepcional.
 
-**En 2025, la Asociación atendió a 177.000 personas con servicios profesionales y gratuitos.**
+**En 2025, la Asociación atendió a más de 177.000 personas con servicios profesionales y gratuitos.**
 
 > 🔄 **RESPIRO 3**
 >
@@ -188,8 +194,6 @@ Aunque no tengan cáncer.
 
 **La familia.**
 
----
-
 Meses después, el tratamiento funcionó.
 
 Y Elena pudo volver a ponerse al lado de una camilla.
@@ -214,11 +218,15 @@ Y Elena pudo volver a ponerse al lado de una camilla.
 >
 > *(Pausa breve.)*
 
+Pero que Elena haya salido adelante no significa que el problema esté resuelto.
+
+La próxima persona puede tener un cáncer para el que todavía no tengamos una respuesta suficientemente buena.
+
 Por eso, la Asociación apoya **792 proyectos de investigación** que involucran a más de **3.000 investigadores**.
 
-Hace cuarenta años, del cáncer de mama se salvaban **seis de cada diez mujeres**.
+Hace 40 años, el cáncer de mama tenía muchas menos posibilidades de superarse.
 
-Hoy se salvan **casi nueve de cada diez**.
+**Hoy, la supervivencia a cinco años alcanza el 85 %.**
 
 En cambio, la supervivencia del cáncer de páncreas **apenas supera el 10 %**.
 
@@ -232,15 +240,13 @@ Por eso necesitamos que la investigación siga avanzando.
 
 Porque la investigación no empieza el día que alguien recibe un diagnóstico.
 
-Empieza años antes.
+**Empieza años antes.**
 
 Hoy, **más de la mitad** de las personas diagnosticadas de cáncer sobreviven a la enfermedad.
 
 Y la meta es **superar el 70 % de supervivencia en 2030.**
 
 *(Pausa.)*
-
-Y por eso la Asociación necesita socios.
 
 ---
 
@@ -298,4 +304,3 @@ Y ahí es donde entras tú, [su nombre].
 
 *(Si en cualquier momento, aquí o antes, te pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
 
----
