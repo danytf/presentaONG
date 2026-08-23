@@ -108,7 +108,7 @@ Le indica dónde está el desfibrilador más cercano y avisa a otros voluntarios
 
 **Hoy, Ariadna tiene registrados más de 29.000 desfibriladores y más de 71.000 voluntarios.**
 
-En Galicia y Canarias, el sistema ya está conectado directamente con el 061.
+En Galicia y Canarias, el sistema ya está conectado directamente con emergencias.
 
 Cuando alguien llama por una parada cardíaca, **los voluntarios más próximos reciben el aviso.**
 
