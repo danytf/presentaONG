@@ -6,7 +6,9 @@
 
 ¡Hola! ¿Tienes un par de minutos?
 
-Me gustaría contarte la historia de Lucía, **un personaje que reúne las vivencias reales de muchos niños y niñas atendidos por Aldeas Infantiles SOS.**
+**Soy [tu nombre], de Aldeas Infantiles SOS.**
+
+Me gustaría contarte la historia de Lucía, **un personaje que reúne las vivencias reales de muchos niños y niñas atendidos por Aldeas.**
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y haz una pequeña pausa.)*
 
