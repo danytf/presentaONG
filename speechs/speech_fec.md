@@ -102,7 +102,7 @@ Esta vez, Javier tiene suerte.
 
 Una chica que pasaba por allí tiene una app en el móvil: **Ariadna**.
 
-Forma parte del programa PACS de la Fundación Española del Corazón.
+Forma parte del programa PACS de la Fundación.
 
 Le indica dónde está el desfibrilador más cercano y avisa a otros voluntarios de la zona.
 
