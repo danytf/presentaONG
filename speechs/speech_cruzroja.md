@@ -42,7 +42,7 @@ Alguien que le pregunta qué le pasa y **activa la ayuda que necesita.**
 
 Esa mañana, Carmen no tuvo que estar sola esperando.
 
-Cruz Roja lleva más de 30 años trabajando en teleasistencia.
+Cruz Roja lleva más de 35 años trabajando en teleasistencia.
 
 En 2025, **atendió a más de 130.000 personas** a través del servicio de teleasistencia domiciliaria y móvil.
 
