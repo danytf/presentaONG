@@ -75,7 +75,7 @@ function palabrasHabladas(lineas) {
       // las ramas ("Si dice que no: ...", con o sin negrita) son alternativas:
       // solo se dice una, y no siempre, asi que no cuentan para la duracion
       if (!dentro) continue;   // linea vacia de la cita: no apaga la bandera de rama
-      const esRama = /^[*]{0,2}Si\b/.test(dentro) || /^Este respiro/.test(dentro);
+      const esRama = /^[*]{0,2}Si\b/.test(dentro) || /^Este respiro/.test(dentro) || /→/.test(dentro);
       // una rama puede venir partida en dos lineas: la etiqueta acaba en dos puntos y la
       // respuesta va debajo. Esa respuesta tampoco se dice siempre.
       if (esRama && /:\s*[*]{0,2}$/.test(dentro)) { ramaAbierta = true; continue; }

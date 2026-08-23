@@ -43,7 +43,7 @@ const esAcot  = (s) => /^\(.*\)$/.test(limpio(s));
 const esCita  = (s) => /^«/.test(limpio(s));
 const esResp  = (s) => /^🔄/.test(limpio(s));
 // una rama es una instruccion del respiro: «Si dice que no: ...», con o sin negrita
-const esRama  = (s) => /^\*{0,2}Si\b/.test(limpio(s));
+const esRama  = (s) => /^\*{0,2}Si\b/.test(limpio(s)) || /→/.test(s);
 // un rotulo de bloque: parrafo entero en negrita que empieza por un simbolo
 // (🕗 8:00 · TELEASISTENCIA, 🕸️ LA RED). Son señales de estructura para el
 // captador, no texto hablado: van como ### para que el auditor no los cuente.
