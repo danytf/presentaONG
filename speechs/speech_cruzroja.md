@@ -250,3 +250,5 @@ Por eso la respuesta tiene que estar preparada antes.
 
 *(Silencio absoluto. Espera a que responda.)*
 
+*(Si pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
+
