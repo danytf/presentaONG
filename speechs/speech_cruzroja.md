@@ -16,7 +16,7 @@ Te he parado porque quiero contarte cómo es un día cualquiera dentro de Cruz R
 
 ---
 
-## 🗣️ Discurso · ~5 minutos
+## 🗣️ Discurso · ~6 minutos
 
 ### 🕗 8:00 · TELEASISTENCIA
 
