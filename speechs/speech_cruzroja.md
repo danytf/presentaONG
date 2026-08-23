@@ -126,15 +126,17 @@ Porque hay momentos en los que **saber que puedes pedir ayuda también es una fo
 
 **Ahora, protección para Sara.**
 
-### 🌙 POR LA NOCHE · CRUZ ROJA TE ESCUCHA
+### 🌙 20:00 · CRUZ ROJA TE ESCUCHA
 
-Y llega la noche.
+Son las ocho de la tarde.
 
 **Marta tiene 34 años.**
 
 Lleva días preocupada, se siente desbordada y **necesita hablar con alguien.**
 
-Al día siguiente, decide pedir ayuda.
+Lleva días dándole vueltas a llamar.
+
+**Y hoy, por fin, lo hace.**
 
 **Llama al 900 107 917.**
 
