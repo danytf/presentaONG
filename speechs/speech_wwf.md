@@ -282,7 +282,7 @@ Por eso hacen falta **personas investigando, equipos sobre el terreno y proyecto
 
 Y ahora que sabes lo que significa formar parte de este trabajo, quiero volver a lo primero que te he preguntado.
 
-**Me dijiste que lo que más te preocupaba era el agua.**
+**Me dijiste que lo que más te preocupaba era...**
 
 *(Di la preocupación que dijo ella, con su palabra. Si dijo «todo», usa «todo esto».)*
 
