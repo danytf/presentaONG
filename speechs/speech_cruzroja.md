@@ -130,6 +130,8 @@ Ha sufrido violencia de género y **esa tarde recibe de Cruz Roja un dispositivo
 
 Gracias a él, si se encuentra en una situación de peligro, puede **pedir ayuda y facilitar su localización.**
 
+Y funciona igual que el botón de Carmen: **las 24 horas, los 365 días del año.**
+
 **Y esa tarde vuelve a casa sabiendo que puede pedir ayuda.**
 
 Cada año, **28.000 mujeres** son atendidas a través de ATENPRO.
@@ -235,6 +237,8 @@ Personas que hoy todavía no saben que mañana van a necesitar ayuda.
 Por eso la respuesta tiene que estar preparada antes.
 
 **Y eso es exactamente lo que hace un socio.**
+
+**Y en España ya son más de 1.200.000.**
 
 *(Pausa.)*
 
