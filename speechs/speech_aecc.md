@@ -16,7 +16,7 @@ Te he parado un momento porque quiero contarte la historia de Elena, un personaj
 
 ---
 
-## 🗣️ Discurso · ~7 minutos
+## 🗣️ Discurso · ~8 minutos
 
 Elena es fisioterapeuta.
 
