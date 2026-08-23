@@ -12,39 +12,29 @@ Calor, sequía, incendios, contaminación...
 
 Y quería preguntarte algo muy sencillo:
 
-**¿Hay algo que te preocupe especialmente de todo esto?**
-
-*(Escuchar.)*
+> 🔄 **RESPIRO 1**
+>
+> **«¿Hay algo que te preocupe especialmente de todo esto?»**
+>
+> *(Escuchar. La preocupación manda, no la palabra. Si no está claro: «¿qué es lo que más te preocupa de eso?»)*
+>
+> **Si menciona agua:** «Sí. Y además es algo que nos afecta a todos, porque dependemos del agua para vivir, producir alimentos y mantener nuestros ecosistemas.»
+>
+> **Si menciona calor o clima:** «Sí. Y es algo que cada vez notamos más en nuestra vida cotidiana. Ya no hablamos solamente de un problema del futuro.»
+>
+> **Si menciona incendios:** «Sí. Y además un incendio no afecta solamente al bosque: afecta al territorio, a la naturaleza y a las personas que viven en él.»
+>
+> **Si menciona contaminación:** «Sí. Y ahí también influye mucho nuestra forma de producir, consumir y gestionar los recursos.»
+>
+> **Si menciona animales o naturaleza:** «Sí. Y cuando una especie empieza a desaparecer, puede ser una señal de que algo no está funcionando bien en el ecosistema.»
+>
+> **Si responde «todo»:** «Claro. Porque en realidad todas estas cosas están mucho más relacionadas de lo que parece.»
 
 ---
 
 ## 🗣️ Discurso · ~8 minutos
 
-**Si menciona agua**
-
-> «Sí. Y además es algo que nos afecta a todos, porque dependemos del agua para vivir, producir alimentos y mantener nuestros ecosistemas.»
-
-**Si menciona calor o clima**
-
-> «Sí. Y es algo que cada vez notamos más en nuestra vida cotidiana. Ya no hablamos solamente de un problema del futuro.»
-
-**Si menciona incendios**
-
-> «Sí. Y además un incendio no afecta solamente al bosque: afecta al territorio, a la naturaleza y a las personas que viven en él.»
-
-**Si menciona contaminación**
-
-> «Sí. Y ahí también influye mucho nuestra forma de producir, consumir y gestionar los recursos.»
-
-**Si menciona animales o naturaleza**
-
-> «Sí. Y cuando una especie empieza a desaparecer, puede ser una señal de que algo no está funcionando bien en el ecosistema.»
-
-**Si responde «todo»**
-
-> «Claro. Porque en realidad todas estas cosas están mucho más relacionadas de lo que parece.»
-
-> 🔄 **RESPIRO 1**
+> 🔄 **RESPIRO 2**
 >
 > **«¿Crees que aún estamos a tiempo de cambiar las cosas?»**
 >
@@ -190,7 +180,7 @@ Son problemas diferentes, pero todos tienen algo en común:
 
 **dependemos de la naturaleza mucho más de lo que a veces pensamos.**
 
-> 🔄 **RESPIRO 2**
+> 🔄 **RESPIRO 3**
 >
 > **«¿Dirías que como sociedad la estamos cuidando lo suficiente?»**
 >
@@ -226,7 +216,7 @@ Porque **lo que encuentren mañana dependerá, en parte, de lo que decidamos hac
 
 **Y al final, la pregunta es muy sencilla.**
 
-> 🔄 **RESPIRO 3**
+> 🔄 **RESPIRO 4**
 >
 > **«¿Qué queremos dejarles?»**
 >
