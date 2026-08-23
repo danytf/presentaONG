@@ -112,6 +112,14 @@ Y la **tasa media de inserción laboral fue del 48 %.**
 
 **Ahora, una oportunidad a David.**
 
+> 🔄 **RESPIRO 2: «¿Te imaginabas que Cruz Roja hacía todo esto?»**
+>
+> *(Escucha. No rellenes el silencio.)*
+>
+> *(Si dice que no: «Es lo más normal. Lo que se ve son las emergencias.»)*
+>
+> *(Si dice que sí o conoce a alguien de dentro: «Entonces ya sabes de lo que hablo.»)*
+
 ### 🌆 18:00 · ATENPRO
 
 Son las seis de la tarde.
@@ -162,7 +170,7 @@ Y saber que alguien te escucha.
 
 **Cinco personas. Cinco necesidades distintas.**
 
-> 🔄 **RESPIRO 2: «De todo lo que te he contado, ¿hay alguna situación que te haya llamado especialmente la atención?»**
+> 🔄 **RESPIRO 3: «De todo lo que te he contado, ¿hay alguna situación que te haya llamado especialmente la atención?»**
 >
 > *(Escucha. No rellenes el silencio.)*
 >
