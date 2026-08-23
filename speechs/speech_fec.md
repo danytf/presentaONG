@@ -176,7 +176,7 @@ Sin dejar a nadie solo con el diagnóstico.
 
 Nada de esto pasa por casualidad.
 
-Cada cuatro minutos en España muere alguien por una enfermedad cardiovascular.
+Cada cinco minutos en España muere alguien por una enfermedad cardiovascular.
 
 Y hasta un **80% de las muertes cardiovasculares prematuras podrían prevenirse**, según la Organización Mundial de la Salud.
 
