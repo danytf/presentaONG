@@ -128,13 +128,9 @@ Porque proteger a una niña no consiste solamente en darle un lugar donde vivir.
 
 También consiste en acompañarla mientras crece.
 
-Que siga estudiando.
+**Lucía cumple doce años. Después catorce. Después dieciséis.**
 
-Que aprenda a organizar su tiempo y su dinero.
-
-Que vaya adquiriendo las habilidades que necesitará para desenvolverse por sí misma.
-
-Y que empiece a pensar qué quiere hacer con su vida.
+Y cada año trae algo nuevo: los estudios, aprender a organizar su tiempo y su dinero, y empezar a pensar **qué quiere hacer con su vida.**
 
 Por eso, **la preparación para la vida adulta empieza antes de los 18 años.**
 
