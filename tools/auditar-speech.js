@@ -71,7 +71,10 @@ function palabrasHabladas(lineas) {
       const dentro = t.replace(/^>\s?/, '').trim();
       // dentro de un respiro solo se dice la pregunta; el rotulo y la
       // instruccion son para el captador
-      if (/^🔄/.test(dentro) || esAcotacion(dentro) || !dentro) continue;
+      // las ramas ("Si dice que no: ...", con o sin negrita) son alternativas:
+      // solo se dice una, y no siempre, asi que no cuentan para la duracion
+      const esRama = /^[*]{0,2}Si\b/.test(dentro) || /^Este respiro/.test(dentro);
+      if (/^🔄/.test(dentro) || esAcotacion(dentro) || esRama || !dentro) continue;
       n += dentro.replace(/[*_«»"]/g, '').split(/\s+/).filter(Boolean).length;
       continue;
     }

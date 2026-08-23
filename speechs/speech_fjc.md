@@ -1,251 +1,294 @@
-# 🩸 Speech de captación · Fundación Josep Carreras
+# 🩸 SPEECH DE CAPTACIÓN · FUNDACIÓN JOSEP CARRERAS
 
 ---
 
-## 🚦 Parada (15-20 segundos)
+## 🚦 Parada · 15–20 segundos
 
 Hola, ¿me permites un momento?
 
 Soy [tu nombre], colaborador de la Fundación Josep Carreras contra la Leucemia.
 
-Antes de nada, déjame que te cuente la historia de Marta, una niña de seis años a la que le diagnosticaron leucemia.
+Antes de nada, me gustaría contarte la historia de Marta, un personaje que representa las vivencias de muchos pacientes con leucemia.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y calla un segundo: muchos te dirán el suyo.)*
 
-*(Marta es un caso construido. Si preguntan si existe: «No es una persona concreta. Representa el recorrido real de un paciente, y las cifras son reales.» Es una aclaración, no una confesión: dilo y sigue.)*
+*(Marta no es una paciente concreta. Es un personaje construido a partir de situaciones y recorridos reales de pacientes de la Fundación. No presentar su historia como un caso clínico real.)*
 
 ---
 
-## 🗣️ Discurso (~7 minutos)
+## 🗣️ Discurso · ~8 minutos
 
-A los padres de Marta les explican que en su caso la única opción es un trasplante de médula ósea.
+A los padres de Marta les explican que, en su caso, la única opción es un trasplante de médula ósea.
 
 Lo primero que hacen es analizar a toda la familia.
 
 Pero ocurre algo que mucha gente desconoce.
 
-Tres de cada cuatro familias no tienen a nadie totalmente compatible.
+**Tres de cada cuatro familias no tienen a nadie totalmente compatible.**
 
-En la familia de Marta no hay nadie, así que desde ese momento su vida depende de un desconocido.
+En la familia de Marta no hay nadie.
+
+Así que, desde ese momento, su vida depende de encontrar a un desconocido.
 
 > 🔄 **RESPIRO 1**
 >
 > **«¿Conoces a alguien que sea donante de médula?»**
 >
-> *(Dice que no: «Ya. Son muchos más de los que parece, pero no se les ve.»)*
+> *(Escucha y adapta la respuesta.)*
 >
-> *(Dice que él lo es: «Muchas gracias por dar ese paso. Tú ya conoces el principio, pero mucha gente no sabe qué pasa después.»)*
+> **Si dice que no:** «Ya. Son muchos más de los que parece, pero no se les ve.»
 >
-> *(Dice que conoce a alguien apuntado: «Pues es gente así la que le salva la vida a alguien como Marta.»)*
+> **Si dice que él lo es:** «Muchas gracias por dar ese paso. Tú ya conoces el principio, pero mucha gente no sabe qué pasa después.»
 >
-> *(Dice que lo ha vivido de cerca: deja la historia y pregúntale quién fue y cómo está. Sin insistir. Vuelves con «Pues justo esto que te cuento es lo que había detrás de todo aquello». Marta puede esperar; la persona no.)*
+> **Si conoce a alguien:** «Pues es gente así la que puede salvarle la vida a alguien como Marta.»
 >
-> *(Dice que murió: no lo enlaces con Marta. «Lo siento.» Y calla: que decida esa persona si seguís.)*
+> **Si lo ha vivido de cerca:** deja la historia y escucha. Pregunta quién fue y cómo está. Marta puede esperar; la persona no.
 >
-> *(Te lo devuelve con un «¿y tú?»: contéstalo en una frase y sigue. Si lo eres, dilo y no lo desarrolles. Si no, dilo sin excusarte y con tus palabras.)*
+> **Si te cuenta que alguien murió:** «Lo siento.» Y calla. Que decida esa persona si quiere continuar.
 >
-> *(Si te preguntan cómo se dona o si duele: contesta corto y vuelve a Marta. No lleves tú la conversación a la donación, que buscas socios. La médula ósea no tiene nada que ver con la espinal. Ser compatible no es tener el mismo grupo sanguíneo: es un marcador genético que se hereda, y por eso se mira primero a la familia. El 88 % de las donaciones son del brazo y sin cirugía; el resto por la cadera, con anestesia. Eso del brazo se llama aféresis: no digas tú la palabra, solo si la trae él. Apuntarse es gratis: 900 32 33 34.)*
+> **Si pregunta por ti:** contesta en una frase y vuelve a Marta.
 >
-> *(Si sacan el haploidéntico o el cordón umbilical: «Sí, hay otras vías, y para algunos pacientes son la mejor.» El cordón también se busca desde el REDMO; el haploidéntico lo decide el hospital. Dales la razón y retoma la historia: no discutas de medicina.)*
+> *(Si pregunta cómo se dona o si duele, responde brevemente y vuelve a la historia. No conviertas el respiro en una conversación sobre donación: buscamos socios.)*
 
-Y ahí entra el REDMO: el Registro Español de Donantes de Médula Ósea.
+Y ahí entra el **REDMO: el Registro Español de Donantes de Médula Ósea.**
 
-Un registro de personas que un día decidieron dar el paso de donar. Medio millón solo en España. Y está conectado con todos los registros del mundo.
+Un registro de personas que un día decidieron dar el paso de donar.
 
-Lo creó la Fundación en 1991, después de que el tenor Josep Carreras tuviera leucemia.
+**Medio millón solo en España.**
+
+Y conectado con los registros de todo el mundo.
+
+La Fundación lo creó en **1991**, después de que el tenor Josep Carreras tuviera leucemia.
 
 Antes de eso, una familia como la de Marta no tenía dónde buscar.
 
-*(Si preguntan por él: «Sí, el tenor. Tuvo leucemia, se curó y montó esto.» Dos frases y para ahí: la historia que estás contando es la de ella, no la suya.)*
+Hoy, el REDMO sigue gestionándose por encargo del Ministerio de Sanidad.
 
-Y a día de hoy lo sigue gestionando por encargo del Ministerio de Sanidad.
-
-Ese registro es la única posibilidad de encontrar a una persona que pueda salvar a Marta.
+Y ese registro es el que permite buscar a alguien compatible para Marta.
 
 *(Pausa. Baja la voz.)*
 
-Y veintisiete días después aparece.
+**Y veintisiete días después aparece.**
 
-El REDMO encuentra a alguien compatible con ella. Está en otro país.
+El REDMO encuentra a alguien compatible con ella.
 
-*(Para un segundo. Es la primera buena noticia de la historia y mucha gente reacciona aquí. Si dice algo o levanta las cejas, asiente y sigue. No lo pises.)*
+Está en otro país.
 
-Entonces empieza una carrera contrarreloj.
+*(Pausa. Es la primera buena noticia de la historia. Deja que la persona la reciba.)*
 
-*(Sube el ritmo. Esto se cuenta rápido, como lo que es: una carrera.)*
+Pero encontrar al donante es solo el principio.
+
+Ahora empieza una carrera contrarreloj.
 
 Las células del donante, las que fabrican la sangre, no pueden viajar como un paquete cualquiera.
 
 Y no pueden pasar más de tres días desde que se extraen hasta que entran en el cuerpo de Marta.
 
-Por eso las lleva un mensajero médico especializado. Su trabajo es subir al avión con el contenedor encima y no soltarlo hasta el hospital.
+Por eso las lleva un mensajero médico especializado.
 
-Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente a doce vueltas al mundo.
+Su trabajo es subir al avión con el contenedor encima y no soltarlo hasta el hospital.
+
+Para que te hagas una idea, cada semana estos mensajeros recorren el equivalente a **doce vueltas al mundo**.
 
 Las células llegan a tiempo.
 
 *(Pausa.)*
 
-Marta nunca sabrá quién fue su donante. Y esa persona nunca sabrá a quién ha salvado.
+Marta nunca sabrá quién fue su donante.
+
+Y esa persona nunca sabrá a quién ha salvado.
 
 Y que se encuentren no es cuestión de suerte.
 
-Lo hacen posible más de cuarenta millones de personas registradas en todo el mundo.
+Lo hace posible una red internacional con **más de cuarenta millones de personas registradas** en todo el mundo.
 
 ¿Sabes qué es lo que más me impresiona?
 
-*(Espera. Te va a decir «¿qué?» o va a levantar las cejas. Ahí lo tienes escuchando otra vez.)*
+*(Espera. Si pregunta «¿qué?» o reacciona, ahí tienes de nuevo su atención.)*
 
-De esos cuarenta millones, un paciente que encuentra donante suele tener solo dos personas compatibles. Encontrar a esas dos entre cuarenta millones es el trabajo del REDMO, todos los días.
+De esos cuarenta millones, un paciente que encuentra donante suele tener solo **dos personas compatibles**.
 
-*(Pausa.)*
+Encontrar a esas dos entre cuarenta millones es el trabajo del REDMO, todos los días.
 
-Gracias a esa red internacional, más de **ocho de cada diez pacientes** encuentran a su donante.
+Gracias a esa red internacional, **más de ocho de cada diez pacientes encuentran a su donante.**
 
-El REDMO abre casi cuatro búsquedas nuevas cada día. Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
+El REDMO abre casi **cuatro búsquedas nuevas cada día**.
 
-Y como imaginarás, todo esto cuesta mucho dinero.
+Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
+
+Y todo esto necesita recursos.
 
 El Estado financia una parte.
 
-La Fundación pone la otra, para que el registro no deje de funcionar ni un día.
+La Fundación pone la otra para que el registro pueda seguir funcionando.
 
 > 🔄 **RESPIRO 2**
 >
 > **«¿Tú habías oído hablar del REDMO?»**
 >
-> *(Dice que no: «Es lo normal. Y es el único que hay en España.»)*
+> *(Escucha.)*
 >
-> *(Dice que sí: «¿Y de qué te sonaba?» Si detrás hay una historia, escúchala; si solo le sonaba el nombre, sigue.)*
+> **Si dice que no:** «Es lo normal. Y es el único registro de este tipo que hay en España.»
 >
-> *(Si te cuentan que lo suyo tardó meses: «Los veintisiete días son hasta encontrarlo. Después vienen las pruebas de confirmación y la preparación, y eso suma semanas.» No es un contraejemplo, es lo normal: dales la razón.)*
+> **Si dice que sí:** «¿Y de qué te sonaba?» (Si hay una historia detrás, escucha.)
+>
+> *(Si cuenta que su búsqueda tardó meses, no lo contradigas: los 27 días son hasta encontrar un posible donante; después vienen las pruebas de confirmación y la preparación.)*
 
-Pero encontrar un donante solo es el primer paso.
+Pero encontrar un donante no resuelve todo.
 
-El hospital donde la tratan está a cientos de kilómetros de su casa. Y su madre se va con ella.
+El hospital donde tratan a Marta está a cientos de kilómetros de su casa.
 
-Y eso, además del miedo, es dinero.
+Y su madre se va con ella.
 
-Una habitación de hotel en Barcelona cuesta de media **183 euros la noche**. Marta va a pasar allí **más de cien noches**.
+Y eso, además del miedo, supone un problema muy real:
+
+**¿Dónde duerme una familia cuando el tratamiento está a cientos de kilómetros de casa?**
+
+Una habitación de hotel en Barcelona cuesta de media **183 euros la noche**.
+
+Marta va a pasar allí **más de cien noches**.
 
 > 🔄 **RESPIRO 3**
 >
 > **«¿Cuánta gente crees que puede permitirse eso?»**
 >
-> *(Deja que conteste. Casi todos dicen «poca» o «nadie», y esa respuesta es la que hace que el piso de acogida deje de sonar a una prestación más. No contestes tú: lo que viene ya es la respuesta.)*
->
-> *(No lo lleves a su bolsillo: no le preguntes si él podría, y si es él quien lo lleva ahí, déjalo pasar.)*
->
-> *(Pregunta si no lo cubre la sanidad pública: «El tratamiento sí. Dónde duerme la familia esos meses, no.» Y sigue: no te metas en qué ayudas hay, que cambian según la comunidad.)*
+> *(Deja que conteste. No respondas tú.)*
 
 Marta y su madre no tienen que pagarlo.
 
-Duermen gratis en un piso al lado del Hospital Vall d'Hebron. La Fundación tiene ocho pisos abiertos en Barcelona, cerca de los hospitales de referencia. El año pasado durmieron en ellos cuarenta y una familias, llegadas de toda España.
+Duermen gratis en un piso cerca del Hospital Vall d'Hebron.
 
-*(Si te dicen que eso en su ciudad no sirve: entre esas cuarenta y una hay familias de Sevilla, Asturias, Almería o Tenerife. Di la que te pille más cerca.)*
+La Fundación tiene **ocho pisos abiertos en Barcelona**, cerca de los hospitales de referencia.
 
-*(Si le parecen pocas: son ocho pisos, cada familia se queda meses y están llenos casi todo el año. Y no son para todos los que buscan donante en España: son para los que tienen que venirse a Barcelona. No prometas que va a haber más.)*
-
-*(Pausa.)*
-
-Y hay algo más.
-
-Cada vez que sus padres no comprenden algo, tienen a quién preguntar.
-
-Porque nadie sale de una consulta de oncología entendiendo ni la mitad de lo que le han dicho.
-
-*(Aquí te van a cortar, y te interesa. Si te cuenta lo suyo, para y escúchalo entero. Vuelves con «Pues imagínate eso mismo, pero con una hija de seis años».)*
-
-La Fundación tiene un equipo dedicado solo a eso: escribes cuando te surge la duda y **te contesta un médico**.
+El año pasado durmieron en ellos **41 familias** llegadas de toda España.
 
 *(Pausa.)*
 
-Marta salió adelante.
+Pero hay otra cosa que una familia necesita cuando recibe un diagnóstico así.
 
-*(Aquí casi todos sueltan un «menos mal». Déjaselo decir, asiente, y entra con lo siguiente sin dejar hueco. Si no dice nada, no lo rellenes tú.)*
+**Respuestas.**
+
+Porque nadie sale de una consulta de oncología entendiendo todo lo que le acaban de explicar.
+
+Y cuando después, ya en casa, aparece una duda...
+
+¿A quién preguntas?
+
+La Fundación tiene un equipo dedicado a eso.
+
+Escribes cuando te surge la duda y **te contesta un médico.**
+
+*(Pausa.)*
+
+Porque cuando tienes una hija de seis años con leucemia, necesitas algo más que un tratamiento.
+
+Necesitas saber qué está pasando.
+
+Necesitas saber qué viene después.
+
+Y necesitas no estar solo.
+
+Marta sale adelante.
+
+*(Pausa. Deja que la persona lo reciba.)*
 
 Pero la próxima Marta puede necesitar un tratamiento que todavía no existe.
 
-No hay una única leucemia: hay decenas de tipos, y no todos se tratan igual. En el de Marta, el trasplante funciona.
+Porque no hay una única leucemia.
 
-Y eso lo sabemos porque alguien investigó ese tipo durante años.
+Hay muchos tipos y no todos se comportan igual.
 
-*(Pausa.)*
+En el caso de Marta, el trasplante funciona.
 
-Por eso la Fundación, junto a la Generalitat, creó en 2010 el Instituto Josep Carreras. Fue **el primer centro de investigación de Europa centrado en la leucemia y otros cánceres de la sangre**.
+Y eso lo sabemos porque alguien investigó ese tipo de leucemia durante años.
 
-Allí hay cientos de personas buscando hoy lo que curará a los pacientes de dentro de diez años.
+Por eso la Fundación, junto a la Generalitat, creó en **2010 el Instituto Josep Carreras**.
 
-Porque esto no está ganado.
+Fue el **primer centro de investigación de Europa centrado en la leucemia y otros cánceres de la sangre**.
+
+Allí hay cientos de personas investigando hoy para encontrar lo que necesitarán los pacientes de mañana.
+
+Porque esto todavía no está ganado.
 
 **Todavía hay pacientes que se quedan sin donante.**
 
-Y hay leucemias que hoy se curan en la mayoría de los casos, y otras para las que todavía no tenemos una cura.
+Y hay leucemias que hoy se curan en la mayoría de los casos y otras para las que todavía no tenemos una cura.
 
-Todo lo que hace la Fundación lo sostienen sus socios.
+Por eso la investigación no puede detenerse.
+
+Y por eso todo lo que hace la Fundación necesita una red que lo sostenga.
 
 *(Pausa.)*
 
-Hasta que la curemos, no pararemos.
+**Hasta que la curemos, no pararemos.**
 
 > 🔄 **RESPIRO 4**
 >
 > **«De todo lo que te he contado, ¿hay algo que te haya sorprendido?»**
 >
-> *(Casi siempre dicen que sí. Si no concreta, pregúntale el qué: lo que te conteste es por donde tienes que apretar en el cierre, que viene justo después.)*
+> *(Escucha.)*
 >
-> *(Si dice que no, no insistas: el cierre no depende de su respuesta. Y si lo que suelta es una duda, no la resuelvas aquí: este respiro es para recoger, no para despejar dudas. Cierras primero y luego habláis.)*
+> Si concreta algo, úsalo después en el cierre.
 >
-> *(Si te dice que no sabía que todo esto lo hace una sola fundación, no lo desarrolles: eso vuelve al final y quieres que le caiga entonces.)*
+> Si no concreta, no fuerces la conversación.
 >
-> *(Es el último antes del cierre: córtalo tú, no esperes a que se alargue.)*
+> Si plantea una duda, recógela y resuélvela después del cierre.
+>
+> Este respiro no es para explicar más. Es para saber qué le ha llegado.
 
 ---
 
 ## 🤝 Cierre
 
-*(Baja el ritmo. Mira a la persona. Haz una pequeña pausa.)*
+*(Baja el ritmo. Mira a la persona. Pequeña pausa.)*
 
-Cuando a Marta le diagnosticaron leucemia, todo esto ya estaba ahí.
+Cuando a Marta le diagnosticaron leucemia, **todo esto ya estaba ahí.**
 
-El REDMO llevaba más de treinta años funcionando, y cada semana alguien cruzaba el mundo con un contenedor en la mano.
+El REDMO llevaba más de treinta años buscando donantes.
+
+Había personas registradas en España y en todo el mundo.
 
 Los pisos de acogida estaban abiertos.
 
-Había alguien a quien preguntar cuando sus padres no entendían algo.
+Había un médico al otro lado cuando sus padres necesitaban una respuesta.
 
-Y cientos de personas investigando desde mucho antes de que ella enfermara.
+Y cientos de personas investigando desde mucho antes de que Marta enfermara.
 
 *(Pausa.)*
 
-Cuatro cosas distintas, y detrás de todas la misma Fundación.
+Cuatro cosas distintas.
 
-Pero todo eso existe porque más de 150.000 personas decidieron hacerse socias.
+**Y detrás de todas, la misma Fundación.**
+
+Pero nada de eso aparece el día que una familia recibe un diagnóstico.
+
+**Hay que haberlo construido antes.**
+
+Y eso es lo que hacen más de **150.000 socios**.
 
 Personas que, como el donante de Marta, nunca sabrán a quién han ayudado.
 
-*(Si en el primer respiro te dijo que es donante o que conoce a uno, esta frase es suya y hay que dársela: «Tú ya hiciste esto una vez, por alguien a quien no vas a conocer.»)*
+*(Pausa larga.)*
 
-Y aun así lo hicieron.
+Ninguno de ellos sabía que Marta iba a existir.
 
-*(Pausa larga. Sostén la mirada.)*
+Pero decidieron que, cuando llegara alguien como ella, **todo estuviera preparado.**
 
-*(Aquí se cobra lo que te haya contado. Si te dijo qué le sorprendió, cuélgalo de esto en una frase. Si te dijo su nombre, dilo. No para que le cueste decir que no: para que se note que le has escuchado.)*
+*(Mira a la persona.)*
 
-Hoy tú también puedes hacer que todo esto siga ahí esperando a la próxima Marta.
+Y hoy tú también puedes hacer que todo esto siga ahí esperando a la próxima Marta.
 
 Para que encuentre a su donante.
 
-Para que existan tratamientos que hoy no existen.
+Para que existan tratamientos que hoy todavía no existen.
 
-Y para que ninguna familia pase por esto sola.
+Y para que ninguna familia tenga que pasar por esto sola.
 
 *(Silencio de dos segundos. Sonríe.)*
 
 **¿Te animas a hacerte socio?**
 
-*(Silencio absoluto.)*
+*(Silencio absoluto. Espera a que responda.)*
 
-*(Si en cualquier momento, aquí o antes, te pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
+*(Si pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
 
----

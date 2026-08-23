@@ -42,8 +42,10 @@ const limpio  = (s) => s.replace(/\*\*/g, '').trim();
 const esAcot  = (s) => /^\(.*\)$/.test(limpio(s));
 const esCita  = (s) => /^«/.test(limpio(s));
 const esResp  = (s) => /^🔄/.test(limpio(s));
+// una rama es una instruccion del respiro: «Si dice que no: ...», con o sin negrita
+const esRama  = (s) => /^\*{0,2}Si\b/.test(limpio(s));
 const esSec   = (s) => /^(🚦|🗣️|🤝)/.test(limpio(s));
-const esTit   = (s) => /^(🎯|🔴|❤️|🧠|🐾|🩹|🏠)/.test(limpio(s));
+const esTit   = (s) => /^(🎯|🔴|❤️|🧠|🐾|🩹|🩸|🏠)/.test(limpio(s));
 
 const out = [];
 for (let i = 0; i < parrafos.length; i++) {
@@ -57,8 +59,10 @@ for (let i = 0; i < parrafos.length; i++) {
     let j = i + 1;
     for (; j < parrafos.length; j++) {
       const s = parrafos[j];
-      if (!esAcot(s) && !esCita(s)) break;
-      cuerpo.push('>', '> ' + (esAcot(s) ? '*' + s + '*' : '**' + limpio(s) + '**'));
+      if (esAcot(s))      { cuerpo.push('>', '> *' + s + '*'); continue; }
+      if (esCita(s))      { cuerpo.push('>', '> **' + limpio(s) + '**'); continue; }
+      if (esRama(s))      { cuerpo.push('>', '> ' + s); continue; }
+      break;
     }
     i = j - 1;
     out.push(...cuerpo, '');
