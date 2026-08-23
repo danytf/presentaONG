@@ -112,7 +112,7 @@ Y la **tasa media de inserción laboral fue del 48 %.**
 
 **Ahora, una oportunidad a David.**
 
-### 🌆 POR LA TARDE · ATENPRO
+### 🌆 18:00 · ATENPRO
 
 Por la tarde, la necesidad es diferente.
 
@@ -122,7 +122,7 @@ Ha sufrido violencia de género y **esa tarde recibe de Cruz Roja un dispositivo
 
 Gracias a él, si se encuentra en una situación de peligro, puede **pedir ayuda y facilitar su localización.**
 
-**Y esa noche duerme sabiendo que puede pedir ayuda.**
+**Y esa tarde vuelve a casa sabiendo que puede pedir ayuda.**
 
 En 2025, **más de 28.000 mujeres** estuvieron atendidas a través de ATENPRO.
 
@@ -134,7 +134,7 @@ Porque hay momentos en los que **saber que puedes pedir ayuda también es una fo
 
 ### 🌙 20:00 · CRUZ ROJA TE ESCUCHA
 
-Son las ocho de la tarde.
+Son las ocho de la noche.
 
 **Marta tiene 34 años.**
 
