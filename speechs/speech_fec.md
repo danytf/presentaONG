@@ -114,6 +114,10 @@ Cuando alguien llama por una parada cardíaca, **los voluntarios más próximos 
 
 **Javier sobrevive.**
 
+**Pero salir del hospital no es volver a la vida de antes.**
+
+Sale con una enfermedad cardiovascular, medicación y muchas preguntas.
+
 Pero que Javier sobreviva no significa que todos tengamos las mismas oportunidades frente a una enfermedad cardiovascular.
 
 Ni de ser diagnosticados a tiempo.
@@ -167,6 +171,8 @@ Acompañando.
 Informando.
 
 Sin dejar a nadie solo con el diagnóstico.
+
+**Tampoco a Javier.**
 
 **Prevenir. Actuar cuando ocurre una emergencia. Investigar para avanzar. Acompañar cuando la enfermedad ya está ahí.**
 
