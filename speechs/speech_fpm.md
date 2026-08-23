@@ -114,6 +114,10 @@ Hasta ahora, para obtener información similar se recurría a pruebas más compl
 
 Hoy, **esta herramienta puede ayudar a detectar el Alzheimer de forma más temprana en personas que ya presentan síntomas**, facilitando el diagnóstico y evitando, en algunos casos, pruebas más complejas.
 
+**Todavía no llega a detectarlo antes de que aparezcan los síntomas.**
+
+**Pero es el primer paso hacia ahí.**
+
 *(Pausa.)*
 
 Y saberlo antes nos da algo que hasta ahora no teníamos: **tiempo para actuar.**
