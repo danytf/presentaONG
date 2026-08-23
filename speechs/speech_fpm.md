@@ -14,6 +14,8 @@ Una decisión que, casi veinte años después, sigue transformando lo que sabemo
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y haz una pequeña pausa.)*
 
+*(Pasqual Maragall y Julián son personas reales y las dos frases entrecomilladas son suyas. No se les atribuyen citas ni datos médicos que no estén verificados. Las cifras proceden de la Fundación Pasqual Maragall y de fuentes oficiales.)*
+
 ---
 
 ## 🗣️ Discurso · ~7 minutos
