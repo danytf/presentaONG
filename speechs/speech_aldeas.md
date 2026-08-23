@@ -36,9 +36,9 @@ Y aquí aparece Aldeas.
 
 Porque cuando una familia necesita ayuda, **llegar a tiempo puede cambiar la historia de un niño.**
 
-A través de sus programas de prevención y fortalecimiento familiar, Aldeas acompaña a niños, niñas y adolescentes en situación de vulnerabilidad y trabaja con sus familias para anticiparse a los riesgos y evitar, cuando es posible, que una situación termine en una separación.
+Aldeas trabaja con la familia **para evitar, siempre que se pueda, que un niño tenga que salir de su casa.**
 
-En 2025, Aldeas **apoyó a 18.329 niños, niñas y adolescentes** a través de sus programas de prevención.
+**En 2025 atendió así a 18.329 niños, niñas y adolescentes.**
 
 Porque cuando una familia consigue recuperar la estabilidad, **un niño puede seguir creciendo con los suyos.**
 
@@ -184,11 +184,9 @@ Cuando Lucía cumple 18 años, empieza a tomar decisiones sobre su propia vida.
 
 **Y no tiene que hacerlo sola.**
 
-A través de sus **Programas de Jóvenes**, Aldeas acompaña a chicos y chicas en su camino hacia la autonomía y la emancipación.
+A partir de los 18, Aldeas **sigue acompañando** a los que salen: vivienda, estudios, dinero, orientación laboral o apoyo emocional.
 
-Eso puede significar apoyo para encontrar una vivienda, continuar los estudios, gestionar su economía, recibir orientación académica y laboral o contar con acompañamiento emocional.
-
-En 2025, Aldeas acompañó a **1.141 jóvenes** a través de sus Programas de Jóvenes.
+**En 2025 acompañó así a 1.141 jóvenes.**
 
 Y el acompañamiento tampoco tiene por qué terminar cuando un joven alcanza la independencia.
 
