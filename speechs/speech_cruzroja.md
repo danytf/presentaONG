@@ -52,7 +52,9 @@ Y detrás de ese botón hay un equipo de profesionales operativo **24 horas al d
 
 Porque cuando estás solo, **es fundamental tener a alguien que responda cuando lo necesitas.**
 
-> 🔄 **RESPIRO 1: «¿Tienes a alguien mayor en tu entorno que viva solo?»**
+> 🔄 **RESPIRO 1**
+>
+> **«¿Tienes a alguien mayor en tu entorno que viva solo?»**
 >
 > *(Escucha. No rellenes el silencio.)*
 >
@@ -112,7 +114,9 @@ Y la **tasa media de inserción laboral fue del 48 %.**
 
 **Ahora, una oportunidad a David.**
 
-> 🔄 **RESPIRO 2: «¿Te imaginabas que Cruz Roja hacía todo esto?»**
+> 🔄 **RESPIRO 2**
+>
+> **«¿Te imaginabas que Cruz Roja hacía todo esto?»**
 >
 > *(Escucha. No rellenes el silencio.)*
 >
@@ -172,7 +176,9 @@ Y saber que alguien te escucha.
 
 **Cinco personas. Cinco necesidades distintas.**
 
-> 🔄 **RESPIRO 3: «De todo lo que te he contado, ¿hay alguna situación que te haya llamado especialmente la atención?»**
+> 🔄 **RESPIRO 3**
+>
+> **«De todo lo que te he contado, ¿hay alguna situación que te haya llamado especialmente la atención?»**
 >
 > *(Escucha. No rellenes el silencio.)*
 >
