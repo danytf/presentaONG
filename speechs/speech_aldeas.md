@@ -26,7 +26,11 @@ A su edad **todavía debería estar pensando en cosas de niños.**
 
 Pero en casa las cosas no están bien.
 
-Su familia está atravesando una situación complicada y poco a poco eso empieza a afectar a la vida de Lucía.
+**Su familia está atravesando una situación complicada.**
+
+**Lucía empieza a faltar al colegio.**
+
+**Y deja de invitar a sus amigas a casa.**
 
 Y aquí aparece Aldeas.
 
