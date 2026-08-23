@@ -132,7 +132,7 @@ Gracias a él, si se encuentra en una situación de peligro, puede **pedir ayuda
 
 **Y esa tarde vuelve a casa sabiendo que puede pedir ayuda.**
 
-En 2025, **más de 28.000 mujeres** fueron atendidas a través de ATENPRO.
+Cada año, **28.000 mujeres** son atendidas a través de ATENPRO.
 
 Porque hay momentos en los que **saber que puedes pedir ayuda también es una forma de protección.**
 
