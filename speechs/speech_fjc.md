@@ -18,6 +18,12 @@ Antes de nada, me gustaría contarte la historia de Marta, un personaje que repr
 
 ## 🗣️ Discurso · ~8 minutos
 
+Marta tiene seis años.
+
+Y acaban de diagnosticarle una leucemia.
+
+*(Pausa.)*
+
 A los padres de Marta les explican que, en su caso, la única opción es un trasplante de médula ósea.
 
 Lo primero que hacen es analizar a toda la familia.
@@ -234,7 +240,7 @@ Y por eso todo lo que hace la Fundación necesita una red que lo sostenga.
 >
 > Si plantea una duda, recógela y resuélvela después del cierre.
 >
-> Este respiro no es para explicar más. Es para saber qué le ha llegado.
+> *(Este respiro no es para explicar más. Es para saber qué le ha llegado.)*
 
 ---
 
