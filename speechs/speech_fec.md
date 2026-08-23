@@ -200,7 +200,9 @@ Y hasta un **80% de las muertes cardiovasculares prematuras podrían prevenirse*
 
 ---
 
-## 🤝 Cierre
+## 🤝 Cierre · ~1 minuto
+
+*(Baja el ritmo. Mira a la persona.)*
 
 Lo más importante es que la diferencia no la hace un ministerio ni un laboratorio.
 
@@ -212,9 +214,19 @@ Que merece la pena investigar.
 
 Y que nadie debería estar solo cuando llega un diagnóstico.
 
-**Para que, cuando el próximo Javier lo necesite, todo esto ya esté preparado.**
+*(Pausa.)*
+
+**Aquel jueves, Javier no eligió lo que le pasó.**
+
+**Pero sí hubo gente que años antes decidió que, cuando le pasara a alguien, hubiera un desfibrilador cerca y alguien sabiendo qué hacer.**
+
+*(Pausa larga.)*
+
+**Y ahí es donde entras tú, [su nombre].**
 
 **¿Te animas a ser socio de la Fundación Española del Corazón?**
 
 *(Silencio absoluto. Espera a que responda.)*
+
+*(Si pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*
 
