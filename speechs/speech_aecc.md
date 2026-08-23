@@ -248,6 +248,8 @@ Y la meta es **superar el 70 % de supervivencia en 2030.**
 
 *(Pausa.)*
 
+Y por eso la Asociación necesita socios.
+
 ---
 
 ## 🤝 Cierre · ~1 minuto
