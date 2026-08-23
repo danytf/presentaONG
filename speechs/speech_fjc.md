@@ -244,7 +244,7 @@ Y por eso todo lo que hace la Fundación necesita socios que lo sostengan.
 
 ---
 
-## 🤝 Cierre
+## 🤝 Cierre · ~1 minuto
 
 *(Baja el ritmo. Mira a la persona. Pequeña pausa.)*
 
