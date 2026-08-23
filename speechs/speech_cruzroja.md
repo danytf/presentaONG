@@ -1,301 +1,226 @@
-# 🩹 Discurso de captación F2F · Cruz Roja
-
-> ⚠️ **Esto no se recita.** Lleva cuatro respiros marcados donde tienes que **parar, preguntar y escuchar**. Debajo de cada uno tienes qué hacer con cada respuesta. Sin eso se convierten en preguntas retóricas, que es peor que no preguntar.
+# 🔴 SPEECH DE CAPTACIÓN · CRUZ ROJA ESPAÑOLA
 
 ---
 
-## 🚦 Parada · 15–20 segundos
+## 🚦 Parada · 20–25 segundos
 
 Hola, ¿qué tal?
 
 Soy [tu nombre], de Cruz Roja.
 
-Te he parado porque quiero contarte el día de una persona que no conoces.
-
-Pero que, probablemente, te recuerde a alguien que sí conoces.
+Te he parado porque quiero contarte cómo es un día cualquiera dentro de Cruz Roja.
 
 *(Contacto visual. Sonrisa. Energía tranquila. Di tu nombre despacio y haz una pequeña pausa. Lo habitual es que la persona te diga el suyo.)*
 
-*(Pilar es un personaje construido a partir de situaciones reales de personas atendidas por Cruz Roja. Las situaciones y los servicios que se mencionan son reales, y las cifras utilizadas proceden de fuentes oficiales.)*
+*(Las personas que aparecen en el relato son representativas y están construidas a partir de situaciones reales de personas atendidas por Cruz Roja. Los servicios y cifras proceden de información oficial.)*
 
 ---
 
-## 🗣️ Discurso · ~7 minutos
+## 🗣️ Discurso · ~5 minutos
 
-Te voy a hablar de Pilar.
+### 🕗 8:00 · TELEASISTENCIA
 
-Pilar lleva un botón colgado al cuello.
+Son las ocho de la mañana.
 
-**Es la teleasistencia.**
+**Carmen tiene 84 años.**
 
-*(Pausa. Deja que se lo imagine antes de explicárselo.)*
+Vive sola.
 
-Tiene 82 años y vive sola.
+Y esa mañana, al levantarse de la cama, **tiene un mareo.**
 
-No tiene hijos.
+No sabe si es algo importante.
 
-Lo usa desde que se levanta hasta que se va a dormir.
+Pero sabe qué hacer.
 
-Ese botón la conecta, en segundos, con una persona de verdad.
+**Pulsa el botón que lleva siempre al cuello.**
 
-Las 24 horas.
-
-Los 365 días del año.
-
-Pilar lleva dieciséis años con ese botón.
-
-Y como ella, hoy, **más de 132.000 personas mayores en toda España.**
+Y al otro lado responde una persona de Cruz Roja.
 
 *(Pausa.)*
 
-Esta noche, mientras tú y yo dormimos, alguien en algún lugar de España va a pulsar el suyo.
+Alguien que le pregunta qué le pasa y **activa la ayuda que necesita.**
 
-*(Baja la voz. Aquí es de noche.)*
+Cruz Roja lleva más de 30 años trabajando en teleasistencia.
 
-Y al otro lado va a haber una persona despierta.
+En 2025, **atendió a más de 130.000 personas** a través del servicio de teleasistencia domiciliaria y móvil.
 
-**Preparada para ayudar.**
+Y detrás de ese botón hay un equipo de profesionales operativo **24 horas al día, 365 días al año.**
 
-*(Pausa larga. No añadas nada.)*
+*(Pausa.)*
 
-> 🔄 **RESPIRO 1**
->
-> **«¿Tú tienes a alguien mayor cerca que viva solo?»**
+Porque cuando estás solo, **es fundamental tener a alguien que responda cuando lo necesitas.**
+
+> 🔄 **RESPIRO 1: «¿Tienes a alguien mayor en tu entorno que viva solo?»**
 >
 > *(Escucha. No rellenes el silencio.)*
 >
-> *(En cuanto nombre a alguien, deja de hablar de «132.000 personas mayores» y habla de esa persona.)*
+> *(Si menciona a alguien, puedes preguntar: «¿Y cómo lo lleva?» y escuchar.)*
 >
-> *(Si dice que sí: pregunta una cosa más: **«¿Y cómo lo lleva?»** Y escucha.)*
+> *(Si responde que no, no fuerces la conversación. Agradece la respuesta y continúa.)*
 >
-> *(Si dice que le preocupa: **«Es justo el miedo que quita ese botón.»**)*
+> *(Si comparte una preocupación, valida brevemente y continúa.)*
 >
-> *(Si dice que no porque vive acompañado o tiene a alguien cerca: **«Pues tiene suerte. Y tú también.»** Y enlaza: **«Hay mucha gente que no tiene a nadie.»**)*
->
-> *(Si te dice que esa persona murió: baja el ritmo. **«Lo siento.»** No utilices el recuerdo para vender. Continúa solo cuando la conversación lo permita.)*
+> *(Si cuenta una experiencia dolorosa o un fallecimiento: «Lo siento.» No utilices el recuerdo para vender.)*
 
-La historia de Pilar no habla solo de ella.
+### 🕙 10:00 · ACOMPAÑAMIENTO HOSPITALARIO
 
-Habla de cualquiera de nosotros.
+Ahora son las diez de la mañana.
 
-Porque a Pilar no le pasó nada extraordinario.
+**Leo tiene 8 años** y está ingresado en el hospital.
 
-Simplemente llegó un momento en el que hacerse mayor cambió las cosas.
+Una voluntaria de Cruz Roja se sienta a su lado.
 
-Estaba sola y, de un día para otro, su vida se volvió más frágil.
+Habla con él.
+
+Juega con él.
+
+**Y durante un rato, puede divertirse y pensar en otra cosa.**
 
 *(Pausa.)*
 
-Y, en realidad, esa vulnerabilidad nos puede llegar a todos.
+Porque a veces acompañar significa **hacer que la estancia sea un poco más llevadera.**
 
-Una caída.
+Durante 2025, este proyecto de Cruz Roja realizó casi **8.000 acompañamientos directos en centros hospitalarios.**
 
-Una enfermedad.
+### 🕛 12:00 · EMPLEO
 
-Perder el trabajo.
+Son las doce del mediodía.
 
-Una riada que se lleva tu casa por delante.
+**David tiene 46 años.**
 
-*(Cuatro cosas, cuatro pausas pequeñas. No las corras.)*
+Lleva meses buscando trabajo pero no lo consigue.
 
-De tener una vida normal a necesitar ayuda hay un día.
-
-*(Pausa de verdad.)*
-
-A veces, una hora.
-
-Por eso existe una red.
-
-La red humanitaria más extensa de España.
-
-Una red que ya está ahí antes de que cualquiera de nosotros la necesite.
-
-En las 52 provincias.
-
-En tu barrio.
-
-En tu ciudad.
-
-Preparada para cuando haga falta.
-
-Porque una red de verdad no se nota cuando todo va bien.
+Con ayuda de Cruz Roja, **ha encontrado una oferta de trabajo y ahora está revisando su currículum y preparando la entrevista.**
 
 *(Pausa.)*
 
-Está ahí cuando la necesitas.
+Porque a veces ayudar es **darle a una persona las herramientas para volver a avanzar por sí misma.**
 
-> 🔄 **RESPIRO 2**
->
-> **«¿Cuándo crees que hace más falta una red de ayuda como esta?»**
->
-> *(Escucha. Deja que responda. No busques una respuesta concreta.)*
->
-> *(Si dice «cuando hay una emergencia», «cuando pasa algo grave» o algo parecido: **«Exacto.»** Y continúa.)*
->
-> *(Si pone un ejemplo personal: escucha y utiliza ese ejemplo para enlazar.)*
->
-> *(Si dice «no sé»: **«Precisamente cuando ocurre algo que nadie esperaba.»** Y continúa.)*
+En 2025, **Cruz Roja atendió a más de 280.000 personas en el ámbito del empleo.**
 
-Porque esta red no solo está para una persona que vive sola.
-
-También tiene que estar preparada cuando, de repente, **miles de personas necesitan ayuda a la vez.**
-
-Una inundación.
-
-Un incendio.
-
-Una emergencia que cambia la vida de una familia en cuestión de horas.
-
-*(Pausas pequeñas.)*
-
-Cuando ocurre algo así, no puedes empezar a construir una red desde cero.
-
-**La red tiene que estar ahí antes.**
-
-Con personas formadas.
-
-Con recursos.
-
-Con equipos de emergencia.
-
-Y con voluntarios listos para salir cuando más falta hace.
-
-Porque cuando llega una emergencia, **no hay tiempo para empezar a organizarse.**
-
-La respuesta tiene que estar en marcha.
+Y la **tasa media de inserción laboral fue del 48 %.**
 
 *(Pausa.)*
 
-Pero hay algo que quizá te sorprenda.
+**Por la mañana, seguridad a Carmen.**
 
-**Esa misma red no trabaja solo cuando ocurre una emergencia.**
+**Después, compañía a Leo.**
 
-Está trabajando todos los días.
+**Ahora, una oportunidad a David.**
 
-Mientras nosotros hacemos nuestra vida normal, hay personas que necesitan ayuda para **encontrar un trabajo, prepararse para una entrevista o volver a empezar después de una situación difícil.**
+### 🌆 POR LA TARDE · ATENPRO
 
-Y esa es otra parte de la red.
+Por la tarde, la necesidad es diferente.
 
-**El empleo.**
+**Sara tiene 39 años.**
 
-Ahora mismo, mientras hablamos, en alguna oficina hay una persona que lleva ocho meses sin trabajo, sentada delante de alguien que le está corrigiendo el currículum.
+Ha sufrido violencia de género y **esa tarde recibe de Cruz Roja un dispositivo de ATENPRO.**
 
-Preparando entrevistas, incluso con un simulador de inteligencia artificial. Y buscando ofertas de verdad.
+Gracias a él, si se encuentra en una situación de peligro, puede **pedir ayuda y facilitar su localización.**
 
-El año pasado pasaron por esos programas más de 280.000 personas. Y casi la mitad encontró empleo.
+En 2025, **más de 28.000 mujeres** estuvieron atendidas a través de ATENPRO.
 
-Es la misma red que la de Pilar.
-
-Y esta noche, la del botón no va a ser la única llamada.
-
-Alguien que no pueda dormir por la ansiedad va a marcar un teléfono gratuito. Y también va a haber alguien esperando esa llamada.
-
-*(Otra vez la voz baja. Es el mismo eco de antes, y se nota.)*
-
-La red de Pilar. La de la riada. La del que busca trabajo. La del que no puede dormir.
-
-*(Las cuatro seguidas, sin prisa.)*
-
-Siempre la misma red.
-
-*(Remate aislado. Cállate y deja que resuene antes de seguir.)*
-
-Y detrás de todo esto no hay magia. Hay más de 230.000 personas voluntarias y más de 1,2 millones de socios y empresas que hacen que llegue a tiempo.
-
-> 🔄 **RESPIRO 3 — la única pregunta de todo el proyecto donde la sospecha del oyente es CIERTA.**
->
-> **«¿Y esto quién crees que lo paga?»**
->
-> *(Esta es la que más confianza construye de todo el guion: no vas a corregirle, vas a darle la razón.)*
->
-> *(Si dice «el Estado» o «subvenciones», que es la respuesta casi universal: **«Pues has dado en el clavo. La mitad, más o menos.»** Confirmárselo antes de matizar vale más que cualquier argumento ensayado.)*
->
-> *(Si dice «donaciones» o «la gente»: **«También, y esa parte es la que de verdad da margen.»** Y vas directo al argumento del dinero flexible.)*
->
-> *(Si dice «ni idea»: **«Te lo cuento con las cartas boca arriba»** y sigues el guion tal cual.)*
->
-> *(Si dice «pues entonces no hago falta yo»: es la objeción real que esta pregunta destapa, y es mejor que salga aquí. **«Al revés: el dinero público está amarrado a programas. El que permite salir corriendo cuando pasa algo es el tuyo.»**)*
-
-Te lo cuento con las cartas boca arriba, porque las cuentas están auditadas por una empresa externa.
-
-La mitad del dinero, más o menos, son subvenciones públicas. Es verdad.
-
-Pero ese dinero viene atado. A un programa concreto. A un convenio firmado. No se puede mover.
-
-Si mañana hay otra riada, ese dinero público no se puede coger y mandar allí. Está amarrado.
-
-El dinero que sí da margen para responder con rapidez cuando surge una emergencia… es el de los socios.
-
-Las cuotas de gente como tú.
-
-Casi siete de cada diez euros de la financiación privada vienen de las cuotas de los socios. Más que la lotería, las rifas y el Sorteo de Oro… juntos.
-
-Eso no lo sostiene un sorteo de un día. Lo sostienes tú, todos los meses.
-
-*(Todo este bloque es un módulo adaptable. Apréndetelo entero, pero en calle léelo según la persona: si ya la ves lista para decidir, condénsalo en una idea —«el dinero público está atado a convenios; tu cuota es el que da margen»— y ve al cierre. No lo sueltes entero por inercia.)*
-
-Y déjame añadir una cosa, porque a veces me la preguntan.
-
-La misma red trabaja en Gaza, en Ucrania, en Sudán.
-
-No toma partido. No opina. No financia a nadie.
-
-Y precisamente por eso puede entrar donde nadie más entra. Y ayudar a las víctimas de todos los lados.
-
-*(Si te lleva al debate político, esta misma frase es la respuesta y no hay otra. No opines, ni para darle la razón ni para quitársela. Y vuelves al guion. Si insiste, no entres: no vas a ganar ese debate y no es tu trabajo.)*
-
-Al final del día… volvemos a Pilar.
-
-A alguien que estaba sola del todo. Y que hoy se acuesta sabiendo que, si pasa algo, hay alguien despierto.
+Porque hay momentos en los que **saber que puedes pedir ayuda también es una forma de protección.**
 
 *(Pausa.)*
 
-> 🔄 **RESPIRO 4 — toma la temperatura antes de pedir.**
->
-> **«¿Cómo lo ves?»**
->
-> *(Tres palabras. No las cambies por «¿te gustaría colaborar?»: eso ya es la petición y va después.)*
->
-> *(Si asiente o dice «me parece bien»: cierra tal cual está escrito.)*
->
-> *(Si empieza con «es que ahora mismo…»: no cierres. **«¿Qué es lo que más te frena?»** Resuélvelo y luego cierra.)*
->
-> *(Si se calla: aguanta el silencio. Que hable primero.)*
->
-> *(Si ya es socio o lo fue: agradécelo de verdad y no le recites el resto. Pregúntale si querría subir la cuota, o por qué la dio de baja. Eso vale más que un alta nueva.)*
+**Ahora, protección para Sara.**
 
----
+### 🌙 POR LA NOCHE · CRUZ ROJA TE ESCUCHA
 
-## 🤝 Cierre · ~1 minuto
+Y llega la noche.
 
-*(Pausa de 1-2 segundos. Baja el ritmo. Mira a la persona.)*
+**Marta tiene 34 años.**
 
-Piensa en esa persona que esta noche va a estar esperando una llamada.
+Lleva días preocupada, se siente desbordada y **necesita hablar con alguien.**
 
-*(Pausa.)*
+Al día siguiente, decide pedir ayuda.
 
-Está ahí porque alguien como tú lleva años haciendo que esté.
+**Llama al 900 107 917.**
+
+Es **Cruz Roja Te Escucha.**
+
+Y al otro lado encuentra a una persona preparada para **escucharla y ofrecerle apoyo.**
 
 *(Pausa larga.)*
 
-Y si el teléfono no suena, nadie le va a dar las gracias por haber estado despierta.
+Porque no siempre necesitas que alguien te dé una solución.
 
-*(Deja que caiga. Es la frase más alta del guion.)*
+A veces necesitas poder decir lo que te pasa.
 
-Eso es ser socio.
+Y saber que alguien te escucha.
 
-Un socio no sostiene una organización.
+*(Pausa larga.)*
 
-Sostiene a esa persona. La noche en que a alguien, a cualquiera, la vida normal se le rompe.
+**Cinco personas. Cinco necesidades distintas.**
+
+> 🔄 **RESPIRO 2: «De todo lo que te he contado, ¿hay alguna situación que te haya llamado especialmente la atención?»**
+>
+> *(Escucha. No rellenes el silencio.)*
+>
+> *(Si señala una situación concreta, escucha qué le ha llegado.)*
+>
+> *(Si cuenta una experiencia personal, prioriza la conversación.)*
+
+### 🕸️ LA RED
+
+**¿Y cómo puede Cruz Roja responder a necesidades tan distintas?**
+
+Porque esto no son simplemente proyectos, **es una gran red de apoyo.**
 
 *(Pausa.)*
 
-Y ahí es donde entras tú, [su nombre].
+Cuando alguien necesita ayuda, no puedes empezar a buscar la solución ese mismo día.
 
-*(Silencio de 2 segundos.)*
+**La red tiene que estar preparada mucho antes.**
 
-**¿Te vienes a esa red?**
+Y para eso hacen falta personas.
+
+**En 2025, más de 220.000 personas formaron parte del voluntariado de Cruz Roja en España.**
+
+Personas que se forman y se preparan durante todo el año para poder responder cuando hace falta.
+
+**Lo hemos visto en emergencias como la pandemia, el volcán de La Palma o los incendios forestales.**
+
+*(Pausa.)*
+
+**Porque cuando llega una emergencia, cada minuto cuenta.**
+
+Pero **también hacen falta recursos.**
+
+*(Pausa.)*
+
+**Y una parte importante de esos recursos procede de las personas que deciden hacerse socias.**
+
+### 🔑 EL SOCIO
+
+**Nadie sabe cuándo puede llegar a necesitar ayuda de Cruz Roja.**
+
+Y Cruz Roja tampoco sabe quién la va a necesitar.
+
+*(Pausa.)*
+
+**Ahí está el papel del socio: ayudar a que esa respuesta exista antes de saber quién la va a necesitar.**
+
+*(Pausa)*
+
+---
+
+## 🤝 CIERRE
+
+**Y terminamos volviendo a las ocho de la mañana.**
+
+Cuando Carmen lo necesitó, **alguien respondió.**
+
+*(Pausa larga.)*
+
+**Eso es lo que queremos: que siempre haya alguien al otro lado.**
+
+*(Pausa.)*
+
+**Ahí es donde entras tú, [su nombre].**
+
+**¿Te animas a hacerte socio de Cruz Roja?**
 
 *(Silencio absoluto. Espera a que responda.)*
 
-*(Si en cualquier momento, aquí o antes, te pregunta cuánto cuesta: «Enseguida lo vemos.» No des una cifra hasta que haya contestado a la pregunta.)*

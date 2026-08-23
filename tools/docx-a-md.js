@@ -28,14 +28,14 @@ for (const p of xml.split(/<w:p[ >]/).slice(1)) {
   for (const r of p.split(/<w:r[ >]/).slice(1)) {
     const props = (r.match(/<w:rPr>([\s\S]*?)<\/w:rPr>/) || [, ''])[1];
     const negrita = /<w:b\/>|<w:b [^>]*\/>/.test(props);
-    let txt = [...r.matchAll(/<w:t(?: [^>]*)?>([\s\S]*?)<\/w:t>/g)].map(m => des(m[1])).join('');
-    txt = txt.replace(/<w:br\/>/g, ' ');
+    let txt = [...r.matchAll(/(<w:br\/>)|<w:t(?: [^>]*)?>([\s\S]*?)<\/w:t>/g)]
+      .map(m => (m[1] ? '\u0000' : des(m[2]))).join('');
     if (!txt) continue;
     t += negrita ? `**${txt}**` : txt;
   }
   t = t.replace(/\*\*\s*\*\*/g, '');
   t = t.replace(/\*\*(\s*)([^*]+?)(\s*)\*\*/g, (m,a,b,c) => a + '**' + b + '**' + c);
-  if (t.trim()) parrafos.push(t.trim());
+  for (const trozo of t.split('\u0000')) if (trozo.trim()) parrafos.push(trozo.trim());
 }
 
 const limpio  = (s) => s.replace(/\*\*/g, '').trim();
@@ -44,6 +44,11 @@ const esCita  = (s) => /^«/.test(limpio(s));
 const esResp  = (s) => /^🔄/.test(limpio(s));
 // una rama es una instruccion del respiro: «Si dice que no: ...», con o sin negrita
 const esRama  = (s) => /^\*{0,2}Si\b/.test(limpio(s));
+// un rotulo de bloque: parrafo entero en negrita que empieza por un simbolo
+// (🕗 8:00 · TELEASISTENCIA, 🕸️ LA RED). Son señales de estructura para el
+// captador, no texto hablado: van como ### para que el auditor no los cuente.
+const esSub   = (s) => /^\*\*[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/u.test(s.trim()) &&
+                       /\*\*$/.test(s.trim()) && limpio(s).length < 60;
 const esSec   = (s) => /^(🚦|🗣️|🤝)/.test(limpio(s));
 const esTit   = (s) => /^(🎯|🔴|❤️|🧠|🐾|🩹|🩸|🏠)/.test(limpio(s));
 
@@ -69,6 +74,7 @@ for (let i = 0; i < parrafos.length; i++) {
     continue;
   }
 
+  if (esSub(l))  { out.push('### ' + limpio(l), ''); continue; }
   if (esAcot(l)) { out.push('*' + l + '*', ''); continue; }
 
   if (esCita(l)) {                                   // bloque de citas seguidas
