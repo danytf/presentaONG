@@ -208,33 +208,39 @@ Pero **también hacen falta recursos.**
 
 **Y una parte importante de esos recursos procede de las personas que deciden hacerse socias.**
 
-### 🔑 EL SOCIO
-
-**Nadie sabe cuándo puede llegar a necesitar ayuda de Cruz Roja.**
-
-Y Cruz Roja tampoco sabe quién la va a necesitar.
-
-*(Pausa.)*
-
-**Ahí está el papel del socio: ayudar a que esa respuesta exista antes de saber quién la va a necesitar.**
-
-*(Pausa.)*
-
 ---
 
 ## 🤝 Cierre · ~1 minuto
 
-**Y terminamos volviendo a las ocho de la mañana.**
+*(Baja el ritmo. Mira a la persona.)*
 
-Cuando Carmen lo necesitó, **alguien respondió.**
+Y terminamos volviendo a las ocho de la mañana.
+
+Cuando Carmen pulsó el botón, **alguien respondió.**
+
+No tuvo que esperar a que nadie se organizara.
+
+*(Pausa.)*
+
+**Mañana volverán a ser las ocho de la mañana.**
+
+Y habrá otra Carmen. Otro Leo. Otro David.
+
+Personas que hoy todavía no saben que mañana van a necesitar ayuda.
 
 *(Pausa larga.)*
 
-**Eso es lo que queremos: que siempre haya alguien al otro lado.**
+**Nadie sabe cuándo le va a tocar. Y Cruz Roja tampoco sabe a quién.**
+
+Por eso la respuesta tiene que estar preparada antes.
+
+**Y eso es exactamente lo que hace un socio.**
 
 *(Pausa.)*
 
 **Ahí es donde entras tú, [su nombre].**
+
+*(Silencio de 2 segundos.)*
 
 **¿Te animas a hacerte socio de Cruz Roja?**
 
