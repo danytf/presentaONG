@@ -190,9 +190,7 @@ A partir de los 18, Aldeas **sigue acompañando** a los que salen: vivienda, est
 
 Y el acompañamiento tampoco tiene por qué terminar cuando un joven alcanza la independencia.
 
-El **Proyecto de Emancipación** permite mantener seguimiento y apoyos puntuales cuando una persona que ha pasado por un programa de Aldeas vuelve a necesitar ayuda. Estos apoyos pueden incluir ayuda económica, psicológica o laboral.
-
-Y Aldeas trabaja para que **el acompañamiento tampoco desaparezca de un día para otro.**
+El **Proyecto de Emancipación** mantiene el seguimiento y los apoyos puntuales cuando alguien que pasó por Aldeas vuelve a necesitar ayuda: **económica, psicológica o laboral.**
 
 > 🔄 **RESPIRO 4**
 >
