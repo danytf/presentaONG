@@ -40,6 +40,8 @@ Y al otro lado responde una persona de Cruz Roja.
 
 Alguien que le pregunta qué le pasa y **activa la ayuda que necesita.**
 
+Esa mañana, Carmen no tuvo que estar sola esperando.
+
 Cruz Roja lleva más de 30 años trabajando en teleasistencia.
 
 En 2025, **atendió a más de 130.000 personas** a través del servicio de teleasistencia domiciliaria y móvil.
@@ -92,6 +94,8 @@ Lleva meses buscando trabajo pero no lo consigue.
 
 Con ayuda de Cruz Roja, **ha encontrado una oferta de trabajo y ahora está revisando su currículum y preparando la entrevista.**
 
+**La semana que viene tiene la entrevista.**
+
 *(Pausa.)*
 
 Porque a veces ayudar es **darle a una persona las herramientas para volver a avanzar por sí misma.**
@@ -117,6 +121,8 @@ Por la tarde, la necesidad es diferente.
 Ha sufrido violencia de género y **esa tarde recibe de Cruz Roja un dispositivo de ATENPRO.**
 
 Gracias a él, si se encuentra en una situación de peligro, puede **pedir ayuda y facilitar su localización.**
+
+**Y esa noche duerme sabiendo que puede pedir ayuda.**
 
 En 2025, **más de 28.000 mujeres** estuvieron atendidas a través de ATENPRO.
 
