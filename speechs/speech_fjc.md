@@ -268,7 +268,7 @@ Pero nada de eso aparece el día que una familia recibe un diagnóstico.
 
 **Hay que haberlo construido antes.**
 
-Y eso es lo que hacen más de **150.000 socios**.
+Y eso es lo que hacen más de **120.000 socios**.
 
 Personas que, como el donante de Marta, nunca sabrán a quién han ayudado.
 
