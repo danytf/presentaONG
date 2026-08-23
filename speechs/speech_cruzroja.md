@@ -132,7 +132,7 @@ Gracias a él, si se encuentra en una situación de peligro, puede **pedir ayuda
 
 **Y esa tarde vuelve a casa sabiendo que puede pedir ayuda.**
 
-En 2025, **más de 28.000 mujeres** estuvieron atendidas a través de ATENPRO.
+En 2025, **más de 28.000 mujeres** fueron atendidas a través de ATENPRO.
 
 Porque hay momentos en los que **saber que puedes pedir ayuda también es una forma de protección.**
 
@@ -152,7 +152,7 @@ Lleva días dándole vueltas a llamar.
 
 **Y hoy, por fin, lo hace.**
 
-**Llama al 900 107 917.**
+**Llama a Cruz Roja Te Escucha.**
 
 Es **Cruz Roja Te Escucha.**
 
@@ -220,11 +220,11 @@ Y Cruz Roja tampoco sabe quién la va a necesitar.
 
 **Ahí está el papel del socio: ayudar a que esa respuesta exista antes de saber quién la va a necesitar.**
 
-*(Pausa)*
+*(Pausa.)*
 
 ---
 
-## 🤝 CIERRE
+## 🤝 Cierre · ~1 minuto
 
 **Y terminamos volviendo a las ocho de la mañana.**
 
