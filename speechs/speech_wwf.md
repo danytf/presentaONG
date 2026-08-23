@@ -280,9 +280,11 @@ Por eso hacen falta **personas investigando, equipos sobre el terreno y proyecto
 
 ## 🤝 Cierre · ~1 minuto
 
-Y ahora que sabes lo que significa formar parte de este trabajo, quiero volver a aquella primera pregunta:
+Y ahora que sabes lo que significa formar parte de este trabajo, quiero volver a lo primero que te he preguntado.
 
-> **«¿Qué podemos hacer nosotros?»**
+**Me dijiste que lo que más te preocupaba era el agua.**
+
+*(Di la preocupación que dijo ella, con su palabra. Si dijo «todo», usa «todo esto».)*
 
 Y después de todo esto creo que hay una respuesta:
 
