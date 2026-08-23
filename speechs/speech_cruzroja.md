@@ -138,9 +138,9 @@ Porque hay momentos en los que **saber que puedes pedir ayuda también es una fo
 
 *(Pausa.)*
 
-### 🌙 20:00 · CRUZ ROJA TE ESCUCHA
+### 🌙 19:30 · CRUZ ROJA TE ESCUCHA
 
-Son las ocho de la noche.
+Son las siete y media de la tarde.
 
 **Nuria tiene 34 años.**
 
