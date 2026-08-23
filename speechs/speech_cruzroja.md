@@ -138,8 +138,6 @@ Porque hay momentos en los que **saber que puedes pedir ayuda también es una fo
 
 *(Pausa.)*
 
-**Ahora, protección para Sara.**
-
 ### 🌙 20:00 · CRUZ ROJA TE ESCUCHA
 
 Son las ocho de la noche.
@@ -168,7 +166,7 @@ Y saber que alguien te escucha.
 
 *(Pausa larga.)*
 
-**Y esta noche, escucha para Nuria.**
+**Y terminamos el día con protección para Sara y escucha para Nuria.**
 
 **Cinco personas. Cinco necesidades distintas.**
 
