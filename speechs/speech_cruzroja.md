@@ -238,11 +238,13 @@ Cuando Carmen pulsó el botón, **alguien respondió.**
 
 No tuvo que esperar a que nadie se organizara.
 
+Aquella mañana no era nada grave. **Pero Carmen no lo sabía. Y no tuvo que averiguarlo sola.**
+
 *(Pausa.)*
 
 **Mañana volverán a ser las ocho de la mañana.**
 
-Y habrá otra Carmen. Otro Leo. Otro David.
+Y habrá otra Carmen, otro Leo, otro David, otra Sara y otra Nuria.
 
 Personas que hoy todavía no saben que mañana van a necesitar ayuda.
 
