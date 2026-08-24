@@ -32,7 +32,7 @@ Y quería preguntarte algo muy sencillo:
 >
 > **🌿 animales** → biodiversidad · especies · deforestación
 >
-> *(3 · Acusa recibo en una frase —«sí, te entiendo», «claro»— y entra directamente. No adelantes contenido: la ruta abre con esa misma idea.)*
+> *(3 · Recoge lo que te ha dicho en una frase —«sí, te entiendo», «claro»— y entra directamente. No adelantes contenido: la ruta abre con esa misma idea.)*
 
 ---
 
