@@ -126,6 +126,36 @@ Y en el **Mediterráneo**, WWF impulsa reservas marinas de interés pesquero y c
 
 La idea es sencilla: **proteger el mar no significa dejar de vivir de él; significa conseguir que podamos seguir haciéndolo en el futuro.**
 
+### 🐾 SI SU PREOCUPACIÓN SON LOS ANIMALES O LA NATURALEZA
+
+Cuando pensamos en animales amenazados, casi todos pensamos en lo mismo: **el tigre, el elefante, el rinoceronte.**
+
+Y con razón: **cada año se matan unos 30.000 elefantes** para comerciar con sus partes.
+
+WWF trabaja con los tres: en los países donde viven y contra las redes que trafican con ellos.
+
+Y con el tigre se está viendo el resultado.
+
+**En 2010 quedaban menos de 3.200 en libertad. Hoy son más de 5.500.**
+
+**Es la primera vez en un siglo que suben.**
+
+*(Pausa.)*
+
+Pero para ver una especie desaparecer no hace falta irse tan lejos.
+
+**El mamífero más amenazado de Europa vive en España.**
+
+Se llama visón europeo. En el año 2000 quedaban unos mil. **Hoy quedan 142.**
+
+Y lo que lo está matando no es la caza: es **otro visón**, el americano, que se escapó de las granjas peleteras y le ha ganado el río.
+
+Aquí no hay que descubrir nada. **Se sabe qué lo mata y se sabe cómo pararlo.**
+
+Por eso WWF lleva años reclamando el cierre de esas granjas.
+
+La idea es sencilla: **cuando alguien sostiene el trabajo el tiempo suficiente, las cosas cambian. Con el tigre ha pasado. Con el visón todavía no.**
+
 > 🔄 **RESPIRO 2**
 >
 > **«¿Crees que aún estamos a tiempo de cambiar las cosas?»**
