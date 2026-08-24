@@ -332,7 +332,7 @@ No es una organización que dependa de un gobierno ni de una empresa. **Depende 
 
 Por eso, hoy te propongo que tú también formes parte de este trabajo.
 
-**¿Te animas a hacerte socio/a de WWF?**
+**¿Te animas a hacerte socio de WWF?**
 
 *(Silencio absoluto. Esperar respuesta.)*
 

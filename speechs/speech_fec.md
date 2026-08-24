@@ -224,7 +224,7 @@ Y que nadie debería estar solo cuando llega un diagnóstico.
 
 **Y ahí es donde entras tú, [su nombre].**
 
-**¿Te animas a ser socio de la Fundación Española del Corazón?**
+**¿Te animas a hacerte socio de la Fundación?**
 
 *(Silencio absoluto. Espera a que responda.)*
 

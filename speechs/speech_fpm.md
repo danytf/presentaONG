@@ -224,7 +224,7 @@ Y eso es precisamente lo que hizo Maragall en 2007:
 
 Hoy tú también puedes hacer lo mismo.
 
-**¿Te animas a hacerte socio?**
+**¿Te animas a hacerte socio de la Fundación?**
 
 *(Silencio absoluto. Espera a que responda.)*
 

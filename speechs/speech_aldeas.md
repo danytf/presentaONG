@@ -236,7 +236,7 @@ Y habrá niños, niñas y jóvenes que necesitarán que esa red esté ahí.
 
 **Y ahí es donde entras tú, [su nombre].**
 
-**¿Te animas a formar parte de ella y hacerte socio o socia de Aldeas?**
+**¿Te animas a hacerte socio de Aldeas?**
 
 *(Silencio absoluto. No rellenes el silencio. Espera a que responda.)*
 

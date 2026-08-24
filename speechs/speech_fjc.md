@@ -290,7 +290,7 @@ Y para que ninguna familia tenga que pasar por esto sola.
 
 *(Silencio de dos segundos. Sonríe.)*
 
-**¿Te animas a hacerte socio?**
+**¿Te animas a hacerte socio de la Fundación?**
 
 *(Silencio absoluto. Espera a que responda.)*
 

@@ -302,7 +302,7 @@ Y ahí es donde entras tú, [su nombre].
 
 *(Silencio de 2 segundos.)*
 
-**¿Te animas a hacerte socio?**
+**¿Te animas a hacerte socio de la Asociación?**
 
 *(Silencio absoluto. Espera a que responda.)*
 
