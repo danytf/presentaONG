@@ -52,9 +52,9 @@ Porque hay una idea muy sencilla detrás:
 
 **Los incendios son algo que este verano hemos vuelto a tener muy presente.**
 
-Hasta **mediados de agosto**, los incendios forestales habían afectado a más de **250.000 hectáreas en España**.
+Este verano los incendios han arrasado **más de un cuarto de millón de hectáreas en España.**
 
-Y hemos visto incendios especialmente graves, como los de **Ávila, Guadalajara o Huelva**, con **decenas de miles de hectáreas afectadas**.
+Y hemos visto incendios especialmente graves, como los de **Ávila, Guadalajara o Huelva**. El de Ávila fue **el más agresivo de la historia de España.**
 
 Pero detrás de esas cifras no hay solamente hectáreas.
 
