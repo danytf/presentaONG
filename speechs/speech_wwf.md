@@ -284,19 +284,25 @@ Porque el trabajo de conservación no empieza cuando aparece el problema.
 
 ### 🔑 Y AQUÍ ENTRA EL SOCIO
 
-**Y precisamente para mantener esta capacidad de actuar durante todo el año, WWF necesita personas que hagan posible ese trabajo.**
+En 1975, un hombre llegó a un pueblo de Segovia y les pidió una cosa rarísima: **que dejaran de matar buitres.**
 
-Porque un incendio no avisa.
+Entonces los buitres eran alimañas. Matarlos estaba bien visto.
 
-Un acuífero no se recupera de un día para otro.
+Se llamaba **Félix Rodríguez de la Fuente**, y aquel acuerdo con los vecinos fue **el primer refugio de este tipo en España.**
 
-Y muchos de estos problemas requieren **años de trabajo para poder cambiar**.
+*(Pausa.)*
 
-Por eso hacen falta **personas investigando, equipos sobre el terreno y proyectos de conservación que puedan mantenerse en el tiempo**.
+**Félix murió cinco años después.**
 
-**Eso es lo que significa ser socio.**
+**Pero el pueblo siguió.**
 
-**Formar parte de las personas que hacen posible que WWF pueda seguir trabajando antes, durante y después de que aparezcan los problemas.**
+Cincuenta años después, allí anidan **857 parejas de buitre leonado.** Es **la mayor colonia de Europa**, y sigue siendo el proyecto más antiguo de WWF.
+
+*(Pausa.)*
+
+**Félix tuvo la idea. Pero quien la ha mantenido en pie medio siglo es gente corriente.**
+
+**Eso es exactamente lo que hace un socio.**
 
 ---
 
