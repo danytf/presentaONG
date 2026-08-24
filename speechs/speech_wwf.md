@@ -128,7 +128,7 @@ Y en el **Mediterráneo**, WWF impulsa reservas marinas de interés pesquero y c
 
 La idea es sencilla: **proteger el mar no significa dejar de vivir de él; significa conseguir que podamos seguir haciéndolo en el futuro.**
 
-### 🐾 SI SU PREOCUPACIÓN SON LOS ANIMALES O LA NATURALEZA
+### 🌿 SI SU PREOCUPACIÓN SON LOS ANIMALES O LA NATURALEZA
 
 Cuando pensamos en animales amenazados, casi todos pensamos en lo mismo: **el tigre, el elefante, el rinoceronte.**
 
@@ -156,7 +156,7 @@ Aquí no hay que descubrir nada. **Se sabe qué lo mata y se sabe cómo pararlo.
 
 Por eso WWF lleva años reclamando el cierre de esas granjas.
 
-La idea es sencilla: **cuando alguien sostiene el trabajo el tiempo suficiente, las cosas cambian. Con el tigre ha pasado. Con el visón todavía no.**
+La idea es sencilla: **con el tigre se ha conseguido. Con el visón está por conseguir.**
 
 > 🔄 **RESPIRO 2**
 >
