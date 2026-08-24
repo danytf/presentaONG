@@ -16,11 +16,23 @@ Y quería preguntarte algo muy sencillo:
 >
 > **«¿Hay algo que te preocupe especialmente de todo esto?»**
 >
-> *(Escuchar. La preocupación manda, no la palabra. Si no está claro: «¿qué es lo que más te preocupa de eso?». Si encaja en varias rutas, concreta antes de elegir.)*
+> *(1 · Escucha. Si no está claro: «¿qué es lo que más te preocupa de eso?»)*
 >
-> *(Acusa recibo en una frase —«sí, te entiendo», «claro»— y entra directamente en la ruta que corresponda. No adelantes contenido: la ruta abre con esa misma idea.)*
+> *(2 · Elige la ruta. Manda la preocupación, no la palabra que use; si encaja en dos, concreta antes de elegir.)*
 >
-> *(agua — sequía · regadío · acuíferos · humedales  |  incendios — prevención · gestión forestal  |  clima — calor · emisiones · aire  |  contaminación — plásticos · basura · vertidos  |  mar — océanos · pesca · fauna marina  |  animales — biodiversidad · especies · deforestación)*
+> **💧 agua** → sequía · regadío · acuíferos · humedales
+>
+> **🔥 incendios** → prevención · gestión forestal
+>
+> **🌡️ clima** → calor · emisiones · aire
+>
+> **🧴 contaminación** → plásticos · basura · vertidos
+>
+> **🌊 mar** → océanos · pesca · fauna marina
+>
+> **🌿 animales** → biodiversidad · especies · deforestación
+>
+> *(3 · Acusa recibo en una frase —«sí, te entiendo», «claro»— y entra directamente. No adelantes contenido: la ruta abre con esa misma idea.)*
 
 ---
 
