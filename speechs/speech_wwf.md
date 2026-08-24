@@ -276,7 +276,7 @@ Además, trabaja junto a **científicos, administraciones, comunidades y sectore
 
 En definitiva: **conocer → actuar → influir → impulsar cambios.**
 
-Y todo esto requiere **tiempo y continuidad**.
+Y nada de eso se consigue rápido: requiere **tiempo y continuidad.**
 
 Porque el trabajo de conservación no empieza cuando aparece el problema.
 
