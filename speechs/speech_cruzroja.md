@@ -132,13 +132,13 @@ Son las seis de la tarde.
 
 Ha sufrido violencia de género y **esa tarde recibe de Cruz Roja un dispositivo de ATENPRO.**
 
-Gracias a él, si se encuentra en una situación de peligro, puede **pedir ayuda y facilitar su localización.**
+Gracias a él, si se encuentra en una situación de peligro, puede **avisar y facilitar su localización.**
 
 Y funciona igual que el botón de Carmen: **las 24 horas, los 365 días del año.**
 
-**Y esa tarde vuelve a casa sabiendo que puede pedir ayuda.**
-
 Cada año, **28.000 mujeres** son atendidas a través de ATENPRO.
+
+**Y esa tarde vuelve a casa sabiendo que puede pedir ayuda.**
 
 Porque hay momentos en los que **saber que puedes pedir ayuda también es una forma de protección.**
 
