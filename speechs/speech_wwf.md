@@ -2,13 +2,13 @@
 
 ---
 
-## 🚦 Parada · 20–25 segundos
+## 🚦 Parada · 25–30 segundos
 
 Hola, buenos días. Soy [NOMBRE], colaborador de WWF.
 
 **Estamos aquí porque hay problemas que cada vez vemos más a nuestro alrededor y que afectan a nuestro día a día.**
 
-Calor, sequía, incendios, contaminación...
+Calor, sequía, incendios, contaminación, el estado del mar, animales que desaparecen...
 
 Y quería preguntarte algo muy sencillo:
 
