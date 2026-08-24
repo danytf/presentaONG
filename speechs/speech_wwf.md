@@ -290,7 +290,7 @@ Por eso hacen falta **personas investigando, equipos sobre el terreno y proyecto
 
 ## 🤝 Cierre · ~1 minuto y medio
 
-Y ahora que sabes lo que significa formar parte de este trabajo, quiero volver a lo primero que te he preguntado.
+Y ahora que sabes cómo trabaja WWF, quiero volver a lo primero que te he preguntado.
 
 **Me dijiste que lo que más te preocupaba era...**
 
@@ -312,9 +312,9 @@ No solamente lo que consumimos.
 
 **También lo que protegemos.**
 
-**Y todo esto lo sostienen sus socios.**
+**Y todo esto lo sostienen los socios de WWF.**
 
-En España son unos cincuenta mil, y con sus cuotas pagan **más de la mitad de todo lo que hace WWF.**
+En España son unos cincuenta mil, y con sus cuotas pagan **más de la mitad de todo lo que acabo de contarte.**
 
 No es una organización que dependa de un gobierno ni de una empresa. **Depende de personas.**
 
