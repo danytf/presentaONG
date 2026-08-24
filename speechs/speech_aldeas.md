@@ -84,6 +84,8 @@ Y llega un momento en la historia de Lucía en el que tiene que dejar su casa.
 
 Con nueve años, se traslada a una **Aldea Infantil SOS de Granada**.
 
+Y no se traslada sola: **su hermano pequeño va con ella.**
+
 Es un cambio enorme.
 
 Deja atrás su casa, su entorno y muchas de las cosas que hasta entonces formaban parte de su día a día.
@@ -104,7 +106,7 @@ Nuevos amigos.
 
 Y tiempo para adaptarse a su nueva vida.
 
-Y hay algo especialmente importante en la forma de trabajar de Aldeas que aún no te he contado:
+Y eso que acabas de oír es una de las cosas más importantes de la forma de trabajar de Aldeas:
 
 **Siempre que sea posible, los hermanos permanecen juntos.**
 
@@ -187,6 +189,8 @@ Y el acompañamiento tampoco tiene por qué terminar cuando un joven alcanza la 
 El **Proyecto de Emancipación** mantiene el seguimiento y los apoyos puntuales cuando alguien que pasó por Aldeas vuelve a necesitar ayuda: **económica, psicológica o laboral.**
 
 **En 2025 acompañó así a 1.141 jóvenes.**
+
+Hoy Lucía tiene veinte años, **estudia un ciclo de formación profesional y comparte piso.**
 
 > 🔄 **RESPIRO 4**
 >
