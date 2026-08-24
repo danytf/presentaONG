@@ -86,7 +86,7 @@ Con nueve años, se traslada a una **Aldea Infantil SOS de Granada**.
 
 Y no se traslada sola: **su hermano pequeño va con ella.**
 
-Es un cambio enorme.
+Para Lucía, todo cambia de golpe.
 
 Deja atrás su casa, su entorno y muchas de las cosas que hasta entonces formaban parte de su día a día.
 
