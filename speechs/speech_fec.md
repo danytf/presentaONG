@@ -16,7 +16,7 @@ Te he parado un momentito porque quiero contarte la historia de Javier, un perso
 
 ---
 
-## 🗣️ Discurso · ~6 minutos
+## 🗣️ Discurso · ~7 minutos
 
 Javier tiene 52 años, dos hijos y una vida que podría ser la de cualquiera de nosotros.
 
@@ -100,9 +100,9 @@ Porque ante una parada cardíaca, **cada minuto cuenta.**
 
 Esta vez, Javier tiene suerte.
 
-Una chica que pasaba por allí tiene una app en el móvil: **Ariadna**.
+Una chica que pasaba por allí lleva **Ariadna** en el móvil, una app del programa PACS de la Fundación.
 
-Forma parte del programa PACS de la Fundación.
+Se la instaló hace dos años, cuando hizo un curso de reanimación. **Nunca había tenido que usarla.**
 
 Le indica dónde está el desfibrilador más cercano y avisa a otros voluntarios de la zona.
 
@@ -170,7 +170,7 @@ Informando.
 
 Sin dejar a nadie solo con el diagnóstico.
 
-**Tampoco a Javier.**
+**Tampoco a Javier:** en una de ellas conoce a otras personas que han pasado por lo mismo, y empieza a entender qué le ha pasado y cómo vivir con ello.
 
 **Prevenir. Actuar cuando ocurre una emergencia. Investigar para avanzar. Acompañar cuando la enfermedad ya está ahí.**
 
