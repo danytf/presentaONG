@@ -296,15 +296,15 @@ Y ahora que sabes cómo trabaja WWF, quiero volver a lo primero que te he pregun
 
 *(Di la preocupación que dijo ella, con su palabra. Si dijo «todo», usa «todo esto».)*
 
-Y después de todo esto creo que hay una respuesta:
+Y creo que hay una respuesta:
 
 **podemos decidir no quedarnos al margen.**
 
-Porque quizá ninguno de nosotros pueda solucionar por sí solo **la crisis ambiental**.
+Porque quizá ninguno de nosotros pueda solucionar por sí solo **todo esto.**
 
 **Pero hace veinticinco años tampoco parecía que se pudiera salvar el lince.**
 
-Y sí podemos ayudar a que **el trabajo de quienes están intentando solucionarla pueda continuar**.
+Y sí podemos ayudar a que **el trabajo de quienes están intentando cambiarlo pueda continuar**.
 
 No solamente podemos decidir lo que construimos.
 
