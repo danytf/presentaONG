@@ -212,7 +212,7 @@ Que merece la pena investigar.
 
 Y que nadie debería estar solo cuando llega un diagnóstico.
 
-**Y detrás de todo esto hay miles de personas que ya lo sostienen.**
+**Y detrás de todo esto hay más de 14.000 socios que ya lo sostienen.**
 
 *(Pausa.)*
 
