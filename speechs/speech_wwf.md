@@ -34,44 +34,6 @@ Y quería preguntarte algo muy sencillo:
 
 ## 🗣️ Discurso · ~8 minutos
 
-> 🔄 **RESPIRO 2**
->
-> **«¿Crees que aún estamos a tiempo de cambiar las cosas?»**
->
-> *(Escuchar.)*
->
-> **Sí:** «Yo también creo que sí. Y hay ejemplos que demuestran que las cosas pueden cambiar.»
->
-> **No:** «Es comprensible pensarlo. Cuando ves la dimensión de algunos problemas, es fácil sentir que ya es demasiado tarde.»
->
-> **No sé:** «Claro. Y precisamente por eso creo que merece la pena ver qué se ha conseguido.»
-
-### 🐾 EL LINCE IBÉRICO
-
-Pero **no todo son malas noticias.**
-
-Por ejemplo, mira el **lince ibérico**.
-
-A principios de los 2000 había **menos de 100 ejemplares censados y estaba al borde de la extinción**.
-
-Pero después de **décadas de trabajo de conservación coordinado**, en 2025 se contabilizaron **2.663 ejemplares entre España y Portugal**.
-
-**WWF ha formado parte de ese esfuerzo de conservación durante décadas, junto con administraciones, científicos y muchas otras personas.**
-
-Esto nos deja un aprendizaje muy importante:
-
-**una situación que parecía casi imposible puede cambiar con esfuerzo y trabajo constante.**
-
-Y eso nos permite mirar los problemas actuales con **algo más de optimismo**.
-
-No solamente pensando:
-
-> **«Qué mal está todo.»**
-
-Sino preguntándonos:
-
-> **«¿Qué podemos hacer para que las cosas sean diferentes?»**
-
 ### 💧 SI SU PREOCUPACIÓN ES EL AGUA
 
 **Todos dependemos del agua.**
@@ -174,7 +136,45 @@ Y en el **Mediterráneo**, WWF impulsa reservas marinas de interés pesquero y c
 
 La idea es sencilla: **proteger el mar no significa dejar de vivir de él; significa conseguir que podamos seguir haciéndolo en el futuro.**
 
-**Si te fijas, hemos hablado de agua, incendios, clima, animales, contaminación, mar...**
+> 🔄 **RESPIRO 2**
+>
+> **«¿Crees que aún estamos a tiempo de cambiar las cosas?»**
+>
+> *(Escuchar.)*
+>
+> **Sí:** «Yo también creo que sí. Y hay ejemplos que demuestran que las cosas pueden cambiar.»
+>
+> **No:** «Es comprensible pensarlo. Cuando ves la dimensión de algunos problemas, es fácil sentir que ya es demasiado tarde.»
+>
+> **No sé:** «Claro. Y precisamente por eso creo que merece la pena ver qué se ha conseguido.»
+
+### 🐾 EL LINCE IBÉRICO
+
+Pero **no todo son malas noticias.**
+
+Por ejemplo, mira el **lince ibérico**.
+
+A principios de los 2000 había **menos de 100 ejemplares censados y estaba al borde de la extinción**.
+
+Pero después de **décadas de trabajo de conservación coordinado**, en 2025 se contabilizaron **2.663 ejemplares entre España y Portugal**.
+
+**WWF ha formado parte de ese esfuerzo de conservación durante décadas, junto con administraciones, científicos y muchas otras personas.**
+
+Esto nos deja un aprendizaje muy importante:
+
+**una situación que parecía casi imposible puede cambiar con esfuerzo y trabajo constante.**
+
+Y eso nos permite mirar los problemas actuales con **algo más de optimismo**.
+
+No solamente pensando:
+
+> **«Qué mal está todo.»**
+
+Sino preguntándonos:
+
+> **«¿Qué podemos hacer para que las cosas sean diferentes?»**
+
+**Te he contado solo una de esas preocupaciones. Con las demás pasa exactamente lo mismo.**
 
 Son problemas diferentes, pero todos tienen algo en común:
 
