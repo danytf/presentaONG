@@ -205,10 +205,6 @@ El **Proyecto de Emancipación** mantiene el seguimiento y los apoyos puntuales 
 > **«Sí. Al final, todo forma parte de la misma red de apoyo.»**
 >
 > *(Pausa y entra en el cierre.)*
->
-> **Si plantea una objeción:**
->
-> *(Primero escucha qué hay realmente detrás. No respondas hasta entenderla.)*
 
 ---
 

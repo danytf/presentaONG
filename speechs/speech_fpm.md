@@ -187,8 +187,6 @@ Y necesita personas que decidan sostenerla.
 > **Si señala a Julián o el Estudio ALFA:** «Sí. Porque demuestra que la investigación también necesita personas dispuestas a participar en ella.»
 >
 > **Si dice que no tenía ni idea:** «Es normal. Muchas veces no conocemos todo lo que hay detrás de una enfermedad como esta.»
->
-> **Si plantea una objeción: «¿Qué es lo que más te frena?»** Escucha, resuelve y vuelve al cierre.
 
 ---
 

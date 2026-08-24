@@ -190,8 +190,6 @@ Y hasta un **80% de las muertes cardiovasculares prematuras podrían prevenirse*
 >
 > **«Me parece muy bien / no tenía ni idea» → «Es lo que le pasa a mucha gente cuando descubre todo lo que hay detrás.» → (Seguir con el cierre.)**
 >
-> **«Sí, pero ahora mismo...» → «¿Qué es lo que más te frena?» → (Escuchar. Resolver la objeción. Volver al cierre.)**
->
 > **«No sé / tengo que pensarlo» → «Claro. ¿Qué es lo que más dudas te genera?»**
 >
 > **Silencio / duda** → (No rescatar. Aguantar el silencio y dejar que responda.)
