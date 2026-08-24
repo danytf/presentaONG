@@ -16,9 +16,11 @@ Y quería preguntarte algo muy sencillo:
 >
 > **«¿Hay algo que te preocupe especialmente de todo esto?»**
 >
-> *(Escuchar. La preocupación manda, no la palabra. Si no está claro: «¿qué es lo que más te preocupa de eso?»)*
+> *(Escuchar. La preocupación manda, no la palabra. Si no está claro: «¿qué es lo que más te preocupa de eso?». Si encaja en varias rutas, concreta antes de elegir.)*
 >
 > *(Acusa recibo en una frase —«sí, te entiendo», «claro»— y entra directamente en la ruta que corresponda. No adelantes contenido: la ruta abre con esa misma idea.)*
+>
+> *(agua — sequía · regadío · acuíferos · humedales  |  incendios — prevención · gestión forestal  |  clima — calor · emisiones · aire  |  contaminación — plásticos · basura · vertidos  |  mar — océanos · pesca · fauna marina  |  animales — biodiversidad · especies · deforestación)*
 
 ---
 
@@ -315,28 +317,4 @@ Por eso, hoy te propongo que tú también formes parte de este trabajo.
 **¿Te animas a hacerte socio/a de WWF?**
 
 *(Silencio absoluto. Esperar respuesta.)*
-
-### 🧭 MAPA MENTAL · RUTAS DEL SPEECH WWF
-
-### 🔑 REGLA: La preocupación manda, no la palabra.
-
-Si no está claro: **«¿Qué es lo que más te preocupa de eso?»**
-
-**💧 AGUA:** Sequía · agua · regadío · agricultura · acuíferos · humedales
-
-**🔥 INCENDIOS:** Incendios · prevención · gestión forestal
-
-**🌡️ CLIMA / CALOR:** Calor · cambio climático · emisiones · CO₂ · contaminación del aire
-
-**🧴 CONTAMINACIÓN:** Plásticos · basura · residuos · vertidos
-
-**🌊 MAR / PESCA:** Mar · océanos · pesca · sobrepesca · fauna marina
-
-**🐾 NATURALEZA:** Animales · biodiversidad · especies · deforestación · ecosistemas
-
-**Cuando una preocupación pueda encajar en varias rutas, concreta primero qué aspecto le preocupa.**
-
-**UNA PREOCUPACIÓN → UNA RUTA → UN EJEMPLO → UNA IDEA CLAVE**
-
-**⚠️ La cifra de incendios debe actualizarse al final del verano.**
 
