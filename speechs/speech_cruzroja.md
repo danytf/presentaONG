@@ -222,9 +222,11 @@ Personas que se forman y se preparan durante todo el año para poder responder c
 
 Pero **también hacen falta recursos.**
 
+El centro que respondió a Carmen **no se apaga por la noche**. El dispositivo de Sara hay que pagarlo. Y a los voluntarios hay que formarlos.
+
 *(Pausa.)*
 
-**Y una parte importante de esos recursos procede de las personas que deciden hacerse socias.**
+Y eso lo sostienen **las personas que deciden hacerse socias.**
 
 ---
 
