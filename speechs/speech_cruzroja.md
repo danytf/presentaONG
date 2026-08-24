@@ -152,13 +152,11 @@ Son las siete y media de la tarde.
 
 Lleva días preocupada, se siente desbordada y **necesita hablar con alguien.**
 
-Lleva días dándole vueltas a llamar.
+Ha pensado en llamar más de una vez.
 
 **Y hoy, por fin, lo hace.**
 
 **Llama a Cruz Roja Te Escucha.**
-
-Es **Cruz Roja Te Escucha.**
 
 Y al otro lado encuentra a una persona preparada para **escucharla y ofrecerle apoyo.**
 
