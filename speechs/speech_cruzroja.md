@@ -144,6 +144,18 @@ Porque hay momentos en los que **saber que puedes pedir ayuda también es una fo
 
 *(Pausa.)*
 
+> 🔄 **RESPIRO 3**
+>
+> **«¿Tú crees que la gente sabe dónde pedir ayuda cuando la necesita?»**
+>
+> *(Escucha. No rellenes el silencio.)*
+>
+> *(Si dice que no: «Yo creo lo mismo. Y muchas veces esa es la parte más difícil: saber que existe.»)*
+>
+> *(Si dice que sí: «Ojalá. Aunque muchas veces se descubre justo cuando hace falta.»)*
+>
+> *(Si cuenta algo personal, escucha. No utilices lo que te cuente para vender.)*
+
 ### 🌙 19:30 · CRUZ ROJA TE ESCUCHA
 
 Son las siete y media de la tarde.
@@ -174,7 +186,7 @@ Y saber que alguien te escucha.
 
 **Cinco personas. Cinco necesidades distintas.**
 
-> 🔄 **RESPIRO 3**
+> 🔄 **RESPIRO 4**
 >
 > **«De todo lo que te he contado, ¿hay alguna situación que te haya llamado especialmente la atención?»**
 >
