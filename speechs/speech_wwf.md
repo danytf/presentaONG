@@ -24,7 +24,7 @@ Y quería preguntarte algo muy sencillo:
 
 ---
 
-## 🗣️ Discurso · ~8 minutos
+## 🗣️ Discurso · 7–8 minutos según la ruta
 
 ### 💧 SI SU PREOCUPACIÓN ES EL AGUA
 
