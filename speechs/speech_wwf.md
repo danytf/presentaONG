@@ -18,17 +18,7 @@ Y quería preguntarte algo muy sencillo:
 >
 > *(Escuchar. La preocupación manda, no la palabra. Si no está claro: «¿qué es lo que más te preocupa de eso?»)*
 >
-> **Si menciona agua:** «Sí. Y además es algo que nos afecta a todos, porque dependemos del agua para vivir, producir alimentos y mantener nuestros ecosistemas.»
->
-> **Si menciona calor o clima:** «Sí. Y es algo que cada vez notamos más en nuestra vida cotidiana. Ya no hablamos solamente de un problema del futuro.»
->
-> **Si menciona incendios:** «Sí. Y además un incendio no afecta solamente al bosque: afecta al territorio, a la naturaleza y a las personas que viven en él.»
->
-> **Si menciona contaminación:** «Sí. Y ahí también influye mucho nuestra forma de producir, consumir y gestionar los recursos.»
->
-> **Si menciona animales o naturaleza:** «Sí. Y cuando una especie empieza a desaparecer, puede ser una señal de que algo no está funcionando bien en el ecosistema.»
->
-> **Si responde «todo»:** «Claro. Porque en realidad todas estas cosas están mucho más relacionadas de lo que parece.»
+> *(Acusa recibo en una frase —«sí, te entiendo», «claro»— y entra directamente en la ruta que corresponda. No adelantes contenido: la ruta abre con esa misma idea.)*
 
 ---
 
@@ -58,7 +48,7 @@ Porque hay una idea muy sencilla detrás:
 
 ### 🔥 SI SU PREOCUPACIÓN SON LOS INCENDIOS
 
-**Y los incendios son algo que este verano hemos vuelto a tener muy presente.**
+**Los incendios son algo que este verano hemos vuelto a tener muy presente.**
 
 Hasta **mediados de agosto**, los incendios forestales habían afectado a más de **250.000 hectáreas en España**.
 
@@ -82,7 +72,7 @@ La idea es sencilla: **prevenir antes de tener que reparar.**
 
 ### 🌡️ SI SU PREOCUPACIÓN ES EL CLIMA / EL CALOR
 
-**Y el calor es algo que este verano estamos viviendo de una forma muy directa.**
+**El calor es algo que este verano estamos viviendo de una forma muy directa.**
 
 De hecho, **julio de 2026 fue, empatado con 2022, el mes más cálido de toda la serie histórica en España y también el más seco.**
 
