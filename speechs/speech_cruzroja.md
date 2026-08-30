@@ -42,7 +42,7 @@ Alguien que le pregunta qué le pasa y **activa la ayuda que necesita.**
 
 Esa mañana, Carmen no tuvo que estar sola esperando.
 
-Cruz Roja lleva más de 35 años trabajando en teleasistencia.
+Cruz Roja lleva más de 30 años trabajando en teleasistencia.
 
 En 2025, **atendió a más de 130.000 personas** a través del servicio de teleasistencia domiciliaria y móvil.
 
@@ -84,7 +84,7 @@ Juega con él.
 
 Porque a veces acompañar significa **hacer que la estancia sea un poco más llevadera.**
 
-Durante 2025, este proyecto de Cruz Roja realizó casi **8.000 acompañamientos directos en centros hospitalarios.**
+Durante 2025, Cruz Roja acompañó así a **más de 50.000 niños y niñas** en hospitales de toda España.
 
 ### 🕛 12:00 · EMPLEO
 
