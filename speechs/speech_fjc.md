@@ -56,11 +56,11 @@ Así que, desde ese momento, su vida depende de encontrar a un desconocido.
 >
 > *(Si pregunta cómo se dona o si duele, responde brevemente y vuelve a la historia. No conviertas el respiro en una conversación sobre donación: buscamos socios.)*
 
-Y ahí entra el **REDMO: el Registro Español de Donantes de Médula Ósea.**
+Y ahí entra el **REDMO: el Registro de Donantes de Médula Ósea de España.**
 
 Un registro de personas que un día decidieron dar el paso de donar.
 
-**Medio millón solo en España.**
+**Más de medio millón solo en España.**
 
 Y conectado con los registros de todo el mundo.
 
@@ -74,7 +74,7 @@ Y ese registro es el que permite buscar a alguien compatible para Marta.
 
 *(Pausa. Baja la voz.)*
 
-**Y veintisiete días después aparece.**
+**Y veintiséis días después aparece.**
 
 El REDMO encuentra a alguien compatible con ella.
 
@@ -116,9 +116,9 @@ De esos cuarenta millones, un paciente que encuentra donante suele tener solo **
 
 Encontrar a esas dos entre cuarenta millones es el trabajo del REDMO, todos los días.
 
-Gracias a esa red internacional, **más de ocho de cada diez pacientes encuentran a su donante.**
+Gracias a esa red internacional, **nueve de cada diez pacientes encuentran a su donante.**
 
-El REDMO abre casi **cuatro búsquedas nuevas cada día**.
+El REDMO abre **cuatro búsquedas nuevas cada día**.
 
 Ahora mismo, mientras tú y yo hablamos, hay familias esperando.
 
@@ -138,7 +138,7 @@ La Fundación pone la otra para que el registro pueda seguir funcionando.
 >
 > **Si dice que sí:** «¿Y de qué te sonaba?» (Si hay una historia detrás, escucha.)
 >
-> *(Si cuenta que su búsqueda tardó meses, no lo contradigas: los 27 días son hasta encontrar un posible donante; después vienen las pruebas de confirmación y la preparación.)*
+> *(Si cuenta que su búsqueda tardó meses, no lo contradigas: los 26 días son hasta encontrar un posible donante; después vienen las pruebas de confirmación y la preparación.)*
 
 Pero encontrar un donante no resuelve todo.
 
@@ -164,9 +164,11 @@ Marta y su madre no tienen que pagarlo.
 
 Duermen gratis en un piso cerca del Hospital Vall d'Hebron.
 
-La Fundación tiene **ocho pisos abiertos en Barcelona**, cerca de los hospitales de referencia.
+La Fundación tiene **nueve pisos abiertos en Barcelona**, cerca de los hospitales de referencia.
 
-El año pasado durmieron en ellos **41 familias** llegadas de toda España.
+El año pasado durmieron en ellos, y en cinco hoteles colaboradores, **102 pacientes y sus acompañantes** llegados de toda España.
+
+Nunca habían sido tantos.
 
 *(Pausa.)*
 
@@ -250,7 +252,7 @@ Y por eso todo lo que hace la Fundación necesita socios que lo sostengan.
 
 Cuando a Marta le diagnosticaron leucemia, **todo esto ya estaba ahí.**
 
-El REDMO llevaba más de treinta años buscando donantes.
+El REDMO llevaba treinta y cinco años buscando donantes.
 
 Los pisos de acogida estaban abiertos.
 
@@ -268,7 +270,7 @@ Pero nada de eso aparece el día que una familia recibe un diagnóstico.
 
 **Hay que haberlo construido antes.**
 
-Y eso es lo que hacen más de **120.000 socios**.
+Y eso es lo que hacen más de **157.000 socios**.
 
 Personas que, como el donante de Marta, nunca sabrán a quién han ayudado.
 

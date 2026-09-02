@@ -16,7 +16,7 @@ Te he parado porque quiero contarte cómo es un día cualquiera dentro de Cruz R
 
 ---
 
-## 🗣️ Discurso · ~6 minutos
+## 🗣️ Discurso · ~7 minutos
 
 ### 🕗 8:00 · TELEASISTENCIA
 
@@ -136,7 +136,7 @@ Gracias a él, si se encuentra en una situación de peligro, puede **avisar y fa
 
 Y funciona igual que el botón de Carmen: **las 24 horas, los 365 días del año.**
 
-Cada año, **28.000 mujeres** son atendidas a través de ATENPRO.
+Más de **28.000 mujeres** tienen acceso a este apoyo.
 
 **Y esa tarde vuelve a casa sabiendo que puede pedir ayuda.**
 
@@ -214,7 +214,9 @@ Y para eso hacen falta personas.
 
 Personas que se forman y se preparan durante todo el año para poder responder cuando hace falta.
 
-**Lo hemos visto en emergencias como la pandemia, el volcán de La Palma o los incendios forestales.**
+**Lo hemos visto en emergencias como la DANA de Valencia, la pandemia o los incendios forestales.**
+
+En la DANA, Cruz Roja movilizó a **6.019 personas**, y lo hizo con sus propias sedes destruidas por la riada.
 
 *(Pausa.)*
 
