@@ -116,7 +116,7 @@ De esos cuarenta millones, un paciente que encuentra donante suele tener solo **
 
 Encontrar a esas dos entre cuarenta millones es el trabajo del REDMO, todos los días.
 
-Gracias a esa red internacional, **nueve de cada diez pacientes encuentran a su donante.**
+Gracias a esa red internacional, **más de nueve de cada diez pacientes encuentran a su donante.**
 
 El REDMO abre **cuatro búsquedas nuevas cada día**.
 
