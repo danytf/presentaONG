@@ -210,7 +210,7 @@ Son caminos diferentes dentro de una **misma Fundación.**
 
 **Pero esto no se sostiene solo.**
 
-Lo podemos hacer gracias a sus más de **100.000 socios**.
+Lo podemos hacer gracias a sus más de **110.000 socios**.
 
 Personas que deciden apoyar hoy una investigación cuyos resultados **ayudarán a las personas en el futuro.**
 

@@ -106,9 +106,9 @@ Se la instaló hace dos años, cuando hizo un curso de reanimación. **Nunca hab
 
 Le indica dónde está el desfibrilador más cercano y avisa a otros voluntarios de la zona.
 
-**Hoy, Ariadna tiene registrados más de 28.000 desfibriladores y más de 9.000 personas formadas y dispuestas a acudir.**
+**Hoy, Ariadna tiene registrados más de 29.000 desfibriladores y más de 71.000 voluntarios dispuestos a acudir.**
 
-En Galicia y Canarias, el sistema ya está conectado directamente con emergencias.
+En Galicia, el sistema ya está conectado directamente con emergencias, y Canarias tiene firmado el convenio para integrarlo.
 
 Cuando alguien llama por una parada cardíaca, **los voluntarios más próximos reciben el aviso.**
 
@@ -158,7 +158,7 @@ La investigación tampoco se detiene.
 
 La Fundación es el **brazo social de la Sociedad Española de Cardiología**, que reúne a más de **8.000 profesionales**.
 
-Y desde ahí se financian **becas y proyectos de investigación**: en 2024, más de **850.000 euros**.
+Y desde ahí se financian **becas y proyectos de investigación**: en 2025, más de **775.000 euros**.
 
 Y cuando una persona ya convive con una enfermedad cardiovascular, tampoco debería enfrentarse sola a ella.
 

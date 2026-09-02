@@ -226,7 +226,7 @@ Y una red así **tiene que existir antes de que llegue el problema.**
 
 **Esa red la sostienen personas que deciden estar.**
 
-**Y en España ya son casi 250.000.**
+**Y en España ya son más de 300.000.**
 
 Personas como tú y como yo.
 
