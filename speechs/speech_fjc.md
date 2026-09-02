@@ -88,7 +88,7 @@ Ahora empieza una carrera contrarreloj.
 
 Las células del donante, las que fabrican la sangre, no pueden viajar como un paquete cualquiera.
 
-Y no pueden pasar más de tres días desde que se extraen hasta que entran en el cuerpo de Marta.
+Son células vivas, y tienen que llegar cuanto antes.
 
 Por eso las lleva un mensajero médico especializado.
 
@@ -112,9 +112,11 @@ Lo hace posible una red internacional con **más de cuarenta millones de persona
 
 *(Espera. Si pregunta «¿qué?» o reacciona, ahí tienes de nuevo su atención.)*
 
-De esos cuarenta millones, un paciente que encuentra donante suele tener solo **dos personas compatibles**.
+La probabilidad de que dos personas que no son familia sean compatibles es de **una entre 3.500**.
 
-Encontrar a esas dos entre cuarenta millones es el trabajo del REDMO, todos los días.
+Por eso hacen falta cuarenta millones.
+
+Y por eso encontrar a esa persona es el trabajo del REDMO, todos los días.
 
 Gracias a esa red internacional, **más de nueve de cada diez pacientes encuentran a su donante.**
 
