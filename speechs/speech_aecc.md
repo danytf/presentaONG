@@ -228,7 +228,7 @@ Hace 40 años, el cáncer de mama tenía muchas menos posibilidades de superarse
 
 **Hoy, la supervivencia a cinco años alcanza el 85 %.**
 
-En cambio, en el cáncer de páncreas esa misma supervivencia **apenas llega al 10 %**.
+En cambio, en el cáncer de páncreas esa misma supervivencia **apenas supera el 10 %**.
 
 *(Pausa.)*
 
