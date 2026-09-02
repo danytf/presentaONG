@@ -170,7 +170,7 @@ Alguien que puede ayudarnos cuando las cosas se complican.
 
 Pero para muchos jóvenes que han crecido bajo protección, la situación es muy diferente.
 
-En España, **5.822 chicos y chicas salieron del sistema de protección al cumplir 18 años en 2024.**
+En España, **el 40,9 % de quienes crecieron en el sistema de protección están hoy en riesgo de pobreza o exclusión social** — cuando en el resto de la población es el 24,5 %.
 
 Para ellos, la emancipación llega **unos 12 años antes que para la mayoría de los jóvenes** y, en muchos casos, sin una red familiar de apoyo.
 
