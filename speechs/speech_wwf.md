@@ -256,15 +256,13 @@ Porque **lo que encuentren mañana dependerá, en parte, de lo que decidamos hac
 >
 > *(Pausa. Escuchar, recoger brevemente su respuesta y continuar.)*
 
-### 🐼 ¿CÓMO INTENTA WWF CAMBIAR LAS COSAS?
+### 🐼 ¿CÓMO CONSIGUE WWF CAMBIAR LAS COSAS?
 
 Y para que ese futuro no se quede solo en un deseo, hace falta **trabajar desde hoy para hacerlo posible**.
 
 **Ahí es donde entra WWF.**
 
-Porque WWF no puede resolver por sí sola todos estos problemas.
-
-Pero sí puede trabajar para **entenderlos, actuar sobre ellos y contribuir a que las cosas cambien**.
+WWF trabaja para **entender los problemas y actuar sobre ellos**.
 
 **Primero, con ciencia y conocimiento**, para saber qué está ocurriendo y cuáles son las soluciones posibles.
 
