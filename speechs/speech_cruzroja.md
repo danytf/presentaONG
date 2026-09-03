@@ -102,7 +102,7 @@ Con ayuda de Cruz Roja, **ha encontrado una oferta de trabajo y ahora está revi
 
 Porque a veces ayudar es **darle a una persona las herramientas para volver a avanzar por sí misma.**
 
-En 2025, **Cruz Roja atendió a más de 280.000 personas en el ámbito del empleo.**
+En 2025, **Cruz Roja atendió a más de 281.000 personas en el ámbito del empleo.**
 
 Y la **tasa media de inserción laboral fue del 48 %.**
 
