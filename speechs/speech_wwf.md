@@ -132,7 +132,7 @@ Por eso WWF lleva décadas trabajando para **proteger nuestros mares y conseguir
 
 En **Canarias**, por ejemplo, WWF lleva más de 25 años trabajando en la conservación del **Archipiélago Chinijo**. En ese tiempo, más de **1.500 personas voluntarias han participado en censos, limpiezas** y otras acciones de restauración y conservación. Sus aguas albergan la mayor biodiversidad marina de Canarias.
 
-Y en **El Hierro**, WWF también reclama la protección del **Mar de las Calmas** para que se convierta en el **primer Parque Nacional exclusivamente marino de España**. La propuesta continúa su tramitación y el proyecto prevé proteger más de 24.000 hectáreas de mar.
+Y en **El Hierro**, WWF también reclama la protección del **Mar de las Calmas** para que se convierta en el **primer Parque Nacional exclusivamente marino de España**. En 2025, el Consejo de la Red de Parques Nacionales aprobó su creación —un paso más antes de la tramitación final— y el proyecto prevé proteger más de 24.000 hectáreas de mar.
 
 En el **norte**, WWF apoyó la creación de **Os Miñarzos, en la Costa da Morte gallega**, una reserva pesquera pionera que nació de la iniciativa de los propios pescadores y buscó compatibilizar la conservación con una pesca sostenible.
 
